@@ -1,0 +1,53 @@
+
+# places-text.txt
+So, the text here. So it's more accessible. These are posed as 'guiding questions' on the campus. To our efforts in education and thus work out in life beyond the college. As it lists,
+
+> **Healers**
+> Tend to the individual and intergenerational traumas of white supremacy, racism, colonialism, capitalism, patriarchy, and nativism. [nativism is new to me; good term]
+> 
+> **Builders**
+> Actively developing the ideas, the structures, and the scaffolding for our organizations and movements.
+> 
+> **Visionaries**
+> One with the ability to find, articulate, and reconnect us to our north star, even when we cannot clearly see the sky.
+> 
+> **Disrupters**
+> Speak up and take action—especially when it is uncomfortable and risky.
+> 
+> **Caregivers**
+> Provide nourishment to organizers, and exude concern and love, and create a community of care.
+> 
+> **Frontline Responders**
+> Quickly and ably transition into rapid-response mode instinctively and organize resources, networks, and messages.
+> 
+> **Bridge-Builders**
+> Work across divisions with patience and compassion.
+> 
+> **Storytellers**
+> Equity, Inclusion, Liberation, Justice, Solidarity, Resiliency, Interdependency
+> 
+> **Artists**
+> Storytellers and Artists—binding the past and the present, channeling the histories and experiences of our ancestors to shed light on what is possible today. @KevinStories#5136 @Kiryu_Type3#8665 @Fir3comGomes#7379 @emilyoly#9655 @Anarco#2499 @Scuds#8577 
+
+@rothus66#0820 @LittleNorwegians#4412 @Jcorella#1035 @ACorella#2786 @Awhtum#1465 @Vynneas#1303 @Janko#1071 @Cancer#0607 @C4ptr0b#5721 @Tinyj#5737 @DestructivelyConstructive#1482 @Hellcelot#1396 @AJOE#3564 @AHILL#8563 
+
+[this text is more important than anything I've ever read or written]
+
+> **Guiding Questions**
+> How can I stretch myself? Where can I take bolder risks, especially if I hold different forms of privilege? What do I need to learn more about before I do that, & who can teach me how to do that? 
+> 
+> Am I visioning and dreaming in my role? Or am I caught in a cycle of repetition and redundancy, or compromise or sacrifice? How can I generate creativity and innovation?
+> 
+> How do I move through different roles without feeling like I have to pick just one in order to be effective? At the same time, how can I make sure that I'm not a wanderer or a short-term amateur? Or positioning myself as an expert within a silo?
+> 
+> What role(s) do I feel comfortable and natural playing, and why? What role(s) make me come alive, and why? Are there any differences between these two responses for me to explore?
+> 
+> What role(s) am i often asked to step into by others? How do I feel about assuming those roles?
+> 
+> What is the impact of these roles on me physically, energetically, emotionally, and spiritually? Is there an impact on others as a result?
+> 
+> How am I holding onto purpose especially given the pulls and contradictions of purity (proving "wokeness"), productivity (maintaining constant performance and output at the cost of overwork, replication, martyrdom, and low impact), personality (the over-emphasis on celebrity activism and social media relevancy), and perfectionism (expecting to get it right all the time and being afraid to own up to mistakes)?
+> 
+> When (and not if) I make mistakes, how do I acknowledge them and coruse correct without feeling like I've failed?
+> 
+> Who is my support system—the people who hold me accountable in a compassionate way?. How can I widen this community? What have I asked of them in terms of support?

@@ -1,0 +1,18 @@
+{
+  "title": "narrative-structure",
+  "content": "# narrative-structure\n\n# Narrative Structure Guidelines\n\n## Three-Act Structure\n\n### Act One: Setup (25%)\n- Introduce protagonist and their normal world\n- Establish key relationships\n- Present inciting incident\n- Decision to embark on journey\n\n### Act Two: Confrontation (50%)\n- Protagonist faces escalating challenges\n- Allies and enemies are encountered\n- Mid-point revelation changes understanding\n- All seems lost moment near end\n\n### Act Three: Resolution (25%)\n- Protagonist makes final preparations\n- Climactic confrontation occurs\n- Loose ends are resolved\n- New normal world is established\n\n## Character Development Arc\n\n1. **Initial State**: Character begins with flaws and misconceptions\n2. **Challenge**: External events force character to question beliefs\n3. **Resistance**: Character initially resists change\n4. **Glimpse**: Brief moment of seeing potential new perspective\n5. **Regression**: Return to old patterns under pressure\n6. **Catalyst**: Significant event forces final choice\n7. **Transformation**: Character embraces new understanding\n8. **Integration**: New perspective is applied to resolve story\n\n## Maintaining Narrative Tension\n\n- Create clear stakes that matter to the character and audience\n- Establish ticking clocks to create urgency\n- Develop multiple layers of conflict (internal, interpersonal, external)\n- Use scene structure with clear objectives, obstacles, and outcomes\n- Balance exposition with action and reflection\n\n\n## Metadata\n- **Source**: reference/narrative-structure.md\n- **Type**: reference\n- **Tags**: reference, reference, character-design, story, quest\n- **Imported**: 2025-05-05T16:25:37.231Z",
+  "source": {
+    "type": "notebook",
+    "path": "reference/narrative-structure.md",
+    "importedAt": "2025-05-05T16:25:37.231Z"
+  },
+  "created": "2025-05-05T16:25:37.231Z",
+  "modified": "2025-05-05T16:25:37.231Z",
+  "tags": [
+    "reference",
+    "reference",
+    "character-design",
+    "story",
+    "quest"
+  ]
+}

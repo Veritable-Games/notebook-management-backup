@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Service Manager - Main entry point to the service management system
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+MANAGEMENT_DIR="$SCRIPT_DIR/service-management"
+
+# Check if the service management system exists
+if [[ ! -d "$MANAGEMENT_DIR" ]]; then
+  echo "Error: Service management system not found at $MANAGEMENT_DIR"
+  exit 1
+fi
+
+# Execute the main management script
+exec "$MANAGEMENT_DIR/manage.sh" "$@"

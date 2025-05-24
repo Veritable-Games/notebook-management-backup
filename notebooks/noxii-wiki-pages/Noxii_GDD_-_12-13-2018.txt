@@ -1,0 +1,199 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-03-10T16:18:51-07:00
+
+Noxii: Terminal Velocity
+Game Design Document
+Veritable Games | 12/13/2018
+Overview
+Elevator Pitch
+Noxii is a lethally competitive 12 player skydiving game [the hook] with earnable cosmetics, local split-
+screen, online matches, and AI support [the kicker].
+Game Description
+You and eleven others fight for your life in a fatal skydiving tournament; dive, dash, and bash your
+descent to victory! Claim the solitary parachute hurtling towards the ground at terminal velocity and
+earn your freedom!
+Development Goals
+Craft a competitive, unique racing game akin to the Mario Kart franchise with mature themes.
+Let players unlock cosmetics by playing the game instead of submitting to RNG slot machines.
+No rubberbanding! Skill-based racing experience with a balanced set of catch-up mechanics.
+Player Mechanics
+Controls
+Dive – RT or RMB to dive, letting go will put the player in free fall pose and slow them down. Arm
+boosters power the acceleration
+Dash – Tapping the A button while leaning the left analog stick will let the player dash in that direction
+using the suit's boosters. If the player presses A without leaning the analog stick, they will dash
+downward, this is great for breaking obstacles quickly at a minor cost to health.
+Brace – Holding/Tapping the X button will make the player character Brace for impact. Doing this will
+always mitigate damage and prevent Stun but it will also slow the player's Velocity.
+Bash – When an enemy is near, locking on to them with LT and pressing the A button will let you Bash
+them away. (Locking function makes this mechanic more accessible in a 3D space) They can react to this
+by Bracing before impact, or avoid the attack by Dashing away.Variables
+Health – Visually represented by diegetic HUD, health takes the form of suit damage, injuries to the
+player character, changes to animation, and audio cues like coarse breathing.
+Stun – Some obstacles and items will Stun the player. This effect reduces the overall control of their
+Noxii and will slow their Velocity but it won't incur any damage penalty.
+Velocity – The speed at which the player is falling. This variable is affected by wind resistance (really just
+reduced maximum speed) and whatever booster type the player is using.
+Death – If a player loses all their health, they're treated to a wonderfully violent die-o-rama animation
+that shows them dying to whatever took the last bit of HP. Player will respawn as a spectator bot that
+has a full range of motion in any direction they like and Coin is still earned.
+Equipment Pickups
+All items can be acquired by hitting marked targets during the descent. The items given have different
+odds depending on a player's health, position, and distance from the goal. Items are deployed and
+attached to players via drones and are visually represented on the player's suit.
+*Drop percentages and statistical effects of equipment should be determined via playtesting.
+Offense Items
+Rocket – A projectile that is thrown downward. If a Rocket hits a player, it will stun them and slow them
+down. Rockets can be avoided with a well-timed spin and they come in 1, 2, or 3s.
+Missile – A single-use tracking projectile that locks onto the player ahead of the one using it and sends
+them into a Spiral if it hits. Missiles can be avoided with a well-timed Spin
+Saboteur – The most powerful projectile in the game. Saboteur Drones will target any player in first,
+second, or third place and will avoid all obstacles along its immediate path. They can be devastating
+when used and have a small counter window.
+Defense Items
+Buddy – This rare item will automatically deflect or destroy incoming projectiles. It lasts for 10 seconds
+and can defend against as many attacks as needed in that time. It looks like a tiny robot that yells and
+cheers every time it fends off attacks.
+Mender – A drone with a limited healing ability. It can seal small wounds, repair the player's suit, and
+cauterize serious injuries. Common drop, does not appear if player is undamaged.
+Red Mender – A special variant of the Mender drone that will actively seek out and fully heal any player
+that needs health, but take away weapons if they accept its help. It will appear once for every player in
+in the level but can be used multiple times by different people.
+Ward – This trap will knock back anyone that goes near it with a quick, but powerful burst of
+compressed gas, stunning them momentarily and slowing their Velocity. Common item.Speed Items
+Refined Fuel – An item that gives players a short, controlled burst of speed when used. It can be found
+in drops of one, two, or three. Using all three in succession will result in burn out of the arm boosters
+and a huge cost to the player's speed.
+Faulty Jetpack – A recovery Item that gives a huge speed boost and invulnerability to players that are
+falling behind. The farther away a player is from the leader, the higher their chances of getting the item.
+Faulty Jetpacks can bolster a player's normal bash attack, knocking them into a violent spin and
+potentially killing them if they hit an object. These items are also rigged to explode after they reach a
+certain position in the race or used for X amount of time. Timer is represented by a beeping noise.
+Player needs to throw the backpack to get rid of it before it explodes or they incur a death penalty.
+Jetpacks can be thrown to stun opponents, and if timed right, kill them. It's this same system that can be
+used to forfeit a parachute.
+Level Design
+Levels are downward facing cylindrical tunnels that span several miles. Choose from 16 maps that have a
+wide range of environments, obstacles, hazards, traps, and modifiers. The maps can greatly affect
+normal gameplay variables and influence player strategies as a result.
+Level List
+Capital – Largest city on the planet; incredibly dense, and difficult to navigate due to traffic.
+Factory – This is where the Capital's military Droids are manufactured. Very dangerous.
+Garden – Sparsely planted agriculture for a struggling civilization. Largest map in the game.
+Remnant – An abandoned city mostly devoid of life; extremely hazardous, average depth.
+Level Systems
+Dropship – Every participant in the match starts from the Dropship. It hovers above the chasm below
+and launches the booster propelled parachute seconds before everyone dives after it.
+Stadium – This is the landing zone for victors and the impact point for those that failed. Here, the
+scoreboard is shown, earned Coin is added up, and the crowd cheers with excitement.
+Level Objects
+Air Current – When the player passes over this object, they’ll get a permanent boost in speed until
+they’re interrupted by an item, obstacle, or another player. The speed gained can stack with multiple
+currents but will fall off when the player is no longer in contact with the item.
+Wall – Surface texture doesn't convey danger, contact with walls will only stun players.
+Jagged Wall – Visually rough and designed to convey danger. Usually placed in tight spaces or used to
+redirect the player, these walls will stun and lightly damage players.Grabber – Arm-like machines that will snatch up a player mid-drop and redirect their them; often
+opening up new paths and sometimes right into obstacles or hazards.
+Nav Drone – Drone that will hover into a player's sight when the 'view' button is pressed. It displays
+everyone's position and gives a basic glimpse at their score so far. It will hover away after a few seconds
+and can also be destroyed by environmental hazards in the descent.
+Announcer
+Death Dive games are hosted by an announcer. He'll appear on a hovering display similar to the Nav
+Drone and is the only character that reveals their face. He has a slightly-off color nose and fingers that
+are shown to be prosthetics; the consequences of untreated deep frostbite.
+Rendering
+Levels are separated by various types of entrances that serve as loading areas to keep the performane in
+check and rendering cost low. Doors, smaller tunnels, large obstacles, etc.
+Unlock Systems
+Rewards
+Coin [¢] – A Noxii's reward for participating in the competition. It can be traded for cosmetics,
+modifications that affect their maximum velocity or defense, and at a high cost, freedom.
+Acclaims – Bonuses for performing certain actions during a match. The end-game screen will display
+total earnings, how they were obtained, and then add them to the player's total Coin.
+- Champion: 1500¢ - Reached the finish line and survived the landing.
+- Challenger: 500¢ - Made it to the finish line but didn't survive the landing.
+- Contestant: 150¢ - Died during the match and didn't make it to the finish alive
+- Executioner: 50¢ - Killed a player or AI during a match, this stacks up to 11 for 550c
+- Operator: 25¢ - Used equipment, this can be done as many times as available on a map.
+- Attacker: 5¢ - Damaged an enemy by any means, this can be stacked ad infinitum.
+Red Coin – Noxii usually only rewarded for being aggressive and competitive. So if a player were to
+forfeit the option to attack when given the chance, they don't earn any coin for it at the end of a match.
+However, if this happens, Red Coin is granted to them without any sort of explaination. Narratively, this
+is the currency of a separatist faction and it can be used to buy additional parachutes for a single red
+coin each or a special re-usable mender drone for 50¢.
+Cosmetics
+Players can obtain cosmetics with Coin by playing the game and earning Acclaims. Each of the items is
+available for purchase as soon as the player has enough Coin to buy them. Prices will range from 500¢
+to 10,000¢. Item categories include Head, Torso, Arms, Legs, and Colors.Gameplay Loop
+Main menu > Dive > Loading mini-game > Cinematic overview of map, its obstacles, and a few of the
+potential paths to take > Camera switches to view of the vehicle hovering above the chasm and its doors
+open to reveal the players and bots huddled within > camera view swaps to the third person perspective
+of the controlling player > countdown begins right as the parachute is thrown; it has a jetpack attached,
+5, 4, 3, 2, 1, and everyone manually jumps > music begins and the tension builds as players reach the
+edge of this immense chasm > using abilities and avoiding obstacles, players fight, struggle, and die for
+the next 4 to 7 minutes in an effort to reach the parachute first > at the finish line, the parachute stops
+speeding and players have a chance to reach it > match ends with the losing players hitting the ground
+with a lethal impact, and if someone grabbed the parachute, they float to the bottom in whatever
+physical state they ended in > every player is rewarded currency based on performance >players are
+taken back to the lobby; here they can use this earned currency to buy cosmetics.
+Narrative
+Setting
+The Noxii are criminals condemned to death by the Capital. A civilization on the frigid planet, Demeter.
+They've been offered a chance to free themselves through the Capital's Death Dive games and few are
+reluctant to try. Only one of twelve Noxii will survive these lethal games.
+Death Dive games take place within the immense chasms this civilization uses as habitats to insulate
+themselves from the harsh winter above the planet's surface. Every subsurface city has been
+temporarily fitted with obstacles, environmental hazards, and equipment drops for participants to use.
+Victors will be greeted by an audience of millions waiting for them deep beneath the surface at the end
+of the level. Living spaces for Noxii are cramped and dingy.
+Demeter is frozen, but cities are varied in design and function so level design isn't limited too much. Just
+above the atmosphere lies the remains of a ring world that looks to have crashed into the planet's
+surface some time ago. This is a small hint towards future potential projects.
+Inhabitants of this ice world will usually have prosthetic fingers, noses, and toes due to the effects of
+frostbite. The announcer character makes this particularly apparent in his design.
+Backstory
+Camera fades in focused on a figure wearing some form of flight helmet and a tattered suit that looks
+like something an astronaut might wear. Red lights fill the cramped space, and you can see the outlines
+of people with similar gear. The room they're in shakes and people try to maintain balance. A faint hum
+is heard and light slowly flills the room, reflecting off the visor of the main character and those behind
+them. People shiver as a gust of wind rolls in and snow flicks into the crowded room. Standing in the
+rear, there are lanky machines that carry weapons. The camera pans out to reveal that all of these
+people are occupying a quadcopter-like vehicle, and just below it is an enormous, dark chasm that go
+beneath the snowy planet's surface. A loudspeaker blares, and the announcer speaks in a foreign
+tongue. One of the tall machines steps forward and throws a backpack-like item into the abyss. It
+suddenly lights up and propels itself downward; people murmur and moan, the main character isanxious. DING, DING, DING! People leap out of the vehicle screaming and howling, the character is
+shoved from the vehicle and plummets into the chasm. All around them, others ignite boosters that are
+rigged to their arms, accelerating their descent. Some try to fly up, but there isn't enough thrust to
+escape gravity. The main character fiddles with a device in their hand and their own boosters spark to
+life. Everyone is now diving into the deep abyss; those furthest ahead have their arms outstretched,
+grasping to reach the item as as explosives, rockets, and traps go off.
+Development Timeline
+•Learn how to animate and potentially model in Maya
+•Offer contract work; earn a rapport & gain experience
+•-- This will take time. Save as much as you can in this period.
+•Work on your project idea while you gain said experience.
+•Outline, storyboard, and white box pre-viz cinematic
+•Animate pre-viz and convey core gameplay mechanics
+•Contract people to create assets for pre-visualization (Upwork or Fiber)
+•-- Give detailed information and context about listed assets
+•Publish finished animatic; find a way to gain attention for it
+•--Publicize steam store page; encourage wish listing
+•Start a blog and build a community (e.g. Discord)
+•Develop a minimum viable product (demo) and polish it!
+•Launch a Kickstarter, detail the goals of this small game
+•-- Add the well-polished Demo to the steam store page
+•-- Highlight the previously created pre-viz cinematic
+•Build a representative vertical slice and find a publisher
+•Establish Early Access as soon as the vertical slice is ready
+•Develop planned content and polish, polish, polish
+•Launch on Discord, Steam, and Epic game stores
+•Plan development for your next major project
+•-- Offer support for this game as long as it’s financially viable
+Learn from Ashen pre-vizualization. How did it capture the viewer's attention?
+Showcase gameplay via character perspective in short animatic.Write up a detailed asset list for contractors during the pre-viz phase.
+Describe every item and their uses. Have Steam store page up when the teaser trailer launches. The
+earlier people can wishlist it, the better.
+Pre-develop content updates before launch. This will give your team breathing room for bug fixes and
+maintanence.
+figure out the controls for Distance on KB&M

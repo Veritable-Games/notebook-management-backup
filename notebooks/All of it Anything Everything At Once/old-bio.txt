@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-04-29T13:23:57-07:00
+Last-Modified: 2025-05-08T14:45:23-07:00
+
+====== old-bio ======
+Created Tuesday 29 April 2025
+Updated Thursday 08 May 2025
+
+'Observer at the boundary' might better describe my current position. Where 'Collector' focused on gathering technologies, I'm now exploring the blurred lines between learned and programmed responses, questioning the constructed boundaries between artificial and natural intelligence. Still optimistic about AI's potential, but increasingly aware that consciousness itself may be an emergent property whose implementation details matter less than the patterns that arise. Open-source remains fundamental - not just for code, but for the free exchange of these evolving ideas.

@@ -1,0 +1,1646 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veritable Games - Wiki Viewer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700&family=Montserrat:wght@400;500;700&display=swap');
+        
+        :root {
+            /* Base colors */
+            --primary: #14418B;
+            --secondary: #2e5cb8;
+            --tertiary: #5c8de6;
+            --accent: #ffb74d;
+            
+            /* Background colors */
+            --background: #ffffff;
+            --surface: #f8f9fa;
+            --card-bg: #ffffff;
+            --hover-bg: #f0f4f8;
+            
+            /* Text colors */
+            --text-primary: #333333;
+            --text-secondary: #5f6368;
+            --text-tertiary: #80868b;
+            --text-on-primary: #ffffff;
+            
+            /* Border colors */
+            --border-color: #e0e0e0;
+            --divider-color: #eeeeee;
+            
+            /* Status colors */
+            --success: #28a745;
+            --warning: #ffc107;
+            --error: #dc3545;
+            --info: #17a2b8;
+            
+            /* UI element colors */
+            --highlight-color: var(--primary);
+            --light-highlight: rgba(20, 65, 139, 0.1);
+            --selected-item: rgba(20, 65, 139, 0.15);
+            
+            /* Spacing */
+            --spacing-xs: 4px;
+            --spacing-sm: 8px;
+            --spacing-md: 16px;
+            --spacing-lg: 24px;
+            --spacing-xl: 32px;
+            
+            /* Sizing */
+            --sidebar-width: 250px;
+            --header-height: 60px;
+            --border-radius: 4px;
+            
+            /* Shadows */
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.08);
+            --shadow-lg: 0 10px 20px rgba(0,0,0,0.1), 0 3px 6px rgba(0,0,0,0.05);
+            
+            /* Transitions */
+            --transition-fast: 0.15s ease;
+            --transition-normal: 0.25s ease;
+            --transition-slow: 0.4s ease;
+        }
+
+        .theme-dark {
+            --primary: #3366cc;
+            --secondary: #5c8de6;
+            --tertiary: #8ab4ff;
+            
+            --background: #121212;
+            --surface: #1e1e1e;
+            --card-bg: #2d2d2d;
+            --hover-bg: #3d3d3d;
+            
+            --text-primary: #e0e0e0;
+            --text-secondary: #bbbbbb;
+            --text-tertiary: #999999;
+            
+            --border-color: #444444;
+            --divider-color: #333333;
+            
+            --light-highlight: rgba(51, 102, 204, 0.2);
+            --selected-item: rgba(51, 102, 204, 0.25);
+            
+            /* Shadows for dark theme need more opacity */
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.25), 0 1px 2px rgba(0,0,0,0.5);
+            --shadow-md: 0 4px 6px rgba(0,0,0,0.25), 0 1px 3px rgba(0,0,0,0.15);
+            --shadow-lg: 0 10px 20px rgba(0,0,0,0.25), 0 3px 6px rgba(0,0,0,0.15);
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: 'Raleway', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: var(--background);
+            transition: background-color var(--transition-normal), color var(--transition-normal);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            transition: color var(--transition-fast);
+        }
+        
+        a:hover {
+            color: var(--primary);
+            text-decoration: underline;
+        }
+        
+        .layout-container {
+            display: flex;
+            flex: 1;
+        }
+        
+        .sidebar {
+            width: var(--sidebar-width);
+            height: 100vh;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: var(--surface);
+            border-right: 1px solid var(--border-color);
+            overflow-y: auto;
+            transition: width var(--transition-normal), transform var(--transition-normal);
+            z-index: 100;
+        }
+        
+        .main-content {
+            margin-left: var(--sidebar-width);
+            flex: 1;
+            padding: var(--spacing-lg);
+            transition: margin-left var(--transition-normal);
+        }
+        
+        .header {
+            background-color: var(--primary);
+            color: var(--text-on-primary);
+            padding: var(--spacing-md) var(--spacing-lg);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .site-title {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+        }
+        
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+        }
+        
+        .toggle-sidebar {
+            background: none;
+            border: none;
+            color: var(--text-on-primary);
+            cursor: pointer;
+            padding: var(--spacing-xs);
+            font-size: 1.2rem;
+            opacity: 0.8;
+            transition: opacity var(--transition-fast);
+        }
+        
+        .toggle-sidebar:hover {
+            opacity: 1;
+        }
+        
+        .theme-toggle {
+            background: none;
+            border: none;
+            color: var(--text-on-primary);
+            cursor: pointer;
+            padding: var(--spacing-xs);
+            font-size: 1.2rem;
+            opacity: 0.8;
+            transition: opacity var(--transition-fast);
+        }
+        
+        .theme-toggle:hover {
+            opacity: 1;
+        }
+        
+        .search-container {
+            position: relative;
+            padding: var(--spacing-md);
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .search-input {
+            width: 100%;
+            padding: var(--spacing-sm) var(--spacing-md) var(--spacing-sm) calc(var(--spacing-md) + 16px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--border-radius);
+            background-color: var(--card-bg);
+            color: var(--text-primary);
+            font-size: 0.9rem;
+            transition: all var(--transition-fast);
+        }
+        
+        .search-input:focus {
+            outline: none;
+            border-color: var(--secondary);
+            box-shadow: 0 0 0 3px var(--light-highlight);
+        }
+        
+        .search-icon {
+            position: absolute;
+            left: calc(var(--spacing-md) + 8px);
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-tertiary);
+            font-size: 0.9rem;
+        }
+        
+        .search-results {
+            position: absolute;
+            top: 100%;
+            left: var(--spacing-md);
+            right: var(--spacing-md);
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow-md);
+            z-index: 10;
+            max-height: 300px;
+            overflow-y: auto;
+            display: none;
+        }
+        
+        .search-result-item {
+            padding: var(--spacing-sm) var(--spacing-md);
+            border-bottom: 1px solid var(--divider-color);
+            cursor: pointer;
+        }
+        
+        .search-result-item:last-child {
+            border-bottom: none;
+        }
+        
+        .search-result-item:hover {
+            background-color: var(--hover-bg);
+        }
+        
+        .search-result-title {
+            font-weight: 600;
+            margin-bottom: var(--spacing-xs);
+            color: var(--text-primary);
+        }
+        
+        .search-result-snippet {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+        
+        .nav-section {
+            padding: var(--spacing-md);
+            border-bottom: 1px solid var(--divider-color);
+        }
+        
+        .nav-section-title {
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-tertiary);
+            margin-bottom: var(--spacing-sm);
+        }
+        
+        .nav-list {
+            list-style: none;
+        }
+        
+        .nav-item {
+            margin-bottom: var(--spacing-xs);
+        }
+        
+        .nav-link {
+            display: block;
+            padding: var(--spacing-sm) var(--spacing-md);
+            color: var(--text-secondary);
+            border-radius: var(--border-radius);
+            transition: all var(--transition-fast);
+            font-size: 0.95rem;
+        }
+        
+        .nav-link:hover {
+            background-color: var(--hover-bg);
+            color: var(--text-primary);
+            text-decoration: none;
+        }
+        
+        .nav-link.active {
+            background-color: var(--selected-item);
+            color: var(--primary);
+            font-weight: 500;
+        }
+        
+        .notebooks-section {
+            padding: var(--spacing-md);
+        }
+        
+        .notebook-select {
+            width: 100%;
+            padding: var(--spacing-sm);
+            margin-bottom: var(--spacing-md);
+            border: 1px solid var(--border-color);
+            border-radius: var(--border-radius);
+            background-color: var(--card-bg);
+            color: var(--text-primary);
+            font-size: 0.9rem;
+        }
+        
+        .notebook-files {
+            max-height: 250px;
+            overflow-y: auto;
+            border: 1px solid var(--border-color);
+            border-radius: var(--border-radius);
+            background-color: var(--card-bg);
+        }
+        
+        .notebook-file {
+            padding: var(--spacing-sm) var(--spacing-md);
+            border-bottom: 1px solid var(--divider-color);
+            cursor: pointer;
+            transition: background-color var(--transition-fast);
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+        }
+        
+        .notebook-file:last-child {
+            border-bottom: none;
+        }
+        
+        .notebook-file:hover {
+            background-color: var(--hover-bg);
+            color: var(--text-primary);
+        }
+        
+        .file-icon {
+            font-size: 0.8rem;
+            color: var(--tertiary);
+            opacity: 0.7;
+        }
+        
+        .content-header {
+            margin-bottom: var(--spacing-lg);
+        }
+        
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            font-size: 0.8rem;
+            color: var(--text-tertiary);
+            margin-bottom: var(--spacing-sm);
+        }
+        
+        .breadcrumb-item {
+            display: flex;
+            align-items: center;
+        }
+        
+        .breadcrumb-separator {
+            margin: 0 var(--spacing-xs);
+            color: var(--text-tertiary);
+        }
+        
+        .breadcrumb-link {
+            color: var(--text-secondary);
+        }
+        
+        .breadcrumb-link:hover {
+            color: var(--primary);
+        }
+        
+        .current-path {
+            font-weight: 500;
+            color: var(--text-secondary);
+        }
+        
+        .content-title {
+            font-size: 1.8rem;
+            color: var(--primary);
+            margin-bottom: var(--spacing-md);
+            padding-bottom: var(--spacing-sm);
+            border-bottom: 1px solid var(--divider-color);
+            font-weight: 600;
+        }
+        
+        .content-actions {
+            display: flex;
+            margin-bottom: var(--spacing-md);
+            gap: var(--spacing-xs);
+            border-bottom: 1px solid var(--divider-color);
+        }
+        
+        .action-tab {
+            padding: var(--spacing-sm) var(--spacing-md);
+            color: var(--text-secondary);
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all var(--transition-fast);
+            border-bottom: 2px solid transparent;
+        }
+        
+        .action-tab:hover {
+            color: var(--primary);
+        }
+        
+        .action-tab.active {
+            color: var(--primary);
+            border-bottom-color: var(--primary);
+        }
+        
+        .content-card {
+            background-color: var(--card-bg);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow-sm);
+            padding: var(--spacing-lg);
+            margin-bottom: var(--spacing-lg);
+        }
+        
+        .wiki-content {
+            line-height: 1.7;
+        }
+        
+        .wiki-content h1, 
+        .wiki-content h2, 
+        .wiki-content h3, 
+        .wiki-content h4, 
+        .wiki-content h5, 
+        .wiki-content h6 {
+            margin-top: 1.8em;
+            margin-bottom: 0.8em;
+            color: var(--primary);
+            font-weight: 700;
+            line-height: 1.3;
+        }
+        
+        .wiki-content h1 {
+            font-size: 2rem;
+            padding-bottom: 0.4em;
+            border-bottom: 2px solid var(--divider-color);
+            margin-top: 0.5em;
+        }
+        
+        .wiki-content h2 {
+            font-size: 1.6rem;
+            padding-bottom: 0.4em;
+            border-bottom: 1px solid var(--divider-color);
+            background-color: var(--surface);
+            padding: 8px 12px;
+            border-radius: var(--border-radius);
+        }
+        
+        .wiki-content h3 {
+            font-size: 1.3rem;
+            border-left: 3px solid var(--secondary);
+            padding-left: 10px;
+            padding-top: 3px;
+            padding-bottom: 3px;
+        }
+        
+        .wiki-content h4 {
+            font-size: 1.1rem;
+        }
+        
+        .wiki-content p {
+            margin-bottom: 1em;
+        }
+        
+        .wiki-content ul, 
+        .wiki-content ol {
+            margin-bottom: 1em;
+            padding-left: 2em;
+        }
+        
+        .wiki-content li {
+            margin-bottom: 0.5em;
+        }
+        
+        .wiki-content pre, 
+        .wiki-content code {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: var(--surface);
+            border-radius: var(--border-radius);
+        }
+        
+        .wiki-content pre {
+            padding: var(--spacing-md);
+            margin-bottom: 1em;
+            overflow-x: auto;
+        }
+        
+        .wiki-content code {
+            padding: 2px 4px;
+        }
+        
+        .wiki-content blockquote {
+            border-left: 4px solid var(--tertiary);
+            padding-left: var(--spacing-md);
+            color: var(--text-secondary);
+            margin: var(--spacing-md) 0;
+        }
+        
+        .wiki-content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: var(--border-radius);
+            margin: var(--spacing-md) 0;
+        }
+        
+        .wiki-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 1em;
+        }
+        
+        .wiki-content th, 
+        .wiki-content td {
+            border: 1px solid var(--border-color);
+            padding: var(--spacing-sm);
+            text-align: left;
+        }
+        
+        .wiki-content th {
+            background-color: var(--surface);
+            font-weight: 600;
+        }
+        
+        .wiki-content tr:nth-child(even) {
+            background-color: var(--surface);
+        }
+        
+        .editor-container {
+            display: none;
+        }
+        
+        .action-buttons {
+            display: flex;
+            justify-content: flex-end;
+            gap: var(--spacing-md);
+            margin-top: var(--spacing-lg);
+        }
+        
+        .btn {
+            padding: var(--spacing-sm) var(--spacing-md);
+            border-radius: var(--border-radius);
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all var(--transition-fast);
+        }
+        
+        .btn-primary {
+            background-color: var(--primary);
+            color: var(--text-on-primary);
+            border: none;
+        }
+        
+        .btn-primary:hover {
+            background-color: var(--secondary);
+        }
+        
+        .btn-secondary {
+            background-color: var(--surface);
+            color: var(--text-secondary);
+            border: 1px solid var(--border-color);
+        }
+        
+        .btn-secondary:hover {
+            background-color: var(--hover-bg);
+            color: var(--text-primary);
+        }
+        
+        .notebook-content {
+            font-family: 'Courier New', Courier, monospace;
+            white-space: pre-wrap;
+            line-height: 1.5;
+        }
+        
+        .content-meta {
+            font-size: 0.8rem;
+            color: var(--text-tertiary);
+            margin-top: var(--spacing-md);
+            display: flex;
+            justify-content: space-between;
+            padding-top: var(--spacing-sm);
+            border-top: 1px solid var(--divider-color);
+        }
+        
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .sidebar {
+                transform: translateX(-100%);
+            }
+            
+            .sidebar.open {
+                transform: translateX(0);
+            }
+            
+            .main-content {
+                margin-left: 0;
+            }
+            
+            .content-card {
+                padding: var(--spacing-md);
+            }
+        }
+        
+        /* Compact Mode */
+        .compact-mode .sidebar {
+            width: 180px;
+        }
+        
+        .compact-mode .main-content {
+            margin-left: 180px;
+        }
+        
+        .compact-mode .nav-link {
+            padding: var(--spacing-xs) var(--spacing-sm);
+            font-size: 0.85rem;
+        }
+        
+        .compact-mode .nav-section-title {
+            font-size: 0.75rem;
+        }
+        
+        /* Reading Mode */
+        .reading-mode .sidebar {
+            transform: translateX(-100%);
+        }
+        
+        .reading-mode .main-content {
+            margin-left: 0;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        /* Hide on mobile */
+        @media (max-width: 480px) {
+            .header-actions {
+                gap: var(--spacing-sm);
+            }
+            
+            .content-title {
+                font-size: 1.5rem;
+            }
+            
+            .wiki-content h1 {
+                font-size: 1.8rem;
+            }
+            
+            .wiki-content h2 {
+                font-size: 1.4rem;
+            }
+            
+            .wiki-content h3 {
+                font-size: 1.2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="layout-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <header class="header">
+                <h1 class="site-title">
+                    <i class="fas fa-book"></i>
+                    <span>Wiki</span>
+                </h1>
+            </header>
+            
+            <!-- Search -->
+            <div class="search-container">
+                <i class="fas fa-search search-icon"></i>
+                <input type="text" class="search-input" placeholder="Search wiki...">
+                <div class="search-results"></div>
+            </div>
+            
+            <!-- Main Navigation -->
+            <div class="nav-section">
+                <h2 class="nav-section-title">Navigation</h2>
+                <ul class="nav-list" id="main-nav">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link active" data-page="Home">
+                            <i class="fas fa-home"></i> Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" data-page="About">
+                            <i class="fas fa-info-circle"></i> About
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" data-page="Projects">
+                            <i class="fas fa-project-diagram"></i> Projects
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            
+            <!-- Wiki Pages -->
+            <div class="nav-section">
+                <h2 class="nav-section-title">Wiki Pages</h2>
+                <ul class="nav-list" id="wiki-pages"></ul>
+            </div>
+            
+            <!-- Notebooks Browser -->
+            <div class="notebooks-section">
+                <h2 class="nav-section-title">Notebooks</h2>
+                <select id="notebook-directory" class="notebook-select">
+                    <option value="">Select Directory</option>
+                </select>
+                <div id="notebook-files" class="notebook-files"></div>
+            </div>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="content-header">
+                <!-- Breadcrumb -->
+                <div class="breadcrumb">
+                    <div class="breadcrumb-item">
+                        <a href="#" class="breadcrumb-link" data-page="Home">Home</a>
+                    </div>
+                    <span class="breadcrumb-separator">/</span>
+                    <div class="breadcrumb-item current-path" id="current-path">Page</div>
+                    
+                    <!-- View Controls -->
+                    <div style="margin-left: auto; display: flex; gap: 8px;">
+                        <button id="compact-mode-btn" title="Compact mode" class="toggle-sidebar">
+                            <i class="fas fa-compress"></i>
+                        </button>
+                        <button id="normal-mode-btn" title="Normal mode" class="toggle-sidebar">
+                            <i class="fas fa-desktop"></i>
+                        </button>
+                        <button id="reading-mode-btn" title="Reading mode" class="toggle-sidebar">
+                            <i class="fas fa-book-open"></i>
+                        </button>
+                        <button id="theme-toggle" class="theme-toggle" title="Toggle dark mode">
+                            <i class="fas fa-moon"></i>
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Page Title -->
+                <h1 class="content-title" id="content-title">Welcome to the Wiki</h1>
+                
+                <!-- Content Actions -->
+                <div class="content-actions">
+                    <button class="action-tab active" id="read-tab">
+                        <i class="fas fa-book"></i> Read
+                    </button>
+                    <button class="action-tab" id="edit-tab">
+                        <i class="fas fa-edit"></i> Edit
+                    </button>
+                    <button class="action-tab" id="history-tab">
+                        <i class="fas fa-history"></i> History
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Content Card -->
+            <div class="content-card">
+                <!-- View Mode -->
+                <div class="wiki-content" id="view-container">
+                    <p>Select a page from the navigation to view its content.</p>
+                </div>
+                
+                <!-- Edit Mode -->
+                <div class="editor-container" id="edit-container">
+                    <textarea id="editor"></textarea>
+                    <div class="action-buttons">
+                        <button class="btn btn-secondary" id="cancel-edit">Cancel</button>
+                        <button class="btn btn-primary" id="save-edit">Save Changes</button>
+                    </div>
+                </div>
+                
+                <!-- Metadata -->
+                <div class="content-meta">
+                    <div class="meta-item" id="last-modified">
+                        <i class="fas fa-clock"></i>
+                        <span>Last modified: Unknown</span>
+                    </div>
+                    <div class="meta-item" id="page-author">
+                        <i class="fas fa-user"></i>
+                        <span>Author: Unknown</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script>
+        // Configuration
+        const API_BASE_URL = 'http://localhost:3003';
+        
+        // DOM Elements
+        const searchInput = document.querySelector('.search-input');
+        const searchResults = document.querySelector('.search-results');
+        const wikiPages = document.getElementById('wiki-pages');
+        const notebookDirectory = document.getElementById('notebook-directory');
+        const notebookFiles = document.getElementById('notebook-files');
+        const contentTitle = document.getElementById('content-title');
+        const currentPath = document.getElementById('current-path');
+        const viewContainer = document.getElementById('view-container');
+        const editContainer = document.getElementById('edit-container');
+        const readTab = document.getElementById('read-tab');
+        const editTab = document.getElementById('edit-tab');
+        const historyTab = document.getElementById('history-tab');
+        const editor = document.getElementById('editor');
+        const cancelEdit = document.getElementById('cancel-edit');
+        const saveEdit = document.getElementById('save-edit');
+        const lastModified = document.getElementById('last-modified');
+        const pageAuthor = document.getElementById('page-author');
+        const themeToggle = document.getElementById('theme-toggle');
+        const compactModeBtn = document.getElementById('compact-mode-btn');
+        const normalModeBtn = document.getElementById('normal-mode-btn');
+        const readingModeBtn = document.getElementById('reading-mode-btn');
+        
+        // State
+        let currentPage = 'Home';
+        let currentNotebook = {
+            directory: '',
+            file: ''
+        };
+        let wikiData = [];
+        let editorInstance = null;
+        
+        // Cache
+        const pageCache = {};
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', initialize);
+        
+        function initialize() {
+            // Load wiki pages
+            loadWikiPages();
+            
+            // Load notebook directories
+            loadNotebookDirectories();
+            
+            // Set up event listeners
+            setupEventListeners();
+            
+            // Load initial page
+            loadPage('Home');
+            
+            // Initialize theme
+            initializeTheme();
+            
+            // Initialize view mode
+            initializeViewMode();
+        }
+        
+        function setupEventListeners() {
+            // Main navigation
+            document.getElementById('main-nav').addEventListener('click', handleNavClick);
+            
+            // Wiki pages navigation
+            wikiPages.addEventListener('click', handleNavClick);
+            
+            // Notebook directory selection
+            notebookDirectory.addEventListener('change', handleDirectoryChange);
+            
+            // Tab switching
+            readTab.addEventListener('click', () => switchTab('read'));
+            editTab.addEventListener('click', () => switchTab('edit'));
+            historyTab.addEventListener('click', () => switchTab('history'));
+            
+            // Edit actions
+            cancelEdit.addEventListener('click', cancelEditing);
+            saveEdit.addEventListener('click', saveChanges);
+            
+            // Theme toggle
+            themeToggle.addEventListener('click', toggleTheme);
+            
+            // View mode controls
+            compactModeBtn.addEventListener('click', () => setViewMode('compact'));
+            normalModeBtn.addEventListener('click', () => setViewMode('normal'));
+            readingModeBtn.addEventListener('click', () => setViewMode('reading'));
+            
+            // Search
+            searchInput.addEventListener('input', debounce(handleSearch, 300));
+            searchResults.addEventListener('click', handleSearchResultClick);
+            
+            // Close search results when clicking elsewhere
+            document.addEventListener('click', (e) => {
+                if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+                    searchResults.style.display = 'none';
+                }
+            });
+        }
+        
+        // Load wiki pages
+        async function loadWikiPages() {
+            try {
+                const response = await fetch(`${API_BASE_URL}/pages`);
+                if (!response.ok) throw new Error('Failed to load wiki pages');
+                
+                const data = await response.json();
+                wikiData = data.entries || [];
+                
+                // Group pages by category
+                const categories = {};
+                
+                wikiData.forEach(page => {
+                    const title = page.title;
+                    
+                    // Skip home page as it's in the main nav
+                    if (title === 'Home') return;
+                    
+                    // Skip the three pages in main navigation
+                    if (['Home', 'About', 'Projects'].includes(title)) return;
+                    
+                    // Check if title contains a category delimiter
+                    if (title.includes('/')) {
+                        const parts = title.split('/');
+                        const category = parts[0];
+                        
+                        if (!categories[category]) {
+                            categories[category] = [];
+                        }
+                        
+                        categories[category].push(page);
+                    } else {
+                        // Add to "General" category
+                        if (!categories['General']) {
+                            categories['General'] = [];
+                        }
+                        
+                        categories['General'].push(page);
+                    }
+                });
+                
+                // Render categories and pages
+                let html = '';
+                
+                // Sort categories alphabetically
+                const sortedCategories = Object.keys(categories).sort();
+                
+                sortedCategories.forEach(category => {
+                    html += `
+                        <li class="nav-item">
+                            <div class="nav-section-title">${category}</div>
+                            <ul class="nav-list">
+                    `;
+                    
+                    // Sort pages within category
+                    const sortedPages = categories[category].sort((a, b) => {
+                        return a.title.localeCompare(b.title);
+                    });
+                    
+                    sortedPages.forEach(page => {
+                        const title = page.title;
+                        const displayTitle = title.includes('/') ? title.split('/').pop() : title;
+                        
+                        html += `
+                            <li class="nav-item">
+                                <a href="#" class="nav-link" data-page="${title}">
+                                    ${displayTitle}
+                                </a>
+                            </li>
+                        `;
+                    });
+                    
+                    html += `
+                            </ul>
+                        </li>
+                    `;
+                });
+                
+                wikiPages.innerHTML = html;
+            } catch (error) {
+                console.error('Error loading wiki pages:', error);
+            }
+        }
+        
+        // Load notebook directories
+        async function loadNotebookDirectories() {
+            try {
+                const response = await fetch(`${API_BASE_URL}/notebooks`);
+                if (!response.ok) throw new Error('Failed to load notebook directories');
+                
+                const data = await response.json();
+                const directories = data.directories || [];
+                
+                // Clear existing options
+                notebookDirectory.innerHTML = '<option value="">Select Directory</option>';
+                
+                // Add options for each directory
+                directories.forEach(dir => {
+                    const option = document.createElement('option');
+                    option.value = dir;
+                    option.textContent = dir;
+                    notebookDirectory.appendChild(option);
+                });
+            } catch (error) {
+                console.error('Error loading notebook directories:', error);
+            }
+        }
+        
+        // Handle directory change
+        async function handleDirectoryChange() {
+            const directory = notebookDirectory.value;
+            currentNotebook.directory = directory;
+            
+            if (!directory) {
+                notebookFiles.innerHTML = '';
+                return;
+            }
+            
+            try {
+                const response = await fetch(`${API_BASE_URL}/notebooks/${directory}`);
+                if (!response.ok) throw new Error('Failed to load notebook files');
+                
+                const data = await response.json();
+                const files = data.files || [];
+                
+                // Clear existing files
+                notebookFiles.innerHTML = '';
+                
+                // Add files
+                files.forEach(file => {
+                    const fileElement = document.createElement('div');
+                    fileElement.className = 'notebook-file';
+                    fileElement.innerHTML = `
+                        <i class="fas fa-file-alt file-icon"></i>
+                        <span>${file}</span>
+                    `;
+                    fileElement.addEventListener('click', () => loadNotebookContent(directory, file));
+                    notebookFiles.appendChild(fileElement);
+                });
+            } catch (error) {
+                console.error('Error loading notebook files:', error);
+                notebookFiles.innerHTML = '<div class="notebook-file">Error loading files</div>';
+            }
+        }
+        
+        // Load notebook content
+        async function loadNotebookContent(directory, file) {
+            try {
+                currentNotebook = { directory, file };
+                
+                const response = await fetch(`${API_BASE_URL}/notebooks/${directory}/${file}`);
+                if (!response.ok) throw new Error('Failed to load notebook content');
+                
+                const content = await response.text();
+                
+                // Format content for display
+                const formattedContent = formatNotebookContent(content);
+                
+                // Update UI
+                contentTitle.textContent = file;
+                currentPath.textContent = file;
+                viewContainer.innerHTML = `
+                    <div class="notebook-content">${formattedContent}</div>
+                    <div class="action-buttons">
+                        <button class="btn btn-primary" id="add-to-wiki">Add to Wiki</button>
+                    </div>
+                `;
+                
+                // Add event listener for "Add to Wiki" button
+                document.getElementById('add-to-wiki').addEventListener('click', () => addNotebookToWiki(directory, file));
+                
+                // Update metadata
+                lastModified.innerHTML = `<i class="fas fa-clock"></i> <span>Type: Notebook File</span>`;
+                pageAuthor.innerHTML = `<i class="fas fa-folder"></i> <span>Directory: ${directory}</span>`;
+                
+                // Switch to read tab
+                switchTab('read');
+                
+                // Clear active status from all nav links
+                document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
+            } catch (error) {
+                console.error('Error loading notebook content:', error);
+                viewContainer.innerHTML = `<p>Error loading notebook content: ${error.message}</p>`;
+            }
+        }
+        
+        // Format notebook content
+        function formatNotebookContent(content) {
+            if (!content) return '';
+            
+            // Replace newlines with <br>
+            let formattedContent = content.replace(/\n/g, '<br>');
+            
+            // Make URLs clickable
+            formattedContent = formattedContent.replace(
+                /(https?:\/\/[^\s<]+)/g, 
+                '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>'
+            );
+            
+            return formattedContent;
+        }
+        
+        // Add notebook to wiki
+        async function addNotebookToWiki(directory, file) {
+            try {
+                const response = await fetch(`${API_BASE_URL}/notebooks/wiki/${directory}/${file}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                });
+                
+                if (!response.ok) throw new Error('Failed to add notebook to wiki');
+                
+                // Show success message
+                const successMessage = document.createElement('div');
+                successMessage.style.cssText = `
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background-color: var(--success);
+                    color: white;
+                    padding: 10px 20px;
+                    border-radius: 4px;
+                    box-shadow: var(--shadow-md);
+                    z-index: 1000;
+                `;
+                successMessage.textContent = 'Notebook added to wiki successfully!';
+                document.body.appendChild(successMessage);
+                
+                // Remove after 3 seconds
+                setTimeout(() => {
+                    document.body.removeChild(successMessage);
+                }, 3000);
+                
+                // Reload wiki pages
+                loadWikiPages();
+                
+                // Clear cache
+                Object.keys(pageCache).forEach(key => delete pageCache[key]);
+            } catch (error) {
+                console.error('Error adding notebook to wiki:', error);
+                
+                // Show error message
+                const errorMessage = document.createElement('div');
+                errorMessage.style.cssText = `
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background-color: var(--error);
+                    color: white;
+                    padding: 10px 20px;
+                    border-radius: 4px;
+                    box-shadow: var(--shadow-md);
+                    z-index: 1000;
+                `;
+                errorMessage.textContent = `Error: ${error.message}`;
+                document.body.appendChild(errorMessage);
+                
+                // Remove after 3 seconds
+                setTimeout(() => {
+                    document.body.removeChild(errorMessage);
+                }, 3000);
+            }
+        }
+        
+        // Load wiki page
+        async function loadPage(title) {
+            try {
+                currentPage = title;
+                currentNotebook = { directory: '', file: '' };
+                
+                // Check cache first
+                if (pageCache[title]) {
+                    updatePageUI(pageCache[title]);
+                    return;
+                }
+                
+                const response = await fetch(`${API_BASE_URL}/pages/${title}`);
+                
+                if (!response.ok) {
+                    throw new Error(`Failed to load page "${title}"`);
+                }
+                
+                const content = await response.text();
+                
+                // Find page metadata
+                const pageData = wikiData.find(page => page.title === title) || {
+                    title,
+                    content,
+                    metadata: {
+                        created: new Date().toISOString(),
+                        modified: new Date().toISOString(),
+                        author: 'system'
+                    }
+                };
+                
+                // Format content (check if it's markdown or HTML)
+                let formattedContent = content;
+                if (!content.trim().startsWith('<')) {
+                    // It's likely markdown, let's render it
+                    formattedContent = marked.parse(content);
+                }
+                
+                // Cache the page data
+                pageCache[title] = {
+                    title,
+                    content,
+                    formattedContent,
+                    metadata: pageData.metadata
+                };
+                
+                // Update UI
+                updatePageUI(pageCache[title]);
+                
+                // Update navigation
+                updateNavigation(title);
+            } catch (error) {
+                console.error(`Error loading page "${title}":`, error);
+                
+                if (error.message.includes('404')) {
+                    // Page doesn't exist, show placeholder
+                    viewContainer.innerHTML = `
+                        <div class="page-not-found">
+                            <h1>Page Not Found</h1>
+                            <p>The page "${title}" does not exist yet.</p>
+                            <button class="btn btn-primary" id="create-page">Create this page</button>
+                        </div>
+                    `;
+                    
+                    // Add event listener for "Create this page" button
+                    document.getElementById('create-page').addEventListener('click', () => {
+                        // Switch to edit mode with empty content
+                        switchTab('edit');
+                        if (editorInstance) {
+                            editorInstance.value('');
+                        }
+                    });
+                } else {
+                    viewContainer.innerHTML = `<p>Error loading content: ${error.message}</p>`;
+                }
+            }
+        }
+        
+        // Update page UI
+        function updatePageUI(pageData) {
+            contentTitle.textContent = pageData.title;
+            currentPath.textContent = pageData.title;
+            viewContainer.innerHTML = `<div class="wiki-content">${pageData.formattedContent}</div>`;
+            
+            // Setup editor if in edit mode
+            if (editContainer.style.display === 'block') {
+                setupEditor(pageData.content);
+            }
+            
+            // Update metadata
+            const modifiedDate = new Date(pageData.metadata.modified).toLocaleString();
+            lastModified.innerHTML = `<i class="fas fa-clock"></i> <span>Last modified: ${modifiedDate}</span>`;
+            pageAuthor.innerHTML = `<i class="fas fa-user"></i> <span>Author: ${pageData.metadata.author || 'Unknown'}</span>`;
+        }
+        
+        // Update navigation
+        function updateNavigation(title) {
+            // Remove active class from all nav links
+            document.querySelectorAll('.nav-link').forEach(link => {
+                link.classList.remove('active');
+            });
+            
+            // Add active class to current page link
+            const links = document.querySelectorAll(`.nav-link[data-page="${title}"]`);
+            links.forEach(link => {
+                link.classList.add('active');
+            });
+        }
+        
+        // Handle navigation click
+        function handleNavClick(event) {
+            event.preventDefault();
+            
+            const target = event.target.closest('.nav-link');
+            if (!target) return;
+            
+            const page = target.dataset.page;
+            if (page) {
+                loadPage(page);
+            }
+        }
+        
+        // Switch tab
+        function switchTab(tab) {
+            // Update active tab
+            readTab.classList.toggle('active', tab === 'read');
+            editTab.classList.toggle('active', tab === 'edit');
+            historyTab.classList.toggle('active', tab === 'history');
+            
+            // Show/hide containers
+            viewContainer.style.display = tab === 'read' ? 'block' : 'none';
+            editContainer.style.display = tab === 'edit' ? 'block' : 'none';
+            
+            // Setup editor if switching to edit mode
+            if (tab === 'edit') {
+                if (currentPage) {
+                    const cachedPage = pageCache[currentPage];
+                    if (cachedPage) {
+                        setupEditor(cachedPage.content);
+                    } else {
+                        setupEditor('');
+                    }
+                }
+            }
+        }
+        
+        // Setup editor
+        function setupEditor(content) {
+            // If editor already exists, just update the value
+            if (editorInstance) {
+                editorInstance.value(content || '');
+                return;
+            }
+            
+            // Initialize EasyMDE
+            editorInstance = new EasyMDE({
+                element: editor,
+                spellChecker: true,
+                autosave: {
+                    enabled: true,
+                    uniqueId: 'wiki-editor-autosave',
+                    delay: 1000,
+                },
+                toolbar: [
+                    'bold', 'italic', 'heading', '|',
+                    'quote', 'unordered-list', 'ordered-list', '|',
+                    'link', 'image', 'code', 'table', '|',
+                    'preview', 'side-by-side', 'fullscreen'
+                ],
+                initialValue: content || '',
+                previewRender: function(markdownText) {
+                    return marked.parse(markdownText);
+                }
+            });
+        }
+        
+        // Cancel editing
+        function cancelEditing() {
+            switchTab('read');
+        }
+        
+        // Save changes
+        async function saveChanges() {
+            if (!editorInstance) return;
+            
+            try {
+                const content = editorInstance.value();
+                
+                const response = await fetch(`${API_BASE_URL}/pages`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        title: currentPage,
+                        content
+                    })
+                });
+                
+                if (!response.ok) throw new Error('Failed to save changes');
+                
+                // Update cache
+                if (pageCache[currentPage]) {
+                    pageCache[currentPage].content = content;
+                    pageCache[currentPage].formattedContent = marked.parse(content);
+                    pageCache[currentPage].metadata.modified = new Date().toISOString();
+                }
+                
+                // Switch back to read mode
+                switchTab('read');
+                
+                // Reload page to see changes
+                loadPage(currentPage);
+                
+                // Show success message
+                const successMessage = document.createElement('div');
+                successMessage.style.cssText = `
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background-color: var(--success);
+                    color: white;
+                    padding: 10px 20px;
+                    border-radius: 4px;
+                    box-shadow: var(--shadow-md);
+                    z-index: 1000;
+                `;
+                successMessage.textContent = 'Changes saved successfully!';
+                document.body.appendChild(successMessage);
+                
+                // Remove after 3 seconds
+                setTimeout(() => {
+                    document.body.removeChild(successMessage);
+                }, 3000);
+            } catch (error) {
+                console.error('Error saving changes:', error);
+                
+                // Show error message
+                const errorMessage = document.createElement('div');
+                errorMessage.style.cssText = `
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background-color: var(--error);
+                    color: white;
+                    padding: 10px 20px;
+                    border-radius: 4px;
+                    box-shadow: var(--shadow-md);
+                    z-index: 1000;
+                `;
+                errorMessage.textContent = `Error: ${error.message}`;
+                document.body.appendChild(errorMessage);
+                
+                // Remove after 3 seconds
+                setTimeout(() => {
+                    document.body.removeChild(errorMessage);
+                }, 3000);
+            }
+        }
+        
+        // Toggle theme
+        function toggleTheme() {
+            const isDarkMode = document.body.classList.toggle('theme-dark');
+            
+            // Update theme toggle icon
+            themeToggle.innerHTML = isDarkMode 
+                ? '<i class="fas fa-sun"></i>' 
+                : '<i class="fas fa-moon"></i>';
+            
+            // Save preference
+            localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+        }
+        
+        // Initialize theme
+        function initializeTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            
+            if (savedTheme === 'dark') {
+                document.body.classList.add('theme-dark');
+                themeToggle.innerHTML = '<i class="fas fa-sun"></i>';
+            }
+        }
+        
+        // Set view mode
+        function setViewMode(mode) {
+            // Remove all mode classes
+            document.body.classList.remove('compact-mode', 'normal-mode', 'reading-mode');
+            
+            // Add the selected mode class
+            document.body.classList.add(`${mode}-mode`);
+            
+            // Update buttons
+            compactModeBtn.style.color = mode === 'compact' ? 'var(--primary)' : '';
+            normalModeBtn.style.color = mode === 'normal' ? 'var(--primary)' : '';
+            readingModeBtn.style.color = mode === 'reading' ? 'var(--primary)' : '';
+            
+            // Save preference
+            localStorage.setItem('view-mode', mode);
+        }
+        
+        // Initialize view mode
+        function initializeViewMode() {
+            const savedMode = localStorage.getItem('view-mode') || 'normal';
+            setViewMode(savedMode);
+        }
+        
+        // Handle search
+        async function handleSearch() {
+            const query = searchInput.value.trim();
+            
+            if (query.length < 2) {
+                searchResults.style.display = 'none';
+                return;
+            }
+            
+            // Search in cache first
+            const results = searchInCache(query);
+            
+            if (results.length > 0) {
+                displaySearchResults(results);
+            } else {
+                // If no results in cache, fetch all pages and search
+                try {
+                    const response = await fetch(`${API_BASE_URL}/pages`);
+                    if (!response.ok) throw new Error('Failed to search');
+                    
+                    const data = await response.json();
+                    const entries = data.entries || [];
+                    
+                    // Cache all pages
+                    entries.forEach(entry => {
+                        if (!pageCache[entry.title]) {
+                            pageCache[entry.title] = {
+                                title: entry.title,
+                                content: entry.content,
+                                formattedContent: entry.content.startsWith('<') 
+                                    ? entry.content 
+                                    : marked.parse(entry.content),
+                                metadata: entry.metadata || {}
+                            };
+                        }
+                    });
+                    
+                    // Search again with updated cache
+                    const newResults = searchInCache(query);
+                    displaySearchResults(newResults);
+                } catch (error) {
+                    console.error('Error searching:', error);
+                    searchResults.innerHTML = '<div class="search-result-item">Error searching</div>';
+                    searchResults.style.display = 'block';
+                }
+            }
+        }
+        
+        // Search in cache
+        function searchInCache(query) {
+            const results = [];
+            const queryLower = query.toLowerCase();
+            
+            Object.values(pageCache).forEach(page => {
+                const titleMatch = page.title.toLowerCase().includes(queryLower);
+                const contentMatch = page.content.toLowerCase().includes(queryLower);
+                
+                if (titleMatch || contentMatch) {
+                    // Create search result
+                    const result = {
+                        title: page.title,
+                        snippet: getSearchSnippet(page.content, queryLower)
+                    };
+                    
+                    results.push(result);
+                }
+            });
+            
+            return results;
+        }
+        
+        // Get search snippet
+        function getSearchSnippet(content, query) {
+            const maxSnippetLength = 100;
+            const plainContent = content.replace(/<[^>]*>/g, '');
+            const index = plainContent.toLowerCase().indexOf(query);
+            
+            if (index === -1) return plainContent.slice(0, maxSnippetLength) + '...';
+            
+            const start = Math.max(0, index - 40);
+            const end = Math.min(plainContent.length, index + query.length + 40);
+            
+            let snippet = '';
+            
+            if (start > 0) snippet += '...';
+            snippet += plainContent.slice(start, end);
+            if (end < plainContent.length) snippet += '...';
+            
+            // Highlight the query
+            const highlightedSnippet = snippet.replace(
+                new RegExp(query, 'gi'),
+                match => `<mark>${match}</mark>`
+            );
+            
+            return highlightedSnippet;
+        }
+        
+        // Display search results
+        function displaySearchResults(results) {
+            if (results.length === 0) {
+                searchResults.innerHTML = '<div class="search-result-item">No results found</div>';
+            } else {
+                let html = '';
+                
+                results.forEach(result => {
+                    html += `
+                        <div class="search-result-item" data-page="${result.title}">
+                            <div class="search-result-title">${result.title}</div>
+                            <div class="search-result-snippet">${result.snippet}</div>
+                        </div>
+                    `;
+                });
+                
+                searchResults.innerHTML = html;
+            }
+            
+            searchResults.style.display = 'block';
+        }
+        
+        // Handle search result click
+        function handleSearchResultClick(event) {
+            const resultItem = event.target.closest('.search-result-item');
+            if (!resultItem) return;
+            
+            const page = resultItem.dataset.page;
+            if (page) {
+                loadPage(page);
+                searchResults.style.display = 'none';
+                searchInput.value = '';
+            }
+        }
+        
+        // Debounce function for search
+        function debounce(func, wait) {
+            let timeout;
+            return function(...args) {
+                clearTimeout(timeout);
+                timeout = setTimeout(() => func.apply(this, args), wait);
+            };
+        }
+    </script>
+</body>
+</html>

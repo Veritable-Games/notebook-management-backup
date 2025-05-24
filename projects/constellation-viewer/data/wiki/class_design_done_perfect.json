@@ -1,0 +1,18 @@
+{
+  "title": "class_design_done_perfect",
+  "content": "# class_design_done_perfect\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-08-15T22:01:39-07:00\n\n====== class design done perfect ======\nClasses aren't a single thing someone does. Everyone is capable of doing any task (to make the game easily accessible), but every solider has a task their best at, and a task their terrible at.\r\n\r\nAlways give the player time to prepare. (TTP) Even if its brief later in the game. Playtest to determine optimal amount of time.\r\n\r\nSentinel\r\n\r\nEngineer - Sets up Emplacements quicker, and can repair them just as easily. (Yellow/Dark Grey) (Distinguished by third robotic arm on right shoulder)\r\nTechnician - Slices doors faster, sets/defuses devices quicker. (Green/Brown) (Distinguished by unique optical tool on helmet)\r\nStrategist - Can setup cover positions quicker, and moves faster between positions. (Orange/Light Grey) (Distinguished by more pronounced exoskeleton)\r\nOperator - Uses heavy weapons to suppress enemies, and acquires greater numbers of resources. (Purple/Pink) (LMG restricted) (Distinguished by heavier armor)\r\nEnforcer - Reinforces cover locations and emplacement zones with additional shielding. (Blue/Indigo) (Specialized nanite dispenser on back)\r\nFactotum - Has a small permanent bonus to every skill set. (Red/Just Red) (This class has every distinguishing features of the other classes)\r\n\r\nList of skill sets - Classes get permanent bonuses depending on what they specialize in. These bonuses can't be exceeded by non-specialized classes.\r\n\r\nRepair Emplacement Zone (Engineer Bonus)\r\nEquip Emplacement Zone (Engineer Bonus)\r\nSetting Traps (Technician Bonus)\r\nDefusing Traps (Technician Bonus)\r\nSlicing Doors (Technician Bonus)\r\nLocking Doors (Technician Bonus)\r\nCover Setup (Strategist Bonus)\r\nCover Reinforcement (Enforcer Bonus)\r\nEZ Reinforcement (Enforcer Bonus)\r\nResource Aquisition (Operator Bonus)\r\nResupply Speed (Standardized)\r\nReload Speed (Weapon Dependent)\r\nArmor Density (Class Locked)\r\nMovement Speed (Class Locked)\r\nExoskeleton Strength (Class Locked)\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/class_design_done_perfect.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, weapon, location, feature\n- **Imported**: 2025-05-05T16:25:37.085Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/class_design_done_perfect.txt",
+    "importedAt": "2025-05-05T16:25:37.085Z"
+  },
+  "created": "2025-05-05T16:25:37.085Z",
+  "modified": "2025-05-05T16:25:37.085Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "weapon",
+    "location",
+    "feature"
+  ]
+}

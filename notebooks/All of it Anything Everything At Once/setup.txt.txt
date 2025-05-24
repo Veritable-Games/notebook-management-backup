@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T15:43:01-07:00
+
+====== setup.txt ======
+developer@device:~$ cd Downloads/
+developer@device:~/Downloads$ wine SamsungPortableSSD_Setup_Win.exe
+
+/media/developer/T5_SETUP

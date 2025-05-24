@@ -1,0 +1,16 @@
+{
+  "title": "index",
+  "content": "# index\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.4\nCreation-Date: 2025-04-15T00:00:00Z\n\n====== World Building ======\n\nThis category contains information about the world, locations, and settings in On Command.\n\n===== Pages in this Category =====\n* [[renlei-buried-city|Renlei Buried City]]\n* [[orbital-sphere|TS Orbital Sphere]]\n* [[temporary-detainment-center|Temporary Detainment Center]]\n\n===== Related Categories =====\n* [[../design/index|Design Documents]]\n* [[../narrative/index|Narrative Elements]]\n\n## Metadata\n- **Source**: on-command-wiki/world/index.txt\n- **Type**: wiki\n- **Tags**: wiki, on-command-wiki, location\n- **Imported**: 2025-05-05T16:25:37.225Z",
+  "source": {
+    "type": "notebook",
+    "path": "on-command-wiki/world/index.txt",
+    "importedAt": "2025-05-05T16:25:37.225Z"
+  },
+  "created": "2025-05-05T16:25:37.225Z",
+  "modified": "2025-05-05T16:25:37.225Z",
+  "tags": [
+    "wiki",
+    "on-command-wiki",
+    "location"
+  ]
+}

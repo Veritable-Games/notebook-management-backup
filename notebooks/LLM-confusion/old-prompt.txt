@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-03-10T16:06:46-07:00
+
+====== midjourney.txt ======
+the robots are walking near an old city, in the style of muted and subtle tones, undefined anatomy, forced perspective drawings, warmcore, pensive poses, 2d game art, bentwood

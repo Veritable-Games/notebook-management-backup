@@ -1,0 +1,15 @@
+{
+  "title": "later-mobile_txt",
+  "content": "# later-mobile.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:16:51-07:00\n\n====== later-mobile.txt ======\nDevice BTHENUM\\{0000110b-0000-1000-8000-00805f9b34fb}_VID&00010094_PID&0004\\7&24f65007&1&6C4760E9A1E4_C00000000 was configured.\r\n\r\nDriver Name: microsoft_bluetooth_a2dp_src.inf\r\nClass Guid: {4d36e96c-e325-11ce-bfc1-08002be10318}\r\nDriver Date: 12/06/2019\r\nDriver Version: 10.0.19041.1\r\nDriver Provider: Microsoft\r\nDriver Section: BthA2dpSrc\r\nDriver Rank: 0xFF2000\r\nMatching Device Id: BTHENUM\\{0000110b-0000-1000-8000-00805f9b34fb}\r\nOutranked Drivers: bth.inf:BTHENUM\\{0000110b-0000-1000-8000-00805f9b34fb}_GENERIC:00FF2001\r\nDevice Updated: false\r\nParent Device: BTH\\MS_BTHBRB\\6&1248e0c9&0&1\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/later-mobile.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.145Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/later-mobile.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.145Z"
+  },
+  "created": "2025-05-05T16:25:37.145Z",
+  "modified": "2025-05-05T16:25:37.145Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

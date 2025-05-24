@@ -1,0 +1,13 @@
+
+# app to do.txt
+For the callback URL, you should use a URL that points to a page on your website or application that will handle the authentication response. This can be any page with a publicly accessible URL, such as a login or home page.
+
+If you plan to request user authorization, you should use the OAuth 2.0 authorization code grant flow. This flow involves redirecting the user to the GitHub authorization page, where they will be prompted to grant your app access to their GitHub account. Once the user grants authorization, GitHub will redirect the user back to your application with an authorization code that you can exchange for an access token.
+
+If you plan to use a device flow, you will not need a callback URL. Instead, the user will be prompted to enter a code on a separate device in order to grant authorization to your app.
+
+Post-installation, you can redirect the user to a page within your application or website that confirms successful installation or provides instructions for getting started.
+
+For the Webhook URL, you will need to specify a publicly accessible URL where GitHub can send webhook payloads. This can be any URL that can handle HTTP requests, such as a webhook receiver on your server or a cloud-based service.
+
+You can optionally specify a webhook secret to add an additional layer of security to your webhook payloads. This secret is a shared secret between your app and GitHub, and should be kept secret. When GitHub sends a webhook payload, it will include a hash of the payload and your webhook secret. You can use this hash to verify that the payload was sent by GitHub and has not been tampered with.

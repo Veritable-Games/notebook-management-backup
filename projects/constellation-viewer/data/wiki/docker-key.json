@@ -1,0 +1,15 @@
+{
+  "title": "docker-key",
+  "content": "# docker-key\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-03-10T17:32:33-07:00\n\n====== docker-key ======\ngpg: key 3B06DD9BCDAEFB06 marked as ultimately trusted\ngpg: directory '/home/user/.gnupg/openpgp-revocs.d' created\ngpg: revocation certificate stored as '/home/user/.gnupg/openpgp-revocs.d/F2FC4972BC55F306F79322043B06DD9BCDAEFB06.rev'\npublic and secret key created and signed.\n\npub   rsa3072 2025-03-11 [SC] [expires: 2027-03-11]\n\t  F2FC4972BC55F306F79322043B06DD9BCDAEFB06\nuid                      Christopher W. Corella <christopher@corella.com>\nsub   rsa3072 2025-03-11 [E] [expires: 2027-03-11]\n\nuser@remote:~$ \n\n\n## Metadata\n- **Source**: reference-wiki-pages/docker-key.txt\n- **Type**: wiki\n- **Tags**: wiki, reference-wiki-pages\n- **Imported**: 2025-05-05T16:25:37.231Z",
+  "source": {
+    "type": "notebook",
+    "path": "reference-wiki-pages/docker-key.txt",
+    "importedAt": "2025-05-05T16:25:37.231Z"
+  },
+  "created": "2025-05-05T16:25:37.231Z",
+  "modified": "2025-05-05T16:25:37.231Z",
+  "tags": [
+    "wiki",
+    "reference-wiki-pages"
+  ]
+}

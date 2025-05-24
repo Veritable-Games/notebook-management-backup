@@ -1,0 +1,272 @@
+@echo off
+echo === Setting up Canvas App ===
+
+:: Create package.json
+echo === Creating package.json ===
+echo {^
+  "name": "canvas",^
+  "version": "0.1.0",^
+  "private": true,^
+  "dependencies": {^
+    "@excalidraw/excalidraw": "^0.14.2",^
+    "@testing-library/jest-dom": "^5.16.5",^
+    "@testing-library/react": "^13.4.0",^
+    "@testing-library/user-event": "^13.5.0",^
+    "react": "^18.2.0",^
+    "react-dom": "^18.2.0",^
+    "react-scripts": "5.0.1",^
+    "roughjs": "^4.5.2",^
+    "web-vitals": "^2.1.4"^
+  },^
+  "scripts": {^
+    "start": "react-scripts start",^
+    "build": "react-scripts build",^
+    "test": "react-scripts test",^
+    "eject": "react-scripts eject"^
+  },^
+  "eslintConfig": {^
+    "extends": [^
+      "react-app",^
+      "react-app/jest"^
+    ]^
+  },^
+  "browserslist": {^
+    "production": [^
+      "^>0.2%%",^
+      "not dead",^
+      "not op_mini all"^
+    ],^
+    "development": [^
+      "last 1 chrome version",^
+      "last 1 firefox version",^
+      "last 1 safari version"^
+    ]^
+  }^
+} > package.json
+
+:: Create directories
+mkdir public
+mkdir src
+
+:: Create public files
+echo === Creating public files ===
+echo ^<!DOCTYPE html^>^
+^<html lang="en"^>^
+  ^<head^>^
+    ^<meta charset="utf-8" /^>^
+    ^<link rel="icon" href="%%PUBLIC_URL%%/favicon.ico" /^>^
+    ^<meta name="viewport" content="width=device-width, initial-scale=1" /^>^
+    ^<meta name="theme-color" content="#000000" /^>^
+    ^<meta name="description" content="Canvas - A drawing and diagramming application" /^>^
+    ^<link rel="manifest" href="%%PUBLIC_URL%%/manifest.json" /^>^
+    ^<title^>Canvas^</title^>^
+  ^</head^>^
+  ^<body^>^
+    ^<noscript^>You need to enable JavaScript to run this app.^</noscript^>^
+    ^<div id="root"^>^</div^>^
+  ^</body^>^
+^</html^> > public\index.html
+
+echo {^
+  "short_name": "Canvas",^
+  "name": "Canvas - Drawing App",^
+  "icons": [^
+    {^
+      "src": "favicon.ico",^
+      "sizes": "64x64 32x32 24x24 16x16",^
+      "type": "image/x-icon"^
+    }^
+  ],^
+  "start_url": ".",^
+  "display": "standalone",^
+  "theme_color": "#000000",^
+  "background_color": "#ffffff"^
+} > public\manifest.json
+
+:: Create source files
+echo === Creating source files ===
+echo import React, { useState, useRef } from 'react';^
+import './App.css';^
+import { Excalidraw } from "@excalidraw/excalidraw";^
+^
+function App() {^
+  const excalidrawRef = useRef(null);^
+  const [viewModeEnabled, setViewModeEnabled] = useState(false);^
+  ^
+  const toggleViewMode = () => {^
+    setViewModeEnabled(!viewModeEnabled);^
+  };^
+^
+  const handleSave = () => {^
+    if (!excalidrawRef.current) return;^
+    ^
+    const elements = excalidrawRef.current.getSceneElements();^
+    const appState = excalidrawRef.current.getAppState();^
+    ^
+    const data = JSON.stringify({ elements, appState });^
+    localStorage.setItem('canvas-data', data);^
+    ^
+    alert('Drawing saved!');^
+  };^
+  ^
+  const handleLoad = () => {^
+    if (!excalidrawRef.current) return;^
+    ^
+    const savedData = localStorage.getItem('canvas-data');^
+    if (savedData) {^
+      try {^
+        const { elements, appState } = JSON.parse(savedData);^
+        excalidrawRef.current.updateScene({ elements, appState });^
+        alert('Drawing loaded!');^
+      } catch (error) {^
+        console.error('Error loading saved data:', error);^
+        alert('Error loading drawing');^
+      }^
+    } else {^
+      alert('No saved drawing found');^
+    }^
+  };^
+  ^
+  const handleClear = () => {^
+    if (!excalidrawRef.current) return;^
+    ^
+    if (window.confirm('Are you sure you want to clear the canvas?')) {^
+      excalidrawRef.current.resetScene();^
+    }^
+  };^
+^
+  return (^
+    ^<div className="App"^>^
+      ^<header className="App-header"^>^
+        ^<h1^>Canvas^</h1^>^
+        ^<div className="header-controls"^>^
+          ^<button onClick={toggleViewMode}^>^
+            {viewModeEnabled ? 'Edit Mode' : 'View Mode'}^
+          ^</button^>^
+        ^</div^>^
+      ^</header^>^
+      ^<div className="control-panel"^>^
+        ^<button onClick={handleSave}^>Save^</button^>^
+        ^<button onClick={handleLoad}^>Load^</button^>^
+        ^<button onClick={handleClear}^>Clear^</button^>^
+      ^</div^>^
+      ^<div className="excalidraw-wrapper"^>^
+        ^<Excalidraw^
+          ref={excalidrawRef}^
+          initialData={{^
+            elements: [],^
+            appState: {^
+              viewBackgroundColor: '#ffffff',^
+              currentItemFontFamily: 1,^
+            },^
+          }}^
+          viewModeEnabled={viewModeEnabled}^
+          theme="light"^
+          collaborators={[]}^
+        /^>^
+      ^</div^>^
+    ^</div^>^
+  );^
+}^
+^
+export default App; > src\App.js
+
+echo .App {^
+  text-align: center;^
+  display: flex;^
+  flex-direction: column;^
+  height: 100vh;^
+}^
+^
+.App-header {^
+  background-color: #282c34;^
+  padding: 20px;^
+  color: white;^
+  display: flex;^
+  justify-content: space-between;^
+  align-items: center;^
+}^
+^
+.App-header h1 {^
+  margin: 0;^
+  font-size: 1.5em;^
+}^
+^
+.header-controls button {^
+  background-color: #61dafb;^
+  border: none;^
+  border-radius: 4px;^
+  color: #282c34;^
+  padding: 8px 16px;^
+  font-weight: bold;^
+  cursor: pointer;^
+}^
+^
+.control-panel {^
+  display: flex;^
+  justify-content: center;^
+  gap: 10px;^
+  padding: 10px;^
+  background-color: #f5f5f5;^
+  border-bottom: 1px solid #ddd;^
+}^
+^
+.control-panel button {^
+  background-color: #4285f4;^
+  color: white;^
+  border: none;^
+  border-radius: 4px;^
+  padding: 8px 16px;^
+  cursor: pointer;^
+  font-weight: bold;^
+}^
+^
+.excalidraw-wrapper {^
+  flex-grow: 1;^
+  height: calc(100vh - 130px);^
+  position: relative;^
+} > src\App.css
+
+echo import React from 'react';^
+import ReactDOM from 'react-dom/client';^
+import './index.css';^
+import App from './App';^
+^
+const root = ReactDOM.createRoot(document.getElementById('root'));^
+root.render(^
+  ^<React.StrictMode^>^
+    ^<App /^>^
+  ^</React.StrictMode^>^
+);
+ > src\index.js
+
+echo body {^
+  margin: 0;^
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',^
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',^
+    sans-serif;^
+  -webkit-font-smoothing: antialiased;^
+  -moz-osx-font-smoothing: grayscale;^
+}^
+^
+code {^
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',^
+    monospace;^
+} > src\index.css
+
+:: Create environment file to disable source map warnings
+echo GENERATE_SOURCEMAP=false > .env.development
+
+:: Install dependencies
+echo === Installing dependencies ===
+npm install
+
+:: Create start script
+echo === Creating start.bat ===
+echo @echo off^
+echo Starting Canvas App...^
+set "GENERATE_SOURCEMAP=false"^
+npm start > start.bat
+
+echo === Setup complete! ===
+echo You can now run the app with: start.bat

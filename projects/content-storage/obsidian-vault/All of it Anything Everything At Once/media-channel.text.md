@@ -1,0 +1,327 @@
+
+# media-channel.text
+4:28 PM]CycadaAcolyte: https://twitter.com/i/status/1185706875624415232
+
+Bannon Whodis? The call is coming from inside! (@BannonRudis)
+How games look when you first start developing them. #gamedev #gaming https://t.co/Fs2Q5QRaHr
+Retweets
+1935
+Likes
+7980
+
+Twitter
+[4:37 PM]Glitch: Great find. 😄
+[3:17 AM]CycadaAcolyte: the future is now
+https://twitter.com/i/status/1181971606228393984
+
+beeple (@beeple)
+ZUCKERBORG'S NIPPLE FREE TECHNO-UTOPIA #everydays https://t.co/nPGlLkemie
+Retweets
+1146
+Likes
+5374
+Image
+
+Twitter
+[2:24 AM]Glitch:
+Image
+[2:38 AM]CycadaAcolyte: https://www.youtube.com/watch?v=1wAVpcvIrQM
+YouTube
+kenny lauderdale
+When You Fire all The Animators
+[12:29 AM]Glitch:
+Image
+[3:11 AM]Bords:
+Image
+[4:42 AM]Glitch:
+Image
+[11:56 PM]Glitch:
+Image
+[12:57 AM]CycadaAcolyte:
+Image
+[12:57 AM]CycadaAcolyte: clearly not mine but gave me a good chuckle
+[9:50 AM](411) TWINKEYRUNAWAY: https://www.youtube.com/watch?v=PkOMIpmbHwM
+[8:46 PM](411) TWINKEYRUNAWAY: https://www.youtube.com/watch?v=GiYwczu28Cg&feature=youtu.be
+[6:49 AM](411) TWINKEYRUNAWAY: https://www.youtube.com/watch?v=hWH_sPRrIAE&feature=youtu.be
+YouTube
+411Remnant
+Nom Carver Be like...
+Image
+[5:40 PM](411) TWINKEYRUNAWAY: https://youtu.be/F05XF9fFhIc
+YouTube
+411Remnant
+Star Wars Battlefront 2 Gonks Vibe
+Image
+[12:23 PM](411) TWINKEYRUNAWAY: https://www.youtube.com/watch?v=-L8SYz6qSpo&feature=youtu.be
+YouTube
+411Remnant
+Star Wars Battlefront 2 Machinima - Pizza Time (Slight Mando Spoilers)
+Image
+[7:04 AM](411) TWINKEYRUNAWAY: https://www.youtube.com/watch?v=suog1Vw-KU4
+YouTube
+411Remnant
+Star Wars Battlefront 2 Machinima #5
+Image
+[8:16 AM]Scuds:
+Image
+[8:18 AM]Glitch: ahahaha, no criticals though. idle-bouncing dog should level up more
+[10:19 AM]Glitch: https://www.youtube.com/watch?v=wqbZlAEUb5w
+YouTube
+Netflix
+The House | Official Trailer | Netflix
+Image
+[10:19 AM]Glitch: animation like this just sets an atmosphere I can't get enough of
+[10:23 AM]Glitch: audio design does so much for a work, too. like you were saying @Anarco (Rorschach)
+[6:43 PM]Anarco (Rorschach): I've watched a couple weeks ago, fantastic movie. 
+
+I have a little soft spot for stop-motion animation.
+[11:00 AM]Glitch: @rothus66 Tell me about the movie.
+[11:04 AM]rothus66: Smile, therapist gets a new patient complaining about something following her that's keeps smiling at her
+[11:04 AM]rothus66: I'll link the trailer
+[11:05 AM]rothus66: https://youtu.be/BcDK7lkzzsU
+YouTube
+Paramount Pictures
+Smile | Official Trailer (2022 Movie)
+Image
+[11:11 AM]Glitch: Those upside down shots are so unnerving. I don't have full audio right now but I'm watching it.
+[11:19 AM]Glitch: It might be worthwhile. Haven't seen horror in a good long time.
+[8:35 AM]KARIN: This was from a while ago, but I had seen this movie in theatres when it first came out and it was good!
+[8:37 AM]Glitch: How is it that a smile can both give us so much reassurance, and potentially so much unease?
+[4:47 PM]Glitch: Dr. Gabor Maté on "The Myth of Normal," He speaks to our collective trauma, issues that will always weigh on our bias for the moment. How this society gives us so many numerous pathologies. Trauma isn't what happens to us, it's the "psychic wound that we sustain"; underlying much of our disease, damage that goes across a spectrum. Wounds that endure over a lifetime. "Social stress and trauma translate into physiological stress of the individual. You can't separate the mind from the body and you cannot separate the individual from the environment." 
+
+https://youtu.be/e4PyQGBvFEU
+YouTube
+Democracy Now!
+Dr. Gabor Maté on "The Myth of Normal," Healing in a Toxic Culture ...
+Image
+[4:25 AM]Glitch: https://www.youtube.com/watch?v=Ba5rL-jaX8I
+YouTube
+Democracy At Work
+Capitalism = Selfishness, according to Adam Smith & Milton Freidman...
+Image
+[4:26 AM]Glitch: well, um. this is almost perfect.
+[4:26 AM]Glitch: only 3 minutes; says exactly what it is all this relates to.
+[4:26 AM]Glitch: incidental, mind. I'm watching it now...
+[4:29 AM]Glitch: I don't have to add any words to his rhetoric, it's perfect.
+[4:34 AM]Glitch: https://www.youtube.com/watch?v=yANLp_dw1wI
+YouTube
+AnRel
+what even IS hierarchy?
+Image
+[4:35 AM]Glitch: AnRel, a modern philosopher in her own right. Her stuff enlightened me to a lot; definitely give this one a listen.
+[4:36 AM]Glitch: "who eats first?"
+[5:10 PM]Glitch: the video essayist goes on to ask on how these people and companies can 'make more value'
+[5:10 PM]Glitch: I've lost interest in his understanding; 'growth' is not what we ought to seek in our economic drives
+[10:33 PM]Glitch: https://www.youtube.com/watch?v=oet62-F2Q9c
+YouTube
+Some More News
+Why Being Poor Is So Expensive - SOME MORE NEWS
+Image
+[6:17 PM]Glitch: These videos are so well-known, but this was so incredible I can't not post it.
+https://www.youtube.com/watch?v=TYPFenJQciw
+Image
+YouTube
+Kurzgesagt – In a Nutshell
+You Are an Impossible Machine
+Image
+[6:56 AM]Glitch: https://www.youtube.com/watch?v=A2hOWShiYoM
+YouTube
+Two Minute Papers
+DeepMind’s New AI: 10 Years of Learning In Seconds!
+Image
+[7:13 AM]Glitch: here's the full paper:
+https://arxiv.org/pdf/2301.07608.pdf
+[7:14 AM]Glitch: their full site. really, really incredible work.
+https://sites.google.com/view/adaptive-agent/
+Home
+Foundation models have shown impressive adaptation and scalability in supervised and self-supervised learning problems, but so far these successes have not fully translated to reinforcement learning (RL). In this work, we demonstrate that training an RL agent at scale leads to a general in-context
+Image
+[3:02 AM]Glitch: https://www.youtube.com/watch?v=emqbkAjH0dc
+right to work did not protect us. union votes used to win 100% of the time- aha
+YouTube
+More Perfect Union
+Michigan Is On The Verge of Historic Action To Save Union Jobs
+Image
+[10:36 AM]Glitch: https://youtu.be/0z6FC2znehQ
+"to make public college tuition free"
+YouTube
+Senator Bernie Sanders
+No one should have to go hundreds of thousands of dollars into debt...
+Image
+[10:49 AM]Glitch: https://www.youtube.com/watch?v=sB1kE5iqKh0
+YouTube
+Bernie Sanders
+Eli Lily has SIGNIFICANTLY lowered its insulin price.
+Image
+[4:39 PM]Glitch: https://youtu.be/G1dXEM_7lh8
+YouTube
+Two Minute Papers
+Google’s Video Editor AI: Absolute Magic!
+Image
+[9:23 AM]Glitch: https://krystalkyleandfriends.substack.com/p/episode-114-audio-marianne-williamson#details
+Episode 114 Audio: Marianne Williamson
+Listen now | This week it’s our pleasure to bring you an exclusive conversation with 2024 presidential candidate Marianne Williamson. Like you, we’re interested in hearing about Marianne’s plans to address class warfare and social injustice in the United States, how her political journey led her to become an advocate for key progressive policies...
+Image
+[7:25 PM]Glitch: https://youtu.be/jN7mSXMruEo
+YouTube
+Not Just Bikes
+These Stupid Trucks are Literally Killing Us
+Image
+[7:25 PM]Glitch: 80% of all new U.S. car sales are SUVs, w t f
+[7:39 PM]Glitch: "75% of light truck owners tow something once a year or less and 70% go off-road once a year or less."
+[3:01 PM]Glitch: https://www.youtube.com/watch?v=plEcfhexzEw
+YouTube
+Senator Bernie Sanders
+LIVE: Starbucks CEO Howard Schultz has finally agreed to testify be...
+Image
+[9:33 PM]Glitch: https://www.youtube.com/watch?v=6pWoVRYNWws
+[10:13 PM]Glitch: https://github.com/mochi-neko/ChatGPT-API-unity
+[10:14 PM]Glitch: the first link is missing resources in the github repository, this other one may be promising; asset store one almost worked.
+[8:40 AM]Glitch: https://www.youtube.com/watch?v=LMCs-qE1hmo
+YouTube
+nature video
+Feeding immunity
+Image
+[10:04 AM]Glitch: https://www.youtube.com/watch?v=qIpCtiGUusY
+YouTube
+Democracy At Work
+We Need Housing Justice, Not Home-Ownership - Cities After...
+Image
+[10:34 AM]Glitch: https://www.youtube.com/watch?v=CkcQzbRfXOM
+YouTube
+FOX 5 Atlanta
+'Cop City agitators' make first appearance in Georgia court
+Image
+[10:35 AM]Glitch: All have private attorneys. None have a criminal background.
+[10:37 AM]Glitch: https://www.youtube.com/watch?v=2OlT2KTnaec
+YouTube
+HasanAbi
+NO COP CITY
+Image
+[10:39 AM]Glitch: anarchy through and through. for a good cause?
+Image
+[10:41 AM]Glitch: again, this one. but I'm so mesmerized. people vs cops.
+Image
+[10:42 AM]Glitch: https://www.youtube.com/watch?v=qpHDk7oSp7I
+YouTube
+Law&Crime Network
+Videos Show Atlanta ‘Cop City’ Chaos That Ended with 23 People Faci...
+Image
+[10:47 AM]Glitch: https://www.youtube.com/watch?v=JuikFQtmdPY
+YouTube
+350.org
+What is #STOPCOPCITY? An Atlanta resident explains.
+Image
+[10:58 AM]Glitch: this just gets more interesting. it goes back to MLK?
+https://www.youtube.com/watch?v=8dXn-LVXfII
+YouTube
+Democracy Now!
+Atlanta Police Kill Forest Defender at Protest Encampment Near Prop...
+Image
+[11:01 AM]Glitch: All those gunshots could not have been 'fearful'. This cop committed an execution.
+[11:09 AM]Glitch: Woah
+https://theintercept.com/2023/02/09/cop-city-body-camera-footage/
+The Intercept
+Officer in Cop City Bodycam Footage Suggests Fellow Cop Was Shot by...
+Footage from the aftermath of a deadly police raid on anti-Cop City protesters shows an Atlanta cop asking, “They shoot their own man?”
+Officer in Cop City Bodycam Footage Suggests Fellow Cop Was Shot by...
+[11:09 AM]Glitch: "shot by his own man" It was a literal fucking execution if that's true. Chills, we'd have chills if this was believed.
+[11:10 AM]Glitch: https://youtu.be/W3sZMYjMKek?t=1081
+At the eighteen minute mark here, it sounds like there was a back and forth. Maybe not so much an 'execution', maybe this kid got scared. But if he had a gun and shot at the cop, then it can't have been what I imagined. He shouldn't have used it.
+
+Ugh. They better investigate the hell out of this.
+Why was there a single cop out there on his own?
+
+"Some #StopCopCity activists have claimed that Georgia authorities' claim that Terán shot a trooper is false, and the officer was actually shot by friendly fire." 
+[4:33 PM]Glitch: https://www.youtube.com/watch?v=IOcDlFgQ30A
+YouTube
+Unicorn Riot
+"#StopCopCity" Rally at King Center in Atlanta
+Image
+[4:35 PM]Glitch: "We're in the business of creating a world where we all have the right to exist, where we all have the right to self-determination." - A right to exist, right to be free.
+[5:14 PM]Glitch:
+Image
+[9:58 AM]Glitch: https://prospect.org/economy/how-we-broke-the-supply-chain-intro/
+The American Prospect
+How We Broke the Supply Chain
+Rampant outsourcing, financialization, monopolization, deregulation, and just-in-time logistics are the culprits.
+How We Broke the Supply Chain
+[10:01 AM]Glitch: https://www.youtube.com/watch?v=a-Aq2PT1Uj4
+YouTube
+51-49 with James Li
+Saying Goodbye
+Image
+[10:03 AM]Glitch: https://www.youtube.com/watch?v=0yPytxeIDpE 
+YouTube
+Democracy At Work
+Capitalism's Ponzi Scheme Investments - David Harvey's Anti-Capital...
+Image
+[10:04 AM]Glitch: capital investing in capital: absurdity to fiction
+[10:15 AM]Glitch: https://youtu.be/jtBvRRfL6Rw
+this is historic
+YouTube
+Democracy Now!
+"Barbaric Restrictions": 5 Women Sue Texas After Being Denied Abort...
+Image
+[10:24 AM]Glitch: Christ, yeah. Roe V. Wade has a predecessor.
+[11:33 AM]Glitch: https://youtu.be/4UmU1dSe3n0
+YouTube
+Andrewism
+How To Build A Solarpunk City
+Image
+[6:23 AM]Glitch: @everyone The new internet? https://langchain.readthedocs.io/en/latest/index.html
+https://www.youtube.com/watch?v=nE2skSRWTTs
+[6:26 AM]Glitch: this is still so esoteric: I haven't been able to set it up yet
+[1:47 PM]Glitch: https://www.wired.com/story/alphabet-layoffs-hit-trash-sorting-robots/
+WIRED
+Alphabet’s Layoffs Include Its Cafeteria-Cleaning Robots
+The company recently laid off thousands of human employees—it is also shutting down a unit working on robots that learned to open doors and clean tables.
+Alphabet’s Layoffs Include Its Cafeteria-Cleaning Robots
+[12:17 AM]Glitch: https://youtu.be/EzEuylNSn-Q
+YouTube
+AI Explained
+What's Left Before AGI? PaLM-E, 'GPT 4' and Multi-Modality
+Image
+[2:46 PM]Glitch: https://www.youtube.com/watch?v=Qr48ZxlYxOs
+YouTube
+Adam Something
+How Suburbs Destroyed America
+Image
+[7:21 PM]Glitch: https://www.youtube.com/watch?v=iiqH36CBrwA
+
+https://www.youtube.com/watch?v=n7cepz4iOAc
+
+https://www.youtube.com/watch?v=0mCN3GSavJQ
+
+https://www.youtube.com/watch?v=j1r-iorSKOU 
+YouTube
+ABC News
+Marianne Williamson on her presidential bid
+Image
+YouTube
+LA Progressive
+Marianne Williamson talks to Dick Price and Sharon Kyle of the LA P...
+Image
+YouTube
+WMUR-TV
+Williamson questions why government bails out banks but won't help ...
+Image
+YouTube
+Marianne 2024
+Marianne Williamson Campaigns for President in Portsmouth, New Hamp...
+Image
+[7:22 PM]Glitch: Hard to believe someone would be out there saying exactingly on what's wrong. — Her ideals are clear. She does not mince words. We'd only be so lucky. 
+[7:49 PM]Glitch: She talked about cop city. she recognizes banning books as that dreaded thing. Does not shy from calling out neoliberalism, admonishes capitalism: the 'exacting say' on these economic giants that preside over us. Advocates healthcare for all, tuition free college for all. She says, "The yearning of the American heart is to repair what has obviously been broken." A legend among us; rhetorical genius. 
+
+This woman would upend the system, save us, give us a future, and then amend every wrong that the United States would owe the world all at once. Marianne Williamson for 2024. 
+[6:41 PM]Glitch: https://www.youtube.com/watch?v=EzEuylNSn-Q
+
+https://www.youtube.com/watch?v=xslW5sQOkC8 
+YouTube
+AI Explained
+What's Left Before AGI? PaLM-E, 'GPT 4' and Multi-Modality
+Image
+YouTube
+AI Explained
+The Model That Changes Everything: Alpaca Breakthrough (ft. Apple's...
+Image

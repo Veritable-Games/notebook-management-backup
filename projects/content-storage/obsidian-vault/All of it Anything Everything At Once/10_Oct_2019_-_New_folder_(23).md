@@ -1,0 +1,472 @@
+
+# REC001.txt
+So to reiterate when you, it's a tribalist, okay, so to reiterate, try to, make sure I'm understanding it personally.
+150 people seems to be the cat, but which humans can cooperate.
+And then I may not think that it's the soft cat, right? It's the generalized cat.
+150 meter, 160, 170 is pushing it, you know, that kind of thing.
+Um, optimal is 150.
+Oh, dude, this town is such a good reference for the game.
+This much verticality kit.
+Uh, yeah, let me. How do I set it in my chair?
+Or are you gonna be on the line? Oh no, I can't, I can't match the line.
+There we go.
+Dude, you're gonna love this place, oh my god.
+I've got to, I'm gonna come back later and just play solo.
+So this area, because I can use this, it's a great reference to start out with.
+We're building a vertical area, vertical social space.
+And then you gotta expand it out to 150, but this is like really comfy.
+I love this area, dude.
+Oh my god, look at that.
+I did. Okay, I'm trying again.
+Now it says manage treating launch game.
+No, um, you all friends, you players.
+Oh, is it? Oh shit, okay.
+Um, see if you can find any, do you see the name of the map?
+I don't remember it.
+Okay, launch it up.
+Oh, that was epic.
+Someone dropped boulders on this 100 climbing ladder.
+Ha ha ha.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Oh my god, dude.
+It's like a dungeon area.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Wait for his voice.
+What's that?
+Oh, hey, dude, you're gonna love this shit.
+Spoilers, but I think it's perfect for you because you're a character and, uh,
+and come to kingdom kind of deliverance.
+Are you not?
+Okay.
+Jesus.
+Jesus.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+We're trying to get pretty good job defending.
+Oh, man.
+Oh, man.
+Oh, dude, it's so cool.
+Take some screenshots to explore.
+I'm gonna do the same thing.
+I can love this.
+Oh, you're having a lot of fun.
+These guys have 57 soldiers left.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Hopefully they, oh, invasion.
+Monitoring on play at trees.
+Yes.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+I met 44 ping.
+We're just starting now.
+There's 12 out of 24 on red and 14 out of 24.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, fucking horse.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Oh, man.
+Nice.
+Oh, I see your damage.
+You're doing good.
+Did you got the stairs?
+The ladder?
+We're joining it.
+I'll go up there right now.
+Okay, I went for you.
+We'll find another advance.
+I'll go around.
+Oh, man.
+What the fuck?
+I'm going to try to get around.
+Let's go.
+Oh.
+Yeah, there's more ladders.
+I can probably sneak around.
+Oh, yeah, yeah.
+The raised ladders.
+I saw that.
+It's one of those.
+That's pretty good.
+Sweet.
+Oh, there's a 10 up below.
+I got to go.
+I don't know what I'm doing there.
+I've got three minutes.
+Really going to make these.
+Well, I'm just going to have to have an embellish so they're not as well defended at the
+end.
+This is on the far back, right here.
+Pretty secure.
+I'm on them out.
+I should have gotten up the door.
+Oh, there's another one there.
+That's a little softer, cool.
+
+
+# REC002.txt
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+
+
+# REC003.txt
+Chion is a moon and
+
+
+# REC004.txt
+She owns a moon to the parent megastructure.
+It is tightly locked.
+I get the scale right in that, just make another sphere to encapsulate the world and then from the zero point of.
+I'm over-describing.
+Take a note.
+
+
+# REC005.txt
+Design note, the no-decks of language are expressed with hand gestures.
+And that's the left trigger.
+That's the right trigger.
+And the left trigger is dialogue.
+So you're using Dodex and dialogue to communicate to people.
+Be a limited set of Dodex at any given moment.
+Thrush the game.
+But as you build a collection of the Dodex, you gather all of them.
+You start off with two anxiety and anger.
+And then...
+I won't go from there, you know the rest.
+Emotion can work on a couple of decks over time.
+The Dodex, the F-E-C-T, F-E-E-C-T, F-E-F-F-F-6.
+12 effects, effect, it's...
+Jeez, I'll get it done.
+I will re-act like that later.
+
+
+# REC006.txt
+So I carried away, left hand expressed Stodax with hand gestures, using right trigger,
+and the right trigger, left trigger, I can say, he's dialogue, so right trigger to
+remote, use your gestures, your good experts say. You don't always have to use them when you
+feel the necessary, when you feel the need, if you if you need to express a certain emotion
+you can use the dotax, but you've a limited selection per conversation because of the gradient
+of communication, then I'm trying to transpose onto the player progression system, two then
+four then name, two then four then six then name and 12, and 12, just like I lost the
+head. Hopefully this is getting more and more concise. It's a slow process, but the iteration
+is helping.
+
+
+# REC007.txt
+Is there an adaptation I can take to see better in the dark in low light?
+
+
+# REC008.txt
+Why don't people get me dirty?
+Why am I not totally trusting in this area?
+It's so comfortable, so peaceful, but there's a...
+It's a way in the neighborhood, there's a lot of grass and lush green areas.
+There's families, there's friends.
+It's a close-knit, social space, but it's not close enough, in any sense.
+Because there's not means for all these people to interact with each other.
+We're all going to different places.
+Imagine if...
+Back up, back up, back up.
+I need to define the different spaces and their subgroups.
+So, something like this.
+
+
+# REC009.txt
+There are no cars, there are no roads, but there are modern rails, and some ways, and
+all these. There are means of transportation, down walking, but walking is so convenient. So,
+and I'm started by roads that you can walk to everywhere you need to go and interact with
+those people on the way socially. That's the players doing, they're going through an area,
+the road is, this, seven social space. You're moving on to 8, 9, 10, 11, 12, etc. until you have
+no problem with specters. Okay, let's get back, get back, get back, get back, get back, get back, get back, get back.
+
+
+# REC010.txt
+Petro.
+Sheriff Lockway.
+No, no, necessarily.
+Petro.
+Petro.
+Petro.
+In different entrances at this space, it's like a...
+It's cozy in the way there's right now.
+Here are four petrooms.
+Yeah, four petrooms.
+Four petrooms is optimal.
+Because you have four friends in a given space.
+Four friends is optimal.
+But you only have to read your environments.
+The fourth interaction with me was what kind of...
+It makes things a little more dynamic.
+But we're missing that.
+So, the overall apartment size is four petrooms.
+And there's a...
+What do you call it, ale?
+There's the hearts.
+There's the room and the dining room.
+The dining room is not seven in the kitchen.
+The kitchen and the dining room.
+One of the things is that whether you see a kitchen surface space,
+they can be checked, or they can be intricate.
+But they don't need to be circular.
+They can be...
+They can be a table center.
+They can be enough for D&D.
+It's also a social space.
+That kind of thing.
+Four.
+We love creative games.
+And we have AR.
+It's a great way of doing that.
+D&D.
+Imagine D&D in these spaces.
+Or the other AR game with your friends.
+It's not as discontent as what...
+I'm sure there's that.
+There's really no difference in interactions.
+But this interaction is just...
+Good for them.
+Just as efficient.
+So they interact with each other.
+Basically, instead of online,
+that will set them to interact online.
+If your friends away, they can join the D&D session digitally.
+
+
+# REC011.txt
+紐 constitutional
+1革近
+1革近
+4-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+4-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+1-2-3-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+
+# REC012.txt
+Okay, I'm stuck inside for a break.
+This is working.
+We're going to take our core inside.
+If we want to read.
+Let's have a torture.
+Oh my god.
+Look at that.
+Not behind when I'm trying to read.
+I got me this space goes here. There it is.
+Because I'm excited to get something high.
+When I'm sober.
+And when I'm high, I'm excited as reduced.
+So I don't know.
+What should I do there?
+
+
+# REC013.txt
+bit by bit, a little by little. I'm working to create a lifetime magnum opus, ongoing production,
+and I have a Patreon-like system. The game is 30-puxed entry, the purchase, the play.
+And then the player, we get them pre-content over time. Those are the truths to pay.
+Those are the truths to not pay the content. But the Patreon people are appreciated in the community
+for what they're doing. Or they people in this community also like to see the direction of the game
+and want it to expand. It's like when you spend money on a game and it's not so expensive,
+you don't think of the cash you think about how it's a donation towards what they've accomplished.
+But we're famous a little more greedy about that. Not greedy necessarily, greedy merit, because they need to survive.
+So this is a grinding nature to it. But I think I can do away with the grinding nature. I don't want grinding nature at all.
+I want gradual for, I want like, first six hours of content, five hours of content, or at least a free 30 bucks.
+And then over time, we introduce new content. Bit by bit, little by little, we introduce new content to the player
+through Patreon-like updates that span the course of continued development.
+If our team can manage the cash flow carefully without expanding scope too far,
+otherwise we'll impede progress. It needs to be a close barrier city.
+I'm going to describe it now in a game. That's the third and the size for it.
+
+
+# REC014.txt
+Monson noted I am meant I'm crazy from and on maybe I am probably crazy and we
+Jeez just gonna sound so out there, but protons are gluons and
+No, that's not right stepping back. That's wrong
+
+
+# REC015.txt
+Protons are photons. They just haven't caught particulates yet. They're not massless.
+They contain the forces, gravitation, and that the weakened nuclear forces, the smaller versions of those.
+And then when there's enough particulates there, it starts to gather mass.
+So when we say it travels to speed of light, hypothetically because we've only been here, we've only seen light travel for about 200,000 years.
+But we're looking into the past by about 13.8 billion years. Our planet's been around for about 4.5 billion years.
+And we're looking into the past, but we're not. The past hasn't cut off to us yet.
+Here's to the past. It's time resolution. It's light has limited speed.
+Or a limited maximum speed within our radius of vision right now. It can go further.
+True black hole. It just does take time, but we haven't seen the end of that.
+A maximum length of distance between us and the super-maker collective ultra-black hole at the center of our galaxy, our universe, I should say.
+Quasar. Super-maker Quasar. Like the one that's inside the center of our Milky Way.
+We're like rotating bodies, our solar system, but the distance from that super-maker, the ultra-quasar, is almost incomprehensible, the distance from that.
+Yes.
+Let's see if we're ready.
+
+
+# REC016.txt
+modular bedrooms
+
+
+# REC017.txt
+오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오오
+

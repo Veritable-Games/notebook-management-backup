@@ -1,0 +1,187 @@
+{
+  "services": {
+    "Backend-API": {
+      "name": "Backend API",
+      "command": "node server.js",
+      "directory": "/home/user/Repository/projects/backend-api",
+      "port": 4000,
+      "dependencies": [],
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 4000,
+        "LOG_LEVEL": "info"
+      },
+      "autoRestart": true,
+      "healthCheck": {
+        "path": "/api/health",
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3
+      }
+    },
+    "CM-Backend": {
+      "name": "Content Management Backend",
+      "command": "node server.js",
+      "directory": "/home/user/Repository/projects/content-management/backend",
+      "port": 3001,
+      "dependencies": [],
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 3001,
+        "LOG_LEVEL": "info"
+      },
+      "autoRestart": true,
+      "healthCheck": {
+        "path": "/health",
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3
+      }
+    },
+    "CM-Frontend": {
+      "name": "Content Management Frontend",
+      "command": "npm start",
+      "directory": "/home/user/Repository/projects/content-management/frontend",
+      "port": 3002,
+      "dependencies": ["CM-Backend"],
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 3002,
+        "REACT_APP_API_URL": "http://localhost:3001"
+      },
+      "autoRestart": true,
+      "healthCheck": {
+        "path": "/",
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3
+      }
+    },
+    "CV-Backend": {
+      "name": "Constellation Viewer Backend",
+      "command": "node server.js",
+      "directory": "/home/user/Repository/projects/constellation-viewer",
+      "port": 8080,
+      "dependencies": ["Backend-API"],
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 8080,
+        "LOG_LEVEL": "info",
+        "BACKEND_API_HOST": "localhost",
+        "BACKEND_API_PORT": 4000
+      },
+      "autoRestart": true,
+      "healthCheck": {
+        "path": "/api/relationships/check",
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3
+      }
+    },
+    "CV-Frontend": {
+      "name": "Constellation Viewer Frontend",
+      "command": "npm start",
+      "directory": "/home/user/Repository/projects/constellation-viewer/frontend",
+      "port": 9003,
+      "dependencies": ["CV-Backend"],
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 9003,
+        "REACT_APP_API_URL": "http://localhost:3004"
+      },
+      "autoRestart": true,
+      "healthCheck": {
+        "path": "/",
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3
+      }
+    },
+    "3D-Visualization": {
+      "name": "3D Visualization",
+      "command": "npm start",
+      "directory": "/home/user/Repository/projects/3d-visualization",
+      "port": 8090,
+      "dependencies": [],
+      "env": {
+        "NODE_ENV": "development",
+        "PORT": 8081
+      },
+      "autoRestart": true,
+      "healthCheck": {
+        "path": "/",
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3
+      }
+    },
+    "Wiki-Export": {
+      "name": "Wiki Export",
+      "command": "node server.js",
+      "directory": "/home/user/Repository/projects/wiki-export",
+      "port": 8085,
+      "dependencies": ["CV-Backend"],
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 8085
+      },
+      "autoRestart": true,
+      "healthCheck": {
+        "path": "/",
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3
+      }
+    },
+    "PS2-Forum": {
+      "name": "PS2 Forum",
+      "command": "docker-compose up -d",
+      "directory": "/home/user/Repository/projects/wordpress-projects/Forum-Plugins",
+      "port": 8000,
+      "dependencies": [],
+      "env": {},
+      "autoRestart": false,
+      "healthCheck": {
+        "path": "/",
+        "interval": 60,
+        "timeout": 10,
+        "retries": 3
+      }
+    },
+    "Canvas": {
+      "name": "Canvas Application",
+      "command": "node vg-canvas.js",
+      "directory": "/home/user/Repository/projects/canvas-application",
+      "port": 3000,
+      "dependencies": [],
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "autoRestart": true,
+      "healthCheck": {
+        "path": "/",
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3
+      }
+    },
+    "Monitoring-Dashboard": {
+      "name": "Monitoring Dashboard",
+      "command": "node server.js",
+      "directory": "/home/user/Repository/projects/monitoring/dashboard",
+      "port": 9090,
+      "dependencies": [],
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 9090
+      },
+      "autoRestart": true,
+      "healthCheck": {
+        "path": "/",
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3
+      }
+    }
+  }
+}

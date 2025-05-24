@@ -1,0 +1,15 @@
+{
+  "title": "inc_txt",
+  "content": "# inc.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:14:31-07:00\n\n====== inc.txt ======\nWhat is the best approach to building this? I would give you a directory: 'F:\\_WebHosting\\DataBase\\ [continued] CRONw' and neighbor to it 'F:\\_WebHosting\\GitHub'. I would prefer building things in Jupyter: to the webhosting *after* we have figured out the local interface. Deeper to how you would be interacting- with Auto-GPT and modulate it to some method to the network infrastructure.  Give me the steps, would you? \n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/inc.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.141Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/inc.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.141Z"
+  },
+  "created": "2025-05-05T16:25:37.141Z",
+  "modified": "2025-05-05T16:25:37.141Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

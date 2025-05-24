@@ -1,0 +1,15 @@
+{
+  "title": "discordtxt_txt",
+  "content": "# discordtxt.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:02:53-07:00\n\n====== discordtxt.txt ======\nI am developing with Auto-GPT, can you design me an interface for a Discord bot to talk to it? \"cwcorella@DESKTOP-42SH73T:~$ cd /mnt/c/Users/User/Desktop/venv cwcorella@DESKTOP-42SH73T:/mnt/c/Users/User/Desktop/venv$ source bin/activate (venv) cwcorella@DESKTOP-42SH73T:/mnt/c/Users/User/Desktop/venv$ cd /mnt/f/production/repository/Auto-GPT\"\r\n\r\nthis is the discord bot information\r\n\r\n1096520891908771920\r\n470d18f756887a6d8e469443aed6c2205adf23f50463cbb66b5dba8a842e015c\r\n\r\nMTA5NjUyMDg5MTkwODc3MTkyMA.GWYaX_.RZFp5dbqV4VqrGmRtqFRTpwIDINBcyML6Bt4Kg\r\n\r\n59900336004801\r\n\r\nhttps://discord.com/api/oauth2/authorize?client_id=1096520891908771920&permissions=69247459909313&redirect_uri=http%3A%2F%2Flocalhost%3A8000%2Fcallback&response_type=code&scope=identify%20email%20connections%20guilds%20guilds.join%20guilds.members.read%20gdm.join%20rpc%20rpc.notifications.read%20rpc.voice.read%20rpc.voice.write%20rpc.activities.write%20bot%20webhook.incoming%20messages.read%20applications.builds.upload%20applications.builds.read%20applications.commands%20applications.store.update%20applications.entitlements%20activities.read%20activities.write%20voice%20dm_channels.read%20relationships.read%20role_connections.write%20applications.commands.permissions.update\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/discordtxt.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.094Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/discordtxt.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.094Z"
+  },
+  "created": "2025-05-05T16:25:37.094Z",
+  "modified": "2025-05-05T16:25:37.094Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

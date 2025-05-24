@@ -1,0 +1,15 @@
+{
+  "title": "placeholder_txt",
+  "content": "# placeholder.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:37:48-07:00\n\n====== placeholder.txt ======\ne02a2685bd025da08912e2f53e8f5eee\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/placeholder.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.164Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/placeholder.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.164Z"
+  },
+  "created": "2025-05-05T16:25:37.164Z",
+  "modified": "2025-05-05T16:25:37.164Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

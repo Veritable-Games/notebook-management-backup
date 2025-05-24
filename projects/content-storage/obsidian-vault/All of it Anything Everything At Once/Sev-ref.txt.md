@@ -1,0 +1,220 @@
+
+# Sev-ref.txt
+Let's do it.
+That was fun.
+Let's do that again some time.
+Hostiles down.
+Never saw it coming.
+Moving to your mark.
+Moving into position.
+We should do that more often.
+Check, ready for assault.
+Ready to engage.
+Expecting company, 38?
+Yes, sir. Though there's no sport in such a weapon.
+I was just getting warmed up, sir.
+Over so soon?
+Hold on sir! Let me kill these scumbags first.
+Boss! Hold onto your guts while I rip out theirs.
+I thought you were tougher than that, sir.
+We ain't got time to bleed, sir.
+Good kill.
+Enemy down.
+Nice takedown.
+One more down.
+That's a kill.
+Another kill for the cause.
+Hostile down.
+Assisting delta 40.
+Fixers in need, I'm on it.
+Hold on fixer, help's on the way.
+Lending a hand to 62.
+I'm on Scorch! 
+Squad leader receiving help.
+It's dead, good.
+That's one for me.
+That one's out of its misery.
+Dead. Stay down.
+This one's still moving, I hate it when they do that.
+Fixer's out!
+40's down!
+We've lost scorch!
+62 is incapacitated!
+Take out that droid!
+Lousy clanker.
+These bugs are tough!
+Are all geonasians this tough?
+They'll pay for that.
+We'll get 'em back.
+We'll have your lizard hide for that!
+I can't believe he fell for that.
+I hate those things.
+Beautiful strike, sir.
+Couldn't have done it better myself, sir.
+I'll take your lead, sir.
+Nice clean hit, sir.
+Nothing like a little bacta.
+Bacta applied.
+Much better.
+07, ready for combat.
+07, good to go.
+I feel better now.
+I'm ready to go, delta squad.
+That helped.
+I needed that.
+That's just what I needed.
+Nice and simple.
+Take that!
+One down, millions to go.
+That's a kill.
+Droid scrapped.
+Droid erraticated.
+Yeah, got him!
+Down and out.
+The only good droid, is a dead droid.
+Delta leader, please return to squad.
+Squad lead, we're back here.
+Sir, we're waiting.
+38, is something the matter?
+Awaiting your orders, 38.
+Should we wait for you to catch up, sir?
+Have you lost your way, sir?
+Sir, could you lend us a hand up here?
+You're missing the fight, sir!
+Another stop? Not again, sir.
+38's gone mad!
+Squad leader's firing on us!
+Hostile commando!
+Something wrong sir? You're not moving.
+Taking a break, 38?
+Are you tired, squad leader?
+Shouldn't we be moving along, sir?
+Is your helmet too tight, sir?
+Squad leader, are you ok?
+Battle fatigued, sir?
+Did you see something? 
+What are you shooting at?
+I don't see any targets here, sir.
+What is that!?
+Don't stop!
+We're almost through!
+We're in trouble, sir.
+Sorry lead, no can do.
+With all due respect, sir. That's impossible.
+I'd like to do that, sir. But I can't.
+Negative delta leader.
+No can do, sir.
+No way squad leader.
+I'm tapped out. (out of ammo)
+Ah, fresh ammo.
+07, ready for duty.
+Thanks for the help, delta.
+Get the fuck off!
+Droidekas on my viewer, deltas!
+Watch it, drones!
+On your toes, delta!
+Drones ahead!
+Drones incoming!
+Got a lock on some bugs.
+We got trouble.
+This could get ugly.
+We've got problems, deltas.
+There goes squad leader.
+Lead down!
+Do that again, 38, and I'll kill you myself.
+Sir, you're a waste of good genes.
+Somebody radio command and get us a replacement for 38.
+They're making me angry, sir.
+What's the point, sir?
+Your leadership fails to inpsire, sir.
+There he goes again.
+Let's send 38 back to basic training.
+Kill the enemy, sir, not yourself.
+Sir, stand aside.
+Outta my way.
+Sir, you're inturrupting my killing spree!
+I could do this all day!
+Keep 'em coming!
+They're just lining up to die!
+This wouldn't take so long if you could aim!
+Try aiming instead of talking!
+My trigger finger is getting itchy. When do I get to kill something again?
+Come out come out, so I can kill you all.
+38, contact command and ask them when I get to kill something.
+Maintaining muscle dicipline.
+Taking cover!
+With extreme pleasure, sir.
+Let me show you real marksmanship.
+They don't stand a chance against me.
+That one should've played dead. Now it's extra dead.
+And stay down.
+38, you sure you don't want someone who can shoot straight? (inform player of poor squad member choice for specific task)
+You want to rely on his sniping?
+Need meds...not...doing...well.
+Need meds, now!
+I'm hit...
+Administering bacta.
+I can't hold 'em!
+I'm pinned down!
+I can't move!
+That's one less droid.
+Multiple enemies, incoming!
+Clankers!
+Bolt bags ahead!
+Let's get outta here!
+Back it up, team!
+Move it back!
+I gotta get outta here.
+Move it or lose it.
+Can't take any more.
+Enough of this.
+We've gotta pull out, damn.
+Hey watch it!
+Don't make me take you out, sir.
+Stop it already!
+I've got enough problems.
+Are you trying to get me angry, sir?
+Bang bang.
+That's what you get for messing with
+Another dead enemy.
+Dead, good riddance.
+Die screaming!
+Die!
+Executed.
+Annihilated!
+You're dead.
+Clean shot.
+I love that metallic sound when they die.
+Meet the maker, droid.
+One more for the slag heap.
+Droid terminated.
+Mech unit eliminated.
+The boss is down, I repeat. The boss is down!
+Man down!
+There goes a delta.
+There goes a teammate.
+Lost a squadmate.
+Let's get going.
+Be right back.
+I'm good to go.
+I'm ready for battle.
+Much better now.
+Delta 7, ready for combat.
+Set for combat.
+That did the trick.
+Feeling alright now.
+You got it.
+Consider it done.
+Heard ya, sir.
+I hear ya.
+Check.
+Battle damage over here.
+8, nice arm there.
+Way to take 'em down.
+Busted another, boss.
+You got one, 38.
+Yeah, take that!
+Way to blast them!
+Nice kill!
+You've got to be kidding.
+I need backup!

@@ -1,0 +1,61 @@
+{
+  "loggers": {
+    "system": {
+      "path": "system-logs",
+      "rotation": {
+        "size": "10MB",
+        "age": "30d",
+        "count": 10
+      },
+      "format": "{timestamp} [{level}] {service}: {message}",
+      "levels": ["INFO", "WARNING", "ERROR", "CRITICAL"]
+    },
+    "application": {
+      "path": "application-logs",
+      "rotation": {
+        "size": "20MB",
+        "age": "14d",
+        "count": 5
+      },
+      "format": "{timestamp} [{level}] {service} {component}: {message}",
+      "levels": ["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"]
+    }
+  },
+  "services": {
+    "CM-Backend": {
+      "logType": "system",
+      "logFile": "CM-Backend.log",
+      "levels": ["INFO", "WARNING", "ERROR", "CRITICAL"]
+    },
+    "CM-Frontend": {
+      "logType": "system",
+      "logFile": "CM-Frontend.log",
+      "levels": ["INFO", "WARNING", "ERROR", "CRITICAL"]
+    },
+    "CV-Backend": {
+      "logType": "system",
+      "logFile": "CV-Backend.log",
+      "levels": ["INFO", "WARNING", "ERROR", "CRITICAL"]
+    },
+    "CV-Frontend": {
+      "logType": "system",
+      "logFile": "CV-Frontend.log",
+      "levels": ["INFO", "WARNING", "ERROR", "CRITICAL"]
+    },
+    "3D-Visualization": {
+      "logType": "application",
+      "logFile": "3D-Visualization.log",
+      "levels": ["DEBUG", "INFO", "WARNING", "ERROR"]
+    },
+    "Canvas": {
+      "logType": "application",
+      "logFile": "Canvas.log",
+      "levels": ["DEBUG", "INFO", "WARNING", "ERROR"]
+    },
+    "Wiki-Export": {
+      "logType": "application",
+      "logFile": "Wiki-Export.log",
+      "levels": ["INFO", "WARNING", "ERROR"]
+    }
+  }
+}

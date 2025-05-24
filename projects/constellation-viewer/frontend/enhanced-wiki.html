@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veritable Games - Wiki System</title>
+    
+    <!-- External CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700&family=Montserrat:wght@400;500;700&display=swap">
+    
+    <!-- Our enhanced wiki CSS -->
+    <link rel="stylesheet" href="enhanced-wiki.css">
+    
+    <!-- External JS libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="theme-light">
+    <!-- Main header with search and global actions -->
+    <header class="main-header">
+        <div class="header-left">
+            <div class="logo-container">
+                <img src="https://via.placeholder.com/40" alt="Logo" class="site-logo">
+                <h1 class="site-title">Wiki System</h1>
+            </div>
+        </div>
+        <div class="header-center">
+            <div class="global-search">
+                <input type="text" id="global-search-input" placeholder="Search wiki..." class="global-search-input">
+                <button id="global-search-button" class="global-search-button">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </div>
+        <div class="header-right">
+            <button id="theme-toggle" class="header-button" title="Toggle dark mode">
+                <i class="fas fa-moon"></i>
+            </button>
+            <div class="header-actions">
+                <button id="header-new-page" class="header-button action-button">
+                    <i class="fas fa-plus-circle"></i> New Page
+                </button>
+                <div class="dropdown">
+                    <button class="header-button dropdown-toggle">
+                        <i class="fas fa-cog"></i>
+                    </button>
+                    <div class="dropdown-content dropdown-right">
+                        <a href="#" id="header-new-folder"><i class="fas fa-folder-plus"></i> New Folder</a>
+                        <a href="#" id="header-system-logs"><i class="fas fa-list-alt"></i> System Logs</a>
+                        <a href="#" id="header-advanced-search"><i class="fas fa-search-plus"></i> Advanced Search</a>
+                        <div class="dropdown-divider"></div>
+                        <a href="#" id="header-help"><i class="fas fa-question-circle"></i> Help</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div id="app-container">
+        <!-- Sidebar -->
+        <aside id="sidebar">
+            <!-- Sidebar navigation -->
+            <div class="sidebar-nav">
+                <!-- Quick navigation -->
+                <div class="nav-section">
+                    <div class="nav-title">Navigation</div>
+                    <a href="#" class="nav-item active" data-page="Home">
+                        <i class="fas fa-home"></i> Home
+                    </a>
+                    <a href="#" class="nav-item" data-page="About">
+                        <i class="fas fa-info-circle"></i> About
+                    </a>
+                </div>
+                
+                <!-- Content tree with collapsible sections -->
+                <div class="nav-section tree-view">
+                    <div class="nav-title">Content Tree</div>
+                    <div id="wiki-tree"></div>
+                </div>
+                
+                <!-- Recent Pages -->
+                <div class="nav-section">
+                    <div class="nav-title">Recent Pages</div>
+                    <div id="recent-pages"></div>
+                </div>
+                
+                <!-- Notebooks browser with better organization -->
+                <div class="nav-section">
+                    <div class="nav-title collapsible">
+                        <span>Notebooks</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="collapsible-content">
+                        <select id="notebook-directory" class="form-control">
+                            <option value="">Select a directory</option>
+                        </select>
+                        <div id="notebook-files" class="file-tree"></div>
+                    </div>
+                </div>
+                
+                <!-- Tags list for organization -->
+                <div class="nav-section">
+                    <div class="nav-title collapsible">
+                        <span>Tags</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="collapsible-content">
+                        <div id="all-tags" class="tags-cloud"></div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        
+        <!-- Main content -->
+        <main id="main-content">
+            <!-- Breadcrumb and page tools -->
+            <div class="content-header">
+                <!-- Breadcrumb navigation -->
+                <div class="breadcrumb-nav">
+                    <div id="breadcrumb-path"></div>
+                    
+                    <!-- Navigation controls -->
+                    <div class="page-tools">
+                        <button id="nav-back" class="tool-button" title="Go back" disabled>
+                            <i class="fas fa-arrow-left"></i>
+                        </button>
+                        <button id="nav-forward" class="tool-button" title="Go forward" disabled>
+                            <i class="fas fa-arrow-right"></i>
+                        </button>
+                        
+                        <!-- View mode toggle -->
+                        <div class="view-mode-selector">
+                            <button id="compact-mode-btn" class="tool-button" title="Compact mode">
+                                <i class="fas fa-compress"></i>
+                            </button>
+                            <button id="normal-mode-btn" class="tool-button active" title="Normal mode">
+                                <i class="fas fa-desktop"></i>
+                            </button>
+                            <button id="reading-mode-btn" class="tool-button" title="Reading mode">
+                                <i class="fas fa-book-open"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Page title with inline actions -->
+                <div class="page-header">
+                    <h1 id="content-title">Select a page to view</h1>
+                    <div class="page-actions">
+                        <button id="watch-page" class="page-action-button" title="Watch page">
+                            <i class="far fa-eye"></i>
+                        </button>
+                        <div class="dropdown">
+                            <button id="more-actions-btn" class="page-action-button dropdown-toggle">
+                                <i class="fas fa-ellipsis-h"></i>
+                            </button>
+                            <div class="dropdown-content dropdown-right">
+                                <a href="#" id="download-page"><i class="fas fa-download"></i> Download</a>
+                                <a href="#" id="print-page"><i class="fas fa-print"></i> Print</a>
+                                <a href="#" id="delete-page"><i class="fas fa-trash"></i> Delete</a>
+                                <div class="dropdown-divider"></div>
+                                <a href="#" id="page-info"><i class="fas fa-info-circle"></i> Page Info</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Standard tab interface -->
+                <div class="wiki-tabs standard-tabs">
+                    <div id="read-tab" class="wiki-tab active">
+                        <i class="fas fa-book"></i> <span>Read</span>
+                    </div>
+                    <div id="edit-tab" class="wiki-tab">
+                        <i class="fas fa-edit"></i> <span>Edit</span>
+                    </div>
+                    <div id="history-tab" class="wiki-tab">
+                        <i class="fas fa-history"></i> <span>History</span>
+                    </div>
+                    <div id="discussion-tab" class="wiki-tab">
+                        <i class="fas fa-comments"></i> <span>Discussion</span>
+                    </div>
+                </div>
+                
+                <!-- Tab content containers -->
+                <!-- Read view -->
+                <div id="content-container" class="tab-content active">
+                    <!-- Table of contents will be inserted here for longer pages -->
+                    <div id="table-of-contents" class="toc"></div>
+                    
+                    <!-- Actual wiki content -->
+                    <div class="wiki-content">
+                        <p>Welcome to the Enhanced Wiki System. Select a page from the navigation to begin.</p>
+                    </div>
+                    
+                    <!-- Page metadata -->
+                    <div class="page-metadata">
+                        <div class="metadata-row">
+                            <div class="metadata-item">
+                                <i class="fas fa-clock"></i>
+                                Last modified: <span id="last-modified-date">Unknown</span>
+                            </div>
+                            <div class="metadata-item">
+                                <i class="fas fa-user"></i>
+                                Author: <span id="last-modified-by">Unknown</span>
+                            </div>
+                        </div>
+                        <div class="metadata-row tags-row">
+                            <div class="metadata-item">
+                                <i class="fas fa-tags"></i>
+                                <span class="tags-title">Tags:</span>
+                                <div class="tags-container"></div>
+                                <button id="add-tag-btn" class="tag-button" title="Add a tag">
+                                    <i class="fas fa-plus"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="metadata-row">
+                            <div class="metadata-item backlinks">
+                                <i class="fas fa-link"></i>
+                                <span>Pages linking here: </span>
+                                <span id="backlinks-count">0</span>
+                                <button id="show-backlinks" class="tag-button">
+                                    <i class="fas fa-eye"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Edit tab container -->
+                <div id="edit-container" class="tab-content">
+                    <div class="editor-toolbar">
+                        <div class="editor-modes">
+                            <button class="editor-mode-btn active" data-mode="markdown">
+                                <i class="fas fa-code"></i> Markdown
+                            </button>
+                            <button class="editor-mode-btn" data-mode="wysiwyg">
+                                <i class="fas fa-edit"></i> Visual Editor
+                            </button>
+                        </div>
+                        <div class="editor-templates">
+                            <div class="dropdown">
+                                <button class="btn-secondary dropdown-toggle">
+                                    <i class="fas fa-puzzle-piece"></i> Templates
+                                </button>
+                                <div class="dropdown-content">
+                                    <a href="#" data-template="heading">Heading Structure</a>
+                                    <a href="#" data-template="table">Table</a>
+                                    <a href="#" data-template="info">Info Box</a>
+                                    <a href="#" data-template="warning">Warning Box</a>
+                                    <a href="#" data-template="code">Code Block</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div id="editor-wrapper">
+                        <textarea id="editor"></textarea>
+                    </div>
+                    
+                    <!-- Edit notes with better UI -->
+                    <div id="editor-notes-container">
+                        <div class="form-group">
+                            <label for="edit-notes">
+                                <i class="fas fa-pencil-alt"></i> 
+                                Edit Notes
+                                <span class="field-hint">(Describe your changes to help others understand what you modified)</span>
+                            </label>
+                            <textarea id="edit-notes" class="form-control" placeholder="Describe your changes (optional)..."></textarea>
+                        </div>
+                        
+                        <div class="editor-actions">
+                            <button id="cancel-edit-btn" class="btn-secondary">
+                                <i class="fas fa-times"></i> Cancel
+                            </button>
+                            <div class="save-options dropdown">
+                                <button id="save-edit-btn" class="btn-primary">
+                                    <i class="fas fa-save"></i> Save Changes
+                                </button>
+                                <button class="btn-primary dropdown-toggle">
+                                    <i class="fas fa-caret-down"></i>
+                                </button>
+                                <div class="dropdown-content dropdown-up">
+                                    <a href="#" id="save-minor-edit">Save as Minor Edit</a>
+                                    <a href="#" id="save-draft">Save as Draft</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- History tab view with modern diff UI -->
+                <div id="history-container" class="tab-content">
+                    <div class="history-toolbar">
+                        <div class="history-filters">
+                            <div class="form-group">
+                                <label for="history-filter">Show:</label>
+                                <select id="history-filter" class="form-control">
+                                    <option value="all">All Changes</option>
+                                    <option value="major">Major Changes</option>
+                                    <option value="minor">Minor Changes</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="history-user-filter">By User:</label>
+                                <select id="history-user-filter" class="form-control">
+                                    <option value="all">All Users</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="toolbar-actions">
+                            <button id="compare-versions" class="btn-secondary" disabled>
+                                <i class="fas fa-exchange-alt"></i> Compare Selected
+                            </button>
+                            <button id="refresh-history" class="btn-secondary">
+                                <i class="fas fa-sync"></i> Refresh
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div id="history-list" class="history-entries">
+                        <!-- History entries will be added here -->
+                        <div class="loading-placeholder">
+                            <div class="spinner"></div>
+                            <p>Loading history...</p>
+                        </div>
+                    </div>
+                    
+                    <div id="version-comparison" class="diff-view" style="display: none;">
+                        <div class="diff-header">
+                            <h3>Comparing Versions</h3>
+                            <div class="diff-controls">
+                                <button class="btn-secondary diff-mode-btn active" data-mode="side">
+                                    Side by Side
+                                </button>
+                                <button class="btn-secondary diff-mode-btn" data-mode="inline">
+                                    Inline
+                                </button>
+                                <button id="close-diff" class="btn-secondary">
+                                    <i class="fas fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="diff-container"></div>
+                    </div>
+                </div>
+                
+                <!-- Discussion tab -->
+                <div id="discussion-container" class="tab-content">
+                    <div class="discussion-header">
+                        <h3>Page Discussion</h3>
+                        <button id="new-comment-btn" class="btn-primary">
+                            <i class="fas fa-plus"></i> New Comment
+                        </button>
+                    </div>
+                    
+                    <div id="comments-list" class="comments-container">
+                        <!-- Comments will be added here -->
+                        <div class="no-comments-message">
+                            <i class="far fa-comments"></i>
+                            <p>No comments yet. Start a discussion by adding a comment.</p>
+                        </div>
+                    </div>
+                    
+                    <div id="comment-form" class="comment-editor" style="display: none;">
+                        <div class="form-group">
+                            <label for="comment-text">Your Comment</label>
+                            <textarea id="comment-text" class="form-control" placeholder="Type your comment here..."></textarea>
+                        </div>
+                        <div class="form-actions">
+                            <button id="cancel-comment" class="btn-secondary">Cancel</button>
+                            <button id="post-comment" class="btn-primary">Post Comment</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Special purpose containers -->
+                <!-- System Logs Container -->
+                <div id="system-logs-container" class="special-view">
+                    <div class="view-header">
+                        <h2>System Activity Logs</h2>
+                        <div class="view-actions">
+                            <div class="form-group">
+                                <select id="logs-filter" class="form-control">
+                                    <option value="all">All Activities</option>
+                                    <option value="api">API Calls</option>
+                                    <option value="error">Errors</option>
+                                    <option value="page">Page Changes</option>
+                                </select>
+                            </div>
+                            <button id="refresh-logs" class="btn-secondary">
+                                <i class="fas fa-sync"></i> Refresh
+                            </button>
+                            <button id="close-logs" class="btn-secondary">
+                                <i class="fas fa-times"></i> Close
+                            </button>
+                        </div>
+                    </div>
+                    <div id="logs-list" class="logs-content">
+                        <!-- System logs will be added here -->
+                        <div class="loading-placeholder">
+                            <div class="spinner"></div>
+                            <p>Loading system logs...</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Advanced Search Container -->
+                <div id="advanced-search-container" class="special-view">
+                    <div class="view-header">
+                        <h2>Advanced Search</h2>
+                        <button id="close-advanced-search" class="btn-secondary">
+                            <i class="fas fa-times"></i> Close
+                        </button>
+                    </div>
+                    
+                    <div class="search-panel">
+                        <div class="search-form">
+                            <div class="form-group">
+                                <label for="advanced-search-input">Search Term</label>
+                                <div class="search-input-group">
+                                    <input type="text" id="advanced-search-input" placeholder="Enter search terms..." class="form-control">
+                                    <button id="perform-search" class="btn-primary">
+                                        <i class="fas fa-search"></i> Search
+                                    </button>
+                                </div>
+                            </div>
+                            
+                            <div class="search-filters">
+                                <div class="filter-section">
+                                    <h4>Search In</h4>
+                                    <div class="filter-options">
+                                        <label class="checkbox">
+                                            <input type="checkbox" id="search-titles" checked>
+                                            <span>Titles</span>
+                                        </label>
+                                        <label class="checkbox">
+                                            <input type="checkbox" id="search-content" checked>
+                                            <span>Content</span>
+                                        </label>
+                                        <label class="checkbox">
+                                            <input type="checkbox" id="search-tags" checked>
+                                            <span>Tags</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                
+                                <div class="filter-section">
+                                    <h4>Date Modified</h4>
+                                    <div class="filter-options">
+                                        <label class="radio">
+                                            <input type="radio" name="date-filter" value="any" checked>
+                                            <span>Any time</span>
+                                        </label>
+                                        <label class="radio">
+                                            <input type="radio" name="date-filter" value="past-day">
+                                            <span>Past day</span>
+                                        </label>
+                                        <label class="radio">
+                                            <input type="radio" name="date-filter" value="past-week">
+                                            <span>Past week</span>
+                                        </label>
+                                        <label class="radio">
+                                            <input type="radio" name="date-filter" value="past-month">
+                                            <span>Past month</span>
+                                        </label>
+                                    </div>
+                                </div>
+                                
+                                <div class="filter-section">
+                                    <h4>Categories</h4>
+                                    <div class="filter-options" id="category-filters">
+                                        <label class="checkbox">
+                                            <input type="checkbox" value="all" checked>
+                                            <span>All Categories</span>
+                                        </label>
+                                        <!-- More categories will be added dynamically -->
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="search-actions">
+                                <button id="clear-search" class="btn-secondary">
+                                    <i class="fas fa-times"></i> Clear
+                                </button>
+                                <button id="save-search" class="btn-secondary">
+                                    <i class="fas fa-bookmark"></i> Save Search
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div id="advanced-search-results" class="search-results">
+                            <!-- Search results will be added here -->
+                            <div class="search-start-state">
+                                <i class="fas fa-search"></i>
+                                <p>Enter search terms and press Search to find pages</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <!-- Modals -->
+    <!-- New Page Modal -->
+    <div id="new-page-modal" class="modal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Create New Page</h3>
+                    <button class="modal-close">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <form id="new-page-form">
+                        <div class="form-group">
+                            <label for="page-category">Category</label>
+                            <select id="page-category" class="form-control">
+                                <option value="">No Category (Root Level)</option>
+                                <option value="__new__">+ Create New Category</option>
+                            </select>
+                        </div>
+                        <div id="new-category-group" class="form-group" style="display: none;">
+                            <label for="new-category">New Category Name</label>
+                            <input type="text" id="new-category" class="form-control" placeholder="e.g. Projects, Documentation, etc.">
+                        </div>
+                        <div class="form-group">
+                            <label for="page-name">Page Name</label>
+                            <input type="text" id="page-name" class="form-control" required placeholder="e.g. Getting Started, Installation, etc.">
+                        </div>
+                        <div class="form-group">
+                            <label for="page-template">Template</label>
+                            <select id="page-template" class="form-control">
+                                <option value="default">Default</option>
+                                <option value="empty">Empty</option>
+                                <option value="guide">Guide</option>
+                                <option value="reference">Reference</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="new-page-tags">Tags (comma separated)</label>
+                            <input type="text" id="new-page-tags" class="form-control" placeholder="e.g. documentation, guide, important">
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn-secondary modal-cancel">Cancel</button>
+                    <button class="btn-primary modal-confirm">Create Page</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- New Folder Modal -->
+    <div id="new-folder-modal" class="modal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Create New Category</h3>
+                    <button class="modal-close">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <form id="new-folder-form">
+                        <div class="form-group">
+                            <label for="folder-name">Category Name</label>
+                            <input type="text" id="folder-name" class="form-control" required placeholder="e.g. Projects, Documentation, etc.">
+                        </div>
+                        <div class="form-group">
+                            <label for="initial-page">Initial Page Name</label>
+                            <input type="text" id="initial-page" class="form-control" required placeholder="e.g. Overview, Introduction, etc.">
+                        </div>
+                        <div class="form-group">
+                            <label for="folder-description">Description (optional)</label>
+                            <textarea id="folder-description" class="form-control" placeholder="Brief description of this category..."></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="page-tags">Tags (comma separated)</label>
+                            <input type="text" id="page-tags" class="form-control" placeholder="e.g. documentation, category, important">
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn-secondary modal-cancel">Cancel</button>
+                    <button class="btn-primary modal-confirm">Create Category</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Notifications system -->
+    <div id="notification-container"></div>
+    
+    <!-- Our enhanced wiki JavaScript -->
+    <script src="enhanced-wiki.js"></script>
+    <script>
+        // When DOM is loaded, initialize the wiki system
+        document.addEventListener('DOMContentLoaded', function() {
+            if (typeof initialize === 'function') {
+                initialize();
+            } else {
+                console.error('initialize function not found! Check that enhanced-wiki.js is loaded correctly.');
+            }
+        });
+    </script>
+</body>
+</html>

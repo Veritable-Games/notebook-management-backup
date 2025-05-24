@@ -1,0 +1,16 @@
+{
+  "title": "enemy-design",
+  "content": "# enemy-design\n\n# Noxii - Enemy Design Document\n\n## The Noxii Entity\n\nThe primary antagonist is not a traditional enemy but a semi-sentient energy field that manifests in different forms.\n\n### Properties\n\n- Exists primarily as a field of dark energy\n- Can temporarily coalesce into physical forms\n- Adapts to player tactics over time\n- Distorts electronic equipment when nearby\n- Creates psychological effects on humans in proximity\n\n### Manifestation Types\n\n1. **Wisp Form**: Fast-moving scout entity with limited offensive capability\n2. **Hunter Form**: Aggressive predator that actively pursues the player\n3. **Barrier Form**: Stationary field that blocks pathways and must be dispersed\n4. **Corruption Form**: Infects other creatures or machinery, creating hybrid enemies\n\n### Player Interactions\n\n- Direct combat is less effective than environmental countermeasures\n- Light-based weapons can temporarily disperse concentrations\n- Sound frequencies can disrupt its ability to maintain cohesion\n- Temperature extremes slow its movement and reaction time\n\n\n## Metadata\n- **Source**: game-projects/noxii/enemy-design.md\n- **Type**: game\n- **Tags**: game, game-projects, weapon\n- **Imported**: 2025-05-05T16:25:37.216Z",
+  "source": {
+    "type": "notebook",
+    "path": "game-projects/noxii/enemy-design.md",
+    "importedAt": "2025-05-05T16:25:37.216Z"
+  },
+  "created": "2025-05-05T16:25:37.216Z",
+  "modified": "2025-05-05T16:25:37.216Z",
+  "tags": [
+    "game",
+    "game-projects",
+    "weapon"
+  ]
+}

@@ -1,0 +1,91 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T16:47:54-07:00
+
+====== run ======
+
+- FIXING PAYPAL 
+- Paying on my credit: 
+- Closing out with The Dean
+- Buying a bench press: 10lb, 15lb weights to start
+- Buying my custom fit jumpsuit: getting white chalk
+- Getting 41 tattoo
+
+Unfininished
+- Plastic Pills
+- RepAOC
+- Pop Culture Detective
+- RichardDWolff
+- Razbuten
+- Real Science
+
+yA]h4j;h'jch!^S - Lutris
+
+How are we to imagine ourselves free?
+
+chmod +x create_nano_files.sh
+./create_nano_files.sh
+
+chmod +x transcribe_and_save.py
+python3 transcribe_and_save.py
+
+チョコレート
+
+打鼓
+
+次のスパイシーキュ area
+あたり discriminate (???)
+晩ソーダプライズ
+またそれは夜色我喪ー
+やはりでっていたサイトムロゴット
+七月にチャイネ・タルetter
+沙臣の片階です
+
+ふっ ほっ ほっ 、
+もういい.
+今 aviation
+最後まで uitから
+- あ、
+
+956379
+36841
+820137
+
+95637936841
+820137
+
+Nynorsk
+
+Cannot activate the 'Unity' extension because it depends on an unknown 'ms-dotnettools.csdevkit' extension.
+
+user@local:~$ sudo docker run hello-world
+Unable to find image 'hello-world:latest' locally
+latest: Pulling from library/hello-world
+c1ec31eb5944: Pull complete 
+Digest: sha256:94323f3e5e09a8b9515d74337010375a456c909543e1ff1538f5116d38ab3989
+Status: Downloaded newer image for hello-world:latest
+
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+	(amd64)
+ 3. The Docker daemon created a new container from that image which runs the
+	executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+	to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+ https://docs.docker.com/get-started/
+
+9200000 9200000 1840000
+X-90
+Mesh Cylinder

@@ -1,0 +1,38 @@
+{
+  "name": "@veritable-games/shared-ui",
+  "version": "0.1.0",
+  "description": "Shared UI components and styles for Veritable Games applications",
+  "main": "dist/index.js",
+  "style": "dist/styles.css",
+  "scripts": {
+    "build": "npm run build:css && npm run build:js",
+    "build:css": "postcss src/styles.css -o dist/styles.css",
+    "build:js": "babel src --out-dir dist --copy-files",
+    "dev": "npm run build -- --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "clsx": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "@babel/preset-react": "^7.23.3",
+    "autoprefixer": "^10.4.16",
+    "cssnano": "^6.0.1",
+    "postcss": "^8.4.31",
+    "postcss-cli": "^10.1.0",
+    "postcss-import": "^15.1.0",
+    "postcss-nested": "^6.0.1"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "Veritable Games",
+  "license": "UNLICENSED"
+}

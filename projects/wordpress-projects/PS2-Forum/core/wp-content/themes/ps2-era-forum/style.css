@@ -1,0 +1,36 @@
+/*
+Theme Name: PS2-Era Forum
+Description: A forum theme inspired by the PS2 era internet forums
+Author: Your Name
+Version: 1.0
+*/
+
+/* Base styles */
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 12px;
+  background: #E8F0F8;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper {
+  width: 90%;
+  max-width: 1024px;
+  margin: 10px auto;
+  border: 1px solid #A8C9E5;
+  background: #FFF;
+}
+
+header {
+  background: #2A5DB0;
+  color: white;
+  padding: 10px 15px;
+  border-bottom: 5px solid #1D4088;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+}

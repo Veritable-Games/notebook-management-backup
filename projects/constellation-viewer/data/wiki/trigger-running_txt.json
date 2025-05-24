@@ -1,0 +1,15 @@
+{
+  "title": "trigger-running_txt",
+  "content": "# trigger-running.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:52:23-07:00\n\n====== trigger-running.txt ======\nSo when the player pulls right trigger or left trigger as they're running, they will leap upwards, kind of jump up to grab.\nSo this plays really well into the movement system.\nI kind of encourage you to grab before the grab is tied to the leap, so you grab as you jump.\nAnd this works really well for the encouraging navigation normally.\nYou're pulling triggers to leap in a direction instead of A for jump.\nIt's the right trigger and left trigger.\nAnd if you're climbing, you're using right trigger and left trigger to climb, right?\nBut then you get to a point where you reach the max height of this particular path.\nSo you're holding right trigger, hanging on.\nAnd then now you can look around with the left stick and the right stick.\nAnd then you can use left trigger to jump to confirm a leap towards a particular obstacle.\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/trigger-running.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.210Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/trigger-running.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.210Z"
+  },
+  "created": "2025-05-05T16:25:37.210Z",
+  "modified": "2025-05-05T16:25:37.210Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Veritable Games - 3D Visualization</title>
+    <meta name="description" content="3D Visualization">
+    <meta name="author" content="VGames">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="./dist/vg-favi.ico" type="image/x-icon" />
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+        }
+        
+        h1 {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            margin: 0;
+            z-index: 10;
+            font-size: 20px;
+        }
+        
+        #stats {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            z-index: 9999;
+        }
+        
+        #cube {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Veritable Games - 3D Visualization</h1>
+
+    <div id="cube"></div>
+    
+    <!-- Load THREE.js from CDN for stability -->
+    <script src="https://cdn.jsdelivr.net/npm/three@0.153.0/build/three.min.js"></script>
+    
+    <!-- Load Stats.js before the bundle -->
+    <script src="https://cdn.jsdelivr.net/gh/mrdoob/stats.js/build/stats.min.js"></script>
+    
+    <!-- Load diagnostics to understand the issue -->
+    <script src="diagnostic.js"></script>
+    
+    <!-- Load our bundle -->
+    <script src="dist/bundle.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+{
+  "title": "kickstarter_tips_txt",
+  "content": "# kickstarter_tips.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-08-15T21:57:41-07:00\n\n====== kickstarter tips.txt ======\n\tDon't announce that you want to work with fans. too much stress. accept general advice or feedback, but don't let them drive any aspect of the project\r\n\tdon't promise any ambitious features or any concrete release dates\r\n\tadd a beta tier for backers. limit it to an amount that you can handle. try not to cater to them too much. feature creep is a danger.\r\n\tconsider adding cut features or features that don't fit as easter eggs sometime down the road\r\n\tHumble Store, GOG, Steam\r\n\t(Windows, Linux, Mac)\r\n\tIf the kickstarter campaign makes more than we anticipated, don't scale the scope to match. that's how developers bite off more than they can chew and the game dies.\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/kickstarter_tips.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, feature\n- **Imported**: 2025-05-05T16:25:37.143Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/kickstarter_tips.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.143Z"
+  },
+  "created": "2025-05-05T16:25:37.143Z",
+  "modified": "2025-05-05T16:25:37.143Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "feature"
+  ]
+}

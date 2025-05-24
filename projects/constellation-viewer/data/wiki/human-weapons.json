@@ -1,0 +1,16 @@
+{
+  "title": "human-weapons",
+  "content": "# human-weapons\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-10-01T18:02:41-07:00\n\n====== Human Weapons ======\n-Auto-reloading shotgun\nThis weapon is standard issue for close-quarters operators. It may lack the sheer power of other models, but it makes up for this with a high fire rate.\n\n-Automatic battle rifle\nHas a much smaller ammo pool and slower rate of fire than the burst-fire machine gun, but is versatile, and does far more damage with fewer rounds. \n\n-Burst-fire machine gun\nThis weapon is standard issue for lower-tier soldiers; it's quick, precise, and has a large ammo pool, but lacks the damage output other weapons have.\n\n-Compact Nanitethrower\nIts name may not be terribly catchy, but this weapon is one of the most effective tools for enemy recycling available to this military. It's fun to blast a stream of tiny mental-munching machines at a droid and watch it disintegrate. \n\n-EMP Cannon\nAlthough it's not as effective as the full-size thing, this weapon is still an incredible tool against the Renlei droid armies. Few soldiers are authorized to handle it, but when used correctly, the EMP Cannon can shut down entire platoons.  \n\n-Heavy bolt-action rifle\nEquipped with an optional scope, the heavy bolt-action rifle does an incredible amount of damage, but has the slowest rate of fire in the game.\n\n-Mass nanite launcher\nImagine a rocket launcher with a swarm of ants strapped to the projectiles it shoots. Now imagine the ants can eat through titanium. That's this thing.\n\n-Nanite Blade\nWith a blade that emits heat over 2000 degrees Celsius, it's capable of cutting down droids and disarming renlei soldiers in one swing. It has unique one-hit kill finishers, but a limited fuel source. The blade can be recharged with pickups on the map.\n\n- Nanite Projectiles\nBullets are designed to be used in space, under water, and in extreme temperatures.\nNeutralize an enemy by destroying the exosuit they use during combat. Doing this will immobilie them.\n\n-Pump-action shotgun\nWhile many believe this design is outdated, the pump-action shotgun has proven more reliable than the Auto-Reloading Shotgun in terms of power.\n\n-Semi-automatic pistol\nAn extremely powerful weapon with sparse ammunition. The pistol is best used in dire situations; when the player is low on ammo with other guns.\n\n\n## Metadata\n- **Source**: on-command-wiki-pages/human-weapons.txt\n- **Type**: wiki\n- **Tags**: wiki, on-command-wiki-pages, weapon\n- **Imported**: 2025-05-05T16:25:37.229Z",
+  "source": {
+    "type": "notebook",
+    "path": "on-command-wiki-pages/human-weapons.txt",
+    "importedAt": "2025-05-05T16:25:37.229Z"
+  },
+  "created": "2025-05-05T16:25:37.229Z",
+  "modified": "2025-05-05T16:25:37.229Z",
+  "tags": [
+    "wiki",
+    "on-command-wiki-pages",
+    "weapon"
+  ]
+}

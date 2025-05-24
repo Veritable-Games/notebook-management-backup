@@ -1,0 +1,94 @@
+{
+  "name": "Veritable Games Repository",
+  "version": "1.0.0",
+  "description": "A comprehensive repository for game design documentation, visualization tools, and web interfaces",
+  "structure": {
+    "projects": {
+      "description": "Main project components",
+      "children": {
+        "canvas-application": {
+          "description": "Canvas drawing application",
+          "type": "application",
+          "port": 3000
+        },
+        "backend-api": {
+          "description": "RESTful API server",
+          "type": "service",
+          "port": 3001
+        },
+        "constellation-viewer": {
+          "description": "Wiki and document viewer",
+          "type": "application",
+          "port": 9003
+        },
+        "content-management": {
+          "description": "Content organization system",
+          "type": "service",
+          "port": 3002
+        },
+        "3d-visualization": {
+          "description": "3D visualization tools",
+          "type": "application",
+          "port": 8081
+        },
+        "user-admin-portal": {
+          "description": "User and admin management",
+          "type": "application",
+          "port": 8082
+        },
+        "wiki-export": {
+          "description": "Wiki export utilities",
+          "type": "service",
+          "port": 8080
+        },
+        "wordpress-projects": {
+          "description": "WordPress plugins and themes",
+          "type": "cms",
+          "port": 8000
+        },
+        "monitoring": {
+          "description": "Monitoring dashboard and services",
+          "type": "service",
+          "port": 9090
+        },
+        "logging": {
+          "description": "Centralized logging system",
+          "type": "service",
+          "port": null
+        },
+        "utilities": {
+          "description": "Shared utility tools",
+          "type": "library",
+          "port": null
+        },
+        "visualization-tools": {
+          "description": "UI components and tools",
+          "type": "library",
+          "port": null
+        },
+        "config": {
+          "description": "Central configuration",
+          "type": "configuration",
+          "port": null
+        }
+      }
+    },
+    "scripts": {
+      "description": "Utility scripts",
+      "children": {
+        "converters": {
+          "description": "Content conversion tools",
+          "type": "script"
+        },
+        "services": {
+          "description": "Service management",
+          "type": "script"
+        }
+      }
+    },
+    "archive": {
+      "description": "Archived and legacy content",
+      "type": "archive"
+    }
+  }
+}

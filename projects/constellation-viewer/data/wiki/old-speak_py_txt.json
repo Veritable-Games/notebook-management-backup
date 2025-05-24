@@ -1,0 +1,16 @@
+{
+  "title": "old-speak_py_txt",
+  "content": "# old-speak.py.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:27:44-07:00\n\n====== old-speak.py.txt ======\nimport os\r\nfrom playsound import playsound\r\nimport requests\r\nfrom config import Config\r\ncfg = Config()\r\n\r\n# TODO: Nicer names for these ids\r\nvoices = [\"ErXwobaYiN019PkySvjV\", \"EXAVITQu4vr4xnSDxMaL\"]\r\n\r\ntts_headers = {\r\n\t\"Content-Type\": \"application/json\",\r\n\t\"xi-api-key\": cfg.elevenlabs_api_key\r\n}\r\n\r\ndef say_text(text, voice_index=0):\r\n\ttts_url = \"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}\".format(\r\n\t\tvoice_id=voices[voice_index])\r\n\r\n\tformatted_message = {\"text\": text}\r\n\tresponse = requests.post(\r\n\t\ttts_url, headers=tts_headers, json=formatted_message)\r\n\r\n\tif response.status_code == 200:\r\n\t\twith open(\"speech.mpeg\", \"wb\") as f:\r\n\t\t\tf.write(response.content)\r\n\t\tplaysound(\"speech.mpeg\")\r\n\t\t# Delete audio file\r\n\t\tos.remove(\"speech.mpeg\")\r\n\telse:\r\n\t\tprint(\"Request failed with status code:\", response.status_code)\r\n\t\tprint(\"Response content:\", response.content)\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/old-speak.py.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, quest\n- **Imported**: 2025-05-05T16:25:37.152Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/old-speak.py.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.152Z"
+  },
+  "created": "2025-05-05T16:25:37.152Z",
+  "modified": "2025-05-05T16:25:37.152Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "quest"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "HA",
+  "content": "# HA\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:10:11-07:00\n\n====== HA ======\nELEVEN_LABS_API=241b9b3c7dcbbd64aac4711c6e0c8459 python3 speak.py\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/HA.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.061Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/HA.txt",
+    "importedAt": "2025-05-05T16:25:37.061Z"
+  },
+  "created": "2025-05-05T16:25:37.061Z",
+  "modified": "2025-05-05T16:25:37.061Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

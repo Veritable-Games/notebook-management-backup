@@ -1,0 +1,3 @@
+
+# refHIV Mono-infection Is Associated With FIB-4 – A Noninvasive Index of Liver Fibrosis – in Women.txt
+Liver biopsy is the gold standard for assessing liver disease. However, it is invasive and associated with complications, sampling error, and variability in interpretation, and it is not routinely performed in uninfected, healthy persons or in persons with human immunodeficiency virus (HIV) mono-infection. Moreover, patients may be reluctant to undergo multiple liver biopsies to accurately monitor their disease progression. Consequently, serum biochemical markers have been evaluated as alternative measures of liver damage (reviewed in [1]).

@@ -1,0 +1,19 @@
+{
+  "title": "game-design-document",
+  "content": "# game-design-document\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.4\nCreation-Date: 2025-04-15T00:00:00Z\n\n====== Game Design Document ======\n\n===== Overview =====\nOn Command is a squad-based tactical third-person shooter that puts players in control of a specialized team battling alien forces. The game features strategic combat, resource management, and exploration of diverse environments.\n\n===== Core Gameplay =====\n\n==== Key Features ====\n* Squad-based tactical combat\n* Strategic resource management\n* Diverse environments to explore\n* Advanced technology and weapons\n* Dynamic mission structure\n\n==== Game Flow ====\n1. Mission briefing\n2. Equipment selection\n3. Deployment\n4. Objective completion\n5. Extraction\n6. Debriefing and upgrades\n\n===== See Also =====\n* [[../equipment/hse-suit|HSE Suit]]\n* [[../characters/main-characters|Main Characters]]\n* [[../world/renlei-buried-city|Renlei Buried City]]\n\n===== Metadata =====\n* Status: In Development\n* Last Updated: 2025-04-15\n* Category: Design\n\n## Metadata\n- **Source**: on-command-wiki/design/game-design-document.txt\n- **Type**: wiki\n- **Tags**: wiki, on-command-wiki, character-design, weapon, feature, gameplay\n- **Imported**: 2025-05-05T16:25:37.223Z",
+  "source": {
+    "type": "notebook",
+    "path": "on-command-wiki/design/game-design-document.txt",
+    "importedAt": "2025-05-05T16:25:37.223Z"
+  },
+  "created": "2025-05-05T16:25:37.223Z",
+  "modified": "2025-05-05T16:25:37.223Z",
+  "tags": [
+    "wiki",
+    "on-command-wiki",
+    "character-design",
+    "weapon",
+    "feature",
+    "gameplay"
+  ]
+}

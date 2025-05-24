@@ -1,0 +1,17 @@
+{
+  "title": "test-page-two",
+  "content": "# test-page-two\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-04-18T22:17:00-07:00\n\n====== Test Page Two ======\n\nThis is the second test page that demonstrates backlinks.\n\n== Backlinks ==\n\nThis page should be linked from [[Test Wiki Links]] and will show as a backlink there when we implement Phase 2.\n\n== Cross-Project References ==\n\nThis page references multiple projects:\n\n- The [[Noxii:Enemy_Design|Noxii enemy system]] has interesting mechanics\n- [[OnCommand:On_Command_GDD|On Command's GDD]] shows a different approach\n- [[Dodec:Project_-_Dodec|Dodec's world building]] is quite extensive\n- [[Autumn:Autumn|Autumn's character]] has seasonal powers\n\n## Metadata\n- **Source**: reference-wiki-pages/test-page-two.txt\n- **Type**: wiki\n- **Tags**: wiki, reference-wiki-pages, character-design, mechanic\n- **Imported**: 2025-05-05T16:25:37.237Z",
+  "source": {
+    "type": "notebook",
+    "path": "reference-wiki-pages/test-page-two.txt",
+    "importedAt": "2025-05-05T16:25:37.237Z"
+  },
+  "created": "2025-05-05T16:25:37.237Z",
+  "modified": "2025-05-05T16:25:37.237Z",
+  "tags": [
+    "wiki",
+    "reference-wiki-pages",
+    "character-design",
+    "mechanic"
+  ]
+}

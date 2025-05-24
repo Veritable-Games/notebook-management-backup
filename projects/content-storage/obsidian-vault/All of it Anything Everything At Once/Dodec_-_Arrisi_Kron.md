@@ -1,0 +1,298 @@
+
+==============================================================================
+ARRISI KRON - DETERMINED SPECIALIST
+==============================================================================
+
+Profile:
+Arrisi Kron is a determined specialist, known for her fierce determination and 
+strategic mind. She grew up in the high-tech city of Selene, where she honed 
+her skills in advanced combat and technology.
+
+Background:
+Arrisi's upbringing in Selene, a city renowned for its technological 
+advancements, gave her a unique perspective on combat. She trained extensively 
+in both physical combat and cyber warfare, making her a versatile and 
+formidable opponent.
+
+Role in the Conflict:
+As a specialist, Arrisi is responsible for handling advanced technology and 
+cyber warfare operations. She often leads missions that require technical 
+expertise and strategic planning.
+
+Personality:
+Arrisi is known for her fierce determination and unwavering focus. She 
+approaches every mission with a clear plan and is always ready to adapt to 
+changing situations.
+
+Arrisi's personality is characterized by:
+- Fierce determination and focus
+- Strategic and analytical mind
+- Versatility in combat and technology
+- Willingness to take calculated risks
+
+Relationships:
+- Carden: Arrisi respects Carden's loyalty and often collaborates with him on 
+  technical operations.
+- Kalisa: Arrisi and Kalisa share a mutual respect for each other's strategic 
+  minds.
+- Marian: Arrisi values Marian's medical expertise and often relies on her for 
+  support in the field.
+- Player Character: Arrisi sees the player as a key ally and works closely with 
+  them to achieve their objectives.
+
+Combat Style:
+Arrisi excels in both physical combat and cyber warfare. She is adept at using 
+advanced technology to gain an edge in battle, often deploying drones and 
+hacking enemy systems to disrupt their operations.
+
+--------------------
+Voice Lines:
+--------------------
+
+### Assign SP
+- "Moving now."
+- "Right."
+- "Taking position."
+
+### Unassign SP
+- *
+
+### Unassign All SP
+- *
+
+### Fortify SP
+- *
+
+### Emplacement Zone VO
+- *
+
+### Setup EZ
+- *
+
+### Destroy EZ
+- *
+
+### Squad Feedback VO
+- *
+
+### Player Killed Enemy
+- *
+
+### NPC Killed Enemy
+- *
+
+### Gyre Spotted
+- *
+
+### Ultra Gyre Spotted
+- *
+
+### Dredge Spotted
+- "We've got a Dredge. Don't let it advance!"
+- "Take note of nearby cover! We've got a Dredge!"
+
+### Scope Spotted
+- *
+
+### Siphon Spotted
+- *
+
+### Siren Spotted
+- *
+
+### Vector Spotted
+- *
+
+### Soldier Spotted
+- *
+
+### Reloading
+- *
+
+### Low Armor
+- *
+
+### Low Armor Urgent
+- *
+
+### Friendly Fire
+- *
+
+### Player AFK
+- *
+
+### Player Misfiring
+- *
+
+### Squad Abandoned
+- *
+
+### Invalid Command
+- *
+
+### Squad Abandoned Urgent
+- *
+
+### Player Blocking Way
+- *
+
+### Terminal Slice VO
+- *
+
+### Slice Terminal
+- *
+
+### Cancel Slice Terminal
+- *
+
+### Terminal Slice Status
+- *
+
+### Terminal Slice Complete
+- *
+
+### Door Slice VO
+- *
+
+### Slice Door
+- *
+
+### Cancel Door Slice
+- *
+
+### Door Slice Status
+- *
+
+### Door Slice Complete
+- *
+
+### Breaching VO
+- *
+
+### Breach Door
+- *
+
+### Cancel Door Breach
+- *
+
+### Breach Charge Armed
+- *
+
+### Detonation Reaction
+- *
+
+### Set Charge VO
+- *
+
+### Set Charge
+- *
+
+### Charge Status
+- *
+
+### Cancel Charge
+- *
+
+### Change Armed
+- *
+
+### Detonate Charge & Reaction
+- *
+
+### Resupply VO
+- *
+
+### Resupply
+- *
+
+### Cancel Resupply
+- *
+
+### Resupply Complete
+- *
+
+### No Resupply Needed
+- *
+
+### Revive VO
+- *
+
+### Revive
+- *
+
+### Cancel Revive
+- *
+
+### Exception Dialogues
+- *
+
+### Revive Complete
+- *
+
+### Player Downed
+- *
+
+### Reviving Player
+- *
+
+### Carden Downed
+- *
+
+### Reviving Carden
+- *
+
+### Kalisa Downed
+- *
+
+### Reviving Kalisa
+- *
+
+### Marian Downed
+- *
+
+### Reviving Marian
+- *
+
+### Sorrel Downed
+- *
+
+### Reviving Sorrel
+- *
+
+### Wilmet Downed
+- *
+
+### Reviving Wilmet
+- *
+
+### Arrisi Downed
+- *
+
+### Reviving Arrisi
+- *
+
+### X Downed
+- *
+
+### Reviving X
+- *
+
+### Disable Mine
+- *
+
+### Cancel Mine Disable
+- *
+
+### Mine Disable Complete
+- *
+
+### Rewire Mine
+- *
+
+### Setup Trap
+- *
+
+### Cancel Trap Setup
+- *
+
+==============================================================================

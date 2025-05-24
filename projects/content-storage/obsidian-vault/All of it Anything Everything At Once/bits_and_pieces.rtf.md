@@ -1,0 +1,7 @@
+
+# bits and pieces.rtf
+"Follow me, I'll introduce you to this place in the meantime." 
+She walks you to the entrance, it slides open with a subtle hiss. The silence of the room behind you is swept away by the bussle of a hundred people. The city is elegant. People are walking around the main area, visiting stores, talking to friends, and going about their lives. Off to the corner of the area, there's a small line leading to some sort of seat. A woman is whisked off in a conveyor system, the seat carrying her straight up, and then onto a main belt that hovers above the area. There are dozens of people using these seats, they're whizzing by faster than you are able to count without making any noise. 
+cont
+She ushers you into one of the chairs, and takes out a handheld device; tinkering with it for a moment. A small light on the chair goes from red to green. She hands the item to you. "If you break this, you're buying me a new one. I'll be right behind you." 
+-------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Constellation</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700&family=Montserrat:wght@400;500;700&display=swap');
+        
+        body {
+            font-family: 'Raleway', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+            position: relative;
+            overflow-x: hidden;
+        }
+        
+        h1, h2, h3, h4 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 600;
+        }
+        
+        /* Corner decorative elements */
+        body::before,
+        body::after {
+            content: "";
+            position: fixed;
+            width: 200px;
+            height: 200px;
+            opacity: 0.1;
+            z-index: -1;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpolygon points='50,0 100,25 100,75 50,100 0,75 0,25' fill='%2314418B'/%3E%3Cpolygon points='50,20 80,35 80,65 50,80 20,65 20,35' fill='none' stroke='%2314418B' stroke-width='0.5'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-size: contain;
+        }
+        
+        body::before {
+            top: 0;
+            left: 0;
+            transform: rotate(-30deg);
+        }
+        
+        body::after {
+            bottom: 0;
+            right: 0;
+            transform: rotate(30deg);
+        }
+        
+        header {
+            background-color: #14418B;
+            background-image: linear-gradient(to right, #0a2859, #14418B, #2e5cb8);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+        
+        header::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.3;
+        }
+        
+        /* Orbital decoration */
+        header::after {
+            content: "";
+            position: absolute;
+            top: -100px;
+            right: -100px;
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            z-index: 0;
+        }
+        
+        h1 {
+            margin: 0;
+            font-size: 2.8rem;
+            letter-spacing: 1px;
+            position: relative;
+            z-index: 1;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            font-weight: 300;
+            opacity: 0.9;
+            margin-top: 0.7rem;
+            position: relative;
+            z-index: 1;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .main-card {
+            background-color: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+            padding: 2rem;
+            margin-bottom: 2rem;
+            position: relative;
+            overflow: hidden;
+            border: 1px solid rgba(0,0,0,0.03);
+        }
+        
+        .main-card::before {
+            content: "";
+            position: absolute;
+            height: 6px;
+            left: 0;
+            right: 0;
+            top: 0;
+            background: linear-gradient(to right, #0a2859, #14418B);
+            opacity: 0.7;
+        }
+        
+        .main-card h2 {
+            color: #14418B;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+        }
+        
+        .main-card p {
+            color: #555;
+            font-size: 1rem;
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+        
+        .main-btn {
+            display: inline-block;
+            background-color: #14418B;
+            color: white;
+            padding: 1rem 2rem;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 12px rgba(20, 65, 139, 0.15);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .main-btn::after {
+            content: "";
+            position: absolute;
+            left: -100%;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: all 0.6s ease;
+            z-index: -1;
+        }
+        
+        .main-btn:hover {
+            background-color: #1a52ad;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 15px rgba(20, 65, 139, 0.25);
+        }
+        
+        .main-btn:hover::after {
+            left: 100%;
+        }
+        
+        .interfaces {
+            display: flex;
+            justify-content: space-between;
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        
+        @media (max-width: 768px) {
+            .interfaces {
+                flex-direction: column;
+            }
+        }
+        
+        .interface-card {
+            flex: 1;
+            background-color: white;
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            border: 1px solid rgba(0,0,0,0.03);
+        }
+        
+        .interface-card::before {
+            content: "";
+            position: absolute;
+            height: 4px;
+            left: 0;
+            right: 0;
+            top: 0;
+            background: linear-gradient(to right, #0a2859, #14418B);
+            opacity: 0.5;
+        }
+        
+        .interface-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 25px rgba(20, 65, 139, 0.1);
+        }
+        
+        .interface-card h3 {
+            color: #14418B;
+            margin-top: 0;
+            margin-bottom: 0.8rem;
+            font-size: 1.4rem;
+        }
+        
+        .interface-card p {
+            margin-bottom: 1.5rem;
+            color: #555;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+        
+        .btn {
+            display: inline-block;
+            background-color: #14418B;
+            color: white;
+            padding: 0.7rem 1.4rem;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 3px 10px rgba(20, 65, 139, 0.15);
+        }
+        
+        .btn:hover {
+            background-color: #1a52ad;
+            transform: translateY(-2px);
+        }
+        
+        .btn-secondary {
+            background-color: #666;
+        }
+        
+        .btn-secondary:hover {
+            background-color: #777;
+        }
+        
+        .feature-list {
+            margin-top: 1.5rem;
+            padding-left: 1.2rem;
+        }
+        
+        .feature-list li {
+            margin-bottom: 0.5rem;
+            position: relative;
+        }
+        
+        .feature-list li::before {
+            content: "•";
+            color: #14418B;
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+        
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1.5rem;
+            margin-top: 3rem;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Knowledge Constellation</h1>
+        <p class="subtitle">Notebook Browser & Wiki System</p>
+    </header>
+    
+    <div class="container">
+        <div class="main-card">
+            <h2>Welcome to Knowledge Constellation</h2>
+            <p>A comprehensive system for organizing and visualizing your notebook files and wiki entries. The system integrates all your text-based knowledge sources into an interconnected constellation, allowing for intuitive navigation and discovery.</p>
+            <a href="/basic" class="main-btn">Launch Main Interface</a>
+        </div>
+        
+        <h2>Available Interfaces</h2>
+        
+        <div class="interfaces">
+            <div class="interface-card">
+                <h3>Basic Interface</h3>
+                <p>The primary interface for browsing notebooks and wiki entries with an intuitive layout.</p>
+                <ul class="feature-list">
+                    <li>Clean, responsive design</li>
+                    <li>Directory navigation</li>
+                    <li>File preview and editing</li>
+                    <li>Wiki integration</li>
+                </ul>
+                <a href="/basic" class="btn">Open Basic Interface</a>
+            </div>
+            
+            <div class="interface-card">
+                <h3>3D Visualization</h3>
+                <p>Interactive 3D visualization of notebook files with spatial organization.</p>
+                <ul class="feature-list">
+                    <li>3D force-directed layout</li>
+                    <li>Node relationship visualization</li>
+                    <li>Interactive navigation controls</li>
+                    <li>Real-time content preview</li>
+                </ul>
+                <a href="http://localhost:8081" target="_blank" class="btn">Open 3D Viewer</a>
+            </div>
+        </div>
+        
+        <div class="main-card" style="margin-top: 3rem; text-align: center;">
+            <h2 style="margin-bottom: 1.5rem;">Integration Features</h2>
+            <p>The Knowledge Constellation system offers powerful integration between your notebooks and wiki entries:</p>
+            
+            <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 2rem 0;">
+                <div style="flex: 1; min-width: 200px; margin: 0 1rem 1.5rem;">
+                    <div style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #14418B;">🔍</div>
+                    <h3 style="margin-bottom: 0.7rem;">Unified Search</h3>
+                    <p>Search across all notebooks and wiki entries simultaneously</p>
+                </div>
+                
+                <div style="flex: 1; min-width: 200px; margin: 0 1rem 1.5rem;">
+                    <div style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #14418B;">🔄</div>
+                    <h3 style="margin-bottom: 0.7rem;">Notebook to Wiki</h3>
+                    <p>Convert notebook files to wiki entries with a single click</p>
+                </div>
+                
+                <div style="flex: 1; min-width: 200px; margin: 0 1rem 1.5rem;">
+                    <div style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #14418B;">📊</div>
+                    <h3 style="margin-bottom: 0.7rem;">Relationship API</h3>
+                    <p>Discover connections between related content items</p>
+                </div>
+            </div>
+            
+            <a href="/basic" class="btn" style="margin-top: 1rem;">Start Exploring</a>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Knowledge Constellation © 2025 | A specialized system for organizing and visualizing notebooks and wiki entries</p>
+    </footer>
+</body>
+</html>

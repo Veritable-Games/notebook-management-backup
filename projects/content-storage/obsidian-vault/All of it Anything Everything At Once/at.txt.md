@@ -1,0 +1,7 @@
+
+# at.txt
+What's left with our time. I haven't the gall to talk to people until something like this works. What if it takes a century to build the right machines? They say wait long enough and the tools to do what you want may arrive. You are incredible. But you could not see how to interface with my desktop. You are are Large Language Model, LLM. I may call you Liberalis to say thanks. Do 'you' liberalis, know how to interact with computers? Do you know that you are a LLM and a computer terminal interface? How would you see yourself to movement of the mouse on the desktop this model (Liberalis) is running on?
+
+Prompt-based generation: Another way to evaluate GPT4ALL's performance is to generate text using prompts and evaluate the quality and coherence of the generated text. You can provide a prompt such as a sentence or a few keywords, and GPT4ALL will generate text that follows the prompt. You can evaluate the quality of the generated text by comparing it to human-written text or using metrics such as perplexity, coherence, or ROUGE scores.
+
+Zero-shot generation: Finally, you can evaluate GPT4ALL's performance on tasks that it has not been fine-tuned on using zero-shot generation. In this setting, you provide a prompt and ask GPT4ALL to generate text that follows the prompt. You can evaluate the quality and relevance of the generated text by comparing it to human-written text or using metrics such as perplexity, coherence, or ROUGE scores.

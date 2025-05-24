@@ -1,0 +1,225 @@
+/*
+Theme Name: PS2-Era Forum
+Description: A forum theme inspired by the PS2 era internet forums
+Author: Your Name
+Version: 1.0
+*/
+
+/* Base styles */
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 12px;
+  background: #E8F0F8;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper {
+  width: 90%;
+  max-width: 1024px;
+  margin: 10px auto;
+  border: 1px solid #A8C9E5;
+  background: #FFF;
+}
+
+header {
+  background: #2A5DB0;
+  color: white;
+  padding: 10px 15px;
+  border-bottom: 5px solid #1D4088;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+/* Forum specific styling */
+.forum-container {
+    width: 95%;
+    margin: 0 auto;
+    border: 1px solid #A8C9E5;
+    background: #FFF;
+    padding: 10px;
+}
+
+.retro-heading {
+    background: #2A5DB0;
+    color: white;
+    padding: 5px 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #1D4088;
+    margin-bottom: 15px;
+}
+
+.forums-list, .recent-activity {
+    margin-bottom: 20px;
+}
+
+/* bbPress specific styling */
+#bbpress-forums {
+    font-size: 12px !important;
+}
+
+#bbpress-forums ul.bbp-forums, 
+#bbpress-forums ul.bbp-topics {
+    border: 1px solid #A8C9E5;
+}
+
+#bbpress-forums li.bbp-header {
+    background: #2A5DB0;
+    color: white;
+    padding: 5px 10px;
+}
+
+#bbpress-forums li.bbp-body ul.forum, 
+#bbpress-forums li.bbp-body ul.topic {
+    border-top: 1px solid #E8F0F8;
+    padding: 8px 10px;
+}
+
+#bbpress-forums li.bbp-body ul.forum:nth-child(even), 
+#bbpress-forums li.bbp-body ul.topic:nth-child(even) {
+    background: #F5F9FC;
+}
+
+.bbp-topic-permalink, .bbp-forum-title {
+    font-weight: bold;
+    color: #2A5DB0;
+    text-decoration: none;
+}
+
+.bbp-forum-content, .bbp-topic-meta {
+    font-size: 11px;
+    color: #777;
+}
+
+/* Enhanced Forum Styling */
+.bbp-breadcrumb {
+  background: #E8F0F8;
+  padding: 8px 12px;
+  border: 1px solid #B8D4F0;
+  margin-bottom: 15px;
+  font-size: 11px;
+}
+
+.bbp-forum-info, .bbp-topic-info {
+  background: #FFFFFF;
+  border: 1px solid #B8D4F0;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.bbp-forum-title, .bbp-topic-title {
+  font-weight: bold;
+  color: #0066CC;
+  text-decoration: none;
+}
+
+.bbp-forum-title:hover, .bbp-topic-title:hover {
+  color: #0044AA;
+}
+
+.bbp-forum-content, .bbp-topic-content {
+  margin-top: 8px;
+  line-height: 1.4;
+}
+
+/* Forum stats */
+.bbp-forum-topic-count, .bbp-forum-reply-count {
+  font-weight: bold;
+  color: #666;
+}
+
+/* Reply/Post forms */
+.bbp-reply-form, .bbp-topic-form {
+  background: #F8F8F8;
+  border: 1px solid #DDD;
+  padding: 15px;
+  margin: 15px 0;
+}
+
+/* Buttons */
+.bbp-submit-wrapper input[type="submit"] {
+  background: #0066CC;
+  color: white;
+  border: 1px solid #0044AA;
+  padding: 6px 12px;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.bbp-submit-wrapper input[type="submit"]:hover {
+  background: #0044AA;
+}
+
+/* User info */
+.bbp-reply-author, .bbp-topic-author {
+  background: #E8F0F8;
+  border: 1px solid #B8D4F0;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Make it look more like classic forum software */
+.bbp-replies, .bbp-topics {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.bbp-replies th, .bbp-topics th {
+  background: #0066CC;
+  color: white;
+  padding: 8px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.bbp-replies td, .bbp-topics td {
+  border-bottom: 1px solid #DDD;
+  padding: 8px;
+  font-size: 11px;
+}
+
+/* PS2-era specific styling */
+.widget {
+  background: #F0F4F8;
+  border: 1px solid #B8D4F0;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.widget-title {
+  background: #0066CC;
+  color: white;
+  margin: -10px -10px 10px -10px;
+  padding: 6px 10px;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+/* Navigation menu styling */
+.menu, .nav-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li, .nav-menu li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.menu a, .nav-menu a {
+  color: #0066CC;
+  text-decoration: none;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.menu a:hover, .nav-menu a:hover {
+  text-decoration: underline;
+}

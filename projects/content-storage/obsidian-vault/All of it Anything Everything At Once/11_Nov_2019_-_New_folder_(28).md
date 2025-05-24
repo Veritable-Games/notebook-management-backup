@@ -1,0 +1,135 @@
+
+# REC001.txt
+When I get back inside, my goal is to continue working on the map.
+I'm really tempted to dig into the bits of recording, so I've made over the last couple months, weeks.
+Jesus, I'm going to make my process. I haven't even given three months yet.
+Oh my god, I can't imagine where I'll be in like a year. I can keep going on like this.
+Just over in your cell phone.
+But I turn you guys right now, it's eventually.
+
+
+# REC002.txt
+and we're gonna have this a brightness thing and this thing
+
+
+# REC003.txt
+Okay, so
+
+
+# REC004.txt
+Get a train mattress
+Not a train mattress
+
+
+# REC005.txt
+get a giant bean bag for the bedroom, or see at a cost through the size and the usage,
+and then get a firm padding to place above it, a fractured rest.
+It's not for relaxing sofa place, and then you put a little boarding on there.
+Maybe you're fine just digging the burring into the mat, the seat bag, and just get it careful about the way my neck is supported.
+It's like a pillow.
+Several pillows.
+
+
+# REC006.txt
+1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+
+
+# REC007.txt
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+
+
+# REC008.txt
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+
+
+# REC009.txt
+The shell world opens up from the center.
+So from the horizon you see this immense amount of the line.
+As the top shell of the planet rises up,
+the bottom goes down.
+It moves over to encapsulate the world and
+attaching on to the atlas pillars and room rule.
+The engines.
+
+
+# REC010.txt
+The engines of the structure were enclosed inside the sphere and when it's ready to move
+to prevent damage to them from asteroids nearby debris, they're encapsulated and closed.
+They pop out like a cannon and star wars on the ships, but it's more of a means of
+transportation.
+Not a weapon.
+
+
+# REC011.txt
+There exists a hub in this world
+Creates for themselves
+It's
+Or area they've explored
+There they explore
+Let's say this is the first
+expansion
+Or one of the major as much anyway, you have a blimp and a blimp as a
+infrastructure
+Small group people
+Oh
+
+
+# REC012.txt
+They build off the foundational knowledge of the blimp and how it works out function in the space.
+And they say, oh, hey, what if it lets us cross that gap that's in the center of the...
+That same infinite gap that we can't create a bridge for inside the Atlas Teller.
+To go to the door, we can put a blimp there and use it to walk across.
+But there's a problem. There's an updraft.
+So, it's a hot updraft. An updraft that could potentially cross harm.
+Or, no, not severe harm, but if you fall, there's nobody catch you.
+So, no one's attempted it.
+So, the blimp like structure would be like a platform.
+And the platform, through content and falling, can use a little bit of thrust.
+Or content from going upwards, can use a little thrust to push down, down against it.
+And that's how you'd engineer around the problem.
+You'd have a floating platform that's...
+...regulated by thresholds top and bottom.
+And that's how you get across. And the player, he's light enough...
+...for it's easy for them.
+You can't go all the way until you gotta go slowly.
+If you will, a few people will tell him, because it's for the smaller structure, it's a finished structure.
+Or it's for it's rounded, like a blimp.
+Anyway.
+
+
+# REC013.txt
+You use a structure to walk across to the door, place the dodeck that have gone missing.
+No.
+The player and one other entity interact with the door.
+The other
+Temu. They had spotted insane around the world.
+The Krishlinelike creature.
+

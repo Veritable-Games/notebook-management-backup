@@ -1,0 +1,19 @@
+{
+  "title": "game-design",
+  "content": "# game-design\n\n# On Command - Game Design Document\n\n## Core Gameplay Loop\n\n1. Receive mission briefing and objectives\n2. Deploy team to mission area\n3. Navigate terrain and overcome obstacles\n4. Engage enemies using tactical positioning\n5. Complete objectives and extract\n6. Upgrade equipment and abilities between missions\n\n## Key Features\n\n- Squad-based tactical combat\n- Real-time with pause gameplay\n- Resource management and limited ammunition\n- Dynamic mission environments\n- Character progression and specialization\n- Strategic base management between missions\n\n## Visual Style\n\nThe game employs a stylized realistic approach with:\n- High contrast lighting\n- Focused color palette per environment\n- Minimalist UI that integrates with the game world\n- Environmental storytelling through level design\n\n## Target Audience\n\n- Primary: Players aged 18-35 who enjoy tactical strategy games\n- Secondary: Sci-fi fans interested in near-future settings\n- Tertiary: Narrative-focused players who enjoy military storylines\n\n\n## Metadata\n- **Source**: game-projects/on-command/game-design.md\n- **Type**: game\n- **Tags**: game, game-projects, character-design, story, feature, gameplay\n- **Imported**: 2025-05-05T16:25:37.217Z",
+  "source": {
+    "type": "notebook",
+    "path": "game-projects/on-command/game-design.md",
+    "importedAt": "2025-05-05T16:25:37.217Z"
+  },
+  "created": "2025-05-05T16:25:37.217Z",
+  "modified": "2025-05-05T16:25:37.217Z",
+  "tags": [
+    "game",
+    "game-projects",
+    "character-design",
+    "story",
+    "feature",
+    "gameplay"
+  ]
+}

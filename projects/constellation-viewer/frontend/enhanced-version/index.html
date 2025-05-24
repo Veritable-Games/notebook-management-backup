@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Notebook Explorer - Browse and manage your text notebooks with ease">
+    <meta name="theme-color" content="#9c27b0">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Notebook Explorer">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Notebook Explorer">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-TileColor" content="#9c27b0">
+    <meta property="og:title" content="Notebook Explorer">
+    <meta property="og:description" content="A modern interface for browsing and managing text notebooks">
+    <meta property="og:type" content="website">
+    <title>Notebook Explorer - Browse Your Zim Notebooks</title>
+    
+    <!-- External Libraries -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+    
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/components.css">
+    <link rel="stylesheet" href="styles/accessibility.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>">
+</head>
+<body>
+    <!-- Skip to main content link for accessibility -->
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <header class="app-header" role="banner">
+        <div class="header-content">
+            <h1>Notebook Explorer</h1>
+            <p class="subtitle">Browse Your Notebooks</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <aside class="sidebar" role="complementary" aria-label="Notebook navigation">
+            <!-- Sidebar toggle button -->
+            <button id="sidebar-toggle" aria-label="Toggle sidebar" aria-expanded="true" title="Toggle sidebar">
+                <i class="fas fa-bars" aria-hidden="true"></i>
+            </button>
+
+            <div class="sidebar-content">
+                <!-- Notebook Collection Selector -->
+                <div class="collection-selector">
+                    <label for="notebook-collection" id="collection-label">Notebook Collection:</label>
+                    <div class="select-wrapper">
+                        <select id="notebook-collection" aria-labelledby="collection-label">
+                            <option value="">Loading collections...</option>
+                        </select>
+                        <i class="fas fa-chevron-down select-icon" aria-hidden="true"></i>
+                    </div>
+                </div>
+
+                <!-- Files List -->
+                <div class="files-section">
+                    <h2 id="files-heading" class="section-heading">Files:</h2>
+                    
+                    <!-- Search input -->
+                    <div class="search-control">
+                        <label for="file-search" class="visually-hidden">Search files:</label>
+                        <input type="text" id="file-search" class="search-input" placeholder="Search files..." aria-describedby="search-desc">
+                        <span id="search-desc" class="visually-hidden">Enter text to filter files</span>
+                        <i class="fas fa-search search-icon" aria-hidden="true"></i>
+                    </div>
+                    
+                    <div class="file-list" id="file-list" role="list" aria-labelledby="files-heading">
+                        <!-- Files will be loaded here dynamically -->
+                        <div class="empty-state">Select a collection to view files</div>
+                    </div>
+                </div>
+
+                <!-- Tags Section -->
+                <div class="tags-section">
+                    <h2 id="tags-heading" class="section-heading">Filter by Tags</h2>
+                    <div class="tags-container" id="tags-container" role="list" aria-labelledby="tags-heading">
+                        <div class="empty-state">No tags available</div>
+                    </div>
+                </div>
+
+                <!-- Recent Files Section -->
+                <div class="recent-files-section">
+                    <h2 id="recent-heading" class="section-heading">Recent Files</h2>
+                    <div class="file-list" id="recent-files" role="list" aria-labelledby="recent-heading">
+                        <div class="empty-state">No recent files</div>
+                    </div>
+                </div>
+                
+                <!-- Actions -->
+                <div class="action-buttons">
+                    <button id="new-file-btn" class="btn btn-primary" aria-label="Create new file" disabled title="Not functional in demo">
+                        <i class="fas fa-file" aria-hidden="true"></i> New File
+                    </button>
+                    <button id="new-folder-btn" class="btn btn-secondary" aria-label="Create new folder" disabled title="Not functional in demo">
+                        <i class="fas fa-folder-plus" aria-hidden="true"></i> New Folder
+                    </button>
+                </div>
+
+                <!-- System Log -->
+                <div class="log-section">
+                    <h2 id="log-heading" class="section-heading">System Log</h2>
+                    <div class="logs" id="logs-container" role="log" aria-live="polite" aria-labelledby="log-heading">
+                        <!-- Log entries will be added here dynamically -->
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <main id="main-content" class="content" role="main">
+            <!-- Breadcrumb navigation -->
+            <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+                <div id="breadcrumb-path" role="navigation" aria-label="Breadcrumb navigation"></div>
+                
+                <!-- Navigation controls -->
+                <div class="navigation-controls">
+                    <button id="nav-back" class="nav-btn" aria-label="Go back">
+                        <i class="fas fa-arrow-left" aria-hidden="true"></i>
+                    </button>
+                    <button id="nav-forward" class="nav-btn" aria-label="Go forward">
+                        <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                    </button>
+                    
+                    <!-- View mode toggle -->
+                    <div class="view-mode-selector" role="radiogroup" aria-label="View mode">
+                        <button id="compact-mode-btn" class="view-mode-btn" role="radio" aria-checked="false" aria-label="Compact mode">
+                            <i class="fas fa-compress" aria-hidden="true"></i>
+                        </button>
+                        <button id="normal-mode-btn" class="view-mode-btn active" role="radio" aria-checked="true" aria-label="Normal mode">
+                            <i class="fas fa-desktop" aria-hidden="true"></i>
+                        </button>
+                        <button id="reading-mode-btn" class="view-mode-btn" role="radio" aria-checked="false" aria-label="Reading mode">
+                            <i class="fas fa-book-open" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                </div>
+            </nav>
+            
+            <!-- Content title -->
+            <h2 id="content-title" class="content-title">Select a file to view</h2>
+            
+            <!-- Tab navigation -->
+            <div class="content-tabs" role="tablist" aria-label="Content views">
+                <button id="read-tab" class="tab active" role="tab" aria-selected="true" aria-controls="read-view">
+                    <i class="fas fa-book" aria-hidden="true"></i> <span>Read</span>
+                </button>
+                <button id="edit-tab" class="tab disabled" role="tab" aria-selected="false" aria-controls="edit-view" disabled title="Not functional in demo">
+                    <i class="fas fa-edit" aria-hidden="true"></i> <span>Edit</span>
+                </button>
+                <button id="history-tab" class="tab disabled" role="tab" aria-selected="false" aria-controls="history-view" disabled title="Not functional in demo">
+                    <i class="fas fa-history" aria-hidden="true"></i> <span>History</span>
+                </button>
+                
+                <!-- Actions dropdown -->
+                <div class="dropdown">
+                    <button id="more-actions-btn" class="dropdown-toggle disabled" aria-haspopup="true" aria-expanded="false" disabled title="Not functional in demo">
+                        <i class="fas fa-ellipsis-h" aria-hidden="true"></i> <span class="visually-hidden">More actions</span>
+                    </button>
+                    <div id="dropdown-content" class="dropdown-menu" role="menu" aria-label="Additional actions">
+                        <button id="rename-btn" class="dropdown-item" role="menuitem" disabled>
+                            <i class="fas fa-tag" aria-hidden="true"></i> Rename
+                        </button>
+                        <button id="move-btn" class="dropdown-item" role="menuitem" disabled>
+                            <i class="fas fa-folder-open" aria-hidden="true"></i> Move
+                        </button>
+                        <button id="whatlinks-btn" class="dropdown-item" role="menuitem" disabled>
+                            <i class="fas fa-link" aria-hidden="true"></i> References
+                        </button>
+                        <hr class="dropdown-divider">
+                        <button id="delete-btn" class="dropdown-item danger" role="menuitem" disabled>
+                            <i class="fas fa-trash" aria-hidden="true"></i> Delete
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Content views -->
+            <div class="content-views">
+                <!-- Read view -->
+                <div id="read-view" class="view active" role="tabpanel" aria-labelledby="read-tab">
+                    <div id="content-display" class="content-display">
+                        <div class="welcome-message">
+                            <h3>Welcome to Notebook Explorer</h3>
+                            <p>Select a file from the sidebar to view its contents.</p>
+                            <p>You can also create a new file using the "New File" button.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Edit view -->
+                <div id="edit-view" class="view" role="tabpanel" aria-labelledby="edit-tab" hidden>
+                    <div class="edit-container">
+                        <div class="editor-toolbar-container">
+                            <!-- Editor toolbar will be inserted here by EasyMDE -->
+                        </div>
+                        <textarea id="content-editor"></textarea>
+                        <div class="edit-actions">
+                            <button id="save-btn" class="btn btn-primary" aria-label="Save changes">
+                                <i class="fas fa-save" aria-hidden="true"></i> Save
+                            </button>
+                            <button id="cancel-btn" class="btn btn-secondary" aria-label="Cancel editing">
+                                <i class="fas fa-times" aria-hidden="true"></i> Cancel
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- History view -->
+                <div id="history-view" class="view" role="tabpanel" aria-labelledby="history-tab" hidden>
+                    <!-- History content will be loaded here -->
+                </div>
+            </div>
+            
+            <!-- File operations -->
+            <div id="file-operations" class="file-operations" hidden>
+                <h3>File Operations</h3>
+                <div class="operation-buttons">
+                    <button id="download-btn" class="btn btn-secondary">
+                        <i class="fas fa-download" aria-hidden="true"></i> Download
+                    </button>
+                    <button id="share-btn" class="btn btn-secondary">
+                        <i class="fas fa-share-alt" aria-hidden="true"></i> Share
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <footer role="contentinfo">
+        <p>Notebook Explorer v1.0 | The Essential Text Browser</p>
+        <p><span id="copyright-year">© 2025</span> Zim Notebook Viewer</p>
+    </footer>
+
+    <!-- Templates for dynamic content -->
+    <template id="file-item-template">
+        <div class="file-item" role="listitem" tabindex="0">
+            <i class="file-icon" aria-hidden="true"></i>
+            <span class="file-name"></span>
+        </div>
+    </template>
+
+    <template id="tag-item-template">
+        <button class="tag" role="listitem">
+            <span class="tag-name"></span>
+            <i class="fas fa-times tag-remove" aria-hidden="true"></i>
+        </button>
+    </template>
+
+    <!-- Loading indicator removed -->
+    
+    <!-- Demo indicator removed -->
+
+    <!-- Notification system -->
+    <div id="notification-container" class="notification-container" aria-live="assertive"></div>
+    
+    <!-- Dialog templates -->
+    <div id="dialog-container"></div>
+
+    <!-- External Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Application Scripts -->
+    <script src="js/config.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/notebook-format.js"></script>
+    <script src="js/wiki-links.js"></script>
+    <script src="js/accessibility.js"></script>
+    <script src="js/app.js"></script>
+    
+    <!-- Page Structure Reporter Tool -->
+    <script src="js/page-state-reporter.js"></script>
+</body>
+</html>

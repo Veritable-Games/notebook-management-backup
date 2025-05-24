@@ -1,0 +1,16 @@
+
+# tasks.txt
+figure out how to take care of your family
+your others: to name them all is not enough
+to find them all and find success: together in what we'd do
+how might I be most willful without asking of anyone new?
+
+'if we're thinking about the same things' to make to fun: common threads to find
+
+promises cannot mean nothing
+lies cannot go unsaid
+these sins might only go forward if I do not find my head
+
+don't get hung up on creating an impossible simulation
+get your shit together: be able to say what it is you're doing
+this can be done in a day if I focus: knew exactly how to build

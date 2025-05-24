@@ -1,0 +1,240 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.header-controls {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.header-controls button {
+  background-color: #61dafb;
+  border: none;
+  border-radius: 4px;
+  color: #282c34;
+  padding: 8px 16px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.header-controls button:hover {
+  background-color: #4fa8d1;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.header-controls button:active {
+  transform: translateY(0);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.collaborate-button {
+  background-color: #2196F3 !important;
+  color: white !important;
+  font-weight: bold;
+  min-width: 160px;
+  justify-content: center;
+}
+
+.collaboration-dialog {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.dialog-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  color: #333;
+}
+
+.dialog-content h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.dialog-content input {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.dialog-buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.dialog-buttons button {
+  background-color: #2196F3;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.dialog-buttons button:last-child {
+  background-color: #f44336;
+}
+
+.collaboration-status {
+  color: white;
+  margin-left: 10px;
+  font-size: 0.8em;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 6px 10px;
+  border-radius: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 300px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.collaboration-status .status-icon {
+  margin-right: 2px;
+}
+
+.collaboration-status .room-id {
+  font-family: monospace;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 2px 4px;
+  border-radius: 3px;
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.collaboration-status .user-count {
+  font-weight: bold;
+}
+
+.error-message {
+  color: white;
+  background-color: #f44336;
+  padding: 8px 12px;
+  border-radius: 4px;
+  margin: 8px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.9em;
+}
+
+.error-message button {
+  background: none;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2em;
+  cursor: pointer;
+  margin-left: 10px;
+  padding: 0 4px;
+}
+
+.dialog-error {
+  color: #333;
+  background-color: #ffcdd2;
+  border-left: 4px solid #f44336;
+}
+
+.control-panel {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #ddd;
+}
+
+.control-group {
+  display: flex;
+  gap: 10px;
+}
+
+.control-button {
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+
+.control-button:hover {
+  background-color: #3367d6;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.control-button:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+.control-button.danger {
+  background-color: #ea4335;
+}
+
+.control-button.danger:hover {
+  background-color: #d73125;
+}
+
+.control-button span[role="img"] {
+  font-size: 1.2em;
+}
+
+.excalidraw-wrapper {
+  flex-grow: 1;
+  height: calc(100vh - 130px);
+  position: relative;
+}
+
+.excalidraw-container {
+  height: 100%;
+}

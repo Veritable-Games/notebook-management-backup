@@ -1,0 +1,15 @@
+{
+  "title": "ck_error_txt",
+  "content": "# ck_error.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T14:57:01-07:00\n\n====== ck error.txt ======\nUnhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x0000024299880020\r\n\r\nVCRUNTIME140\r\nMordhau_Win64_Shipping!<lambda_b23369ed6a0be55efe632c06c32df106>::operator()() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureCore\\Private\\AudioCaptureCore.cpp:194]\r\nMordhau_Win64_Shipping!Audio::FAudioCaptureRtAudioStream::OnAudioCapture() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureImplementations\\AudioCaptureRtAudio\\Private\\AudioCaptureRtAudio.cpp:196]\r\nMordhau_Win64_Shipping!OnAudioCaptureCallback() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureImplementations\\AudioCaptureRtAudio\\Private\\AudioCaptureRtAudio.cpp:18]\r\nMordhau_Win64_Shipping!RtApiDs::callbackEvent() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureImplementations\\AudioCaptureRtAudio\\Private\\RtAudio.cpp:6281]\r\nMordhau_Win64_Shipping!callbackHandler() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureImplementations\\AudioCaptureRtAudio\\Private\\RtAudio.cpp:6663]\r\nucrtbase\r\nkernel32\r\nntdll\r\n\r\nUnhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x0000023408db0020\r\n\r\nVCRUNTIME140\r\nMordhau_Win64_Shipping!<lambda_b23369ed6a0be55efe632c06c32df106>::operator()() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureCore\\Private\\AudioCaptureCore.cpp:194]\r\nMordhau_Win64_Shipping!Audio::FAudioCaptureRtAudioStream::OnAudioCapture() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureImplementations\\AudioCaptureRtAudio\\Private\\AudioCaptureRtAudio.cpp:196]\r\nMordhau_Win64_Shipping!OnAudioCaptureCallback() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureImplementations\\AudioCaptureRtAudio\\Private\\AudioCaptureRtAudio.cpp:18]\r\nMordhau_Win64_Shipping!RtApiDs::callbackEvent() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureImplementations\\AudioCaptureRtAudio\\Private\\RtAudio.cpp:6281]\r\nMordhau_Win64_Shipping!callbackHandler() [D:\\BuildAgent02\\work\\c3c40d1ef4189e88\\UE4\\Engine\\Source\\Runtime\\AudioCaptureImplementations\\AudioCaptureRtAudio\\Private\\RtAudio.cpp:6663]\r\nucrtbase\r\nkernel32\r\nntdll\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/ck_error.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.084Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/ck_error.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.084Z"
+  },
+  "created": "2025-05-05T16:25:37.084Z",
+  "modified": "2025-05-05T16:25:37.084Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

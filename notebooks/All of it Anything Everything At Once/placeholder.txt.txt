@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T15:37:48-07:00
+
+====== placeholder.txt ======
+e02a2685bd025da08912e2f53e8f5eee

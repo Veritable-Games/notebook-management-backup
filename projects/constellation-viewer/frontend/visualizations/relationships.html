@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Constellation - Visualization</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow: hidden;
+        }
+        
+        #canvas-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        #info-panel {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            width: 300px;
+            background-color: rgba(30, 30, 30, 0.8);
+            border-radius: 8px;
+            padding: 15px;
+            display: none;
+        }
+        
+        #info-panel h2 {
+            margin-top: 0;
+            color: #90caf9;
+        }
+        
+        #info-panel .category {
+            display: inline-block;
+            padding: 3px 8px;
+            background-color: #333;
+            border-radius: 4px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            font-size: 0.8rem;
+        }
+        
+        #info-panel .connections {
+            margin-top: 15px;
+        }
+        
+        #info-panel .connection {
+            padding: 8px;
+            margin-bottom: 8px;
+            background-color: rgba(60, 60, 60, 0.5);
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        
+        #info-panel .connection:hover {
+            background-color: rgba(80, 80, 80, 0.5);
+        }
+        
+        #info-panel .connection-type {
+            font-weight: bold;
+            color: #90caf9;
+            margin-bottom: 3px;
+        }
+        
+        #loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 1.5rem;
+            color: #90caf9;
+        }
+        
+        #instructions {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            background-color: rgba(30, 30, 30, 0.8);
+            border-radius: 8px;
+            padding: 10px 15px;
+        }
+    </style>
+</head>
+<body>
+    <div id="canvas-container"></div>
+    
+    <div id="info-panel">
+        <h2 id="node-title">Node Title</h2>
+        <div id="node-category" class="category">Category</div>
+        <p id="node-description">This is a description of the node.</p>
+        
+        <div class="connections">
+            <h3>Connections</h3>
+            <div id="connection-list">
+                <!-- Connections will be added here dynamically -->
+            </div>
+        </div>
+    </div>
+    
+    <div id="loading">Loading Knowledge Constellation...</div>
+    
+    <div id="instructions">
+        <p>Mouse: Rotate | Scroll: Zoom | Click: Select Node</p>
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.min.js"></script>
+    
+    <script>
+        // Configuration
+        const API_URL = 'http://localhost:4000/api/v1';
+        
+        // Three.js variables
+        let scene, camera, renderer, controls;
+        let raycaster, mouse;
+        let nodeObjects = {};
+        let selectedNode = null;
+        
+        // Data
+        let graphData = null;
+        
+        // Initialize the visualization
+        async function init() {
+            setupThreeJS();
+            await loadData();
+            createVisualization();
+            animate();
+            document.getElementById('loading').style.display = 'none';
+        }
+        
+        // Set up Three.js scene
+        function setupThreeJS() {
+            // Create scene
+            scene = new THREE.Scene();
+            scene.background = new THREE.Color(0x121212);
+            
+            // Create camera
+            camera = new THREE.PerspectiveCamera(
+                75, 
+                window.innerWidth / window.innerHeight, 
+                0.1, 
+                1000
+            );
+            camera.position.z = 30;
+            
+            // Create renderer
+            renderer = new THREE.WebGLRenderer({ antialias: true });
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            document.getElementById('canvas-container').appendChild(renderer.domElement);
+            
+            // Add orbit controls
+            controls = new THREE.OrbitControls(camera, renderer.domElement);
+            controls.enableDamping = true;
+            controls.dampingFactor = 0.05;
+            
+            // Setup for raycasting (node selection)
+            raycaster = new THREE.Raycaster();
+            mouse = new THREE.Vector2();
+            
+            // Handle window resize
+            window.addEventListener('resize', () => {
+                camera.aspect = window.innerWidth / window.innerHeight;
+                camera.updateProjectionMatrix();
+                renderer.setSize(window.innerWidth, window.innerHeight);
+            });
+            
+            // Handle clicks for node selection
+            window.addEventListener('click', onMouseClick);
+        }
+        
+        // Load data from the API
+        async function loadData() {
+            try {
+                const response = await fetch(`${API_URL}/visualization/graph`);
+                graphData = await response.json();
+                console.log('Loaded graph data:', graphData);
+            } catch (error) {
+                console.error('Error loading graph data:', error);
+                document.getElementById('loading').textContent = 'Error loading data. Please try again.';
+            }
+        }
+        
+        // Create the visualization with nodes and links
+        function createVisualization() {
+            if (!graphData) return;
+            
+            // Add ambient light
+            const ambientLight = new THREE.AmbientLight(0xcccccc, 0.5);
+            scene.add(ambientLight);
+            
+            // Add directional light
+            const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
+            directionalLight.position.set(0, 1, 1);
+            scene.add(directionalLight);
+            
+            // Add nodes
+            graphData.nodes.forEach(node => {
+                createNode(node);
+            });
+            
+            // Add links
+            graphData.links.forEach(link => {
+                createLink(link);
+            });
+        }
+        
+        // Create a node in the 3D scene
+        function createNode(node) {
+            // Default position if not specified
+            const position = node.position || {
+                x: (Math.random() - 0.5) * 20,
+                y: (Math.random() - 0.5) * 20,
+                z: (Math.random() - 0.5) * 20
+            };
+            
+            // Choose color based on category
+            const color = getCategoryColor(node.category);
+            
+            // Create sphere geometry
+            const geometry = new THREE.SphereGeometry(node.size || 1, 32, 16);
+            const material = new THREE.MeshLambertMaterial({ color });
+            const mesh = new THREE.Mesh(geometry, material);
+            
+            // Position the node
+            mesh.position.set(position.x, position.y, position.z);
+            
+            // Store node data with the mesh
+            mesh.userData = { 
+                id: node.id,
+                title: node.title,
+                category: node.category,
+                type: node.type,
+                nodeData: node
+            };
+            
+            // Add to scene and store reference
+            scene.add(mesh);
+            nodeObjects[node.id] = mesh;
+            
+            // Add label for the node
+            // For performance, we'll skip labels for now
+            // addNodeLabel(node, mesh);
+        }
+        
+        // Create a link between nodes
+        function createLink(link) {
+            const sourceNode = nodeObjects[link.source];
+            const targetNode = nodeObjects[link.target];
+            
+            if (!sourceNode || !targetNode) {
+                console.warn(`Cannot create link: missing nodes for ${link.source} -> ${link.target}`);
+                return;
+            }
+            
+            // Get positions
+            const sourcePos = sourceNode.position;
+            const targetPos = targetNode.position;
+            
+            // Choose color based on relationship type
+            const color = getLinkColor(link.type);
+            
+            // Create line
+            const material = new THREE.LineBasicMaterial({ 
+                color, 
+                opacity: link.strength || 0.5,
+                transparent: true
+            });
+            
+            const geometry = new THREE.BufferGeometry().setFromPoints([
+                new THREE.Vector3(sourcePos.x, sourcePos.y, sourcePos.z),
+                new THREE.Vector3(targetPos.x, targetPos.y, targetPos.z)
+            ]);
+            
+            const line = new THREE.Line(geometry, material);
+            
+            // Store link data
+            line.userData = {
+                source: link.source,
+                target: link.target,
+                type: link.type,
+                strength: link.strength,
+                linkData: link
+            };
+            
+            scene.add(line);
+        }
+        
+        // Map category to color
+        function getCategoryColor(category) {
+            const colorMap = {
+                navigation: 0x4285f4, // blue
+                information: 0x34a853, // green
+                technical: 0xfbbc05,  // yellow
+                design: 0xea4335,     // red
+                general: 0x9c27b0     // purple
+            };
+            
+            return colorMap[category] || 0x9c27b0;
+        }
+        
+        // Map relationship type to color
+        function getLinkColor(type) {
+            const colorMap = {
+                contains: 0x4285f4,    // blue
+                references: 0x34a853,  // green
+                describes: 0xfbbc05,   // yellow
+                implements: 0xea4335,  // red
+                influences: 0x9c27b0,  // purple
+                documents: 0x00acc1,   // cyan
+                supersedes: 0xff9800,  // orange
+                extends: 0x795548      // brown
+            };
+            
+            return colorMap[type] || 0xcccccc;
+        }
+        
+        // Handle mouse clicks for node selection
+        function onMouseClick(event) {
+            // Calculate mouse position in normalized device coordinates
+            mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+            mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+            
+            // Update the picking ray with the camera and mouse position
+            raycaster.setFromCamera(mouse, camera);
+            
+            // Calculate objects intersecting the picking ray
+            const intersects = raycaster.intersectObjects(scene.children);
+            
+            // Find the first intersected object that is a node (sphere)
+            const nodeIntersect = intersects.find(intersect => 
+                intersect.object.geometry instanceof THREE.SphereGeometry
+            );
+            
+            if (nodeIntersect) {
+                selectNode(nodeIntersect.object);
+            } else {
+                deselectNode();
+            }
+        }
+        
+        // Select a node and show its information
+        function selectNode(nodeObject) {
+            // Reset previous selection
+            if (selectedNode) {
+                selectedNode.material.emissive.setHex(0x000000);
+            }
+            
+            // Set new selection
+            selectedNode = nodeObject;
+            selectedNode.material.emissive.setHex(0x333333);
+            
+            // Update info panel
+            const nodeData = nodeObject.userData;
+            document.getElementById('node-title').textContent = nodeData.title;
+            document.getElementById('node-category').textContent = nodeData.category;
+            document.getElementById('node-description').textContent = 
+                `Type: ${nodeData.type}`;
+            
+            // Get and display connections
+            fetchNodeConnections(nodeData.id);
+            
+            // Show info panel
+            document.getElementById('info-panel').style.display = 'block';
+        }
+        
+        // Deselect the currently selected node
+        function deselectNode() {
+            if (selectedNode) {
+                selectedNode.material.emissive.setHex(0x000000);
+                selectedNode = null;
+            }
+            
+            // Hide info panel
+            document.getElementById('info-panel').style.display = 'none';
+        }
+        
+        // Fetch node connections from the API
+        async function fetchNodeConnections(nodeId) {
+            try {
+                const response = await fetch(`${API_URL}/relationships/node/${nodeId}`);
+                const data = await response.json();
+                
+                // Display connections
+                displayConnections(data.connections);
+            } catch (error) {
+                console.error('Error fetching node connections:', error);
+                document.getElementById('connection-list').innerHTML = 
+                    '<p>Error loading connections</p>';
+            }
+        }
+        
+        // Display node connections in the info panel
+        function displayConnections(connections) {
+            const connectionList = document.getElementById('connection-list');
+            connectionList.innerHTML = '';
+            
+            if (connections.length === 0) {
+                connectionList.innerHTML = '<p>No connections for this node</p>';
+                return;
+            }
+            
+            connections.forEach(connection => {
+                const connectionEl = document.createElement('div');
+                connectionEl.className = 'connection';
+                
+                const relationshipType = document.createElement('div');
+                relationshipType.className = 'connection-type';
+                relationshipType.textContent = 
+                    `${connection.relationship.direction === 'outgoing' ? 'To' : 'From'}: ${connection.relationship.type}`;
+                
+                const nodeTitle = document.createElement('div');
+                nodeTitle.textContent = connection.node.title;
+                
+                connectionEl.appendChild(relationshipType);
+                connectionEl.appendChild(nodeTitle);
+                
+                // Add click handler to navigate to connected node
+                connectionEl.addEventListener('click', () => {
+                    navigateToNode(connection.node.id);
+                });
+                
+                connectionList.appendChild(connectionEl);
+            });
+        }
+        
+        // Navigate to a connected node
+        function navigateToNode(nodeId) {
+            const nodeObject = nodeObjects[nodeId];
+            if (nodeObject) {
+                // Select the node
+                selectNode(nodeObject);
+                
+                // Animate camera to the node
+                const nodePosition = nodeObject.position;
+                const targetPosition = new THREE.Vector3(
+                    nodePosition.x + 5,
+                    nodePosition.y + 5,
+                    nodePosition.z + 5
+                );
+                
+                // Set orbit controls target to node position
+                controls.target.set(
+                    nodePosition.x,
+                    nodePosition.y,
+                    nodePosition.z
+                );
+            }
+        }
+        
+        // Animation loop
+        function animate() {
+            requestAnimationFrame(animate);
+            controls.update();
+            renderer.render(scene, camera);
+        }
+        
+        // Start initialization when the page is loaded
+        window.addEventListener('load', init);
+    </script>
+</body>
+</html>

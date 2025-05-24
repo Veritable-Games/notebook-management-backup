@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Constellation API</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+        
+        h1, h2, h3 {
+            color: #90caf9;
+        }
+        
+        pre {
+            background-color: #1e1e1e;
+            padding: 15px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        
+        code {
+            font-family: 'Consolas', 'Monaco', monospace;
+        }
+        
+        .endpoint {
+            margin-bottom: 30px;
+            border-left: 3px solid #4285f4;
+            padding-left: 15px;
+        }
+        
+        .method {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 3px;
+            color: white;
+            font-weight: bold;
+        }
+        
+        .get { background-color: #4285f4; }
+        .post { background-color: #34a853; }
+        .put { background-color: #fbbc05; }
+        .delete { background-color: #ea4335; }
+    </style>
+</head>
+<body>
+    <h1>Knowledge Constellation API</h1>
+    
+    <section>
+        <h2>Introduction</h2>
+        <p>
+            This API provides access to the Knowledge Constellation system,
+            including wiki content, notebooks, and relationships between content items.
+        </p>
+    </section>
+    
+    <section>
+        <h2>Content API</h2>
+        
+        <div class="endpoint">
+            <h3><span class="method get">GET</span> /pages</h3>
+            <p>Get all wiki pages</p>
+            <pre><code>{
+  "entries": [
+    {
+      "title": "Home",
+      "content": "# Home Page\n\nWelcome to the wiki.",
+      "metadata": {
+        "created": "2023-04-15T12:00:00Z",
+        "modified": "2023-04-17T14:30:00Z",
+        "tags": ["home", "wiki"],
+        "author": "system"
+      }
+    },
+    // More entries...
+  ]
+}</code></pre>
+        </div>
+        
+        <div class="endpoint">
+            <h3><span class="method get">GET</span> /pages/:title</h3>
+            <p>Get a specific wiki page by title</p>
+            <pre><code>// With ?detailed=true
+{
+  "title": "Home",
+  "content": "# Home Page\n\nWelcome to the wiki.",
+  "metadata": {
+    "created": "2023-04-15T12:00:00Z",
+    "modified": "2023-04-17T14:30:00Z",
+    "tags": ["home", "wiki"],
+    "author": "system"
+  },
+  "history": [
+    // Revision history
+  ]
+}
+
+// Without detailed flag
+"# Home Page\n\nWelcome to the wiki."</code></pre>
+        </div>
+        
+        <div class="endpoint">
+            <h3><span class="method post">POST</span> /pages</h3>
+            <p>Create or update a wiki page</p>
+            <pre><code>// Request
+{
+  "title": "New Page",
+  "content": "# New Page\n\nThis is a new page.",
+  "notes": "Initial creation",
+  "tags": ["new", "documentation"]
+}
+
+// Response
+"Page saved"</code></pre>
+        </div>
+        
+        <div class="endpoint">
+            <h3><span class="method delete">DELETE</span> /pages/:title</h3>
+            <p>Delete a wiki page</p>
+            <pre><code>// Response
+"Page deleted"</code></pre>
+        </div>
+    </section>
+    
+    <section>
+        <h2>Notebook API</h2>
+        
+        <div class="endpoint">
+            <h3><span class="method get">GET</span> /notebooks</h3>
+            <p>Get a list of notebook directories</p>
+            <pre><code>{
+  "directories": [
+    "on-command-wiki-pages",
+    "noxii-wiki-pages",
+    "reference-wiki-pages"
+  ]
+}</code></pre>
+        </div>
+        
+        <div class="endpoint">
+            <h3><span class="method get">GET</span> /notebooks/:directory</h3>
+            <p>Get a list of files in a notebook directory</p>
+            <pre><code>{
+  "files": [
+    "Game_Design.txt",
+    "Character_Design.txt"
+  ]
+}</code></pre>
+        </div>
+        
+        <div class="endpoint">
+            <h3><span class="method get">GET</span> /notebooks/:directory/:file</h3>
+            <p>Get the content of a notebook file</p>
+            <pre><code>// Plain text content of the file
+"# Game Design Document\n\n## Core Gameplay Loop\n\n1. Receive mission briefing..."</code></pre>
+        </div>
+    </section>
+    
+    <section>
+        <h2>Relationship API</h2>
+        
+        <div class="endpoint">
+            <h3><span class="method get">GET</span> /api/v1/relationships</h3>
+            <p>Get the entire relationship graph</p>
+            <pre><code>{
+  "nodes": [
+    {
+      "id": "home",
+      "title": "Home",
+      "type": "document",
+      "category": "navigation",
+      "size": 1.2
+    },
+    // More nodes...
+  ],
+  "links": [
+    {
+      "source": "home",
+      "target": "about",
+      "type": "references",
+      "strength": 0.7
+    },
+    // More links...
+  ]
+}</code></pre>
+        </div>
+        
+        <div class="endpoint">
+            <h3><span class="method get">GET</span> /api/v1/relationships/node/:id</h3>
+            <p>Get a specific node and its connections</p>
+            <pre><code>{
+  "node": {
+    "id": "home",
+    "title": "Home",
+    "type": "document",
+    "category": "navigation",
+    "size": 1.2
+  },
+  "connections": [
+    {
+      "relationship": {
+        "type": "references",
+        "strength": 0.7,
+        "direction": "outgoing"
+      },
+      "node": {
+        "id": "about",
+        "title": "About",
+        "type": "document",
+        "category": "information",
+        "size": 0.9
+      }
+    },
+    // More connections...
+  ]
+}</code></pre>
+        </div>
+        
+        <div class="endpoint">
+            <h3><span class="method post">POST</span> /api/v1/relationships/node</h3>
+            <p>Create a new node</p>
+            <pre><code>// Request
+{
+  "id": "new-node",
+  "title": "New Node",
+  "type": "document",
+  "category": "technical",
+  "size": 1.0
+}
+
+// Response
+{
+  "message": "Node created successfully",
+  "node": {
+    "id": "new-node",
+    "title": "New Node",
+    "type": "document",
+    "category": "technical",
+    "size": 1.0
+  }
+}</code></pre>
+        </div>
+        
+        <div class="endpoint">
+            <h3><span class="method post">POST</span> /api/v1/relationships/link</h3>
+            <p>Create a relationship between nodes</p>
+            <pre><code>// Request
+{
+  "sourceId": "home",
+  "targetId": "new-node",
+  "type": "contains",
+  "strength": 0.8
+}
+
+// Response
+{
+  "message": "Relationship created successfully",
+  "relationship": {
+    "sourceId": "home",
+    "targetId": "new-node",
+    "type": "contains",
+    "strength": 0.8
+  }
+}</code></pre>
+        </div>
+    </section>
+</body>
+</html>

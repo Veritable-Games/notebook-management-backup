@@ -1,0 +1,16 @@
+{
+  "title": "run",
+  "content": "# run\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T16:47:54-07:00\n\n====== run ======\n\n- FIXING PAYPAL \n- Paying on my credit: \n- Closing out with The Dean\n- Buying a bench press: 10lb, 15lb weights to start\n- Buying my custom fit jumpsuit: getting white chalk\n- Getting 41 tattoo\n\nUnfininished\n- Plastic Pills\n- RepAOC\n- Pop Culture Detective\n- RichardDWolff\n- Razbuten\n- Real Science\n\nyA]h4j;h'jch!^S - Lutris\n\nHow are we to imagine ourselves free?\n\nchmod +x create_nano_files.sh\n./create_nano_files.sh\n\nchmod +x transcribe_and_save.py\npython3 transcribe_and_save.py\n\nチョコレート\n\n打鼓\n\n次のスパイシーキュ area\nあたり discriminate (???)\n晩ソーダプライズ\nまたそれは夜色我喪ー\nやはりでっていたサイトムロゴット\n七月にチャイネ・タルetter\n沙臣の片階です\n\nふっ ほっ ほっ 、\nもういい.\n今 aviation\n最後まで uitから\n- あ、\n\n956379\n36841\n820137\n\n95637936841\n820137\n\nNynorsk\n\nCannot activate the 'Unity' extension because it depends on an unknown 'ms-dotnettools.csdevkit' extension.\n\nuser@local:~$ sudo docker run hello-world\nUnable to find image 'hello-world:latest' locally\nlatest: Pulling from library/hello-world\nc1ec31eb5944: Pull complete \nDigest: sha256:94323f3e5e09a8b9515d74337010375a456c909543e1ff1538f5116d38ab3989\nStatus: Downloaded newer image for hello-world:latest\n\nHello from Docker!\nThis message shows that your installation appears to be working correctly.\n\nTo generate this message, Docker took the following steps:\n 1. The Docker client contacted the Docker daemon.\n 2. The Docker daemon pulled the \"hello-world\" image from the Docker Hub.\n\t(amd64)\n 3. The Docker daemon created a new container from that image which runs the\n\texecutable that produces the output you are currently reading.\n 4. The Docker daemon streamed that output to the Docker client, which sent it\n\tto your terminal.\n\nTo try something more ambitious, you can run an Ubuntu container with:\n $ docker run -it ubuntu bash\n\nShare images, automate workflows, and more with a free Docker ID:\n https://hub.docker.com/\n\nFor more examples and ideas, visit:\n https://docs.docker.com/get-started/\n\n9200000 9200000 1840000\nX-90\nMesh Cylinder\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/run.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, fix\n- **Imported**: 2025-05-05T16:25:37.190Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/run.txt",
+    "importedAt": "2025-05-05T16:25:37.190Z"
+  },
+  "created": "2025-05-05T16:25:37.190Z",
+  "modified": "2025-05-05T16:25:37.190Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "fix"
+  ]
+}

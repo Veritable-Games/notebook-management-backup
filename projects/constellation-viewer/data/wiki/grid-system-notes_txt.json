@@ -1,0 +1,15 @@
+{
+  "title": "grid-system-notes_txt",
+  "content": "# grid-system-notes.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:10:02-07:00\n\n====== grid-system-notes.txt ======\nGridSystem_01 - Does nothing\nGridSystem_02 - Does nothing\nGridSystem_06 - Reaches the top height, lower height, bounds are infinite along the x axis, performant, two cross sectional vertical grids at the origin point.\nGridSystem_07 - Breaks\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/grid-system-notes.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.116Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/grid-system-notes.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.116Z"
+  },
+  "created": "2025-05-05T16:25:37.116Z",
+  "modified": "2025-05-05T16:25:37.116Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

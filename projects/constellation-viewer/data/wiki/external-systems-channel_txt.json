@@ -1,0 +1,15 @@
+{
+  "title": "external-systems-channel_txt",
+  "content": "# external-systems-channel.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:05:12-07:00\n\n====== external-systems-channel.txt ======\n4:04 PM]Glitch: https://langchain.readthedocs.io/en/latest/\r\n[4:21 PM]Glitch: https://docs.jupyter.org/en/latest/\r\n[4:22 PM]Glitch: https://modal.com/docs/guide\r\n[4:23 PM]Glitch: https://platform.openai.com/\r\nOpenAI API\r\nAn API for accessing new AI models developed by OpenAI\r\n[4:23 PM]Glitch: https://docs.midjourney.com/docs/quick-start\r\n[4:24 PM]Glitch: https://huggingface.co/docs/hub/index\r\n[4:24 PM]Glitch: https://projects.laion.ai/Open-Assistant/docs/intro\r\nIntroduction | Open Assistant\r\nThe FAQ page is available at\r\n[4:32 PM]Glitch: https://developer.nvidia.com/opencl\r\nNVIDIA Developer\r\nOpenCL\r\nOpenCL™ (Open Computing Language) is a low-level API for heterogeneous computing that runs on CUDA-powered GPUs. Using the OpenCL API, developers can launch compute kernels written using a limited subset of the C programming language on a GPU. NVIDIA is now OpenCL 3.0 conformant and is available on R465 and later drivers. This is supported on x8...\r\n[4:32 PM]Glitch: https://www.codeproject.com/articles/887546/sharing-surfaces-between-opencl-and-directx-on-int\r\nCodeProject\r\nSharing Surfaces between OpenCL™ and DirectX 11 on Intel® Processor...\r\nThis tutorial demonstrates how to share surfaces between OpenCL™ and DirectX 11 with Intel ® Processor Graphics on Microsoft Windows, using the surface sharing extension in OpenCL.\r\nImage\r\n[5:07 PM]Glitch: https://www.tensorflow.org/tensorboard/get_started\r\n[5:27 PM]Glitch: https://cronitor.io/docs\r\nDocumentation | Cronitor\r\nDocumentation | Cronitor\r\n[5:45 PM]Glitch: https://gitlab.com/open-assistant/oa-arch\r\nGitLab\r\nOpen Assistant / Open Assistant - Arch Linux · GitLab\r\nOpen Assistant for Arch Linux\r\nImage\r\nGlitch\r\n pinned \r\na message\r\n to this channel. See all \r\npinned messages\r\n.\r\n — 03/11/2023 5:46 PM\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/external-systems-channel.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.112Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/external-systems-channel.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.112Z"
+  },
+  "created": "2025-05-05T16:25:37.112Z",
+  "modified": "2025-05-05T16:25:37.112Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

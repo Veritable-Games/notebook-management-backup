@@ -1,0 +1,16 @@
+{
+  "title": "characters-twine-notes",
+  "content": "# characters-twine-notes\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-03-10T15:51:25-07:00\n\n====== characters-twine-notes ======\n=====================================================================\nCHARACTERS\n=====================================================================\n\nArrisi - Translator (Purple)\nCarden - Biologist (Blue)\nKalisa - Physicist (Red) \nMarian - Anthropologist (Orange)\nSorrel - Engineer (Yellow)\nWilmet - Chemist (Green)\n\nOakley - Grey (N/A)\n\nRenlei\nMenesk\nHumans\n\n=====================================================================\nNAMES\n=====================================================================\n\nStela - Cosmic Sciences (Stars)\nSermo - Social Sciences (Speech) \nVitai - Life Sciences (Life) \nForma - Physical Sciences (Form) \nCausa - Formal Sciences (Reason)\n\nCiphra - Squad Name\n\n=====================================================================\nVARIABLES - Universal\n=====================================================================\n--------------------\n<%= s.name_player %> <%= s.name_squad %> \n--------------------\n\n<% s.name_player = prompt(\"Enter Your Human Character's Name\") %>\n<% s.name_squad = prompt(\"Enter Your Squad's Name\") %>\n\n<% s.faction_futurus = \"neutral\" %>\n<% s.faction_futurus = \"positive\" %>\n<% s.faction_futurus = \"negative\" %>\n\n--------------------\n<%= (Math.random() > 0.5) ? '1' : '0' %>.\n--------------------\n\n--------------------\n\"What do I call you?\" she asked<br>\n<br>\"You can call me <input>,\" I replied<br>\n\n<button>Next</button>\n]{#nameinput}<% textBox(\"#nameinput\", \"name_player\", \"Next Passage\") %>\n--------------------\n\n\n## Metadata\n- **Source**: on-command-wiki-pages/characters-twine-notes.txt\n- **Type**: wiki\n- **Tags**: wiki, on-command-wiki-pages, character-design\n- **Imported**: 2025-05-05T16:25:37.228Z",
+  "source": {
+    "type": "notebook",
+    "path": "on-command-wiki-pages/characters-twine-notes.txt",
+    "importedAt": "2025-05-05T16:25:37.228Z"
+  },
+  "created": "2025-05-05T16:25:37.228Z",
+  "modified": "2025-05-05T16:25:37.228Z",
+  "tags": [
+    "wiki",
+    "on-command-wiki-pages",
+    "character-design"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "3d-visualization",
+  "version": "1.0.0",
+  "description": "Basic 3D visualization with Three.js",
+  "scripts": {
+    "start": "webpack serve --config config/webpack.config.js",
+    "build": "webpack --config config/webpack.config.js",
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {
+    "three": "^0.153.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "babel-loader": "^10.0.0",
+    "css-loader": "^6.8.1",
+    "css-minimizer-webpack-plugin": "^7.0.2",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.3",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}

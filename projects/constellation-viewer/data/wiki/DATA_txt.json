@@ -1,0 +1,16 @@
+{
+  "title": "DATA_txt",
+  "content": "# DATA.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:00:13-07:00\n\n====== DATA.txt ======\nYou can put the updated main program (in your case, it might look like <your app name>.py) into a file called __init__.py, which should live inside a folder that contains all of your other application files. The folder needs to exist within the project directory where you are running PyInstaller to convert the files from a Python package into an executable script. Once you have created the folder structure containing __init__.py, run the PyInstaller command again so the executables can reference these additional files:</p>\r\n\r\n<path_to_pyinstaller>/bin/pyinstaller --add-hooks-dir \r\n<path_to_project_folder>/build-scripts <path_to_executable_file>\r\n\r\nMake sure to adjust <path_to_pyinstaler> and <path_to_execution_directory> with paths to your local directories that contain pyinstaller and your project folders, respectively. When creating your build scripts, make them relative to the location where they reside so they work when you deploy the exe. Be mindful of paths during deployment; for example, consider using absolute rather than relative paths for configuration data.\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/DATA.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, location\n- **Imported**: 2025-05-05T16:25:37.052Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/DATA.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.052Z"
+  },
+  "created": "2025-05-05T16:25:37.052Z",
+  "modified": "2025-05-05T16:25:37.052Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "location"
+  ]
+}

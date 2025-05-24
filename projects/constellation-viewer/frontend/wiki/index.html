@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Constellation</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+</head>
+<body class="theme-dark">
+    <header>
+        <div class="header-left">
+            <div class="logo">
+                <i class="fas fa-brain"></i>
+                <h1>Knowledge Constellation</h1>
+            </div>
+        </div>
+        <div class="header-center">
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search content...">
+                <button id="search-button"><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+        <div class="header-right">
+            <div class="view-switcher">
+                <button id="wiki-view-btn" class="active"><i class="fas fa-book"></i> Wiki</button>
+                <button id="notebooks-view-btn"><i class="fas fa-folder"></i> Notebooks</button>
+                <a href="/3d" class="view-button"><i class="fas fa-cube"></i> 3D View</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <aside class="sidebar">
+            <div class="sidebar-section">
+                <h2>Navigation</h2>
+                <ul id="navigation-list" class="nav-list">
+                    <li><a href="#home" class="active" data-page="Home">Home</a></li>
+                    <li><a href="#about" data-page="About">About</a></li>
+                    <li><a href="#projects" data-page="Projects">Projects</a></li>
+                </ul>
+            </div>
+            
+            <div class="sidebar-section" id="recent-pages-section">
+                <h2>Recent Pages</h2>
+                <ul id="recent-pages" class="nav-list">
+                    <li><a href="#loading">Loading...</a></li>
+                </ul>
+            </div>
+            
+            <div class="sidebar-section" id="notebook-section" style="display: none;">
+                <h2>Notebooks</h2>
+                <select id="notebook-directory" class="directory-select">
+                    <option value="">Select directory...</option>
+                </select>
+                <ul id="notebook-files" class="nav-list file-list">
+                    <li><a href="#select">Select a directory first</a></li>
+                </ul>
+            </div>
+            
+            <div class="sidebar-section">
+                <h2>Tags</h2>
+                <div id="tags-cloud" class="tags-cloud">
+                    <span class="tag">Loading...</span>
+                </div>
+            </div>
+            
+            <div class="sidebar-actions">
+                <button id="new-page-btn" class="action-button">
+                    <i class="fas fa-plus"></i> New Page
+                </button>
+                <button id="toggle-theme-btn" class="action-button">
+                    <i class="fas fa-moon"></i> Toggle Theme
+                </button>
+            </div>
+        </aside>
+        
+        <main class="content">
+            <!-- Wiki View -->
+            <div id="wiki-view" class="view">
+                <div class="content-header">
+                    <h1 id="page-title">Welcome to Knowledge Constellation</h1>
+                    <div class="page-actions">
+                        <button id="edit-btn" class="action-button"><i class="fas fa-edit"></i> Edit</button>
+                        <button id="history-btn" class="action-button"><i class="fas fa-history"></i> History</button>
+                    </div>
+                </div>
+                
+                <div id="page-content" class="page-content">
+                    <p>Select a page from the navigation or search for content.</p>
+                </div>
+                
+                <div id="page-metadata" class="page-metadata">
+                    <div class="metadata-row">
+                        <span id="last-modified">Last modified: Unknown</span>
+                        <span id="author">Author: Unknown</span>
+                    </div>
+                    <div class="metadata-row">
+                        <div id="page-tags" class="page-tags">
+                            <span class="tag-label">Tags:</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Editor View -->
+            <div id="editor-view" class="view" style="display: none;">
+                <div class="content-header">
+                    <input type="text" id="editor-title" placeholder="Page Title">
+                    <div class="editor-actions">
+                        <button id="cancel-btn" class="action-button"><i class="fas fa-times"></i> Cancel</button>
+                        <button id="save-btn" class="action-button primary"><i class="fas fa-save"></i> Save</button>
+                    </div>
+                </div>
+                
+                <textarea id="editor"></textarea>
+                
+                <div class="editor-footer">
+                    <div class="tags-editor">
+                        <span class="tag-label">Tags:</span>
+                        <input type="text" id="tags-input" placeholder="Add tags (comma separated)">
+                    </div>
+                    <div class="edit-notes">
+                        <input type="text" id="edit-notes" placeholder="Edit notes (optional)">
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Notebook View -->
+            <div id="notebooks-view" class="view" style="display: none;">
+                <div class="content-header">
+                    <h1 id="notebook-title">Notebook Browser</h1>
+                    <div class="notebook-actions">
+                        <button id="import-btn" class="action-button" disabled><i class="fas fa-file-import"></i> Import to Wiki</button>
+                    </div>
+                </div>
+                
+                <div id="notebook-content" class="notebook-content">
+                    <p>Select a notebook file from the sidebar to view its content.</p>
+                </div>
+            </div>
+            
+            <!-- Search Results View -->
+            <div id="search-results-view" class="view" style="display: none;">
+                <div class="content-header">
+                    <h1>Search Results: <span id="search-query"></span></h1>
+                    <div class="search-actions">
+                        <button id="close-search-btn" class="action-button"><i class="fas fa-times"></i> Close</button>
+                    </div>
+                </div>
+                
+                <div id="search-results" class="search-results">
+                    <!-- Search results will be added here -->
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <!-- Modals -->
+    <div id="new-page-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Create New Page</h2>
+                <button class="close-modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="new-page-title">Page Title</label>
+                    <input type="text" id="new-page-title" placeholder="Enter page title...">
+                </div>
+                <div class="form-group">
+                    <label for="new-page-tags">Tags (comma separated)</label>
+                    <input type="text" id="new-page-tags" placeholder="Enter tags...">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="create-page-btn" class="action-button primary">Create</button>
+                <button class="cancel-modal action-button">Cancel</button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Notification System -->
+    <div id="notification" class="notification">
+        <div class="notification-content">
+            <i class="notification-icon fas fa-info-circle"></i>
+            <span id="notification-message">This is a notification</span>
+        </div>
+    </div>
+    
+    <!-- External Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Main Application Script -->
+    <script src="app.js"></script>
+</body>
+</html>

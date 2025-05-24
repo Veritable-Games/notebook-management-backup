@@ -1,0 +1,17 @@
+{
+  "title": "game_difficulty_tips_txt",
+  "content": "# game_difficulty_tips.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-08-15T21:58:45-07:00\n\n====== game difficulty tips.txt ======\nGameplay Options to Offer Different Ways to Play\r\nDarkest Dungeon Config \"Gameplay settings as intended to be played. Turning this OFF allows you to toggle the gameplay features below.\" - explain why these features are recommended\r\n\tMonsters leave corpses\r\n\tCombat delay penalties\r\n\tMortality debuffs\r\n\tCombat retreats can fail\r\nLearn from Celeste's 'Assist Mode'\r\nAssist mode allows you to modify the game's rules to reduce its difficulty. This includes options such as slowing the game speed, grating yourself invincibility or infinite stamina, and skipping chapters entirely. - Celeste was designed to be a challenging, but accessible game. We believe that its difficulty is essential to the experience. We recommend playing without assist mode your first time. - However, we understand that every player is different. if Celeste is inaccessible to you due to its difficulty, we hope that assist mode will allow you to still enjoy it. - Would you like to play with Assist Mode? Yes/No\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/game_difficulty_tips.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, feature, gameplay\n- **Imported**: 2025-05-05T16:25:37.114Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/game_difficulty_tips.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.114Z"
+  },
+  "created": "2025-05-05T16:25:37.114Z",
+  "modified": "2025-05-05T16:25:37.114Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "feature",
+    "gameplay"
+  ]
+}

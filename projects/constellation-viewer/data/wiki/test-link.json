@@ -1,0 +1,15 @@
+{
+  "title": "test-link",
+  "content": "# test-link\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-04-18T22:15:00-07:00\n\n====== Test Wiki Links ======\n\nThis page demonstrates the different wiki link formats available in the Constellation Viewer.\n\n== Standard Links ==\n\nHere's a standard link to another page: [[Test Page Two]]\n\n== Links with Display Text ==\n\nHere's a link with custom display text: [[Test Page Two|Visit page two]]\n\n== Cross-Project Links ==\n\nHere's a link to the Noxii project: [[Noxii:Enemy_Design]]\n\nHere's a link to On Command: [[OnCommand:On_Command_GDD]]\n\n== Cross-Project Links with Display Text ==\n\nHere's a cross-project link with display text: [[Dodec:Project_-_Dodec|Dodec Project Overview]]\n\nHere's another one: [[CosmicKnights:Cosmic_Knights_GDD|Cosmic Knights Game Design]]\n\n== Missing Pages ==\n\nThis is a link to a page that doesn't exist yet: [[NonExistentPage]]\n\nThis is a cross-project link to a missing page: [[Autumn:MissingPage]]\n\n## Metadata\n- **Source**: reference-wiki-pages/test-link.txt\n- **Type**: wiki\n- **Tags**: wiki, reference-wiki-pages\n- **Imported**: 2025-05-05T16:25:37.236Z",
+  "source": {
+    "type": "notebook",
+    "path": "reference-wiki-pages/test-link.txt",
+    "importedAt": "2025-05-05T16:25:37.236Z"
+  },
+  "created": "2025-05-05T16:25:37.236Z",
+  "modified": "2025-05-05T16:25:37.236Z",
+  "tags": [
+    "wiki",
+    "reference-wiki-pages"
+  ]
+}

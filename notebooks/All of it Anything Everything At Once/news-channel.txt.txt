@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T15:25:26-07:00
+
+====== news-channel.txt ======
+https://www.insider.com/chatgpt-passes-medical-exam-diagnoses-rare-condition-2023-4
+"It's clear that GPT-4 has the potential to free up precious time and resources in the clinic, allowing clinicians to be more present with patients, "instead of their computer screens," the authors write. But, they say, "we have to force ourselves to imagine a world with smarter and smarter machines, eventually perhaps surpassing human intelligence in almost every dimension. And then think very hard about how we want that world to work." 
+
+https://bigthink.com/health/millennials-strokes/?utm_source=youtube&utm_medium=social&utm_campaign=youtube_community

@@ -1,0 +1,86 @@
+{
+  "name": "Veritable Games Repository",
+  "version": "1.0.0",
+  "description": "A comprehensive repository for game design documentation, visualization tools, and web interfaces",
+  "structure": {
+    "projects": {
+      "description": "Main project components",
+      "children": {
+        "canvas-application": {
+          "description": "Canvas drawing application",
+          "type": "application"
+        },
+        "backend-api": {
+          "description": "RESTful API server",
+          "type": "service"
+        },
+        "constellation-viewer": {
+          "description": "Wiki and document viewer",
+          "type": "application"
+        },
+        "content-management": {
+          "description": "Content organization system",
+          "type": "service"
+        },
+        "content-storage": {
+          "description": "Content storage and organization",
+          "type": "data"
+        },
+        "utilities": {
+          "description": "Shared utility tools",
+          "type": "library"
+        },
+        "visualization-tools": {
+          "description": "UI components and tools",
+          "type": "library"
+        }
+      }
+    },
+    "docs": {
+      "description": "Documentation",
+      "children": {
+        "api": {
+          "description": "API documentation",
+          "type": "documentation"
+        },
+        "guides": {
+          "description": "User and implementation guides",
+          "type": "documentation"
+        },
+        "implementation": {
+          "description": "Implementation details",
+          "type": "documentation"
+        },
+        "projects": {
+          "description": "Project specifications",
+          "type": "documentation"
+        }
+      }
+    },
+    "scripts": {
+      "description": "Utility scripts",
+      "children": {
+        "converters": {
+          "description": "Content conversion tools",
+          "type": "script"
+        },
+        "services": {
+          "description": "Service management",
+          "type": "script"
+        }
+      }
+    },
+    "logs": {
+      "description": "Centralized application logs",
+      "type": "data"
+    },
+    "config": {
+      "description": "Configuration files",
+      "type": "configuration"
+    },
+    "archive": {
+      "description": "Archived and legacy content",
+      "type": "archive"
+    }
+  }
+}

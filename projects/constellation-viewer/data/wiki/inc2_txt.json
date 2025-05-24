@@ -1,0 +1,15 @@
+{
+  "title": "inc2_txt",
+  "content": "# inc2.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:14:43-07:00\n\n====== inc2.txt ======\nWhy the heck does lightning do this? Well, for starters, that's only one of the main types of lightning. There's intracloud lighting which stays in one cloud, jumping between different charge regions, and inter cloud lightning which hops between the clouds. And then there's cloud to ground lightning, which does what it says on the ten. So, while we've known about the many zigzagging kinds of lightning, we've had no idea why they get all jazzy going from A to B. Like, surely it would be more efficient to just go straight. Well, researchers now think all of these cook forks are caused by these little guys singlet delta oxygen molecules. When lightning is forming, the electrons within the thundercloud hit oxygen so hard, it makes a bunch of these particles which then form into highly conductive colums. These columns redistribute the electric field in successive bursts, so the lighting ends up forking and making all those steps. \n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/inc2.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.141Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/inc2.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.141Z"
+  },
+  "created": "2025-05-05T16:25:37.141Z",
+  "modified": "2025-05-05T16:25:37.141Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

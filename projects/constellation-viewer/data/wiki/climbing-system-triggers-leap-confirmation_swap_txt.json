@@ -1,0 +1,16 @@
+{
+  "title": "climbing-system-triggers-leap-confirmation_swap_txt",
+  "content": "# climbing-system-triggers-leap-confirmation.swap.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:52:12-07:00\n\n====== climbing-system-triggers-leap-confirmation.swap.txt ======\nSo, a note for the climbing system, to grab an obstacle, grab an object, you say for example,\nhold right trigger to leap out and grab it.\nNow, if you let go of right trigger, it'll drop. The character will let go.\nBut if you hold right trigger and then use the right and the length start to look around,\nyour character will now aim with a free hand, where they're going to go next.\nAnd you tap right trigger and let go of right trigger.\nOr just tap left trigger in general to leap. They're confirmed to leap.\nAnd you're going back before I've seen those two controls.\nSo, it ties into the conversation system.\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/climbing-system-triggers-leap-confirmation.swap.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, character-design\n- **Imported**: 2025-05-05T16:25:37.086Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/climbing-system-triggers-leap-confirmation.swap.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.086Z"
+  },
+  "created": "2025-05-05T16:25:37.086Z",
+  "modified": "2025-05-05T16:25:37.086Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "character-design"
+  ]
+}

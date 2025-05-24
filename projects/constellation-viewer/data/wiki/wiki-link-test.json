@@ -1,0 +1,16 @@
+{
+  "title": "wiki-link-test",
+  "content": "# wiki-link-test\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-04-18T23:30:00-07:00\n\n====== Wiki Link Test Page ======\n\nThis page demonstrates different types of wiki links that can be used in the Constellation Viewer.\n\n== Basic Links ==\n\nHere's a link to another page in the same directory: [[narrative-structure]]\n\n== Links with Display Text ==\n\nHere's a link with custom display text: [[narrative-structure|Narrative Structure Guide]]\n\n== Cross-Project Links ==\n\nHere's a link to the Noxii project: [[Noxii:Enemy_Design]]\n\nHere's a link to the On Command project: [[OnCommand:On_Command_GDD]]\n\n== Cross-Project Links with Display Text ==\n\nHere's a cross-project link with display text: [[Dodec:Project_-_Dodec|Dodec Project Overview]]\n\nHere's another one: [[CosmicKnights:Cosmic_Knights_GDD|Cosmic Knights Game Design]]\n\n== Wiki Link Examples in Various Contexts ==\n\n* List item with a [[narrative-structure|link]] in it\n* Another item with a cross-project link: [[Noxii:Enemy_Design|Noxii Enemy System]]\n\n> This is a blockquote with a [[narrative-structure]] link.\n\n**Bold text with a [[Autumn:Autumn|Autumn game]] link in it.**\n\n== Creating New Pages ==\n\nYou can create new pages by linking to them before they exist. Later, when you click on the link, you'll be able to create and edit the new page.\n\n## Metadata\n- **Source**: reference-wiki-pages/wiki-link-test.txt\n- **Type**: wiki\n- **Tags**: wiki, reference-wiki-pages, item\n- **Imported**: 2025-05-05T16:25:37.240Z",
+  "source": {
+    "type": "notebook",
+    "path": "reference-wiki-pages/wiki-link-test.txt",
+    "importedAt": "2025-05-05T16:25:37.240Z"
+  },
+  "created": "2025-05-05T16:25:37.240Z",
+  "modified": "2025-05-05T16:25:37.240Z",
+  "tags": [
+    "wiki",
+    "reference-wiki-pages",
+    "item"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Volume_Global",
+  "content": "# Volume_Global\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-08-26T10:43:50-07:00\n\n====== Volume Global ======\n\nVisual Environment\n- Sky Type: Physically Based Sky\n- Ambient Mode: Dynamic\n\nPhysically Based Sky\n- Type: Custom Planet\n- Spherical Mode: ✓\n\tPlanet Center Position: X 73500 Y -1.1976e+07 Z 0\n\tPlanetary Radius: 6600\n- Planet Rotation: X 30 Y -70 Z 0\n- Ground Tint: FFFFFF\n- Space Rotation: X 0 Y 160 Z -60\n- Air Maximum Altitude: 1.6e+07\n- Aerosol Density: 1\n- Aerosol Tint: 3D5771\n- Aerosol Anisotropy: 0.36\n- Aerosol Maximum Altitude: 6300000\n\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/Volume_Global.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.074Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/Volume_Global.txt",
+    "importedAt": "2025-05-05T16:25:37.074Z"
+  },
+  "created": "2025-05-05T16:25:37.074Z",
+  "modified": "2025-05-05T16:25:37.074Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

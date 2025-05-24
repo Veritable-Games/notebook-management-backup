@@ -1,0 +1,248 @@
+
+# REC047.txt
+Philosophy, ethics, opinions, and the overall human expression, human experience is external to the Dodeck.
+
+
+# REC048.txt
+Subjective as in internal thought processes and subjective as in non-objective.
+One of the same are two different scenarios. Subjective thought and subjective opinion.
+I guess that kind of makes sense, but subjective experience.
+Oh boy.
+That's probably a messy idea.
+
+
+# REC049.txt
+subjective exchange and subjective information inside the brain and outside the mind.
+
+
+# REC050.txt
+Experience is internal, expression is external, external being subjective, and internal being subjective.
+
+
+# REC051.txt
+The Dodeck-Hedron is representative of the human mind and how it is
+one by physical processes.
+So interior to the Dodeck, interior to the Dodeck is
+the brain, so to speak, and that is the experience, external to the Dodeck-Dodeck is
+
+
+# REC052.txt
+Jodek is representative of universal systems, not just the mind, the brain, the physics
+and of itself and technology and things we can objectively observe and make predictions for.
+
+
+# REC053.txt
+technology be external to the dodeck.
+
+
+# REC054.txt
+As tools, science, art, and philosophy are external to the Dodeck.
+But as knowledge are these facets of human understanding interior to it.
+If the Dodeck is representative of human mind.
+
+
+# REC055.txt
+If behavior is represented by the face of a dodeck, exterior to that is knowledge, subjective
+and objective, a web of information, like neurons in a brain.
+
+
+# REC056.txt
+Okay, hopefully I can convey this in a few minutes.
+I've got break.
+So, let me think for a minute.
+
+
+# REC057.txt
+Imagine a Dota Kedron floating in space.
+The Dota Kedron is representative of the human body.
+And all the points around it are his reality, his physics, his chemistry
+and all of these variables act on the Dota Kedron.
+And within the Dota Kedron is a collection of knowledge.
+Objective information is beyond the Dota Kedron and subjective information is within it.
+
+
+# REC058.txt
+but that still isn't work
+that uh...
+it's not a linear progression
+of reality, it's more like a
+more of a literal
+kind of sense, it's like
+even my looking out the universe
+when in reality it's more like
+it's not work
+it's not work
+it's not work
+it's not work
+it's not work
+it's not work
+it's not work
+it's not work
+
+
+# REC059.txt
+So imagine these extra points.
+There these
+
+
+# REC060.txt
+the beginning of the game. There is a dodeck. It's inverted though. The symbols are backwards
+and it's black instead of white.
+The player gets close to it, close to it,
+they go into the threshold when they pop out. They're looking out into the world.
+So imagine coming in the exterior of this web space.
+This dark space I suppose is R. All the variables that affect the world.
+The mind houses knowledge, the mind houses information, but then all those other variables.
+The natural processes that act on the dodeck affect the interior and affect the internal behavior and external expression.
+An eventually of philosophy and mathematics and further equipment we utilize to understand the world.
+So again, I'll read it over time.
+
+
+# REC061.txt
+You have space, and the space itself, all the variables, all the gravity and the weak force,
+all the variables that act on us, and they collect as variables as a train of events,
+sort of on to a little bit speaking, yes, but...
+
+
+# REC062.txt
+So you have dark space, and it acts on, act, acts on an inverted Dota caedron.
+All the symbols are backwards.
+It's black instead of white.
+There are many, shall I say, veins around it, smaller connections, and they all lead
+to the exterior, or no, fuck, that's just too complex.
+I'll have to represent information with the sides of Dota caedron.
+The faces are the expressions and the sides are the information.
+They are the regions at which space and mind connect.
+Space, mind, expression, and a boy.
+I'm going to need to visualize instead of speaking it.
+Yeah, that's what I'll do.
+This will be a personal goal, because I can't actually articulate this using words.
+It's more of a abstract concept.
+We are the...
+Hang on.
+
+
+# REC063.txt
+We experience the universe from sort of a inverse perspective because we are not separate
+from the universe.
+We are affected by the universe in and of itself.
+The universe acts on us and we express outwardly into the universe.
+Nothing around.
+We don't act on the universe.
+The universe acts on us.
+We've got a little messed up.
+
+
+# REC064.txt
+the center of the dodeck causes it to invert. The effect of this inversion is implied.
+That way it's easier to navigate all the variables that affect human psyche, but then realize then that all the variables that affect human psyche are external to us.
+When it flips, when it goes inverted.
+
+
+# REC065.txt
+Objective is extrojective or being external. Subjective being internal. Objective being object generation.
+Don't panic right. That's what I can do.
+
+
+# REC066.txt
+
+
+# REC067.txt
+When the dodeck unfurls, this is when it goes beyond behavior into expression.
+And then science blocks the mathematics.
+You see connections being points connecting out and reaching under states.
+More metaphorical than anything else.
+That part is automatic.
+The other bits are controlled by human interaction.
+So like, clicking, finding points, having a rush forward, closer and closer.
+And eventually, matching all patterns are going through the chain of events
+to create the behavior scene.
+Basic behavior is first and then more complex ones that are on.
+Eventually, the control sides and the control sides use their main.
+They kind of unfurls out in the universe.
+The unfurls are once when all these connections are made up.
+When they're all done, you see the sides of the dodeck headion glow.
+Start to take shape.
+But then when you're done making connections, the entire thing forms a complete dodeck headion
+and then uninverts into normal shape.
+And then reaches out into the expense.
+
+
+# REC068.txt
+At the beginning of the game, you see the exterior of Ludota.
+You see every distance, you see, you kind of move towards it, right?
+And then eventually, you don't, uh, it uninverts, and then you go into it, and then see out.
+Or no.
+Ooh, interesting.
+Okay.
+
+
+# REC069.txt
+So the dodeck stays inverted.
+You keep zooming in, zooming into these points and eventually you're in the center of the dodeck and the center of the dodeck is
+experiential, that is
+expression.
+And then later in the game there are
+let's say new connections being made from within the dodeck.
+So like you're looking out
+into
+the void and you've got those connecting points again, but then on the far end you see
+the symbols. They're backwards again.
+
+
+# REC070.txt
+Try to do this in the engine if you can, save the dope excite for actual content, leave
+this for intro and mean tree.
+
+
+# REC071.txt
+You know, it kind of makes more sense.
+Let's go with the first iteration there.
+So, you're the universe, blah-bah.
+You look in words, draw the dotac.
+You see it.
+You start pulling closer and closer.
+You make connections.
+It builds the lines fill up to make 3D shapes.
+And the 2D shapes turn to 3D shapes.
+And then it turns to a whole dotac-hedron.
+And then it inverts and then branches out into the universe.
+As we explore and learn, express.
+
+
+# REC072.txt
+is anticipation and innate human trait.
+Is it found in other animals or humans?
+
+
+# REC073.txt
+anticipation, anticipation is equivalent to prediction.
+Prediction is connected to curiosity.
+Okay, interesting.
+I've got actually a bubble dot actually.
+I can start with connections like this.
+I'll use the symbols instead of words.
+I'll use, I'll connect the symbols to words to see if I'm missing anything.
+
+
+# REC074.txt
+How do you attraction want some curiosity really?
+Find biological links and extrapolate using the definitions and other potential connections.
+
+
+# REC075.txt
+When the dodeck uninverts everything in an environment uninverts with it
+Almost instantaneous
+Oh no, gradually actually gradually to express the human knowledge is so very expensive
+
+
+# REC076.txt
+We illuminate our surroundings by making points.
+
+
+# REC077.txt
+To be more literal, the dodeck could.
+You go into the dodeck and exit in third person with a symbol's back normal.
+Or you can leave the player's perspective with the dodeck antenna focus.
+To symbol the back of the neck, pick it up.
+

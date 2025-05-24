@@ -1,0 +1,241 @@
+
+# sticky note backup.txt
+Should I fade questions when they're asked or remove them alltogether? Questions that lack narrative importance, but built the lore.
+
+Dead space health bar
+The Division waypoint (if necessary)
+The Division Cover System
+
+Killing enemies gains you and your squad health. Nanites redirect electricity from broken power cells back into the squad's suits. Work together to take down tougher enemies and target their power core for additional electricity. The electricity gained via nanites travels across the ground and causes the suit to glow whatever color is used when charged.
+
+
+
+Game should be in third person, but leave first person as an option.
+
+Energy charges should be used sparingly. The player only has so many per mission. They can be used to revive allies, and heal yourself. But they cannot be used on self if downed. 
+
+The suits salvage energy from killed machine enemies. 
+
+Downed allies can be executed by enemies if left out in the open. Player can order allies to cover them and revive them. 
+
+Mag class carries spare ammunition and offers heavy cover fire. (two per team) Core class carries spare charges (one per team) Dunno, needs some thought
+
+Design the armor to display health using color. 
+
+Lorens - Vest, Parka, Duffle Coat, Winter Pants
+Arrisi - Camisole, Winter Overalls, Winter Jacket
+Vivian - Hoodie, Insulated Jacket, Winter Pants, Beanie, Scarf
+
+Every level needs purpose. It must serve the greater narrative. Character development and world building are key componenets. 
+
+Every ally comes with a specialty? How can I differentiate the squad members?
+
+Slicing
+
+Ubiquitous tropes
+In medias res
+turret sequence
+gruff military shouting
+the 'intense' opening setpiece
+the stoic commander
+press a to take cover
+two weapon restricton
+regenerating health
+slowly walk with dialogue
+explosive red barrels
+the linear tutorials
+pseudo stealth
+
+"It's not getting away from me this time. Watch and learn, Katara. This is how you catch a fish.
+
+every character has a goal 
+learn
+have fun
+redeem myself
+help others
+be the best on my own
+
+When writing dialogue, show don't tell. Respect the player's curiosity and intelligence. 
+
+<% s.ruan_outcome= "coma" %> 
+- <% if (s.ruan_outcome == "coma") { %>Player Aided Ruan Without Carden's Help<% } %>
+<% s.ruan_outcome= "amputated" %> 
+- <% if (s.ruan_outcome == "amputated") { %>Player Built a Tourniquet for Ruan<% } %>
+<% s.ruan_outcome= "healed" %> 
+- <% if (s.ruan_outcome == "healed") { %>Player Healed Ruan Without Incident<% } %>
+
+Skins in the Sentience FPS differ not only in appearance, but in personality. Animation and sound design player a huge role in this. Skins don't change how the weapon functions gameplay wise, or alter its statistics. Every skin has a set. Pistol, Shotgun, Rifle, SMG, LMG, Sniper, Helmet, Torso, Arms, Legs.  
+
+Ask what not why when questioning about one's self. Why am I so picky? What makes me so picky? 
+
+Littlenorwegians: Like Saxon is a reference to Saxony, old Germanic state and tribe for instance.
+Littlenorwegians: Pomorze is more just a direct tie to Poland's north shores.
+Littlenorwegians: Russia is Novgorod. Reference to an old state https://en.wikipedia.org/wiki/Novgorod_Republic
+Littlenorwegians: I will say this tho that the Americans you get exposed to in Combustion are frontier-men. Yanks.
+
+Arrisi - (Focused)
+Lorens - (Slippery) A shifty individual with a knack for conversation and the manipulation of others.
+Vivian - (Curious) Passionate about her work as a historian, she documents everything.
+Gregers - (Solemn) Hardened by the loss of his daughter, he fights for those that have been killed by the renlei.
+Josefine - (Adventurous) Born with an unmatched enthusiasm for life, she's determined to explore the old world. (Jo for short)
+Oksidere - A sardonic, but loyal Renlei droid. He was salvaged after a battle and nicknamed Oxidize by Gregers in a sarcastic remark. (Oski for short)
+
+"Follow me, I'll introduce you to this place in the meantime." 
+She walks you to the entrance, it slides open with a subtle hiss. The silence of the room behind you is swept away by the bussle of a hundred people. The city is elegant. People are walking around the main area, visiting stores, talking to friends, and going about their lives. Off to the corner of the area, there's a small line leading to some sort of seat. A woman is whisked off in a conveyor system, the seat carrying her straight up, and then onto a main belt that hovers above the area. There are dozens of people using these seats, they're whizzing by faster than you are able to count without making any noise. 
+cont
+She ushers you into one of the chairs, and takes out a handheld device; tinkering with it for a moment. A small light on the chair goes from red to green. She hands the item to you. "If you break this, you're buying me a new one. I'll be right behind you." 
+
+Character introduction - The best character introductions tend to include both a sense of what you see (the characters physical appearance) and an intriguing tidbit about their personality and/or situation. 
+ How do you want the reader to feel about this character?
+ Using the sense of sight, make a list of what the POV character notices about physical appearance
+ Consider the other senses
+ What personal impression does the character make?
+ Write a description let it rest, then edit
+
+A list of guidelines for writing dialogue - Every line I write should do one of those four things. Or at the very least, be artistically valuable. In humor or narrative aesthetics.
+1. What does this line tell me about the world?
+2. What does this line tell me about the character? 
+3. What does this line tell me about the other characters?
+4. Does this line move the plot forward? 
+
+A list of guidelines for creating characters 
+1. Name, Age, Appearance
+2. Objective: What do they want, if the novel turned out in their favor?
+3. Motivation: Why does your character want this, what drives them?
+4. Stakes: What is the consequence of not meeting that goal? What could go wrong?
+5. Obstacles: What's standing in the way of the character acheiving this goal? (internal, external)
+6. The Past: What happened to the character? How did they come to be who they are?
+7. Flaws: Affecting their journey in a negative way. Hinderance to overcome.
+8. Relationships: How they relate to other characters in the story.
+9. What would make each character angry?
+10. What would make the character happy? 
+
+Lance, late-20s, is a young man with a wild and woolly appearance that goes hand-in-hand with his wild and woolly personality. Lance has been selling drugs his entire adult life. Hes never had a day job, never filed a tax return and has never been arrested. He wears a red flannel shirt over a Speed Racer tee-shirt.
+
+Lances rough age.
+Hes scruffy, with a possibly ironic pop-culture sensibility.1
+Hes a career drug dealer, but unambitious and not traditionally criminal.
+
+The visitor sits beside the bed and Ripley finally notices him. He is thirtyish and handsome, in a suit that looks executive or legal, the tie loosened with studied casualness. A smile referred to as winning.
+MAN
+Nice room. Im Burke. Carter Burke. I work for the company, but other than that Im an okay guy. Glad to see youre feeling better.
+
+Burkes rough age.
+That hes decent-looking.
+Hes a suit, but trying not to look like a suit.
+He seems friendly  but theres something possibly false about it.
+
+Arrisi Kron
+Age: 32
+Appearance: She's tall, has hazelnut skin, dark hair, and blue eyes. Wears grey-ish blue clothing.
+Objective: To assist Vivian on her journey to the lost cities. 
+Stakes: 
+Obstacles: 
+The Past: 
+Flaws: 
+Relationships: 
+Pet Peeve: 
+Pet Penchant: 
+Sexuality: 
+
+Focused
+
+Lorens & Vali - A shifty, slippery individual with a knack for conversation and the manipulation of others.
+Age: 38
+Appearance: Lorens, now alert, glances at you with jaded dark eyes. He stands reluctantly, giving a perfunctory smile before adjusting his sullied brown vest. A lanky, off-white creature catches your attention as it sits up as he does; almost meeting Lorens at the shoulders. 
+Objective: To protect Vivian during her expedition.
+Stakes: If he fails to complete his mission, it would have a negative impact on his reputation as a hired gun.
+Obstacles: Those that impede his client's progress.
+The Past: He grew up in Stede, a downtrodden city full of poverty; corporations sucked it dry of resources and jobs are sparse. He became a gun for hire out of a desire to help his father and younger sister get by. His mother had been killed years earlier by gang violence. He lost his father to a curable virus, and could only afford to vaccinate his sister. She committed suicide soon after. 
+Flaws: He's self-critical to an extreme degree and blames himself for the loss of his family. If Jo or Vivian are endangered he will make irrational decisions.
+Relationships: He views Josefine as a sister. Someone to protect, and perhaps to amend for the failure of keeping his family safe. 
+Religion: Lorens is religious, but seldom speaks to anyone about it. The player will notice that he blesses himself before entering combat or doing something dangerous. 
+Pet Peeve: He becomes infuriated if Vali or Jo are injured.
+Pet Penchant: Vali and his ability to charm people. And Josefine for her optimism, despite where she lived.
+Sexuality: Homosexual
+
+Oksidere "Oski" - A sardonic, but loyal Renlei droid. He was salvaged after a battle and nicknamed Oxidize by Gregers in a sarcastic remark.
+Age: N/A
+Appearance: They crash into the ground and whirl towards the crowd, twisting and arranging their bodies to reveal bipedal machines as they spin. The unraveled droids pierce their digitigrade legs into the snow, grinding to a halt; tendril necks bursting from their crescent, alloy frames, carrying serpentine-like heads. One bounds forward, ensnaring a man with an unwieldy talon, and firing into the masses with a rifle mounted on the other arm. 
+Objective: None, at least, until he meets Vivian. He discovers a motivation to explore the world with her.
+Stakes: Loss of his life, loss of his friends. (In that order)
+Obstacles: Oski must overcome his cowardice if he is to help his friends when they're in trouble. 
+The Past: Oski was part of the renlei army until Gregers reprogrammed him; unknowingly allowing the droid to think for itself. 
+Flaws: He can be very cowardly when faced with danger.
+Relationships: Oski isn't fond of Gregers, despite the fact that he repaired the droid. He has a curious interest in Josefine, and she takes interest in him.
+Pet Peeve: Oski has an extreme dislike of doorways due to his inability to enter smaller ones without rolling his body up into a cylidrical form.
+Pet Penchant: Oski has an affinity for music. He asks Gregers to remove his weapon-mounted arm and replace it with a left arm with fingers because of this.
+Sexuality: N/A
+
+Vivian 
+Age: 26
+Appearance: Wears green/white apparel. 
+Objective: 
+Stakes: 
+Obstacles: 
+The Past: 
+Flaws: 
+Relationships: 
+Pet Peeve: 
+Pet Penchant: 
+Sexuality: Heterosexual
+
+Passionate about her work as a historian, she documents everything. (Curious)
+
+Gregers - A technician hardened by the loss of his son, he fights for those that have been killed by the renlei. 
+Age: 47
+Appearance: Wears black/grey apparel.
+Objective: To help bring an end to the war that took his son's life. Vivian tells him the cities have technology that can help them fight back and overcome the Renlei.
+Stakes: If the renlei overthrow the menesk government, he believes they won't be able to recover. Humanity's progress will falter and no advancements will be made.
+Obstacles: Those that prevent the group from finding the lost cities. He has developed PTSD from the event that killed his son. Renlei soldiers will elicit anxiety.
+The Past: Gregers was a father before the conflict began, and lost his child when the droids invaded
+Flaws: Gregers forces himself to remain distant from the others. He doesn't believe he can handle another loss.
+Relationships: He cares deeply for Arrisi, Lorens, Vivian, and Josefine after getting to know them; but seldom reveals this to them. 
+Pet Peeve: Renlei droids annoy him. He often regrets repairing Oski. Oski somehow misunderstands the disregard for his life as caring behavior. 
+Pet Penchant: Gregers enjoys sleep, as it lets him take a break from reality. Lack of sleep can greatly impair him.
+Sexuality: Asexual
+
+Josefine "Jo" 
+Age: 22
+Appearance: Wears bright red apparel.
+Objective: 
+Stakes: 
+Obstacles: 
+The Past: 
+Flaws: 
+Relationships: 
+Pet Peeve: 
+Pet Penchant: 
+Sexuality: Bisexual
+
+Born with an unmatched enthusiasm for life, she's determined to explore the old world. (Jo for short)
+Adventurous
+
+
+Squad commands need to be quick and snappy. Animation and movement need to have a sense of urgency. Squad AI has to be flawless, commands must feel responsive. Gunplay needs to feel great. 
+
+Don't give enemies health bars. Use destructable armor as a way to visualize damage amount. Weapons should be capable of stunning enemies and slowing them down.
+
+Every ally comes with a specialty? How can I differentiate the squad members?
+
+
+Near the end of the novel, a main character dies of blood loss. The humans appear, they are slightly shorter than the Menesk and wear what looks like compact hazmat suits. EIS (Enviromental Isolation Suits)
+
+"We'll need a donor, our blood is incompatible with yours." A human with markings on their arm stays behind as a team rushes her into the city. 
+
+How long has her brain been deprived of oxygen? Explain cellular senescense. 
+
+It's only been a few minutes, please save her!
+
+The woman pauses. The issue isn't restoring her body. The problem lies in retaining the synaptic connections in her brain, maintaining who she once was. 
+
+She will live, but the person you once knew might be gone. Would you still like to see them?
+
+Her body had to be sterilized to perform the operation. She can no longer explore the outside world without an EIS suit. The city requires that the team wear some inside. 
+
+The group meets her after the operation. She immediately takes notice of the dog, who is now covered in a custom EIS suit. "What is that thing, it's adorable!" It barks and the noise is muffled by the helmet. 
+
+
+You are a result of one of the cities lost technologies. The Menesk can't use nanites, they lost control thousands of years ago due to their genetic drift. (Loss of specific genes nanites used to identify them) These tiny machines are still widely prevelant across the world and will destroy competing nanites, but they're dormant beyond that function. 
+
+Player is still in control of old nanites. Has been locked away from 500,000 years. Unknown to them until they are shot. The nanites repair the wound. The player is lead to believe they are Menesk, and do not retain the necessary genes to control nanites.  

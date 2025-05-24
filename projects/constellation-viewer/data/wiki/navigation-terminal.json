@@ -1,0 +1,16 @@
+{
+  "title": "navigation-terminal",
+  "content": "# navigation-terminal\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-03-10T16:10:24-07:00\n\n====== navigation-terminal ======\nThe navigation terminal is used to plan for the next mission and visit previously explored locations. It also acts as a pseudo-war map, displaying the war's overall direction.\n\n\n## Metadata\n- **Source**: on-command-wiki-pages/navigation-terminal.txt\n- **Type**: wiki\n- **Tags**: wiki, on-command-wiki-pages, location\n- **Imported**: 2025-05-05T16:25:37.229Z",
+  "source": {
+    "type": "notebook",
+    "path": "on-command-wiki-pages/navigation-terminal.txt",
+    "importedAt": "2025-05-05T16:25:37.229Z"
+  },
+  "created": "2025-05-05T16:25:37.229Z",
+  "modified": "2025-05-05T16:25:37.229Z",
+  "tags": [
+    "wiki",
+    "on-command-wiki-pages",
+    "location"
+  ]
+}

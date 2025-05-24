@@ -1,0 +1,15 @@
+{
+  "title": "m-theory-written_txt",
+  "content": "# m-theory-written.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:23:34-07:00\n\n====== m-theory-written.txt ======\n\\documentclass{article}\r\n\\usepackage{graphicx} % Required for inserting images\r\n\\usepackage[margin=2cm]{geometry}\r\n\\usepackage{setspace}\r\n\\onehalfspacing % or \\doublespacing\r\n\r\n\\title{M Theory}\r\n\\author{Anonymous}\r\n\\date{May 2023}\r\n\r\n\\begin{document}\r\n\r\n\\maketitle\r\n\r\n\\section{Formula}\r\n\r\n\\begin{equation}\r\n{_\\gamma \\kappa} (a) = 3a - 3a^2 + \\frac{21}{4}a^3 - \\left(\\frac{39}{4} - \\frac{9}{4} \\zeta (3) + \\frac{45}{8} \\zeta(5) \\right) a^4 + \\left(\\frac{237}{16} + \\frac{27}{4} \\zeta(3) - \\frac{81}{16} \\zeta (3)^2 - \\frac{135}{16} \\zeta (5) + \\frac{945}{32} \\zeta (7) \\right) a^5\r\n\\end{equation}\r\n\r\n\\end{document}\r\n\r\nThere must be some latex ocrs which take image as input and give you latex code.\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/m-theory-written.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.147Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/m-theory-written.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.147Z"
+  },
+  "created": "2025-05-05T16:25:37.147Z",
+  "modified": "2025-05-05T16:25:37.147Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

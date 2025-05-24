@@ -1,0 +1,15 @@
+{
+  "title": "old-prompt",
+  "content": "# old-prompt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-03-10T16:06:46-07:00\n\n====== midjourney.txt ======\nthe robots are walking near an old city, in the style of muted and subtle tones, undefined anatomy, forced perspective drawings, warmcore, pensive poses, 2d game art, bentwood\n\n\n## Metadata\n- **Source**: LLM-confusion/old-prompt.txt\n- **Type**: notes\n- **Tags**: notes, LLM-confusion\n- **Imported**: 2025-05-05T16:25:37.214Z",
+  "source": {
+    "type": "notebook",
+    "path": "LLM-confusion/old-prompt.txt",
+    "importedAt": "2025-05-05T16:25:37.214Z"
+  },
+  "created": "2025-05-05T16:25:37.214Z",
+  "modified": "2025-05-05T16:25:37.214Z",
+  "tags": [
+    "notes",
+    "LLM-confusion"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "hse-suit",
+  "content": "# hse-suit\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.4\nCreation-Date: 2025-04-15T00:00:00Z\n\n====== HSE Suit ======\n\n===== Overview =====\nThe Hostile Environment Survival Equipment (HSE) Suit is the standard protective gear worn by squad members in On Command. It provides protection against environmental hazards, enhances physical capabilities, and integrates with weapon systems.\n\n===== Details =====\n\n==== Components ====\n* Exoskeletal Frame - Enhances strength and mobility\n* Environmental Protection - Shields against radiation, toxins, and extreme temperatures\n* Power Systems - Fusion cell with 72-hour operational capacity\n* Sensor Array - Multi-spectrum scanning capabilities\n* Weapon Integration - Neural link to improve accuracy and response time\n\n==== Variants ====\n* Scout Variant - Lighter, focused on mobility and stealth\n* Heavy Variant - Enhanced protection and weapon mounting capabilities\n* Technical Variant - Additional tools and systems analysis capabilities\n\n===== See Also =====\n* [[human-weapons|Human Weapons]]\n* [[nanites|Nanites]]\n* [[../design/game-design-document|Game Design Document]]\n\n===== Metadata =====\n* Status: Completed\n* Last Updated: 2025-04-15\n* Category: Equipment\n\n## Metadata\n- **Source**: on-command-wiki/equipment/hse-suit.txt\n- **Type**: wiki\n- **Tags**: wiki, on-command-wiki, weapon\n- **Imported**: 2025-05-05T16:25:37.224Z",
+  "source": {
+    "type": "notebook",
+    "path": "on-command-wiki/equipment/hse-suit.txt",
+    "importedAt": "2025-05-05T16:25:37.224Z"
+  },
+  "created": "2025-05-05T16:25:37.224Z",
+  "modified": "2025-05-05T16:25:37.224Z",
+  "tags": [
+    "wiki",
+    "on-command-wiki",
+    "weapon"
+  ]
+}

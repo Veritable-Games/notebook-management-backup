@@ -1,0 +1,9 @@
+{
+    "maxConstellations": 12,
+    "rotationSpeed": 0.005,
+    "constellationColors": {
+        "default": "#ff0000",
+        "hover": "#ffff00",
+        "selected": "#00ff00"
+    }
+}

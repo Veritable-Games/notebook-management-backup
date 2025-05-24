@@ -1,0 +1,15 @@
+{
+  "title": "start2_txt",
+  "content": "# start2.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:44:42-07:00\n\n====== start2.txt ======\nsource /home/developer/Documents/Environments/venv/bin/activate\n\n(venv) developer@device:~/Documents/Environments$ cd ..\n(venv) developer@device:~/Documents$ cd ..\n(venv) developer@device:~$\n\n(venv) developer@device:~$ jupyter-lab\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/start2.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.198Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/start2.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.198Z"
+  },
+  "created": "2025-05-05T16:25:37.198Z",
+  "modified": "2025-05-05T16:25:37.198Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

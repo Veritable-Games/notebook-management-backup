@@ -1,0 +1,15 @@
+{
+  "title": "nanites",
+  "content": "# nanites\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-03-10T16:10:02-07:00\n\n====== nanites ======\nNanites are microscopic machines designed to operate under the control of a city's Architect. They are capable of substituting an organism's microbiome, serve as an immune system, and can replace damaged tissue with artificial flesh that supersedes the area's previous function. These machines can also manufacture a wide range of materials, supply nutrients directly to a host's bloodstream; negating the need to consume food or drink fluids, and build technology using blueprints, provided hosts have access to them. However, these micro-machines aren't permitted to tamper with, damage, or modify DNA that isn't linked to their controller. Nanites also lack a means of external access, and cannot be altered without instructions from Architect.\n\n\n## Metadata\n- **Source**: on-command-wiki-pages/nanites.txt\n- **Type**: wiki\n- **Tags**: wiki, on-command-wiki-pages\n- **Imported**: 2025-05-05T16:25:37.229Z",
+  "source": {
+    "type": "notebook",
+    "path": "on-command-wiki-pages/nanites.txt",
+    "importedAt": "2025-05-05T16:25:37.229Z"
+  },
+  "created": "2025-05-05T16:25:37.229Z",
+  "modified": "2025-05-05T16:25:37.229Z",
+  "tags": [
+    "wiki",
+    "on-command-wiki-pages"
+  ]
+}

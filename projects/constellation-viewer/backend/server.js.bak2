@@ -1,0 +1,570 @@
+const express = require('express');
+const { integrateRelationshipAPI } = require('./server-integration');
+const bodyParser = require('body-parser');
+const fs = require('fs');
+const path = require('path');
+const app = express();
+const port = 3003; // Changed to 3003 to avoid conflicts
+
+app.use(bodyParser.json());
+
+// Enable CORS for all routes
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+    if (req.method === 'OPTIONS') {
+        return res.sendStatus(200);
+    }
+    next();
+});
+
+// Serve static files from the frontend directory
+app.use(express.static(path.join(__dirname, '../frontend')));
+
+// Add health check endpoint
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'test-index.html'));
+});
+
+// Add simple notebook browser endpoint
+app.get('/simple', (req, res) => {
+    res.sendFile(path.join(__dirname, '../frontend/simple.html'));
+});
+
+// Add unified interface
+app.get('/unified', (req, res) => {
+  res.sendFile(path.join(__dirname, '../frontend/unified.html'));
+});
+
+// Add relationship visualization
+// Add relationship visualization
+app.get('/relationships', (req, res) => {
+  res.sendFile(path.join(__dirname, '../frontend/visualizations/relationships.html'));
+});
+
+// Add enhanced wiki endpoint
+app.get('/enhanced', (req, res) => {
+    res.sendFile(path.join(__dirname, '../frontend/enhanced-wiki.html'));
+});
+
+// The wiki viewer is now integrated directly into basic.html
+
+// Load configuration from central config file
+let config;
+try {
+    config = require('/home/user/Repository/data/config');
+    console.log('Loaded central configuration');
+} catch (error) {
+    console.error('Failed to load central configuration:', error.message);
+    console.log('Using fallback path');
+}
+
+// Path to the notebooks directory - use centralized config if available
+const notebooksPath = config ? config.paths.sources.notebooks : path.join('/home/user/Notebooks');
+
+// Load wiki entries from a JSON file
+const loadWikiEntries = () => {
+    try {
+        const filePath = path.join(__dirname, 'wikiEntries.json');
+        const data = fs.readFileSync(filePath, 'utf8');
+        return JSON.parse(data);
+    } catch (err) {
+        console.error('Error loading wiki entries:', err.message);
+        return [];
+    }
+};
+
+// Save wiki entries to a JSON file
+const saveWikiEntries = (entries) => {
+    try {
+        const filePath = path.join(__dirname, 'wikiEntries.json');
+        fs.writeFileSync(filePath, JSON.stringify(entries, null, 2));
+    } catch (err) {
+        console.error('Error saving wiki entries:', err.message);
+    }
+};
+
+// Get all wiki entries
+app.get('/pages', (req, res) => {
+    try {
+        const entries = loadWikiEntries();
+        
+        // Add metadata if it doesn't exist
+        const entriesWithMetadata = entries.map(entry => {
+            if (!entry.metadata) {
+                entry.metadata = {
+                    created: new Date().toISOString(),
+                    modified: new Date().toISOString(),
+                    tags: [],
+                    author: 'system'
+                };
+            }
+            return entry;
+        });
+        
+        // Save entries with metadata
+        saveWikiEntries(entriesWithMetadata);
+        
+        res.json({ entries: entriesWithMetadata });
+    } catch (error) {
+        console.error('Error retrieving wiki entries:', error);
+        res.status(500).send('Error retrieving wiki entries');
+    }
+});
+
+// Get recent pages (sorted by last modified date)
+app.get('/pages/recent', (req, res) => {
+    try {
+        const limit = parseInt(req.query.limit) || 5;
+        const entries = loadWikiEntries();
+        
+        // Sort by modified date (descending)
+        const sortedEntries = entries
+            .map(entry => {
+                return {
+                    title: entry.title,
+                    modified: entry.metadata?.modified || new Date(0).toISOString()
+                };
+            })
+            .sort((a, b) => {
+                return new Date(b.modified) - new Date(a.modified);
+            })
+            .slice(0, limit);
+        
+        res.json({ recentPages: sortedEntries });
+    } catch (error) {
+        console.error('Error retrieving recent pages:', error);
+        res.status(500).send('Error retrieving recent pages');
+    }
+});
+
+// Get a single wiki entry by title
+app.get('/pages/:title', (req, res) => {
+    const entries = loadWikiEntries();
+    const entry = entries.find(e => e.title === req.params.title);
+    
+    if (entry) {
+        // Check if detailed format is requested
+        const detailed = req.query.detailed === 'true';
+        
+        if (detailed) {
+            // Return full entry with all metadata and history
+            res.json(entry);
+        } else {
+            // For backward compatibility, just return content
+            res.send(entry.content);
+        }
+    } else {
+        res.status(404).send('Page not found');
+    }
+});
+
+// Add or update a wiki entry
+app.post('/pages', (req, res) => {
+    const { title, content, notes, tags } = req.body;
+    if (!title || !content) {
+        return res.status(400).send('Title and content are required');
+    }
+
+    const entries = loadWikiEntries();
+    const existingEntryIndex = entries.findIndex(e => e.title === title);
+    const timestamp = new Date().toISOString();
+
+    // Create history entry
+    const historyEntry = {
+        timestamp: timestamp,
+        content: content,
+        notes: notes || '',
+        user: 'Current User'
+    };
+
+    if (existingEntryIndex >= 0) {
+        const entry = entries[existingEntryIndex];
+        
+        // Initialize metadata if not exists
+        if (!entry.metadata) {
+            entry.metadata = {
+                created: entry.metadata?.created || timestamp,
+                modified: timestamp,
+                tags: [],
+                author: 'Current User'
+            };
+        } else {
+            entry.metadata.modified = timestamp;
+        }
+
+        // Update tags if provided
+        if (tags && Array.isArray(tags)) {
+            entry.metadata.tags = tags;
+        }
+        
+        // Initialize history if not exists
+        if (!entry.history) {
+            entry.history = [];
+        }
+        
+        // Add to history
+        entry.history.unshift(historyEntry);
+        
+        // Limit history to 50 entries
+        if (entry.history.length > 50) {
+            entry.history = entry.history.slice(0, 50);
+        }
+        
+        // Update content
+        entry.content = content;
+    } else {
+        // Create new entry with history
+        entries.push({ 
+            title, 
+            content,
+            history: [historyEntry],
+            metadata: {
+                created: timestamp,
+                modified: timestamp,
+                tags: tags && Array.isArray(tags) ? tags : [],
+                author: 'Current User'
+            }
+        });
+    }
+
+    saveWikiEntries(entries);
+    res.send('Page saved');
+});
+
+// Manage tags for a wiki page
+app.post('/pages/:title/tags', (req, res) => {
+    const { tags } = req.body;
+    if (!tags || !Array.isArray(tags)) {
+        return res.status(400).send('Tags array is required');
+    }
+
+    const entries = loadWikiEntries();
+    const existingEntryIndex = entries.findIndex(e => e.title === req.params.title);
+
+    if (existingEntryIndex >= 0) {
+        const entry = entries[existingEntryIndex];
+        
+        // Initialize metadata if not exists
+        if (!entry.metadata) {
+            entry.metadata = {
+                created: new Date().toISOString(),
+                modified: new Date().toISOString(),
+                tags: tags,
+                author: 'Current User'
+            };
+        } else {
+            entry.metadata.tags = tags;
+            entry.metadata.modified = new Date().toISOString();
+        }
+        
+        saveWikiEntries(entries);
+        res.send('Tags updated');
+    } else {
+        res.status(404).send('Page not found');
+    }
+});
+
+// Get page history
+app.get('/pages/:title/history', (req, res) => {
+    const entries = loadWikiEntries();
+    const entry = entries.find(e => e.title === req.params.title);
+    
+    if (entry && entry.history) {
+        res.json(entry.history);
+    } else {
+        res.json([]);
+    }
+});
+
+// Delete a wiki entry
+app.delete('/pages/:title', (req, res) => {
+    const entries = loadWikiEntries();
+    const newEntries = entries.filter(e => e.title !== req.params.title);
+
+    if (entries.length === newEntries.length) {
+        return res.status(404).send('Page not found');
+    }
+
+    saveWikiEntries(newEntries);
+    res.send('Page deleted');
+});
+
+// Create a log array to store API access logs
+const apiLogs = [];
+
+// Log middleware
+app.use((req, res, next) => {
+    const timestamp = new Date().toISOString();
+    const log = `[${timestamp}] ${req.method} ${req.url}`;
+    apiLogs.push(log);
+    // Keep only last 100 logs
+    if (apiLogs.length > 100) {
+        apiLogs.shift();
+    }
+    console.log(log);
+    next();
+});
+
+// Add logs endpoint
+app.get('/logs', (req, res) => {
+    res.json({ logs: apiLogs });
+});
+
+// Search wiki content
+app.get('/search', (req, res) => {
+    try {
+        const query = req.query.q;
+        if (!query) {
+            return res.status(400).send('Search query is required');
+        }
+        
+        // Get search options
+        const searchTitles = req.query.titles !== 'false';
+        const searchContent = req.query.content !== 'false';
+        const searchTags = req.query.tags !== 'false';
+        
+        // Log search query
+        apiLogs.push(`[${new Date().toISOString()}] SEARCH "${query}" (titles:${searchTitles}, content:${searchContent}, tags:${searchTags})`);
+        
+        const entries = loadWikiEntries();
+        const results = [];
+        
+        // Enhanced search implementation with options
+        for (const entry of entries) {
+            let titleMatch = false;
+            let contentMatch = false;
+            let tagMatch = false;
+            
+            // Check title if that option is enabled
+            if (searchTitles) {
+                titleMatch = entry.title.toLowerCase().includes(query.toLowerCase());
+            }
+            
+            // Check content if that option is enabled
+            if (searchContent) {
+                contentMatch = entry.content.toLowerCase().includes(query.toLowerCase());
+            }
+            
+            // Check tags if that option is enabled
+            if (searchTags && entry.metadata?.tags) {
+                tagMatch = entry.metadata.tags.some(tag => 
+                    tag.toLowerCase().includes(query.toLowerCase())
+                );
+            }
+            
+            if (titleMatch || contentMatch || tagMatch) {
+                // Calculate score (title matches are highest priority)
+                let score = 0;
+                if (titleMatch) score += 10;
+                if (contentMatch) score += 5;
+                if (tagMatch) score += 3;
+                
+                // Create excerpt with context
+                let excerpt = '';
+                if (contentMatch) {
+                    const lowerContent = entry.content.toLowerCase();
+                    const index = lowerContent.indexOf(query.toLowerCase());
+                    if (index !== -1) {
+                        const start = Math.max(0, index - 60);
+                        const end = Math.min(entry.content.length, index + query.length + 60);
+                        excerpt = entry.content.substring(start, end);
+                        if (start > 0) excerpt = '...' + excerpt;
+                        if (end < entry.content.length) excerpt = excerpt + '...';
+                    } else {
+                        excerpt = entry.content.substring(0, 100) + '...';
+                    }
+                } else {
+                    excerpt = entry.content.substring(0, 100) + '...';
+                }
+                
+                results.push({
+                    title: entry.title,
+                    excerpt: excerpt,
+                    tags: entry.metadata?.tags || [],
+                    created: entry.metadata?.created,
+                    modified: entry.metadata?.modified,
+                    author: entry.metadata?.author || 'Unknown',
+                    score: score,
+                    matchType: {
+                        title: titleMatch,
+                        content: contentMatch,
+                        tags: tagMatch
+                    }
+                });
+            }
+        }
+        
+        // Sort by score (descending)
+        results.sort((a, b) => b.score - a.score);
+        
+        // Add the search to system logs
+        apiLogs.push(`[${new Date().toISOString()}] Search for "${query}" found ${results.length} results`);
+        
+        res.json({ results, query, options: { searchTitles, searchContent, searchTags } });
+    } catch (error) {
+        console.error('Error searching wiki:', error);
+        apiLogs.push(`[${new Date().toISOString()}] ERROR during search: ${error.message}`);
+        res.status(500).send('Error searching wiki');
+    }
+});
+
+// Get list of notebook directories
+app.get('/notebooks', (req, res) => {
+    try {
+        if (!fs.existsSync(notebooksPath)) {
+            const error = 'Notebooks directory not found';
+            apiLogs.push(`[ERROR] ${error} - Path: ${notebooksPath}`);
+            return res.status(404).send(error);
+        }
+        
+        const directories = fs.readdirSync(notebooksPath, { withFileTypes: true })
+            .filter(dirent => dirent.isDirectory())
+            .map(dirent => dirent.name);
+        
+        apiLogs.push(`[INFO] Found ${directories.length} notebook directories`);
+        res.json({ directories });
+    } catch (error) {
+        console.error('Error reading notebooks directory:', error.message);
+        apiLogs.push(`[ERROR] ${error.message}`);
+        res.status(500).send('Error reading notebooks directory');
+    }
+});
+
+// Get list of files in a notebook directory
+app.get('/notebooks/:directory', (req, res) => {
+    try {
+        const dirPath = path.join(notebooksPath, req.params.directory);
+        
+        if (!fs.existsSync(dirPath)) {
+            return res.status(404).send('Notebook directory not found');
+        }
+        
+        const files = fs.readdirSync(dirPath, { withFileTypes: true })
+            .filter(dirent => dirent.isFile() && dirent.name.endsWith('.txt'))
+            .map(dirent => dirent.name);
+        
+        res.json({ files });
+    } catch (error) {
+        console.error('Error reading notebook files:', error.message);
+        res.status(500).send('Error reading notebook files');
+    }
+});
+
+// Get content of a notebook file
+app.get('/notebooks/:directory/:file', (req, res) => {
+    try {
+        const filePath = path.join(notebooksPath, req.params.directory, req.params.file);
+        
+        if (!fs.existsSync(filePath)) {
+            return res.status(404).send('Notebook file not found');
+        }
+        
+        const content = fs.readFileSync(filePath, 'utf8');
+        res.send(content);
+    } catch (error) {
+        console.error('Error reading notebook file:', error.message);
+        res.status(500).send('Error reading notebook file');
+    }
+});
+
+// Add notebook content as wiki entry
+app.post('/notebooks/wiki/:directory/:file', (req, res) => {
+    try {
+        const filePath = path.join(notebooksPath, req.params.directory, req.params.file);
+        
+        if (!fs.existsSync(filePath)) {
+            return res.status(404).send('Notebook file not found');
+        }
+        
+        const content = fs.readFileSync(filePath, 'utf8');
+        const title = req.params.file.replace('.txt', '');
+        
+        // Load existing entries
+        const entries = loadWikiEntries();
+        const existingEntryIndex = entries.findIndex(e => e.title === title);
+        
+        if (existingEntryIndex >= 0) {
+            entries[existingEntryIndex].content = content;
+        } else {
+            entries.push({ title, content });
+        }
+        
+        saveWikiEntries(entries);
+        res.send('Notebook added to wiki');
+    } catch (error) {
+        console.error('Error adding notebook to wiki:', error.message);
+        res.status(500).send('Error adding notebook to wiki');
+    }
+});
+
+// Delete a notebook file
+app.delete('/notebooks/:directory/:file', (req, res) => {
+    // Log the delete request
+    console.log(`DELETE request for /notebooks/${req.params.directory}/${req.params.file}`);
+    
+    try {
+        const directory = req.params.directory;
+        const file = req.params.file;
+        const filePath = path.join(notebooksPath, directory, file);
+        
+        // Validate that the file exists before attempting to delete
+        if (!fs.existsSync(filePath)) {
+            console.error(`File not found: ${filePath}`);
+            return res.status(404).json({
+                success: false,
+                error: 'File not found',
+                path: filePath
+            });
+        }
+        
+        // Ensure the file is within the notebooks directory (security check)
+        const resolvedPath = path.resolve(filePath);
+        const resolvedNotebooksPath = path.resolve(notebooksPath);
+        
+        if (!resolvedPath.startsWith(resolvedNotebooksPath)) {
+            console.error(`Security error: Attempt to delete file outside notebooks directory: ${filePath}`);
+            return res.status(403).json({
+                success: false,
+                error: 'Access denied: Cannot delete files outside the notebooks directory'
+            });
+        }
+        
+        // Actually delete the file
+        fs.unlinkSync(filePath);
+        
+        // Verify the file was deleted
+        if (fs.existsSync(filePath)) {
+            console.error(`Failed to delete file: ${filePath}`);
+            return res.status(500).json({
+                success: false,
+                error: 'Failed to delete file'
+            });
+        }
+        
+        // Log success
+        console.log(`Successfully deleted file: ${filePath}`);
+        
+        // Return success to the client
+        res.status(200).json({
+            success: true,
+            message: 'File deleted successfully',
+            path: filePath
+        });
+    } catch (error) {
+        console.error('Error in delete handler:', error.message);
+        res.status(500).json({
+            success: false,
+            error: error.message
+        });
+    }
+});
+
+// Integrate relationship API
+integrateRelationshipAPI(app);
+
+app.listen(port, () => {
+    console.log(`Server running at http://localhost:${port}`);
+    console.log(`Notebooks directory: ${notebooksPath}`);
+});

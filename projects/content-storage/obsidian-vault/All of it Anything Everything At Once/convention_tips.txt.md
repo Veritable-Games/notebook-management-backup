@@ -1,0 +1,30 @@
+
+# convention tips.txt
+	Contact people before going to an event. Great place to meet publishers.
+	Press can be found at E3.
+	Players at Gamescom
+	Developers at GDC/Steam Dev Days
+	Go with groups. IndieMegaBooth, IndieArenaBooth, LefFieldCollection, MixMediaIndieExhange, IndieCade, GCDPlay
+	Setup housing two days before the event plus an extra day. book close to event
+	Prints, banners, business cards, others. Colors are important to branding. Roll up banners, keep logos as high as you can. Flyers don't work. Try business card size flyers.
+	Adjust your game around the convention. Short play sessions, runs on its own. Auto restart. (at end and on idle) restarts in case of crash. (program that checks if the application is running, if it's not, auto-restart it)
+	Idle card. gameplay showcase, and encourage players to sit down and try the game
+	safe environment. don't let players access the options menu or back out of the game
+	packing, scissors, pliers, box cutter, zip ties, duct tape, invisible tape, double sided tape, construction gloves, throat lozenges or honey. throw in an extension cord
+	Use a wired controller! They're not intimidating or complex, and they're easy to secure.
+	Don't rent screens. booth height is important. have a TV high up so people can spectate the game. sound is important, get portable amps
+	avoid the use or need for headphones
+	use lights to draw attention
+	get a TV topper to look professional
+	buy food before doors open
+	film everything
+	put webcam on monitor
+	do giveaways. plushies, pins, shirts, print steamkeys on business cards
+	treat spectators right. drawing prints, let the audience create unique art for the character armor, draw a photo of it, post it on social media, and have a chance to get a free steam key. use the best one and add them in the game
+	have a quick elevator pitch to tell people
+	talk to game developers. introduce your friends, say goodbye instead of walking off. talk
+	edit footage. make a video of the event and players enjoying your game
+	don't contact people you met for 3-4 days after the event
+	write about your experience
+	have sales after events
+	get spectators to play the game. give them a controller to hold then walk off

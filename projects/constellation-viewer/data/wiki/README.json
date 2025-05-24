@@ -1,0 +1,16 @@
+{
+  "title": "README",
+  "content": "# README\n\n# Reference Materials\n\n## Overview\nThis directory contains reference materials, guidelines, and resources that apply across multiple projects.\n\n## Contents\n- Narrative Structure Guidelines - Detailed outline of three-act structure, character development, and narrative tension techniques\n\n## Usage\nThese reference materials provide foundational knowledge that can be applied to any project in the repository. They serve as best practices for design and development.\n\n## Integration with Knowledge Constellation\nReference materials form the basis of the knowledge constellation, providing cross-cutting concepts that connect different projects. The visualization tools can use these connections to show relationships between projects and ideas.\n\n## Metadata\n- **Source**: reference/README.md\n- **Type**: reference\n- **Tags**: reference, reference, character-design\n- **Imported**: 2025-05-05T16:25:37.230Z",
+  "source": {
+    "type": "notebook",
+    "path": "reference/README.md",
+    "importedAt": "2025-05-05T16:25:37.230Z"
+  },
+  "created": "2025-05-05T16:25:37.230Z",
+  "modified": "2025-05-05T16:25:37.230Z",
+  "tags": [
+    "reference",
+    "reference",
+    "character-design"
+  ]
+}

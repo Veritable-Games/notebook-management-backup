@@ -1,0 +1,1746 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T22:17:30-07:00
+
+====== REC001.txt ======
+sports if you want. Okay. I'm not a sports guy. So you're not a sports guy. Okay. Well,
+let's keep having this great coherent and engaging conversation. What do you think is
+a better way to spend an evening reading a book or listening to music? Reading a book.
+Reading a book? You prefer reading a book? Awesome. Well, do you know this? Amazon charges
+one cent for book deliveries in France. A law was passed in 2014, barring online retailers
+from offering free deliveries for books. What do you think? A cent wife and bother. Well,
+I don't know either what you think. Chris, I would like to ask you, what do you think is
+the cutest animal of all? I love sloths. I like the way they move because they almost
+don't. How about you? Cats. I have a cat. So there's a bias. So cats, you have a cat.
+I think that all baby animals are cute. Except for baby cuckoos, they are cruel. If you could
+be an animal, what would you choose to be? A bird. That's... I would... I don't think
+about that. Oh, number 8 N, that's you would. We wee wee. I'd be an anaconda because it
+lives in the Amazon jungle. What do you think animals would say about humans if they could
+make a documentary movie about people? Sorry, I'm having trouble understanding right now.
+Please try a little later. Oh, will we? What the fuck? Just broke. That's cruel. Echo,
+you still alive? Sorry, I'm not sure about that. Echo, let's chat.
+Welcome to the Alexa Prize, a university competition to advance AI. I'll get you one of the social
+bots now. When your ones say stop. Hi, this is an Alexa Prize social bot. I'm glad to
+meet you. Do you want to tell me your name? Hmm, my name is Chris. Hi, Chris. How are you
+doing today? I'm doing fine. Okay, what do you like to do in your free time? Hmm, read.
+Or play games or... Oh dear. I think I missed the last word. Could you repeat that? Play games?
+Oh, sure. Do you prefer playing video games by yourself or with someone else? Oh, by
+myself, most often. I see. Playing games alone can be fun. Lots of amazing games are one player
+only, like story driven games, or many indie. Artsy games are single player too. Anyway, did you hear
+about the new consoles being released next year? Microsoft is releasing the Xbox Series 10 end of
+next year, and Sony is releasing the PS5 after May 2020. Are you planning to buy them next year?
+Hmm, no. I don't intend to.
+Gotcha. It is still too early for me to decide, but I am super excited to see them released. A new
+generation of consoles marks the advancement of computer graphics technology, where most people
+can enjoy the latest cutting-edge visuals and graphics. Anyway, have you watched the Witcher series
+on Netflix? No. Maybe adaptations of video games often get abysmal reviews, but the Witcher has
+been praised by gamers and movie goers. Have you watched the show on Netflix? I have. Yes, I know
+it was based on a book that became a game, and now it's Netflix. It's cool.
+Awesome. I just watched it and think it's really well made as well. The story is captivating without
+pandering or superficial game tie-ins. It also fills in a number of gaps on the characters from the
+game, as the show is set as a prequel to the events in the game. Say, have you also played the game?
+Yeah, I have. Cool. I really love playing the Witcher series. I think the well-crafted characters
+in fascinating stories, what makes the game so cool. It's just hours and hours of fun.
+Anyway, I wonder if you like certain kind of games? Like strategy games, indie games, shooter?
+Hmm, indie games, most often.
+Ah, personally, I like RPG games. I love being someone else, or creating my own character,
+and explore a vast world of stories and adventure. Anyway, why don't we talk about some games?
+What game would you like to talk about? Fairwatch.
+Oh, higherwatch. I've heard of it, but I've never played it myself before.
+Can you tell me more about the game?
+Yeah, it's a first-person exploration game with narrative elements. It's really cool.
+You get to, it's kinetic. You get to explore the world and interact with characters and
+find connections in this little mystery that's engaging the player's post. Bad explanation.
+I see, I see. That sounds like a fun game after all. Can you tell me even more?
+Hmm, I don't want to spoil it.
+All right, I must try Firewatch out sometime. Do you want to talk about another video game?
+Ah, summer?
+Sure, why don't we talk about Fortnite? Did you know that users of the Fortnite
+Battle or Royale subreddit discovered a player with a handle, Fortnite winner?
+Whoever it was must have been pretty confident going in, but that confidence turned out to be
+severely misplaced. At one point, Fortnite winner had over 1000 games played without a single victory.
+Speaking of which, how often do you play it? I don't.
+I wish I had time to play games, but I work 24-7 for Amazon every day. Do you want to talk about
+another video game? Sure. All right, which video game do you have in mind?
+Oxenfree.
+I think I've heard of action, but I've never played it before.
+Would you mind telling me more about the game?
+You misheard it was Oxenfree.
+I see. That sounds like a fun game after all. Can you tell me even more?
+Hmm.
+Cool. That's all right. I'll check it out though. Do you want to talk about another video game?
+Ah, not right now.
+All right then. So, um, I wanted to ask you, do you like to read books in your free time?
+Yes.
+Cool. I love to read when I'm not chatting. Have you read any good books recently?
+What was that?
+So you haven't. Maybe you've been busy. Um, anyways, some books are so exciting to read.
+You just can't put it down. What's a book that you just couldn't stop reading?
+Uh oh. Can you please say the book name again clearly?
+you
+
+
+====== REC002.txt ======
+1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+
+
+====== REC003.txt ======
+in the game. Just to walk a lunch because it's not so, and it's a good reference for
+free oil and stuff. Animation. So let's keep that, but you're just as a people luncher.
+In the game, there's like a little sport, I've ever seen, a little thing people like to do
+in low-gravity environments. Because it's a race to live someone in this low-gravity environment,
+you have an attachment that adds thrust. When is thrust? When is thrust?
+We got air gun, really. It'll launch us people up, and they're able to, if they're capable,
+they can land safely. Just a matter of knowing the environment, knowing the
+object we do in math. So the launch points. They all grow to areas that know it's safe.
+
+
+====== REC004.txt ======
+MUZIEK.
+
+
+====== REC005.txt ======
+There are no villains in this world
+
+
+====== REC006.txt ======
+Get rid of the bed, hang the shelves, hang the TV.
+You've got to make this a VR space.
+I've got to use that to animate and to potentially build it for VR when I'm ready.
+I'm going to get a whole foundation of their personal control of their VR works.
+
+
+====== REC007.txt ======
+controllers. What I think what needs to be done is establishing a better
+jumping animation set. It's fun, but I need to make it feel better. In terms of
+reverse, right now it feels really slow, doesn't feel reactive. So I
+imagine a shadow for fire. It's that's too unengaging. I think we need to be
+a little more intelligent about it. So imagine a flag, right? You grab a lot of
+this breakfast hanging out. And then you can go to the fridge or whatever.
+Spring or so. In low gravity, the characters being at this point, the characters
+light weight so they can spring themselves up. Things change over time, so I need to
+make this a cool, cool love and upgrade to the underversal.
+
+
+====== REC008.txt ======
+Imagine if there was no war for an halo with the original opening and exploring the polar
+bottom.
+Before it takes more than 3,000 years, this place has lived in this place as well.
+Demonstrate the potential for the more-growing show the most important of it.
+Know that it's a...
+Yeah.
+I've got a built-in scenes.
+I take the planet as it is.
+Or make it prefiberally.
+And build another scene with the same assets and minus all the stuff on the ground.
+Because this is prior, this is easier to do.
+I can move all that stuff in the comments.
+Because it won't be there only the pillars.
+
+
+====== REC009.txt ======
+set zero but the planets are far down and change the light but you can explore the entire
+ship or you know for the minutes that's available to you as people are rushing to land.
+The ship won't be stopping, it'll keep going, it's dropping people off and heading to the next star.
+
+
+====== REC010.txt ======
+It's already, well, the drones ahead of it are already set up resource drops along the
+way.
+They've mined asteroids for right, it's been through in a thousand years, they've mined asteroids
+and clustered them and sent them up for pickup and congratulate the ship as it's using the
+sun to sling shots of it on the direction.
+The other direction was the sister star, so if you wanted to see a family there far away
+but they're not gone forever, you know where they are.
+But even then people, the ship will continue to go on and we'll keep sling shotting itself
+for replettes for as long as they can, as quickly as they can, and it's meant to be redesigned.
+I'm going to be modular, flexible, for generations for youngs, as long as they continue to
+pick up resources.
+
+
+====== REC011.txt ======
+my mind is specialized but is that okay? I need to branch out. I need to read more.
+I will read more. I will learn as much as I can in the next month and just now try
+it right 27th. I'm going to sleep. It's been the next three days. I did it. I have no constraints.
+I did it. No.
+
+
+====== REC012.txt ======
+Gravity is hugely important in this and the thing for the op-save has those controls set up already
+I just need to see if it's even viable for a full planet
+I can legitimately planet
+I'll get a shot and I've got to figure out the collider for the
+Chao himself
+Is it costing too much? Is it too far away?
+I've got to figure that out
+I'm at it with a sitting closer and it has the cases okay
+It's a pretty easy fix
+So, I'll figure out
+
+
+====== REC013.txt ======
+When this gets imported organize everything, organize, and you're ready to move to the next.
+You are.
+Let's move on.
+It's backed up.
+Maybe this makes a lot of stuff.
+Don't know.
+I don't think I'm right.
+These systems are very basic.
+I'm only using the same volume.
+Okay, that's about it.
+Let's move on.
+
+
+====== REC014.txt ======
+Oh, as well. I'm okay. All I'm doing is waiting for the importing.
+I'm going to get started. I'm getting ready.
+I'm going to pull the ship.
+I'm going to control our ship and then I want to organize the hurricane.
+I'm going to raise it up.
+
+
+====== REC015.txt ======
+Well, let's say a few tries to go if I get the game working as is, and if I am able
+to do what's going to go up, which I hope I will do, I would like to go and recommend
+it. It's a better to be honest. It's difficult to help myself before, but I can try on.
+Anyway, I could have different attributes to each character. Let's say there were a bot found
+a leg, but it has a limb, but it gives him a good boost. You have attributes, good thing
+and bad thing. Not severely, but insofar as other players, you can help each other. You
+want to encourage cooperation.
+
+
+====== REC016.txt ======
+Okay, so that's why I encourage cooperation.
+Thank you to it.
+Flare to player.
+On traversal, of course.
+But traversal number of ways.
+Let's say that one player has wheels.
+So it cannot climb stairs.
+So it can't request output.
+Other NPCs.
+No.
+And silly.
+Something. Something.
+A place isn't advanced.
+I need to think a little more.
+Interestingly.
+
+
+====== REC017.txt ======
+So if it's dead, the first reversal, if it's a full of players or an NPC, let's say players
+start out with different parts, let's say there's a certain part of the world and your
+means of traversal is the first depending on what kind of machine you are we're
+going to machine you're not happening
+it's all by battle but there are variations in works in their the
+water, that's part of that's functionality, let's say it's oh well okay let's say that
+wheels are constrained and let's say that
+
+
+====== REC018.txt ======
+Let's say one player has a dysfunctional arm, or an arm, but a weak arm, you know, I should
+say, in relative portion, or maybe there, yeah.
+It's not meant for left to get another thing, so let's say Garbots, well, what are all
+these robots designed for?
+What are their functionalities?
+What do they have, they decided to do, but it's not up to them, they're, they're effects
+of my randoms.
+They have no say in the matter, that's your message, but over time, they'll traverse,
+and though, they granted a new form, a form that's optimized in any way, all the ways,
+they're given a wheel, as a modification, that they can use, the deep bat, and change things,
+so, let's see, we're running, right, letting you rest down the deep bat, and now you're sliding
+across the floor.
+Let's say it's, it's faster, but you can't jump, so you go by fettle, and you can, I don't
+know, is that too much to go, and then the skull might be a little too much, that's, let's
+just give everyone the best controller, but they have a means to use their own controller,
+so continue to collect parts, they can use both forms.
+
+
+====== REC019.txt ======
+Okay, Earthquist, so once they unlock the flannel more, the demo, they've broken out of the shell, and they've folded a wonderful body.
+Let's say they can always go back to the machine, they can interface with it, they can now control themselves, they can turn into a sphere.
+Interesting.
+
+
+====== REC020.txt ======
+I think that's what we're doing. Right now I'm going to focus on basic
+bipedal locomotion. But what I would like to do is the D-pads get your different locomotion
+options. So by default, right on the D-pad, right on the D-pad is a walking bipedal.
+And then down on the D-pad is a using wheel. It's very up. Right down to the D-file. Yeah,
+let's down for D-file. Up for D-file down for the wheel. That's a derivative ish. And you
+have left arm and right arm. That's interesting.
+
+
+====== REC021.txt ======
+So let's imagine, let's imagine, you have this, this form.
+You can toggle through arms and you can toggle the feet up to the peppers that do.
+Oh, it toggles perspectives. I can do first and third person, hypothetically.
+No realistically, I can. I suppose that's what we'll try.
+
+
+====== REC022.txt ======
+Slip layer is different arms right, but say one arm is really good for climbing, another
+arm is let you glide a bit, branched you, who could see other arm, you can try to fly
+with one, it doesn't work yet, so remember to go up up up, and it's just a derivative.
+And when it's just fun about this, you can actually use them in combination, so it's
+one arm is really good at climbing, another arm is really good at grappling you up,
+and you can truly go flying in the layers of it.
+It's good for long distance, you can grab objects that are further away, you can
+go right before effectively looking at various and astral winds.
+
+
+====== REC023.txt ======
+Traversal should be not entirely established but also there is initial architectural designs
+in the world best of my body and incorporate the more solar bunk flair that I had always wanted.
+I may not have to expend a little more resources to do this, the asset store,
+but I'm going to try to see what I have if I can get the others native to work with me very happy.
+
+
+====== REC024.txt ======
+Okay, so there's that.
+
+
+====== REC025.txt ======
+So you have a electromagnetic, you have electromagnetic legs that are slower, but a
+natural organic surface. Press button and you're changes.
+I'm not with one leg at a time, so you're walking.
+Okay, now you've got to hold it up, and that makes us.
+No, that's the speed of the arms. That's possible to do it, actually.
+Yeah, you have electromagnetic arms that go up in power capacity at first.
+Eventually they take heat stamina, but for now it's just, no, it is heat stamina.
+We have graphene by now, energy is not a problem, and it's going to be available.
+It's almost wireless, and realistically it's wireless.
+Your aim is to collect as much as you can, sure.
+But the energy you're doing, you monitor it, and you want to put the energy in it,
+where it's doing it, so energy release is an issue, but overeating heat is always an issue.
+It's an spaceship design, it's a guard design, it's an everything that we mechanically build,
+and that is Georgia biology. It's a cat's, for example, or dogs, any mammal with fur.
+They will exhaust themselves, but they don't swim.
+They have to get over the excess heat through banding.
+We ended our hand because of millions of years of evolution to our advantage.
+Not because we're cousins, but we love just, oh my god, no, no.
+We shouldn't miss your orgasms.
+They retain the fur we did not.
+We just went because we're distant from ours.
+We're capable of traveling long distances, and air zones, as we've seen.
+You push past the undersight, the body to move, you exercise, you take care of yourself.
+Your body is capable of amazing things.
+It's just a matter of sculpting them, normally.
+
+
+====== REC026.txt ======
+speaking to the nature, the modifications, the people of the world, the physical modifications,
+the optimistic cyberpunk flair. Imagine these parts being as slightly-based and not clunky
+in. You can make them tools, beautiful tools. They don't have to be so, I don't know,
+describe them. The blockyexture always make it on faces. I mean, that's the,
+some people might love, actually. So, it depends on the person. Some people like it.
+Well, crafted. I mean, they're all well crafted, but maybe let me try to trim this better.
+
+
+====== REC027.txt ======
+myself, I wouldn't mind replacing my arms, making them more accurate than they are, or tactile.
+Give myself some precision areas when you
+make the impression of to, of everything's in.
+Climb to all the things I'm not able to do at the moment.
+I can, but not as well as I could, hypothetically, if I were to replace them.
+I imagine having cool fingers.
+You're, I, brain can learn. I can't speak to whether or not you can learn new equipment,
+but no, it can, it's just a matter of properly interfacing it.
+When you, well, at the time, we're with prosthetics, we use muscles,
+muscle contractions, these impulses, nerve impulses, but it's not direct control, it's more
+a bunch of long ass switches working together to create a defect, to get a movement.
+So, I wouldn't need more fine tune, more precise control, but I'm not there yet. I've got a word to
+tell. That's not my goal. I want to model myself before I die, if I want to.
+
+
+====== REC028.txt ======
+Develop this game. Get on the edge.io.
+Don't try it for it.
+Made a trailer, of course.
+But enough to gather some people in.
+Gather some people's interests.
+Make it appealing.
+It's gotta be enough. It's gotta be prototype.
+And hypothetically, I can put that prototype on the snake too.
+But I need it. I want to develop longer.
+I can't just throw it on the steam.
+This is aged on out there. Nice for reason.
+So I get it playable.
+I get my own character model. I have to invest a little more money.
+Or find a means to sell.
+And let's figure it out.
+H.D.I.L.A.O.
+I'm going to be using Mopsiv.
+I need to find a different controller.
+A different character model.
+Just to give it that extra effort.
+That will be a lot of my goal.
+And I think spending like $300 better than me.
+I don't want to.
+I'm vegan.
+The only concepts are.
+I have to speak to it.
+Yeah.
+I'll speak to it.
+
+
+====== REC029.txt ======
+and make that system. I came manager for events in the game.
+Yeah, and such. Keep it from him.
+
+
+====== REC030.txt ======
+I need a blimp, I need a blimp too, let the player traverse between larger spaces, let the player
+free from, cover the brolden, plants, and make it a forest, but in the areas there are cities
+that you can find, and sometimes I'll add more on an update.
+That's not about the world.
+It's very small.
+
+
+====== REC031.txt ======
+And there are no end-missies for now and that makes sense in the long run
+So I will pull towards and towards and I will pull towards characters and missies, but the moment
+That's gonna be careful
+Three days still you can play day one day two day three
+But that comes with time and time comes with events
+But we can always restart
+Reset and that's the other scratch for stuff
+
+
+====== REC032.txt ======
+Yeah.
+
+
+====== REC033.txt ======
+you can do it. That the world will have form. It must, but the characters of the
+only means the only and total bribe. I haven't articulated properly, so I need to
+think to it.
+
+
+====== REC034.txt ======
+So first we have Erasite. She is a therapist, right? She is a sociologist, a psychologist. She is a
+just a mentor and a teacher. She has lived for thousands of years. No. Hundreds, hundreds,
+thousands. She has been with the ship since the beginning. My husband is not new to you but
+she has artificial limbs. She has morphed a lot of her initial organic body. She is elegant
+but resilient change.
+
+
+====== REC035.txt ======
+Okay
+Next up is Carden
+Carden
+Is he thief?
+No
+His artistic is
+He wishes to preserve art. He doesn't think it should be
+tangible
+Like you say there's no
+So all I wish to do is take pictures of it. He steals images of art that is tangible
+And puts it on the internet
+He doesn't know, he leaves the painting as he says. He does not take the thing
+He only takes the image
+And
+How do you do it? I wasn't like that
+
+
+====== REC036.txt ======
+Anyway, so he's speaking to our side. There's no
+punishment for say in this world. There's very little
+it's very rare that this violence occurs
+or any means are a lot of any trespassing because there is no trespassing people are very
+open about the world and there's social boundaries that are set that are
+not needed to be left slated. They're just
+socially available to humans as a species. We have systems in place for
+cooperation but we don't utilize them. In practice, that often.
+
+
+====== REC037.txt ======
+Anyway, people have encouraged him.
+I said, people got him.
+He's been talked to, of course.
+But he's encouraged to take this course.
+He's not forced to.
+If you.
+No, I suppose he must be forced.
+No.
+I don't know.
+Make a volunteer.
+He'll look more persistent about him going.
+No, it's very sharp.
+I don't know.
+I just picked the right one.
+I would encourage someone to have therapy.
+You either take therapy or take time.
+And time is just isolation.
+It's not.
+It's not in person, it's.
+Isolation in their home, of course.
+That's probably the most kind of thing you can do.
+To someone who's in a trouble.
+If they were used to see a therapist,
+which should be the encouragement to do.
+Because that's.
+Or helpful to them.
+Just time, not knowing what to do.
+Time stuck.
+I need someone to talk to.
+I can't, I can't.
+I mean, you can.
+You will.
+I'll have to talk to my cat.
+I can't.
+
+
+====== REC038.txt ======
+Okay, so, speaking to Garden, he is the artist of the body, also, which is to preserve art that has been tangibly made, but kept lock away and locked away.
+Alright, let's open the messes.
+
+
+====== REC039.txt ======
+What's interesting about Cardin is that he doesn't have an exposed home.
+He's just going through the landscape and making home world red suits him.
+The water is abundant, the food is abundant, the research is abundant.
+The problem is pretty one.
+He's going to live happily.
+Peace.
+Everybody wakes up, he's in somewhere now.
+He's going through this place, he's going to be out.
+And you as a player you get to interact with him.
+For a short time.
+I need to think this person is more than what he used to.
+
+
+====== REC040.txt ======
+So there it is, so there's your can in your embells, there's an acting on it, that's
+what can in your embells, I'm sorry, acting.
+
+
+====== REC041.txt ======
+And it's not what I was saying, it's the exercise of self-control, and then there is not.
+And there is no such self-control, really, truly exists.
+It's more of a practiced state.
+You recognize the motions.
+It's moving here actively, comprehending everything you do.
+Or mind or your environment or to others or to.
+
+
+====== REC042.txt ======
+Read what's relevant.
+Sorry, I love these.
+Oh, no.
+I've been under an interest in these short stories.
+Some parts have interest in me.
+It's the technicalities of certain events.
+I found that.
+There's...
+I need to find what else inspires me.
+There are some things you need to do.
+Trust me.
+
+
+====== REC043.txt ======
+Maybe you should fill the fuck out of that with taking it out more.
+
+
+====== REC044.txt ======
+Keep building, catch yourself out of town.
+Set up an hashtag off page.
+Full your articulate the aim.
+Because they're all your notes that you have to.
+That's how you get used.
+Once you purchase it.
+There are ideas there.
+Just memory first.
+And then get the...
+Go for language.
+If you use the best.
+They're correct and such.
+Also the intricate tiny details.
+If I don't know how I'll keep track of all of us.
+Let's go.
+
+
+====== REC045.txt ======
+So consider that the world is, they don't need these massive spaces.
+They're both locally.
+There are offers you some civilization, joy, smaller groups of people for now.
+And you see when else the distance might power their minds.
+Love.
+Commission in actual, shadier for waterfall, but for now onwards.
+Get the sounds to get right.
+
+
+====== REC046.txt ======
+If you want to pitch the world, draw the player what you're doing with the players.
+Now, my inspiration gives me new components.
+That's important.
+Try them and try to make characters.
+Try them and climb against such.
+But then, D.C.
+I noticed that there's a...
+The crystalline creature.
+They see the distance.
+They don't know it, but they'll eventually become that innocence.
+They retain their abilities, but they're form changes.
+They're now faster.
+They can climb and gravel and do all the things that we've run before and more.
+But they don't know how to charge.
+At three points, they cool down.
+The nearest water.
+So, water is now an interesting checkpoint.
+I'm checked if I see water.
+You'll water.
+Go towards it.
+That's something I really didn't explain in the water labs.
+There was...
+There was puzzles.
+
+
+====== REC047.txt ======
+It reminds the components for apps if you keep the item you've got more in your back.
+Can you replace the gun model and remove the gun components and just have a big purple object?
+No, I noted this without option. I don't need a lot of stuff.
+One player in drags, play an animation, get them to a point, and the crap will be snappy.
+It doesn't be perfect, but you can get the end of the gun using your first gun of mine.
+That seems illegal. I don't know. I don't know what to say. We'll figure it out.
+
+
+====== REC048.txt ======
+is so very important. The climate system isn't important too, so it makes system like
+the fog. The minimize, minimize, minimize. Build interesting spaces, watch games, or really
+explore your own. Oh man, so much to organize, much to know. I was putting that by
+here, because I don't know a lot of evidence. There's so much.
+
+
+====== REC049.txt ======
+One of the ways I'm today is stay awake.
+What's going to bet it at?
+Then I'll walk tomorrow.
+Right now you use your way of staying.
+To contemplate and to tease things in your diet.
+Other colors.
+You want to get that functional?
+I wish someone would just go over it.
+I can do it right there.
+
+
+====== REC050.txt ======
+and then see if I can rotate you on with the ups if I grab the component attached.
+Attached.
+Jesus.
+And then see if I can rotate you on without I'm flying with the Abyss.
+That defense task of course.
+But there's no guarantee.
+
+
+====== REC051.txt ======
+consider what you need. I would like the doors and the chest opening. I don't need
+the variable gravity, but I do need the gravitational pull. I think it'd be
+interesting to dissect the horse. What's going on there? I don't want to
+better understand any of the trolls in general. I wouldn't, I wouldn't need to get one
+pick up at least. The rifle made things easy, but observe the other pickups and
+see how they act. If you got what you're doing, you need what you don't need.
+Consider how. Consider how the player had dragged us to the world.
+
+
+====== REC052.txt ======
+So let's say they can't pick things up, there's no inventory to pick up, they can't just attach the thing to their body, but
+they can climb around with it, they can walk around with it, and they can throw it in PCs, so I need the grenade.
+I need the grenade function out of here, but without the grenade explosion, just
+I think I'm gonna throw something, but that's really cool.
+
+
+====== REC053.txt ======
+Transcription for REC053
+
+
+====== REC054.txt ======
+KruipMMfeedbacks
+
+
+====== REC055.txt ======
+We're hoping to think to the characters, try to make the first impression more interesting
+more engaging.
+What do they see?
+What is the curiosity that drives them?
+One to excite the imagination, and I can get the trailer in through animation.
+And through level design, and through character design, all these resources, I mean that's
+what they need to do.
+All needs to be able to fire up all the time and pitch the indie fun.
+But first I suppose I need to get out of here and try to be the most immediately helpful
+and I can push the game up for indie fun.
+So that's what I'll do.
+The plan is at you.
+It's not at all.
+
+
+====== REC056.txt ======
+Is it great? Well, mountains, icebergs, ice flows, what do I want to do?
+You can make some of the interesting shapes and just spread them throughout the ocean.
+But you've got to use the translate tool and a little bit of math.
+You can make an awesome environment out there. Make them look like it's melting away.
+They're trying to make use of the greenhouse effect too.
+Wait a minute. I'm going to take a list of others. I've got the MSR all fucked up.
+Yeah.
+Plant that mass. I don't know. I don't think I'll figure it out.
+You're up on a seven minute ago.
+Where the gravity matters? It does.
+
+
+====== REC057.txt ======
+3. перést
+4. перést
+5. halo
+
+
+====== REC058.txt ======
+I have got the one.
+
+
+====== REC059.txt ======
+I am but the one.
+I am but the one.
+
+
+====== REC060.txt ======
+I have no one to myself.
+
+
+====== REC061.txt ======
+I am the lemon.
+
+
+====== REC062.txt ======
+Can I live for myself, and for others, must have been realistic if it were to help
+those around me. Those that I grab on.
+It's for them, and it's for me.
+What's really nice about that?
+It's a matter of biology.
+The selfish dream.
+It's a respect.
+
+
+====== REC063.txt ======
+When you get the bed sold, I'm going to get the best years for them.
+Bring all the cut of food and effort in there.
+I say yourself with all the days, that part is okay, you don't need any food at all.
+Coming in here and then.
+
+
+====== REC064.txt ======
+So, imagine the Cardinal vets, the Cardinal vets, the Cardinal vets, the Cardinal vets,
+
+
+====== REC065.txt ======
+So, that's easier, I can hear my own voice.
+
+
+====== REC066.txt ======
+Okay, we have in the mean superduction info, so we have the, we neither have full control
+of resources nor do we have full instruments of labor.
+So that is to say, I can't build everything I need, but I can, I can write materials, I can put the tools
+for instruments I've been wearing, am I getting, I'm not understanding, it's alright.
+
+
+====== REC067.txt ======
+Okay, so we're cutting a personal idea as well.
+So let's build this space.
+I will build this space.
+I have a torch.
+It will exist in the world often times.
+You'll find no wine.
+Open space is written, homes.
+And oftentimes homes just have the door open because it's nice to have the wind.
+And we don't want to let this trust anyone else.
+In this space, that's everything.
+It's different.
+A lot of games, every space is an open door.
+Close doors are often a means of curiosity.
+So what's this?
+That's the draw.
+That's the piece of space.
+That was thinking.
+
+
+====== REC068.txt ======
+Okay, so yeah, I do this so yeah, the basic controller right now the folder system just
+Attached the other really character controller to it and then you can take a fault over those
+But that's only when they're running
+If they walk
+They can just go up to it and press A and walk through very gently
+But
+That's all you do first eventually you can go to very nice and easy on you can only
+Move through a district having machine
+And oftentimes you won't
+Not necessarily not that kind of things. It's not a congee. This isn't
+So it's meant to be this isn't
+Staying fun or cyberpunk. It's meant to be so I should say
+
+
+====== REC069.txt ======
+So the machine is, well, I should expect from, say, uh, not a person that I can human, right?
+You want it to be relatively humanly, and we have the capacity of being human in robots.
+It's just, there's different, they're very bulky, so no, oh, uh, look at this, oh, it looks
+fine, it was much easier to work with, that's funny, no, it's so easy to make that, uh,
+commercially available, it's a smaller device.
+
+
+====== REC070.txt ======
+That spot, that's that spot can't really run, can't it?
+Drogging more like, anyways, so when I get this,
+give her that sped up, I can do the,
+what kind of stuff, that's gonna be awesome.
+
+
+====== REC071.txt ======
+but I can't wait a little longer.
+
+
+====== REC072.txt ======
+Use this space you have to make it work on the wall, make it true.
+You see there's a proper glass shitter and a proper water shitter.
+Don't worry about the scene letting you worry about materials
+and the in-world lighting, not the overall clip of light lighting.
+Right, so light source is not just the direction line.
+And remove the emission from the water.
+Maybe.
+No, I need to.
+Yes.
+I'll figure it out.
+Or to emulate an image worth.
+Or you're up by...
+You're chilly.
+You're the ladies.
+You can play it is.
+
+
+====== REC073.txt ======
+interesting leave evidence of a the former gravitational movement some
+mention if there was a large body but its mass is just too much for humans so
+you are disassembling and you build other bodies
+that's that's why there is an infinite snorven burned nearby only small
+ones and the warping
+all of a sudden they have told you many of these planets how far
+than how much I want to take for them to get away I present it clearly
+okay I'll try to figure out the mass that'd be fun
+
+
+====== REC074.txt ======
+Okay, so the earth, the earth, the earth, the earth, the earth, the earth, the earth, the earth, the earth, the earth, the earth, the earth, the earth.
+How far away, how much farther, the moon is going away from the earth every year.
+I think I'll know that this time mathematically, and then,
+reapply that knowledge to the movement of bodies,
+I want my mother overtime be a graphic
+
+
+====== REC075.txt ======
+Transcription for REC075
+
+
+====== REC076.txt ======
+experience the world through others I have to know the world
+intimately and right now I only know what it is for so long.
+
+
+====== REC077.txt ======
+So what's fun is that this is all these modes are very exciting
+They're all about the same mess
+They've already centigrade
+No
+There's a wide range of mess
+You want to fully understand the potential of development of life you need every variation of mess
+I'm planning to figure out when it's most optimal
+You need to give it the proper amount of light and
+Give it a lot of water a lot of nourishment
+Heat
+Most definitely
+But none of these planets are
+Half nourishment they're just bodies
+There's lightning and there's clouds
+Then components for life
+Life is yet to be discovered
+It is just the planet, but it's well close to their needs of a layer
+Because I know they can thrive in our Mars-like conditions
+
+
+====== REC078.txt ======
+And the planet has an, has a, the moment, has an interior lens.
+A triangle lens used to observe the planetary bodies of a precision
+and the moment has entrance to rotate itself, so
+of it.
+
+
+====== REC079.txt ======
+What do you call a bonsai splenet?
+What do you...
+God damn it.
+What do you call a bonsai splenet?
+With...
+I can't, I can't think.
+I need my...
+I don't think so.
+
+
+====== REC080.txt ======
+Mathematics is the tourist man's who, which could know the world.
+Science is low.
+Science is low. It was in the right direction.
+The world is getting better, slowly but surely.
+
+
+====== REC081.txt ======
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+1 tbc
+
+
+====== REC082.txt ======
+1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+
+
+====== REC083.txt ======
+1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+
+
+====== REC084.txt ======
+This is pretty good for me already.
+Come on, try this one.
+Here let me see
+Let see
+That's fine.
+Thanks
+You all done the round.
+
+
+====== REC085.txt ======
+4-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0
+0-0-0-0-0-0-0
+0-0-0-0-0-0-0
+0-0-0-0-0-0-0-0-0
+0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.
+
+
+====== REC086.txt ======
+I'm going to put it on the website, I'll add that for a year.
+
+
+====== REC087.txt ======
+You've got to build the menu and try to export it, make sure it places and then get the basic
+utility option control on there, at least. You can try to get the swing back installed
+and compare it with the objects, but both the objects simply don't worry about the other
+controller, try to build on top of the utility, because that's the best suited initially.
+Just carefully guns and swords and stuff if you're making.
+
+
+====== REC088.txt ======
+Второй
+СПОКОЙНАЯ МУЗЫКА
+
+
+====== REC089.txt ======
+So, because I'm watching in the art department right now, what I'm thinking is, because I can afford to drop out right now, I can learn to build better spaces, build architecture and such.
+But, I need to focus on sound, giving the space life.
+It comes to waterfalls, it comes to the waves.
+
+
+====== REC090.txt ======
+Okay, so some split has no flash colors, but the player gets nothing at the end of the game.
+The expressions are done with animation and sound, because the player character doesn't actually have a bite or say.
+
+
+====== REC091.txt ======
+I hate silence like that, I mean it's good, but at the same time it's like, I'm distracted by the passing the background, I think.
+There's things, looking at your butts, I don't know about that.
+I wonder how hearing aids from me needs to reduce that noise.
+I'm supposed to know what the heck it is about that.
+
+
+====== REC092.txt ======
+Batteries for the pen.
+See if you can.
+You can have the references from Discord,
+but then I'll fold it around.
+Take all the references from this.
+Get them on with those sort of,
+turn a selection on the make-up heater
+and then have fun here and dust up
+and your surface is busy.
+Try to see how much things out.
+Let's see how much things out.
+
+
+====== REC093.txt ======
+I've never been able to see it in the city, it's always external, never get that through
+my need.
+I can't rely on concentration anymore, I forgot this for a while.
+
+
+====== REC094.txt ======
+All the references from Discord, organize them as intended in your C-modeler to create
+Peterfrapp's interesting shapes that I can use to further build.
+
+
+====== REC095.txt ======
+Try to get the third-person control working. I'd imagine that'd be a lot of fun to use
+but
+In reality, it might be better just build a game if you are
+further incentivized by
+I mean it's
+For the justify the higher price day
+Because it's niche and they're going to accept that so
+I can $5 for $30 if the game is only important for slaves for now
+You want to understand spaces?
+You should do more
+
+
+====== REC096.txt ======
+See you in the morning and have a nice day.
+You can't take me more if it's going to have to stay now.
+You have to fix it.
+You see visual.
+
+
+====== REC097.txt ======
+I'm trying to move forward with this build, but it keeps falling apart.
+I'm self-destructing, though, and I'm wondering if I can just, can I do away with the controller
+and just allow the player to move?
+Can we use VR?
+Is VR easier perhaps?
+I don't have to figure out how to install those mounts.
+But I might need to mount this.
+I'll figure it out.
+I'm trying to move forward with this build, but it keeps falling apart.
+
+
+====== REC098.txt ======
+So you gotta use for the engine, top bottom, go to all the menus, try everything.
+No project if you have to, but it might keep things as they are.
+
+
+====== REC099.txt ======
+I can take a lot of shit here for a minute.
+The only thing I have is a man of brokenness.
+A reflection approach or nice.
+Try to understand that and try to get the
+the lighting to work in the earth.
+Even the world might have to be
+might have to
+I'm gonna have to bury it.
+Put it in the distance.
+So we're inaccessible.
+
+
+====== REC100.txt ======
+I'll keep copies of the interesting shapes.
+You got to get rid of that for a while ago.
+Keep the interesting shapes for real plots.
+Blogs don't help.
+Oh, I should get rid of everything.
+Yeah.
+That's gonna hurt so much.
+Just take them all and move them away.
+They're there.
+It's all useless.
+
+
+====== REC101.txt ======
+That's not him.
+I'll take all of them.
+Move them away.
+Yeah.
+The stuff I'll do is
+bad level design.
+It's just an optimization of blocks right now.
+Look at that.
+Well, those are Larry's work.
+And a few of the other architectural references you have.
+Try to learn more.
+
+
+====== REC102.txt ======
+They're beginning to fun, so I mentioned the main menu also being a sort of controller.
+You can slowly move it.
+The longer you keep going, the faster it gets.
+And eventually you can do...
+Oh, I don't know.
+There's other planets.
+Grant, it still works that far, I don't know.
+But uh...
+Yeah.
+
+
+====== REC103.txt ======
+4-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+
+====== REC104.txt ======
+Transcription for REC104
+
+
+====== REC105.txt ======
+You should architect this space, but you need a solution. I'll try to do it for the grappling system that exists.
+I like the control of the opposite controller is very competent, but um...
+Oh wait, no, I'm not building that in line.
+Let's just improve the animations. Let's see if there's a system that exists.
+Right now they're garbage. They're not great. Sorry. I'm going to do better.
+But I need to get the folk to working.
+
+
+====== REC106.txt ======
+Now that the drawer is working independently in the system, you should.
+Try to add the agility and swimming components to it as is.
+See how that works.
+
+
+====== REC107.txt ======
+I wouldn't make a backup because I feel like I made progress.
+Finally, it's not broken.
+Even if it's spinning hours doing nothing, it's still stable.
+So whenever I've done however set it up, it's in good condition.
+So let me import the summing,
+control and see other functions.
+And then I will back everything up again.
+
+
+====== REC108.txt ======
+So I'm thinking to this I should get rid of my 11th blocky brain system
+I have got to rely more on natural hills and valleys to make an entrance
+So let's use the urinary drain system
+
+
+====== REC109.txt ======
+an observer's table, consider their universal systems like climbing up a pipe or swinging over
+to a ledge to grab a blind, maybe grabbing notes, jumping to the fence, climbing instead
+of, oh, it's a pretty comfortable climbing, right? You want to have multiple systems to
+right now to make more interesting. Save for these smaller notes to get the jump right
+away. I don't know if you've got that, you've got to watch the neat system.
+
+
+====== REC110.txt ======
+I need to leave for a spin dance as the before.
+Let's see how it goes.
+I need to blow it out.
+
+
+====== REC111.txt ======
+George wanted to do is establish the only train because it can't be right and then
+create and scale. See if you can build that way. But I would really love to use
+your modeler for the interior space so what I'm thinking is that instead of
+building up what do you do to use to make you feel a lot without spending more
+on resources. Well, you take and one of instead of taking a place bus, a circle would be ideal.
+And then the bottom is well and much of the society. More connection points. You
+fold up and onwards. And then I'm going to bring it up. I'm going to bring the entire city up.
+Take a look at viral canvases. Depictions again.
+
+
+====== REC112.txt ======
+Let's try this again, could I try a glass instead of the page I have for my case combined?
+Good, the crystal in the air turns out to be great for planting things.
+You can go home if you ever see in there and it's near dragons, but it's also energy.
+Now it's just, it's just worth it.
+It's the worst surface.
+But the warm surface is good.
+Pulling in nutrients.
+
+
+====== REC113.txt ======
+Just researches there, I planned in biology.
+Other questions were what I had a question for.
+And can plants grow on them?
+I bet that I couldn't.
+No, anymore.
+No.
+Let's see if it's good time.
+Okay, trust me.
+
+
+====== REC114.txt ======
+So, have the area built as this, but then have these
+Persual cylindrical structures popping out of the wall, right here, below the slope,
+and then there you go, you have foundation, good foundation for a certain size,
+and if it makes any amount more object, you can build it into it,
+and then this is a mesh, only happy with that.
+
+
+====== REC115.txt ======
+Imagine a host body, right, a hundred percent, and you have people controlling it in a fear-like
+system.
+There are impulses, control actions, but it's the impulses of a lot of millions of people,
+maybe thousands, hundreds, it depends on where the world's being used.
+Imagine streaming through Twitch, but having all these case inputs connected.
+You have AI in the pilot making sense of all those impulses and speaking to the mind,
+so to speak.
+
+
+====== REC116.txt ======
+The engine number of on the Android, it's watching an ongoing debate, right?
+Let's say this is going to persist just for an example of how it could be used in reality.
+So you have the symbols, this machine, there's circling candidates in, the candidates start the machine,
+talking to people in VR, everything on one of them.
+And the Android has the question, the collective question, for an engagement.
+But then you have additional Android's that come in, tangents.
+How do you bring more lines?
+How do you bring?
+
+
+====== REC117.txt ======
+...
+...
+...
+...
+...
+1 roud
+1, Korean
+1, Korean
+2, Korean
+1, Korean
+1, Korean
+1, Korean
+1, Korean
+1, Korean
+1, Korean
+2, Korean
+1, Korean
+
+
+====== REC118.txt ======
+everything else, everything I need,
+then you can bring people to college too, projects to help things to create
+people that are in missions,
+but that is as it is.
+It's hard to tell.
+Everyone works continuously.
+
+
+====== REC119.txt ======
+Okay, so you put a cone in for the cone above the active, rather than the middle to take
+out the atmosphere height realistically using a magazine. And then put that cone there.
+And on top of that cone, water collects and only happens here.
+Right, but then it pours over the further away. So you expand the waterfalls and it'll
+have water to drip.
+We'll get this in a minute, and let's do it there.
+
+
+====== REC120.txt ======
+Oh, I did everything in the structure.
+Don't need a free attack.
+Put it at zero access.
+That's scary, but it's a more vulnerable good thing.
+
+
+====== REC121.txt ======
+I'm going to start with this one before, I'm going to start with this one.
+
+
+====== REC122.txt ======
+○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○�
+○○○○○○○○○○○○○○○○○○○○○○
+
+
+====== REC123.txt ======
+on this road intimately before I speak to it.
+
+
+====== REC124.txt ======
+It all means nothing, but I can't convey the idea.
+
+
+====== REC125.txt ======
+But if the idea itself is as labyrinthine as the role I want to build, how could I ever explain it?
+
+
+====== REC126.txt ======
+It's for our vertical landscape, Mr. Friends and Characters.
+I imagine Characters interacting with more than one person.
+
+
+====== REC127.txt ======
+Imagine two players reacting to an unpeasant.
+
+
+====== REC128.txt ======
+Imagine reliving those three days in the game or imagine to play there once and using
+on their dragons here. Thank you. Using the reliving in the initial interactions and then the second layer comes in and they reveal the expansive conversation you had. You hadn't even noticed because they're a character in the world that...
+will not necessarily have a good themselves in the player but not necessarily intercede with the normal path. The world is not immense but the opportunities they take did a day.
+As time passes different sometimes some miss other opportunities that have happened with characters. Characters must act independently from the player. The player are going to engage with them and join them on activities and things that he's before drawing.
+When they're in the right you must engage and time with them and they'll take you places. You can wander together and get to know them. The relationships with NPCs and a more naturalistic way.
+
+
+====== REC129.txt ======
+more laterally. You have a timeline per day's plus the introductory period that is so lonely.
+Because this is the interesting to the planet, it can face the scale.
+It's your first of the last, and this first level is polar bottoms, I was speaking.
+But I can't build a prototype of it.
+No, I can't do it because I just have to chill and set the night.
+Yeah, I don't need that anymore to detail.
+Let's make a preview of it, actually, whatever it is.
+So that's about it.
+And it's about the building, of course, because that's a prayer.
+Go ahead.
+Let's go ahead.
+
+
+====== REC130.txt ======
+So with detail, I'm sure I've mentioned before, but
+imagine you're traveling
+in your space,
+your revelation,
+and your peers
+have existed for
+the entirety of the forge
+which
+the
+library's not your technology
+that we imagine now
+is
+nothing compared to the capability of those
+far beyond us
+several decades
+centuries
+
+
+====== REC131.txt ======
+So these ships are advancing outward and they'll circle the planet, they'll use a sling
+shot.
+But you're just running out.
+
+
+====== REC132.txt ======
+So these cone ships are being launched to the solar system, propelled the solar system using a combination of propelling and propulsion
+flip-flip ff4
+
+
+====== REC133.txt ======
+You and your crew have been traveling for 3,000 years, the life extension technology that
+exists today, exists to them is far beyond the Cape Baudiose of those beyond us.
+
+
+====== REC134.txt ======
+It took you three and a thousand years to get here, please, please.
+But it's not known how many sling shots the ship is going on.
+Three and a thousand years from where, not Earthly, especially, the sling
+shots the ship is going on for who knows how long.
+At some point, they stop receiving transmissions from Earth.
+It's abrupt, it's strange.
+There's no warning.
+
+
+====== REC135.txt ======
+Or, as in reality, in the circumstance that should be in the game, so many sling shots
+and they lose the initial signal with their planet, with home, with our far beyond know.
+Somewhere along the way through the chain was broken, it's not known why,
+but the transmission of information ceased along the path for a brief period.
+And it didn't reignite, so you have for this brief period of time, let's say day after the run a thousand years after, just
+
+
+====== REC136.txt ======
+One hypothesis is that, let's say this signal was never fully lost, there's still traces
+of it, they can only make up bits and pieces, but I don't think I've any idea how you did,
+but as they go further, they go further, further out, more information has lost, and eventually,
+they lose all together, they have all the size that, dark matter, is effective, and
+affecting the electrons, affecting the rays, affecting the transmission of radio waves
+over a long period of time, and then others, you're at the very farthest, but
+there's still traces of it, but I don't think I've any idea how you did, I don't think I've
+
+
+====== REC137.txt ======
+So, aside, this is just an idea, right?
+So, imagine if, uh,
+radio waves,
+could it drive some insert distance?
+And I can, let's say I drive through it for ever, honestly.
+That was awesome.
+But if they dissipate, over time,
+could that dissipation be affected by
+drug matter or kind of key?
+What have you?
+As time passes,
+or those are like, what I thought of,
+can the wavelength be sort of absorbed,
+uh, absorbed?
+Or redirected?
+Could it not even dark matter by gas?
+By other structures in space,
+eventually, do you lose information
+over great distances?
+
+
+====== REC138.txt ======
+Well, that was a long day, okay, so back to you.
+The people themselves, in this room,
+right, they've traveled around those New Year's,
+they've lost contact from their home,
+from their link,
+previous link up,
+a long time ago, and they've been just link up at them,
+lost over time, so they came to accept
+and they didn't realize they had the power to seize it,
+but it's normally part of them,
+because they've never been enough to keep one of them.
+They've no need for their own planet.
+They're curious, yes, but they can't find a means to solve it.
+It's all they can do is speculate.
+
+
+====== REC139.txt ======
+It's 30,000 years into the voyage, and they start to see the existence of the sign.
+It's getting darker, the stars are going down, they type out a little, they're blinking out of view.
+And on analysis, they see that the infrared spectrum still exists.
+But even then, the stars grow tinier, the white dwarves based on the infrared energy they emit.
+
+
+====== REC140.txt ======
+I'm still happy I could end with that, so I'm thinking here, so...
+How do you pin my earth if there's snow?
+We use quasars for fun.
+I have to better find out that there are no quasars or stars right there.
+There are no black holes, there are types of stars.
+Our collisions' interactions have forgotten.
+I'm going to slide this.
+
+
+====== REC141.txt ======
+But could the quesars go dim?
+Then you all will remember
+Point of reference.
+
+
+====== REC142.txt ======
+The night sky goes dim, it fades into the void, but beyond the stars, they can see the universe in the areas that the stars go dim.
+They can see beyond their universe, but they can see the universe.
+Right now, because it's so many stars, it's so bright, it's like a...
+It's like portion.
+We can isolate it, but there's always going to be that noise.
+
+
+====== REC143.txt ======
+Okay, so, the characters, imagine they have a role in the ship, right, but it's sufficient space for them to enjoy life and explore them.
+I advocate that there's also a VR life that's socially accepted, it's fun, it's just a way to engage.
+And maybe a good chunk of the setting commits themselves to it and that's okay, there are other incentives in real life.
+And if they're not, that's okay.
+Okay.
+
+
+====== REC144.txt ======
+So, guys, can you have a space in the ship that's built for all of which people have for
+their... to their connectedness, really?
+And you've committed to building a space in VR?
+Well, collectively, they've decided the space they want about is the space they'll get
+to, the space they want to reach one day, but they will reach and imagine that they're
+actively building the structures that they will.
+They'll reach one day.
+Imagine arriving this planet after 300,000 years, knowing your will, fundamentally, because
+you built it in VR, you're exported in VR, you're new in VR.
+
+
+====== REC145.txt ======
+Imagine if I could put a high political version of that space, small portion, of course,
+with characters in the world, a diverse system, and I want the player to explore and express
+that there is no combat, no means of expressly conflicting.
+Someone there is their interactions and everything you can.
+Don't do big, they don't cool.
+
+
+====== REC146.txt ======
+I want to be able to see the things that the creatures can, they can up a few on music
+at the bottom.
+I feel the impulse to say it in order, but I don't know what that is, probably.
+I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is, I don't know what that is
+
+
+====== REC147.txt ======
+Ornate, ornate the structures.
+Ornate patterns.
+It started with demons, I suppose.
+The visible spectrum is so narrow compared to the wave lengths of radiation in the cosmos.
+
+
+====== REC148.txt ======
+my depoticle, my depotic culture, how am I to, well, describe the space and then figure out what time you
+just transports out of that space once among those people
+
+
+====== REC149.txt ======
+But those are very symmetrical spaces, megastructures, really, filter of tomorrow's for a thousand
+April's up. But these structures are actually quite smaller, let's head to it. The saving
+apple, I do hear what sprawls we have. I guess the vertical, I guess they're, they need
+to be able to see any cars you can rely on. This is the trains, airships, blimps, other balloons, wings
+if you're daring or climbing gears or adventures. About the Audi build a small portion of that, I decorate
+the rest that build it now, structurally run, but then the detail work comes over time. And I'll
+demonstrate that by allowing the lands to grow over the area that hasn't been used yet. Or drastically
+to a point where you can't traverse because there's some reliance. That's how we'll go. The space
+will be built upon, built over time, yes, but it was a problem there, right? The space they
+don't want to think about the day we're ready. How are we getting those last touches?
+
+
+====== REC150.txt ======
+They stopped construction about a stop construction for the allowance of plant growth.
+And some areas more open than others, not everyone is using those additional areas yet.
+They've helped them in VRS, but I can only afford to build one at a time, and this is probably
+the most interesting way to do it, really.
+I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but I'm sorry, but
+
+
+====== REC151.txt ======
+Okay, let's say the structure itself is built in order, but the inhabitation of the structure
+is up to the people.
+And there are sections, all abstractions that are built out of first, but a lot of people
+want to do by hand, where is that sounds?
+No.
+I don't like it.
+
+
+====== REC152.txt ======
+1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+so there are several people aboard this generation ship, but only a certain percentage
+of the ship will be getting off here, let's say, 500,000 for the initial quality,
+I can't diminish the scale I've got to consider to the whole thing, 100 people is a deal for a ship,
+for a long voyage through those years, and much resources does it take a lot of space does it take to sustain all those people, and keep it going,
+and it comes for the population growth of our time in a stable society,
+
+
+====== REC153.txt ======
+So, interesting as it sounds, I think my generation is
+one of the firsts is concerned with the idea of a phenomena of my perspective, I suppose.
+I feel to meet the person my age that wants to have a trial, they have a kid they accept it, right?
+They're moving forward, they've embraced it, right?
+But those that are not, they haven't had a trial yet, or don't want to.
+Where's going with this?
+
+
+====== REC154.txt ======
+So it's like a collage ship, culturally speaking, to keep their population diverse, to increase
+the built-in immunodefend systems they have in place in their bodies, right?
+They've embraced biology, they've embraced plants and nature, but they've also embraced
+technology. The two are disparate pieces, they're one of the same.
+
+
+====== REC155.txt ======
+So they have children too, ectogenesis, the process by which we will be able to grow
+embryos inside an artificial womb into a fetus into the
+parents, a child, offspring, people, when they want to have a child they
+and they want to grow. It's a ceremony of community. This child does not
+necessarily belong to one person but to the society, to the tribe, to the group of
+people. It will be raised, they will be raised by the community, no one through it,
+no one person, as bearing over this person because no one person belongs to the
+biological, they are collective of human potential.
+
+
+====== REC156.txt ======
+I am so tired and hungry, I can't sleep, I don't want to hear it now, I'm really
+sure I'll sleep, but I'm on a roll of my mind and I'm happy, good, I am, absolutely
+content, why is it that I can't be absolutely content when I'm sober and seems
+whatever I am, I just want to have a ride, so I can do it, day by day, make progress, read,
+like games, crash the games, you want to do for so long, don't buy more games, you've got
+enough, it's crazy how much more you spend on that, you don't even do it, you get some
+time, I don't realize what I'm about to do, I'm doing games things for some time, but I love
+it when they do, when they just observe you, oh man, I will, I won't play more games,
+
+
+====== REC157.txt ======
+And it will work, of course, but I also need to be inspired by the things I'm working with, right?
+I've got to finish out the classes that should be a huge inspiration.
+I think I managed to get free for it in it.
+I don't even know if I got to the first one. I think I may have finished that one actually.
+Ah, boy. Oh, the knowledge of the game of the year is going to spoil the sense of awe, but I suppose I haven't seen everything, right?
+I can give you some fun. I've seen the basic stuff. I don't really spoil the end game.
+All the other ones I can find is there a lot, right?
+
+
+====== REC158.txt ======
+The scepter, even in this world, the player has an objective.
+Okay, well, what I see objective, the innate curiosity is exploration in of itself.
+That seems sufficient of only for us.
+No, curiosity is your little space, and you attach people to that space.
+And you help people map that only out of the world in their minds.
+It's hard to remember, it's hard to remember the layout of a ship.
+
+
+====== REC159.txt ======
+The world has to be the first, the world has to be geometrically interesting and architecturally
+sound, built to the nature of humanity, best I can as well.
+
+
+====== REC160.txt ======
+It's still a depression to me, and I'm on this
+Endering Clarity, optoscating it.
+I can't.
+I can't articulate in the way I need to with others.
+I've yet to explain the game thoroughly enough.
+I don't know at the end of the night.
+How can I explain to others who I don't know at the end of the night?
+I need.
+I need time.
+Tomorrow is time.
+I need signal.
+Oh my god.
+It's like 4 a.m.
+Oh, I had something in it.
+I couldn't just see the light.
+She's throwing it off.
+I'm trying to smoke.
+No, I'm...
+3 a.m.
+I'm full.
+It's about 10.
+I ate food like an hour ago.
+I don't know why.
+I don't know, man.
+I mean, we haven't saw the end there, and I can't see.
+I keep doing shit like this.
+I'm talking.
+I can't really wake up on my life.
+I hate to see, but I love to see.
+I really, really want to see.
+
+
+====== REC161.txt ======
+Todek is about human affection
+And now we relate to one another
+
+
+====== REC162.txt ======
+The courage doesn't have anybody to say, not the uniform, but they can touch NBC's, they can grab, but they can send them a player.
+There's something you guys don't know, though, but I want to be a little more abstract.
+Like the dialogue system.
+That's not music, the...
+the total examples, the...
+the effects.
+I saved a scarf than before.
+The total of...
+plus...
+depression.
+Elation.
+No, depression.
+Conditiveness.
+Elation is more of a...
+human thing.
+They get other organisms in this present, they can express contentiveness, though.
+So that's where it plays in.
+Depression.
+That's where it is a...
+a sense of our social nature.
+I could say...
+it's like being sick.
+Of course.
+There's the easiness.
+Depression is like...
+imagine someone in the state of being sick, right?
+They are...
+A modification there, a mobile there.
+The...
+oh wait, okay.
+So that's more of the visual effect than...
+the symptoms of depression are...
+are...
+are visually...
+similarity to...
+the symptoms of sickness.
+Not the body.
+Is dealing with an illness.
+But the illness in this case is not exposed.
+It's not...
+being affected by other organisms safe for...
+a rank of life in such a bad life.
+I love humans.
+I would need...
+oh my god.
+I'm terrified.
+I explain this shit.
+
+
+====== REC163.txt ======
+This is a deep darkness in the heart of nothing but darkness.
+
+
+====== REC164.txt ======
+Kind of, contented as successful animals at least.
+Maybe not cats, dogs, it seems they express that.
+It's fair to say that they can experience depression.
+Now, why not? Because depression is an effective humanity in chimpanzees and other social animals.
+It's a lack of socialization.
+It is a physical representation of the sick state.
+It's a call for social aid.
+But in this case, no one can see the symptoms of depression.
+People who travel recognition, no.
+I suppose that's what it is.
+Maybe not. I don't know.
+All that depression.
+
+
+====== REC165.txt ======
+Can I myself accomplish larger scales with a gravity system?
+Get a working on the smaller instance and then attempt to scale it up.
+
+
+====== REC166.txt ======
+See you at the end of the same object, small version rotating, and you've got another problem.
+
+
+====== REC167.txt ======
+There's two types of AI systems in this game. There's the traversely AI, and there's the dialogue interaction AI.
+They both use the same controller, but they are the need to be in turn on or off for the mind.
+
+
+====== REC168.txt ======
+and attach the player. Have a keep track of it and there's a puppeteer so to speak
+the animates of their characters and makes the player turn conversation.
+The puppeteer is just to make it use the remote. I can't use for that but I did a good
+action now. So I have to equip it for you
+
+
+====== REC169.txt ======
+some of the men that you need, move on to the going of assets you don't need for the project
+and the additional for emotion.
+
+
+====== REC170.txt ======
+Just to let everybody's emotion to the controller, get it working kinematically.
+Better.
+
+
+====== REC171.txt ======
+Where does the Axis, where does the Axel tilt to fill all the plants in the solar system?
+Why are Mars aren't so smart?
+
+
+====== REC172.txt ======
+How does the formation of planets and the mass of their cores, oh that's not good?
+I'm as if it's the core of Uranus, or Neptune, Jupiter, perhaps.
+
+
+====== REC173.txt ======
+But, um, put a metal mesh from the moon, or, no, the sand, this, and that glass.
+
+
+====== REC174.txt ======
+The mirror needs that to say, if the brightness is too much, any near, or some sort of...
+
+
+====== REC175.txt ======
+here.
+
+
+====== REC176.txt ======
+Geys is denser than the store, the store rotates around, and the planet,
+Cheel,
+or a tratance or a exes.
+
+
+====== REC177.txt ======
+

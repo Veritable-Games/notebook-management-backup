@@ -1,0 +1,17 @@
+{
+  "title": "characters-twine-variables",
+  "content": "# characters-twine-variables\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-03-10T15:51:56-07:00\n\n====== characters-twine-variables ======\nCREATE XCELL DOCUMENT FOR THESE\n\n=====================================================================\nVARIABLES - Chapter 1 \n=====================================================================\n--------------------\n<% if (s.variable== \"name_variable\") { %>var text result<% } %>\n--------------------\n\n<% s.status_ruan= \"alive\" %> \n- <% if (s.status_ruan == \"alive\") { %>Player Aided Ruan Instead of Sorrel<% } %>\n<% s.status_ruan= \"dead\" %>\n- <% if (s.status_ruan == \"dead\") { %>Player Aided Sorrel Instead of Ruan<% } %>\n\n<% s.ruan_outcome= \"coma\" %> \n- <% if (s.ruan_outcome == \"coma\") { %>Player Aided Ruan Without Carden's Help<% } %>\n<% s.ruan_outcome= \"amputated\" %> \n- <% if (s.ruan_outcome == \"amputated\") { %>Player Built a Tourniquet for Ruan<% } %>\n<% s.ruan_outcome= \"healed\" %> \n- <% if (s.ruan_outcome == \"healed\") { %>Player Healed Ruan Without Incident<% } %>\n\n<% s.aching_body= \"truth\" %> \n- <% if (s.aching_body == \"truth\") { %>Sorrel Said That He Slipped<% } %>\n<% s.aching_body= \"joke\" %> \n- <% if (s.aching_body == \"joke\") { %>Player Joked With Sorrel<% } %>\n<% s.aching_body= \"lie\" %> \n- <% if (s.aching_body == \"lie\") { %>Sorrel Claimed He Was Pushed<% } %>\n\n<% s.why_the_wait= \"hostiles\" %> \n- <% if (s.why_the_wait == \"hostiles\") { %>Player Didn't Mention the Soldier<% } %>\n<% s.why_the_wait= \"tangent\" %> \n- <% if (s.why_the_wait == \"tangent\") { %>Player Avoided Sorrel's Question<% } %>\n<% s.why_the_wait= \"reveal\" %> \n- <% if (s.why_the_wait == \"reveal\") { %>Player Told Sorrel About the Soldier<% } %>\n\n<% s.ruan_death= \"blame_self\" %> \n- <% if (s.ruan_death == \"blame_self\") { %>Player Chose to Blame Themself<% } %>\n<% s.ruan_death= \"blame_sorrel\" %> \n- <% if (s.ruan_death == \"blame_sorrel\") { %>Player Chose to Blame Sorrel<% } %>\n\n--------------------\n\n<% s.status_kang = \"dead\" %>                  [Hostage Was Killed]\n<% s.status_kang = \"alive\" %>                 [Hostage Survived]\n\n<% s.status_nilvarda = \"dead\" %>                 [Abductor Was Killed]\n<% s.status_nilvarda = \"alive\" %>                [Abductor Survived]\n\n<% s.action_help_kang = \"attended\" %>          [Hostage Was Comforted]\n<% s.action_help_kang = \"ignored\" %>           [Hostage Was Fearful]\n\n==================================\nVARIABLES - Chapter 2\n==================================\n\n\n\n\n## Metadata\n- **Source**: on-command-wiki-pages/characters-twine-variables.txt\n- **Type**: wiki\n- **Tags**: wiki, on-command-wiki-pages, character-design, quest\n- **Imported**: 2025-05-05T16:25:37.228Z",
+  "source": {
+    "type": "notebook",
+    "path": "on-command-wiki-pages/characters-twine-variables.txt",
+    "importedAt": "2025-05-05T16:25:37.228Z"
+  },
+  "created": "2025-05-05T16:25:37.228Z",
+  "modified": "2025-05-05T16:25:37.228Z",
+  "tags": [
+    "wiki",
+    "on-command-wiki-pages",
+    "character-design",
+    "quest"
+  ]
+}

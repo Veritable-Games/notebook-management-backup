@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "name": "CV-Backend",
+      "port": 3004,
+      "endpoint": "/api"
+    },
+    {
+      "name": "CV-Frontend",
+      "port": 9003,
+      "endpoint": "/"
+    },
+    {
+      "name": "CM-Backend",
+      "port": 3001,
+      "endpoint": "/"
+    },
+    {
+      "name": "CM-Frontend",
+      "port": 3002,
+      "endpoint": "/"
+    },
+    {
+      "name": "3D-Visualization",
+      "port": 8081,
+      "endpoint": "/"
+    },
+    {
+      "name": "Wiki-Export",
+      "port": 8080,
+      "endpoint": "/"
+    }
+  ]
+}

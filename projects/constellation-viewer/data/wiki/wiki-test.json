@@ -1,0 +1,16 @@
+{
+  "title": "wiki-test",
+  "content": "# wiki-test\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2025-04-18T22:30:00-07:00\n\n====== Wiki Test Page ======\n\nThis is a test page for trying out wiki links.\n\n== Basic Links ==\n\nHere's a link to a page in the same directory: [[narrative-structure]]\n\nHere's a link with custom text: [[narrative-structure|Narrative Structure Guide]]\n\n== Testing Content ==\n\nHere's some regular text that doesn't contain links.\n\n- List item 1\n- List item 2\n- List item with a [[narrative-structure|link]] inside it\n\n> This is a blockquote with a [[narrative-structure]] link.\n\n**Bold text with a [[narrative-structure|link]] in it**\n\n## Metadata\n- **Source**: reference-wiki-pages/wiki-test.txt\n- **Type**: wiki\n- **Tags**: wiki, reference-wiki-pages, item\n- **Imported**: 2025-05-05T16:25:37.241Z",
+  "source": {
+    "type": "notebook",
+    "path": "reference-wiki-pages/wiki-test.txt",
+    "importedAt": "2025-05-05T16:25:37.241Z"
+  },
+  "created": "2025-05-05T16:25:37.241Z",
+  "modified": "2025-05-05T16:25:37.241Z",
+  "tags": [
+    "wiki",
+    "reference-wiki-pages",
+    "item"
+  ]
+}

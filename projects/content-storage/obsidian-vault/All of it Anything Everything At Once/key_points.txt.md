@@ -1,0 +1,63 @@
+
+# key points.txt
+Stasis
+-- Player begins story during combat, this is the stasis for the story.
+- An injured renlei is found, they player must decide to help them or a squad mate.
+- Moments after rejoining the squad, a hostage situation arises. Player must take action.
+- The squad is promoted and Arrisi is introduced. She fills the 7th squad position.
+-- Contrasting this are the brief periods within the cities or down time with squad.
+- Introduction to the player's home and the city they reside in; establishing setting.
+- Player can choose to explore the city, learning more about the war and time period.
+Trigger
+- "This world was not designed for us. Life does not exist with our species in mind."
+- Player encounters a facility unearthed by renlei machinery. It contains preserved humans.
+-- Mystery behind the cryofrozen corpses encourages protagonists to learn more about the past.
+- "Do you fear death; the cessation of life? What? No, but I don't look forward to it either."
+- Corpse is transported back to the city; radiocarbon dating is used to estimate its age.
+- "We can assign meaning to our lives, but I don't believe there is any innate purpose to be found."
+-- The squad is tasked with hunting down rogue Sentinels, this results in a squad mates death.
+- Squad redirects their anger towards a rouge left behind. Player can choose to save her life.
+The Quest
+- "Death is not the flatline of a pulse, rather, the cessation of conciousness. Loss of one's self."
+- Squad says the Rouges are psychologically damaged; revealing perception of these disorders.
+-- Player vows to capture the rogue Sentinels after they've killed a squad mate and escaped.
+- Player visits the TDC to check on the renlei; or brother, hint at Chinese values & tradition.
+-- The reneli mention an obscure location encountered on Svalbard, a long-standing seed vault.
+- The squad encounters burned Menesk buildings. Talk about how the renlei gain territory.
+- Squad talks about citys, Arrisi mentions her own. Talk about structure and geothermal energy.
+- This talk goes on a tangent relating to the renlei use of fossil fuels, how this drives the war.
+Surprise
+- A study is published on the findings from the ancient corpse, hint toward human and renlei similarity.
+-- The player discovers how the Renlei and Menesk are related to Humans, but how? Corpse is a clue.
+- The squad locates the facility the renlei captives mentioned. Surprised as it requires an HSE suit to enter.
+- Squad mate recognizes that the seed vault looks almost identical to human technology and uses nanites.
+-- Player encounters an ancient AEI known formally as 'Robert' in the seed vault; he's severely damaged.
+- Squad decides to take the AEI back to the city. Partially repairing it in preperation of body transfer.
+- The AEI plays a recording that is spoken in Chinese. They succeed in powering it on, he speaks in English.
+- AEI estimates time passed with city database. Moon is 6.21371 miles further. Days, 8.5 seconds longer. 
+- Robert objects to an immediate transfer and suggests gradual transition; discussion on consciousness.
+- He also mentions that the solar system's gas giants no longer exist, creating more holes in the archive.
+Critical Choice
+- Conversation with Arrisi about human family; explain genomic fluidity and the lack of genetic relation.
+- A tangent about how the menesk are enslaved by the renlei. How they're used in immense factories.
+- Squad encounters a feral canine after a child; domesticated by the menesk, injured by renlei weapons.
+- Sorrel protects the Menesk child and decides to adopt her after discovering that her parents are dead.
+- Travel reveals several horrors of war. Renlei De'humanize' the Menesk. Entire cities are depopulated.
+- A renlei mining facility is found. The squad is able to neutralize the footsoldiers, but one enters a vehicle.
+- It's essentially a mechanized soldier that cannot be fought non-lethally. No other option than to kill.
+- Squad encounters the rouge Sentinels again. They offer the squad a chance to join the 'renlei' cause.
+Climax & Reversal
+- Robert talks about the lack of free will in choices made. How the paths taken are an intricate illusion.
+- The AEI continues with this "No one can dictate your purpose in life. The meaning you find is your own."
+- The player encounters a group of injured menesk civillians. Player can leave squadmate behind to help.
+-- Commands remaining squad mates as they fight the rogue squad. Squad member is sniped and killed.
+-- Robert saves a second squad mate if the player wasn't able to, one dies instead of two if he's there.
+-- Rogue squad reveals why they fought against humanity, for those with mental affliction.
+-- Player learns that humanity's ancestors left Earth long ago, traveling to the stars. 
+Resolution
+-- Months after the war and about two years from the climax; player will express the renlei's desired fate. 
+- Robert left behind information detailing the LORE project 500,000 years ago. Why humanity left Earth.
+- Awareness of human ancestors rises, desire to follow them spreads. Space travel ignites human curiosity.
+- "You are the result of 3.8 billion years of evolution."
+- "The innumerable generations that precede us, have long since perished."
+- "You are not the final product. We are not the last generation." 

@@ -1,0 +1,71 @@
+
+# New Text Document.txt
+If someone in the group dies; with exception to Oski or Vali, Gregers will disappear and never return. 
+If Jo dies, Lorens will breakdown. He will not be able to continue the mission. 
+Develop Oski's character, get him to bond with the others. He makes sacrifices his safety to preserve the life of Vivian. His main storage is left unaffected, but he can no longer interact with anyone. Vivian holds it close and faces away from the group. She sobs for a while, out of fear for her life and the near loss of a friend. She ties Oski's drive to her neck. It's encased in protective materials. 
+faded text represents a choice the player previously made before restarting. The choice that resulted in their death.
+the game only resets to the start of the chapter if the player dies. there is no option to restart if a character dies.
+need a save function!
+
+
+Arrisi and Lorens take the player to the chief of police in Klippe. There, they meet Vivian. The officer explicity states that they don't trust the AEI (player). "Is this it?" "I don't trust it." 
+
+Lorens: "She (they, him) isn't any different." 
+
+
+Cover should be punishment for poor dodge ability. Use space to dash in any direction. Hold space to sprint towards cover and slam into it. Every enemy weapon uses a projectile. NO hitscan. Enemies that charge towards the player and force them out of cover are necessary. Enemies that destroy cover are also needed. Enemies should use grenades sparingly. Most enemies do not use cover, but snipers do.
+
+
+Renlei - Menesk
+	Fabricated Things - Farmed Things
+	Constructed Things - Grown Things
+	Isolated People - Connected People
+	Extracted Resources - Aggregated Resources
+	Obedient AI - Autonomous AI
+
+
+don't forget to add sensory information. sights, sounds, smells. 
+
+
+designated walls for destruction
+
+
+create opportunities for the player and AI to do something interesting. (FEAR)
+
+
+don't say something like "You're the only one that can do it" when the characters reveal why the player is needed. say something like "We can't create another AEI, the facility is destroyed." if the player wants to go back or doesn't want to follow the characters.
+
+
+menesk team aren't soldiers, but they learn how to fight using the environment
+No rules of war. Kind of horrors?
+renlei have dehumanized the Menesk. they are depicted as lesser beings
+in being dehumanized, efficeincy of war is of greater concern than the enemies' well being
+	renlei are technological and abuse nature
+	menesk are biotic and work with nature
+	humans are both, and avoid nature
+the menesk have no armies, the factions that form are led by civillians and former police
+menesk team destroys renlei mining operation
+menesk team captures renlei tank, using it to turn the tide of an on-going battle. they buy enough time for menesk reinforcements to arrive.
+A menesk fireteam comes across a platoon of renlei soldiers nearing their home a camp ready for invasion. There are crates of ammo and crates of food. Destroying the ammo will prevent them from fighting and could likely kill soldiers. 
+Encounter Evolutis feral dog. It was injured in the leg by Futurus weaponry. It's fearful/agressive. If you run, it will attack. It snaps at you and growls. Licking lips. Excessive panting. Brow furroed, ears to side. Moving slowly, cautious. 
+Her thesis is that Eichmann was not a fanatic or sociopath, but an extremely average person who relied on clichéd defenses rather than thinking for himself and was motivated by professional promotion rather than ideology. Banality, in this sense, is not that Eichmann's actions were ordinary, or that there is a potential Eichmann in all of us, but that his actions were motivated by a sort of stupidity which was wholly unexceptional.
+Potential themes. Choice, or lack thereof. The banality of evil. A man chooses, a slave obeys. No one thinks himself a villain, and few make decisions they think are wrong. 
+Themes of choice in choice oriented games are easy for readers to spot. It would be difficult to convey a lack of free will in a system designed with limited actions.
+I could focus on the banality of evil, but to do that, I'd need to discuss our lack of free will. People can do horrible things, but if it were known that we lack freedom of choice, would it affect how we view those very same people? Pity and a desire to help over abhorrence and a desire to lock away or kill.
+Doing as you're told isn't always the wrong thing to do, but not thinking for yourself doesn't necessarily lend itself to making the right choices.
+A man chooses, a slave obeys.
+The banality of evil. "Just obeying orders, following his duty, doing his job."
+displayed neither guilt for his actions nor hatred for those trying him, claiming he bore no responsibility because he was simply "doing his job" ("He did his duty...; he not only obeyed orders, he also obeyed the law." p. 135).
+Snøskuter
+Littlenorwegians: First of all, all our dogs have "hund" in their name. This is for Norwegian, Swedish and Danish, actually. And they're usually descriptors.
+Glitch: e.g.?
+Littlenorwegians: Like "Elghund" means "moose-dog". Used to hunt moose
+https://upload.wikimedia.org/wikipedia/commons/3/39/Norwegian_Elkhound_1.jpg
+Glitch: hm, good starting point
+Glitch: I'm also thinking about the perspective of the player. I want to demonstrate that the world differs from our own with the opening description writing, and a creature that wouldn't 'quite' fit the conventional dog appearance, might be useful to convey that.
+Littlenorwegians: Heh, I have an idea for that, if I may, that I think could be effective.
+Glitch: shoot
+Littlenorwegians: When it comes to dog. Man's best friend. Since the dawn of time itself. The world might have changed. The breed might have changed.
+Littlenorwegians: But they're still our best friend
+Littlenorwegians: After all these years
+Littlenorwegians: That kinda thing, I think, is potent. And grounds things. If you have a dog in your story, you want to have it for dog-reasons. Dog characters are good companions, sympethetic, lovable, those kinda things.

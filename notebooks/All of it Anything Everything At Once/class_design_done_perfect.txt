@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-15T22:01:39-07:00
+
+====== class design done perfect ======
+Classes aren't a single thing someone does. Everyone is capable of doing any task (to make the game easily accessible), but every solider has a task their best at, and a task their terrible at.
+
+Always give the player time to prepare. (TTP) Even if its brief later in the game. Playtest to determine optimal amount of time.
+
+Sentinel
+
+Engineer - Sets up Emplacements quicker, and can repair them just as easily. (Yellow/Dark Grey) (Distinguished by third robotic arm on right shoulder)
+Technician - Slices doors faster, sets/defuses devices quicker. (Green/Brown) (Distinguished by unique optical tool on helmet)
+Strategist - Can setup cover positions quicker, and moves faster between positions. (Orange/Light Grey) (Distinguished by more pronounced exoskeleton)
+Operator - Uses heavy weapons to suppress enemies, and acquires greater numbers of resources. (Purple/Pink) (LMG restricted) (Distinguished by heavier armor)
+Enforcer - Reinforces cover locations and emplacement zones with additional shielding. (Blue/Indigo) (Specialized nanite dispenser on back)
+Factotum - Has a small permanent bonus to every skill set. (Red/Just Red) (This class has every distinguishing features of the other classes)
+
+List of skill sets - Classes get permanent bonuses depending on what they specialize in. These bonuses can't be exceeded by non-specialized classes.
+
+Repair Emplacement Zone (Engineer Bonus)
+Equip Emplacement Zone (Engineer Bonus)
+Setting Traps (Technician Bonus)
+Defusing Traps (Technician Bonus)
+Slicing Doors (Technician Bonus)
+Locking Doors (Technician Bonus)
+Cover Setup (Strategist Bonus)
+Cover Reinforcement (Enforcer Bonus)
+EZ Reinforcement (Enforcer Bonus)
+Resource Aquisition (Operator Bonus)
+Resupply Speed (Standardized)
+Reload Speed (Weapon Dependent)
+Armor Density (Class Locked)
+Movement Speed (Class Locked)
+Exoskeleton Strength (Class Locked)

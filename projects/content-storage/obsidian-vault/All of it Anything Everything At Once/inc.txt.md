@@ -1,0 +1,3 @@
+
+# inc.txt
+What is the best approach to building this? I would give you a directory: 'F:\_WebHosting\DataBase\ [continued] CRONw' and neighbor to it 'F:\_WebHosting\GitHub'. I would prefer building things in Jupyter: to the webhosting *after* we have figured out the local interface. Deeper to how you would be interacting- with Auto-GPT and modulate it to some method to the network infrastructure.  Give me the steps, would you? 

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modal Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 100;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .modal-content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            width: 80%;
+            max-width: 500px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        
+        .modal-header h3 {
+            margin: 0;
+        }
+        
+        .modal-close {
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+        }
+        
+        .modal-body {
+            margin-bottom: 15px;
+        }
+        
+        .form-group {
+            margin-bottom: 15px;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        .form-control {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        
+        .modal-footer {
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+            border-top: 1px solid #eee;
+            padding-top: 15px;
+        }
+        
+        .btn {
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            border: none;
+        }
+        
+        .btn-secondary {
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        
+        .btn-primary {
+            background-color: #007bff;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Modal Dialog Test</h1>
+    <p>This is a simple test to verify that modal dialogs are working correctly.</p>
+    
+    <button id="show-modal" class="btn btn-primary">Show New Page Modal</button>
+    
+    <!-- New Page Modal -->
+    <div id="new-page-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Create New Page</h3>
+                <button class="modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <form id="new-page-form">
+                    <div class="form-group">
+                        <label for="page-category">Category</label>
+                        <select id="page-category" class="form-control">
+                            <option value="">No Category (Root Level)</option>
+                            <option value="design">Design</option>
+                            <option value="documentation">Documentation</option>
+                            <option value="__new__">+ Create New Category</option>
+                        </select>
+                    </div>
+                    <div id="new-category-group" class="form-group" style="display: none;">
+                        <label for="new-category">New Category Name</label>
+                        <input type="text" id="new-category" class="form-control" placeholder="e.g. Projects, Documentation, etc.">
+                    </div>
+                    <div class="form-group">
+                        <label for="page-name">Page Name</label>
+                        <input type="text" id="page-name" class="form-control" required placeholder="e.g. Getting Started, Installation, etc.">
+                    </div>
+                    <div class="form-group">
+                        <label for="page-template">Template</label>
+                        <select id="page-template" class="form-control">
+                            <option value="default">Default</option>
+                            <option value="empty">Empty</option>
+                            <option value="guide">Guide</option>
+                            <option value="reference">Reference</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="new-page-tags">Tags (comma separated)</label>
+                        <input type="text" id="new-page-tags" class="form-control" placeholder="e.g. documentation, guide, important">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary modal-cancel">Cancel</button>
+                <button class="btn btn-primary modal-confirm">Create Page</button>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Show the modal when the button is clicked
+        document.getElementById('show-modal').onclick = function() {
+            const modal = document.getElementById('new-page-modal');
+            modal.style.display = 'flex';
+            
+            // Focus on the page name input
+            setTimeout(() => {
+                document.getElementById('page-name').focus();
+            }, 100);
+        };
+        
+        // Set up category select change event
+        const categorySelect = document.getElementById('page-category');
+        categorySelect.onchange = function() {
+            const newCategoryGroup = document.getElementById('new-category-group');
+            if (this.value === '__new__') {
+                newCategoryGroup.style.display = 'block';
+                document.getElementById('new-category').focus();
+            } else {
+                newCategoryGroup.style.display = 'none';
+            }
+        };
+        
+        // Set up close and cancel buttons
+        const closeButtons = document.querySelectorAll('.modal-close, .modal-cancel');
+        closeButtons.forEach(button => {
+            button.onclick = function() {
+                document.getElementById('new-page-modal').style.display = 'none';
+            };
+        });
+        
+        // Set up form submission
+        document.querySelector('.modal-confirm').onclick = function(e) {
+            e.preventDefault();
+            
+            // Get form values
+            const pageName = document.getElementById('page-name').value.trim();
+            
+            if (!pageName) {
+                alert('Please enter a page name');
+                return;
+            }
+            
+            // Get category
+            let category = '';
+            if (categorySelect.value === '__new__') {
+                category = document.getElementById('new-category').value.trim();
+                if (!category) {
+                    alert('Please enter a category name');
+                    return;
+                }
+            } else {
+                category = categorySelect.value;
+            }
+            
+            // Get template and tags
+            const templateType = document.getElementById('page-template').value;
+            const tags = document.getElementById('new-page-tags').value
+                .split(',')
+                .map(tag => tag.trim())
+                .filter(tag => tag);
+            
+            // Construct the full title
+            const title = category ? `${category}/${pageName}` : pageName;
+            
+            // Show success and close modal
+            alert(`Would create page: "${title}" with template: ${templateType} and tags: ${tags.join(', ')}`);
+            document.getElementById('new-page-modal').style.display = 'none';
+            
+            // Reset the form
+            document.getElementById('new-page-form').reset();
+        };
+        
+        // Close modal when clicking outside the content
+        document.getElementById('new-page-modal').onclick = function(e) {
+            if (e.target === this) {
+                this.style.display = 'none';
+            }
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,85 @@
+
+# circumstance.txt
+- "No more unhoused!"
+- "Right to life!"
+
+- "We are born to debt!"
+- "Why can they idle why we suffer?"
+
+Text 1: Hey, Tracey. I'm dealing with insomnia now myself. I think this is best. I'm gonna be homeless in a few days. I wanted to ask if Nathan (could teach me anything). I have some ideas on how I'll blend in for a bit. The only issue is Cthulhu, my computer, my clothes. I have no idea where I'd shower or sleep. But I know how I'm getting out of this. And I know how I want to spend my days. 
+
+It's not homeless to bemoan society. I want to be homeless to live. At least for a while.
+
+I lost this Incredibly well paid job at Valeo by telling HR I wanted to abolish the point system. Left to my own devices, that job was driving me mad. They were always firing my friends. I am always powerless to help.
+
+I do think back to that one time you asked for help. The me now would do it in a heart beat. I have had worse friends that have asked me for so much...
+
+My family has been helping me get by for about 4 months now. I'm not making enough progress on my own goals to make money yet. But I'm keeping tabs on AI development. 
+
+So much is going to change (is changing) but we are not going to see it all at once. This presidential candidate you should know about, Marianne Williamson- will save us from neo liberal capitalism and the oligarchic leeches that see rule of our labor and worth. These governments won't make sense when people have all the power.
+
+These LLMs are the start of it. Attaching other AI models to these machines only makes them more useful. Nothing will dis-enable the idea man to create now. 
+
+The world is moving so fast. But I'm stuck in a box. I might ask Robert to take most of my stuff for a while. Till I can figure out income and maybe an apartment or office. (I am thinking about pitching game projects to my local bank, making a Kickstarter, or just applying to Indie Fund) I just need the strongest damn pitch in the world because there is no game yet. That said, I'm afraid I won't be ready by the 4th next month when rent is due.
+
+I do mean to be evicted. I want to see what the state does.
+
+Text 2: I know what I'm gonna do now. Sort of have a plan. Are you busy tomorrow night or in the morning? I'm gonna let myself get evicted. But I want to advocate for a right to life. 
+
+There are moral values people see easy recognition in that the state would not. 
+
+If not here, then where? If not me, than who?
+
+I do hope you are well. I am only asking for your attention to talk about this. Will make an appeal to residents here and the student body at UNR. I'm gonna make games on the side to see if I can't mash together a Kickstarter for my projects. Then I might afford another apartment or maybe an office if I had people that wanted to work with me. 
+
+Plans, desires. I don't aim to be wrought with meaningless in this loss. My life has already lost this by remaining in this box.
+
+Will probably try to blend in as a student and work on my own time. I have a friend that can take most of my stuff. My books are already safe at Robert and Scott's place. 
+
+Cthulhu will be fine if he sticks with me, maybe? But we'll need to figure out how to walk around. He is very insecure without me. 
+
+Clothes though. Could you take a suitcase of my clothes? I'll probably lug around the desktop so I can work. May visit you, the guys, or other friend as the days go on.
+
+My aim would not be to stay in any one place until I've found us financial support in my work. Help me here, let's hash out a plan.
+
+I want to enable you to good things, too, Zach. We can escape from this prison of labor if there was a precedent to say no to our landlords. The students here don't see it. (May never see it) As they will never see the thing of struggle. Enabled by their parents.
+
+But the campus is safe. So I'll spend most of my time here: in the library otherwise. Maybe I'll make a name for myself if I end up being some strange homeless scholar, haha.
+
+Text 3: So, I have a plan now. Sort of. I may need your help to it. I am having strange relational difficulties because my value has been so strongly attached to labor. I do not see good recognition of myself outside of it. My coworkers were my best friends.
+
+If I am not attending classes, I am an outsider. If I do not do labor. I am an outsider. But these better beliefs of mine will give us an opportunity here.
+
+I would make an appeal to students, to the residents at my apartment complex. We are more than the value they would demand of us. We do not owe them our lives for being born poor.
+
+I'm gonna move all of my stuff to friend's places. Already have all my books safe with some buddies, but I will not ask them to house me. They are already taking care of someone and it would go against my principal here. We are not our stuff, we are not our homes. But somehow we have let them be ascribed to this thing. 
+
+I do have a plan to make money but there's a lot I'd need to explain. And a lot of work for me to do. I'm gonna lug around my desktop some days. Other days, books and my cat. I will be the modern Cynic and say that we are not ascribed value by the worth of our economic potential. We are given to it at birth. No one would have the right to end your life. But somehow it is okay to damn those that could not afford it. Not for me. For other people.
+
+I would advocate for a right to life.
+
+This is my best opportunity. I will be evicted on the 4th next month. If you want to help me, talk to me. See that I do not intend to cause any burden.
+
+Crazy, crazy, crazy. But this is all I can think to do. I won't let my brain rot out there or get addicted to anything. I have Cthulhu to take care of and lots of projects to work on. Friends to spend time with and life to be lived. 
+
+I helped a friend with a lot of money. Recently saw through it. Blocked her. 
+
+She got a job. Should be fine. Never sees any want of me beyond what she needs from me financially. I am done with her. She left me with no time. 
+
+But she's been homeless before. Says she had been since she was 14. I know other people that have been homeless that could give me some insight. I have already sent a spouse of one this premise. They might help, too.
+
+Another buddy of mine will take my miscellaneous things. Where Cthulhu and I will sleep is difficult. But I can't be putting the burden on any one person. We will have food. About 2 weeks of it. More for him though. 
+
+My family has been helping me. Of course, the mom. Why would she not think the best of her son? But I am lost. Did not want to return to that life. Could not find a financial overture in time. But I'm confident I can find it witt two more weeks. Will be good to get out permanently. But I have to at least try to bring some measure of change in this loss.
+
+I asked her to stop paying my rent. I 'insisted' that I wanted this. She believes me. I am ready to try something different. Struggle a bit. 
+
+This little apartment isn't bettering my life.
+
+But the premise, it's easy.
+
+"Did you earn this life when you were born to it? 
+
+"The richest country in the world and we have homeless? Maybe we are not so rich."
+
+"How can they sit back and idle while we would suffer? They do not see us. They do not care for us. But they would still reap from us in what we owe them by inherence of our being poor."

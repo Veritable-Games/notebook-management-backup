@@ -1,0 +1,17 @@
+FROM node:16-alpine
+
+# Create app directory
+WORKDIR /app
+
+# Install required packages
+COPY package.json ./
+RUN npm install socket.io socket.io-client uuid express cors
+
+# Copy test files
+COPY tests/docker/load-test.js ./load-test.js
+
+# Make port available if needed
+EXPOSE 5001
+
+# Default command
+CMD ["node", "load-test.js"]

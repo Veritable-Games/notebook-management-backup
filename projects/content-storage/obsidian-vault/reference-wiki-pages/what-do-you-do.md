@@ -1,0 +1,1169 @@
+
+# what-do-you-do
+HANH, T. H. I. C. H. N. H. A. T. (2022). Zen and the art of saving the planet. HARPER ONE. 
+
+Žižek Slavoj. (2022). Surplus-enjoyment: A guide for the non-perplexed. Bloomsbury Academic. 
+
+Developmental Interpersonal Neurobiology, Attachment Style and Mindsight". Psychology and Cognitive Sciences - Open Journal. 3 (3): e9–e13. doi:10.17140/pcsoj-3-e007. ISSN 2380-727X.
+
+DEVELOPING MIND : how relationships and the brain interact to shape who we are. GUILFORD. ISBN 978-1-4625-4275-8. OCLC 1113408719.
+
+^ Siegel, Daniel J. (2009), Mindsight : the new science of personal transformation, Brilliance Audio, ISBN 978-1-5012-2358-7, OCLC 962743641
+
+Latour, B. (2022). After lockdown: A metamorphosis. Polity Press. 
+Han, B.-C., Steuer, D., Han, B.-C., & Han, B.-C. (2020). The disappearance of rituals: A topology of the present. Polity. 
+
+Humphrey A, Bliuc A-M. Western Individualism and the Psychological Wellbeing of Young People: A Systematic Review of Their Associations. Youth. 2022; 2(1):1-11. https://doi.org/10.3390/youth2010001
+
+Santos, H. C., Varnum, M. E. W., & Grossmann, I. (2017). Global Increases in Individualism. Psychological Science, 28(9), 1228–1239. https://doi.org/10.1177/0956797617700622
+
+Hidaka BH. Depression as a disease of modernity: explanations for increasing prevalence. J Affect Disord. 2012 Nov;140(3):205-14. doi: 10.1016/j.jad.2011.12.036. Epub 2012 Jan 12. PMID: 22244375; PMCID: PMC3330161
+
+Natasha L. Mason, Elisabeth Mischler, Malin V. Uthaug & Kim P. C. Kuypers (2019) Sub-Acute Effects of Psilocybin on Empathy, Creative Thinking, and Subjective Well-Being, Journal of Psychoactive Drugs, 51:2, 123-134, DOI: 10.1080/02791072.2019.1580804
+
+Forstmann M, Kettner HS, Sagioglou C, et al. Among psychedelic-experienced users, only past use of psilocybin reliably predicts nature relatedness. Journal of Psychopharmacology. 2023;37(1):93-106. doi:10.1177/02698811221146356
+
+Nature is the Center of the Manala, 1987 (Text sourced from https://www.organism.earth/library/do...) - Terence Mckenna 
+
+Juvenal. (1769). The satires of Juvenal translated: with explanatory and classical notes, relating to the laws and customs of the Greeks and Romans. Dublin :printed by George Faulkner,
+
+
+
+0:00
+[Music]
+0:00
+foreign
+0:01
+[Music]
+0:24
+there's something strange brewing in the
+0:26
+air it's as if the world had
+0:28
+collectively experienced a bad trip and
+0:30
+we are now in the process of trying our
+0:32
+best to pretend it never happened
+0:35
+presently we stare into an uneasy future
+0:37
+of ecological chaos Rising xenophobia
+0:40
+and economic uncertainty the
+0:42
+precariousness of our reality was
+0:45
+briefly revealed and despite this we
+0:48
+nonetheless hope that we can just go
+0:49
+back to business as usual
+0:51
+but the cat's out of the bag What was
+0:54
+seen cannot be unseen a collective
+0:56
+humility has settled on the many who
+0:59
+with great conviction once operated as
+1:01
+isolated creatures and atomized beings
+1:04
+For Better or Worse we now know that our
+1:07
+lives are intimately entangled with the
+1:10
+sloppy stupid and Strangely Beautiful
+1:13
+presence of others
+1:15
+of course not all of us have conceded
+1:18
+those against vaccination for example
+1:20
+loudly protest against it on the basis
+1:23
+of vaccines being an attack on their
+1:25
+personal freedom of choice they argue
+1:27
+that it is a violent intrusion against
+1:29
+their bodies bodies that they have
+1:31
+outright ownership over however as Zizek
+1:35
+cynically responds as if our body is
+1:37
+ever really just ours vaccinated or not
+1:40
+we are already controlled and
+1:42
+manipulated in ways we are unaware of
+1:46
+despite jijic's language it should be
+1:48
+noted that this assertion extends Beyond
+1:50
+conspiratorial assumptions he is simply
+1:53
+pointing towards a truth shared by
+1:55
+neuroscientists Buddhist monks and
+1:58
+shroom-loving hippies everything is
+2:01
+connected the existence of a distinct
+2:03
+entity the isolated self is an illusion
+2:07
+and on a certain level of analysis to
+2:09
+claim ownership over your identity is
+2:12
+absurd I am you and you are me and we
+2:15
+are everything that has been and will be
+2:18
+this is best described under the monk
+2:21
+tiknath Han's notion of inter being Han
+2:24
+believes that we are entirely composed
+2:26
+of many elements he calls non-me
+2:28
+elements these elements of your father
+2:30
+your mother your ancestors the Stars the
+2:33
+moon the mountains and the animals come
+2:36
+together to briefly form you you are
+2:39
+simply a continuation of these elements
+2:41
+everything is in you so you can talk to
+2:43
+them and you know that you are the world
+2:45
+you are the cosmos additionally
+2:48
+intervene avoids the tired calls of
+2:51
+humanism that proposed that there is a
+2:53
+common human nature by suggesting that
+2:55
+more importantly there is a common
+2:58
+nature that we are a part of we are a
+3:00
+continuation of the natural world
+3:02
+composed of those same elements present
+3:04
+at the very beginning of the universe we
+3:07
+are not just related to each other but
+3:08
+also to the Rocks the bumblebees and
+3:11
+even horse manure as an eternal stream
+3:13
+of non-me elements we are never truly
+3:16
+alone
+3:18
+foreign
+3:23
+[Applause]
+3:26
+this video is sponsored by brilliant
+3:29
+we live in the age of information we're
+3:31
+bombarded with numbers and graphs
+3:33
+accompanied by reductive articles that
+3:35
+offer simple explanations to such piles
+3:38
+of data
+3:39
+sometimes I find it difficult to
+3:41
+navigate this world how do I know what
+3:43
+these numbers really mean
+3:45
+to navigate all of this information I'd
+3:47
+argue it's important to cultivate a
+3:49
+knowledge of stats that's why I've been
+3:51
+using brilliant the best way to learn
+3:53
+about hypothesis testing statistics and
+3:56
+data science brilliant has thousands of
+3:58
+lessons and adds new content monthly
+4:01
+I've been working through Brilliance
+4:03
+data analysis fundamentals course which
+4:06
+goes over averages relationships between
+4:08
+data and how we can visually represent
+4:10
+information and it does this all in a
+4:13
+very intuitive and interactive way
+4:16
+this is one of the main reasons why I
+4:18
+like Brilliance because it gets you to
+4:20
+learn by doing
+4:22
+you get to play around with so many
+4:24
+stunning visualizations and interact
+4:26
+with different charts and graphs
+4:29
+importantly Interactive Learning has
+4:31
+been proven to be six times more
+4:33
+effective than passive learning to learn
+4:35
+anything you've really got to do it
+4:38
+to try everything brilliant has to offer
+4:40
+for free for a full 30 days visit
+4:44
+brilliant.org Sisyphus 55 or click on
+4:48
+the link in the description
+4:50
+the first 200 of you will get 20 off
+4:53
+Brilliance annual premium subscription
+5:00
+importantly interbeing is supported by
+5:03
+interpersonal neurobiology the study of
+5:06
+how the brain body and mind are
+5:07
+developed in the context of
+5:09
+relationships both with others and the
+5:11
+environment
+5:12
+specifically interpersonal neurobiology
+5:14
+investigates phenomena such as mirror
+5:17
+neurons that fire both when an animal
+5:19
+acts and when the animal observes the
+5:21
+same action performed by another the
+5:23
+existence of mirror neurons explain the
+5:25
+rapid development of kids as these
+5:28
+neurons fire when a child observes the
+5:30
+intentional action of someone else and
+5:32
+also when they perform the action they
+5:35
+also fire When You observe what someone
+5:37
+else is feeling something that we tend
+5:39
+to call empathy this additionally
+5:41
+explains the existence of emotional
+5:43
+contagion when our moods are influenced
+5:46
+by the moods of others overall
+5:48
+interpersonal neurobiology highlights
+5:50
+the influence of others on our brains
+5:52
+and the shared mind that we all engage
+5:54
+in
+5:56
+foreign
+5:59
+[Music]
+6:05
+the main thinker behind interpersonal
+6:08
+neurobiology seized the fruitfulness of
+6:10
+United Neuroscience with the Buddhist
+6:12
+principles of inter being I believe and
+6:15
+cannot find any science to disprove that
+6:18
+an important aspect of the mind could be
+6:20
+defined as an embodied and relational
+6:22
+emergent self-organizing process that
+6:25
+regulates the flow of energy and
+6:27
+information both within us and between
+6:30
+and Among Us the mind isn't installed in
+6:33
+your brain rather it's in those moments
+6:35
+of exchange between Minds when the
+6:38
+barriers of individualism break down
+6:39
+where we become truly conscious Siegel
+6:43
+goes on to argue that once we realize
+6:45
+that the true definition of the self is
+6:47
+a collective we a certain hope for the
+6:50
+planet begins to emerge we begin to
+6:52
+realize this is our Collective home
+6:54
+there is a real hope to turn things
+6:57
+around
+6:58
+of course unlike monks and
+7:00
+neuroscientists most of us don't walk
+7:03
+around aware of the interdependence of
+7:05
+everything but Bruno LaTour does Point
+7:08
+towards the lockdowns as making us more
+7:10
+conscious of our existence as an
+7:12
+interconnected Community sharing the
+7:14
+same Planet as he argues before the
+7:17
+pandemic we were fairly unaware of the
+7:19
+whole host of jobs that allowed for our
+7:21
+survival catering jobs deliverers nurses
+7:24
+caretakers a whole drove of people as
+7:27
+poorly paid as they were poorly viewed
+7:29
+now thanks to the evident breaking down
+7:32
+of Supply chains labor strikes service
+7:35
+closures and the piling of bodies we are
+7:38
+intimately aware of the importance of
+7:40
+these essential Services carrying out
+7:43
+the simplest course of action like
+7:45
+feeding yourself required the support of
+7:47
+quite a few agents to ensure continuity
+7:50
+of the most ordinary life we became a
+7:53
+captive audience to a truth we wish to
+7:55
+have forgotten that in spite of our
+7:58
+personalized Journey towards
+7:59
+self-actualization we nonetheless rely
+8:02
+largely on others for our continued
+8:04
+survival in fact LaTour argues that
+8:07
+anyone who wants to claim ownership over
+8:10
+some sort of personal identity should be
+8:12
+laughed at here he makes the distinction
+8:14
+between two ecological groups autotrophs
+8:18
+and heterotrophs autotrophs are those
+8:21
+amazing organisms that do in fact feed
+8:23
+themselves by taking up all they need to
+8:25
+live on fungi and trees don't really
+8:29
+rely on other terrestrial beings to
+8:31
+continue their subsistence on the other
+8:33
+hand heterotrophs that is all animals
+8:36
+including humans depend on a sometimes
+8:38
+overwhelming Phantom body of other
+8:40
+terrestrials for their own existence for
+8:43
+example we rely on the waste of the
+8:45
+autotrophs oxygen as well as the niche
+8:48
+building and energy of other hetero
+8:50
+crops therefore it is only the
+8:53
+autotrophs and not for example the
+8:55
+libertarian Texan that deserves the
+8:57
+right to call themselves helps in
+8:59
+individual and atomized entity as LaTour
+9:03
+writes if there is any race that cannot
+9:05
+lay claim to be made up of individuals
+9:07
+delineated much like wire figures inside
+9:10
+a secure border that is indeed the
+9:13
+modern human in the end LaTour endorses
+9:16
+the use of the term holobiots instead of
+9:19
+organisms which means a collection of
+9:21
+actors in the form of clouds with
+9:23
+blurred Contours and durable membranes
+9:26
+holovions capture the fact that even at
+9:30
+our most selfish we still miscalculate
+9:32
+how to pursue our interests the mistakes
+9:35
+and accidents that stem from our
+9:37
+Behavior unintentionally spill into the
+9:40
+selfish strivings of others forming a
+9:43
+cluster of engendering concerns even at
+9:46
+our most selfish the individual
+9:48
+struggles to truly exist
+9:52
+[Music]
+10:00
+well then why do we act as if this isn't
+10:04
+the case
+10:04
+instead we tend to behave as isolated
+10:07
+units who don't owe anyone anything we
+10:09
+have gradually eliminated engendering
+10:12
+concerns and with some genuine reason we
+10:15
+greet ideas of Conformity and Community
+10:17
+with suspicion
+10:19
+why is this
+10:21
+well most of us want to self-realize to
+10:25
+be authentic we spend much of our time
+10:27
+crafting ourselves as projects to be
+10:29
+worked on hoping to uncover our true
+10:32
+selves and maybe even experience
+10:34
+self-actualization we value spontaneous
+10:37
+emotion something that is apparently
+10:39
+authentic and find ourselves skeptical
+10:42
+of behaviors and opinions that have been
+10:44
+formed in some way especially from
+10:46
+outside influence we are deeply
+10:48
+skeptical of Conformity and use terms
+10:50
+such as sheep or NPC to degrade those
+10:53
+who fail to be their own main character
+10:55
+most of all we strive to become who we
+10:58
+want to be
+11:00
+of course to do this one must be in
+11:03
+isolation as we're told the potential
+11:06
+imposition of others on one's life
+11:08
+Journey would be an abject failure in
+11:10
+being true to ourselves
+11:12
+how do you maintain isolation when so
+11:15
+much of your survival evidently depends
+11:18
+on others here money plays a crucial
+11:21
+role in affording such isolation as
+11:23
+pyeongchul Han writes money by itself
+11:25
+has an individualizing and isolating
+11:28
+effect it increases my individual
+11:30
+Freedom by liberating me from any
+11:32
+personal bonds with others I can have
+11:34
+someone else work for me by paying her
+11:36
+and this avoids entering into a personal
+11:39
+relationship
+11:40
+I don't need to form a deep relationship
+11:42
+with the Barista the farmer the banker
+11:44
+instead thanks to my noise canceling
+11:46
+headphones I can make sure all of my
+11:48
+basic needs are met without ever
+11:50
+personally knowing these fellow
+11:52
+terrestrials
+11:53
+my self-indulgent yoga practice can
+11:56
+continue because I can pay for food
+11:57
+delivery my journey to be who I want to
+12:00
+be is now left uninterrupted by human
+12:02
+interaction and this is largely thanks
+12:04
+to the exchange of money of course in
+12:07
+this beautifully symbiotic relationship
+12:09
+a capital and authenticity form a
+12:12
+feedback loop it's very marketable to be
+12:15
+unique and fully realized as an
+12:17
+individual and so we exploit ourselves
+12:19
+voluntarily in the belief that we are
+12:21
+realizing ourselves this of course
+12:24
+allows money to be accumulated and then
+12:26
+recirculated as Han explains in the cult
+12:29
+of authenticity the neoliberal regime
+12:32
+appropriates the person himself and
+12:35
+turns him into a highly efficient site
+12:37
+of production the whole person is
+12:40
+incorporated into the production process
+12:42
+we make money to self-actualize and we
+12:45
+self-actualize to make money our drive
+12:47
+for authenticity as heroic individuals
+12:49
+is very much tied up in our survival
+12:53
+regrettably this whole compulsion to be
+12:55
+individuals hasn't really made us any
+12:57
+happier pyang chilhan sees this
+13:00
+excessive relation to the self which is
+13:02
+incapable of leaving the self behind as
+13:04
+a wide-reaching narcissism we withdraw
+13:07
+into our little shells and the world
+13:09
+disappears circling around ourselves a
+13:12
+feeling of emptiness develops and we no
+13:14
+longer feel at home we become depressed
+13:17
+and this isn't just theoretical one 2021
+13:20
+meta-analysis found that across 14
+13:22
+different studies individualism was
+13:25
+consistently associated with reduced
+13:27
+life satisfaction and depression in
+13:29
+young people globally individualism has
+13:32
+increased over the last 50 years
+13:33
+alongside depression these authors posit
+13:37
+that in conclusion the modern social
+13:39
+environment is more competitive
+13:41
+inequitable and lonely this
+13:43
+deterioration of social cohesion among
+13:46
+modern industrialized populations may be
+13:48
+a central component to Rising rates of
+13:50
+depression
+13:52
+foreign
+13:57
+[Music]
+14:02
+overall in The Disappearance of rituals
+14:05
+Han points to this obsessive compulsion
+14:07
+to produce oneself as leading towards a
+14:09
+crisis of community and from this a
+14:12
+depressed and lonely world this is seen
+14:15
+in the end of ritual participation
+14:17
+rituals he writes make us feel at home
+14:20
+in the world they create resonant
+14:22
+relationships vertically to the gods to
+14:25
+space to time horizontally between
+14:27
+peoples and social communities and
+14:29
+diagonally with objects and things as he
+14:33
+argues without resonance we are thrown
+14:34
+back onto ourselves isolated increasing
+14:37
+narcissism works against the experience
+14:39
+of resonance
+14:41
+social media Echo Chambers for example
+14:43
+only lead to self-resonation where we
+14:46
+solely hear our own voices and opinions
+14:48
+this only strengthens The Echoes of the
+14:51
+self rituals on the other hand invite
+14:53
+the foreign and that which is different
+14:55
+thereby offering a stable space for
+14:58
+creativity and revolutionary potential
+15:00
+to flourish I'm sure the mention of
+15:02
+revolution has led to a few eye rolls
+15:05
+and by now I'm sure you can tell that
+15:07
+the subject of interconnectedness and my
+15:10
+criticism of capitalism leans in a
+15:12
+specific political Direction This is
+15:14
+perhaps best summed up by Terry
+15:15
+eagleton's distinction between socialism
+15:18
+and capitalism both systems taken at
+15:21
+their most utopian focus on human
+15:23
+flourishing as an end goal capitalism
+15:26
+sees competition the pursuit of
+15:28
+everyone's self-interest as the tool to
+15:30
+achieve this goal it is through
+15:32
+opposition to each other where we will
+15:34
+flourish socialism on the other hand
+15:36
+claims that human flourishing will come
+15:38
+not in opposition to each other but
+15:39
+rather through each other it is through
+15:42
+cooperation and sharing a common
+15:44
+interest that we create a better world
+15:46
+now has the necessary illusion of the
+15:49
+self and The Disappearance of rituals
+15:51
+paved the way for scientific innovation
+15:53
+greater material wealth and knowledge
+15:55
+undoubtedly yes but I would also argue
+15:58
+that this emphasis on solitary
+16:00
+self-realization has outworn its welcome
+16:03
+we are more depressed we are more lonely
+16:06
+we Face a revolving door of potential
+16:08
+Global catastrophes
+16:11
+or Multicultural globalized societies
+16:14
+are societies whose spirit is tired
+16:17
+unable to engage in a large-scale
+16:19
+passionate project which made demand
+16:21
+from us that we even risk Our Lives it's
+16:24
+a spiritual malaise a crisis of meaning
+16:27
+whatever you'd like to call it
+16:29
+one way of capturing this growing
+16:31
+despair is in terms of Mark Fisher's
+16:33
+hauntology and capitalist realism Fisher
+16:36
+argued that the Future Has effectively
+16:38
+been canceled and we find ourselves no
+16:40
+longer capable of imagining new Futures
+16:43
+this is evident in capitalist realism
+16:45
+where we can no longer imagine any
+16:47
+alternatives to our current economic
+16:49
+system it's simply impossible to imagine
+16:52
+a future without capitalism in some form
+16:54
+and Fisher was markedly aware of the
+16:57
+sorts of isolation that capitalism
+16:59
+encouraged the installation of
+17:02
+capitalist realism was by no means a
+17:04
+simple restoration of an Old State of
+17:06
+Affairs the mandatory individualism
+17:08
+imposed by neoliberalism was a new form
+17:11
+of individualism
+17:17
+[Music]
+17:24
+yes Fisher was kind of a bummer his work
+17:28
+is highly cynical of the future ahead
+17:30
+however Fisher did hold an idea of the
+17:33
+future that could counter this mandatory
+17:35
+individualism he believed that our
+17:38
+inability to imagine new Futures forces
+17:40
+us to look back in history to past ideas
+17:43
+of what the future could be revolution
+17:46
+then means not to generate new utopian
+17:49
+Visions but instead to unforget the
+17:52
+worlds that were previously imagined for
+17:55
+Fisher the most worthy adversary to our
+17:57
+present system is in the Psychedelic
+18:00
+movement of the 60s and 70s in
+18:02
+reflecting on psychedelia Fisher notes
+18:05
+its emphasis on interconnection and
+18:07
+Community it feels like an actual social
+18:09
+space one you can imagine really
+18:11
+existing you are as likely to come upon
+18:14
+a crank or a huckster as a poet support
+18:16
+musician here and who knows if today's
+18:19
+crank might turn out to be tomorrow's
+18:21
+genius it is also an egalitarian and
+18:24
+Democratic space and a certain affect
+18:26
+presides over everything there is
+18:28
+multiplicity but little sign of
+18:30
+resentment or malice it is a space for
+18:33
+Fellowship for meeting and talking as
+18:36
+much for having your mind blown from
+18:39
+this Fisher developed a vision of the
+18:41
+future he provocatively named acid
+18:43
+communism this Vision which Blended
+18:45
+class Consciousness feminism and
+18:48
+psychedelic thought under a communist
+18:50
+project was to function in opposition to
+18:52
+neoliberal individualism acid communism
+18:55
+promotes a breakdown of borders and
+18:57
+identity and a greater awareness for
+19:00
+just how connected we are and
+19:02
+importantly it appears very different
+19:04
+from what Fisher called the harsh
+19:06
+leninist superego the common communist
+19:09
+idea of individuals single-mindedly
+19:11
+dedicated to the Revolution and the use
+19:13
+of violence and suppression to achieve
+19:15
+said Revolution
+19:16
+in contrast to the dreary aesthetic of
+19:19
+past regimes Fisher put forth a vision
+19:22
+that celebrated interconnection and
+19:24
+coming together hence he emphasizes the
+19:27
+sort of Love found through psychoactive
+19:29
+substances rather than anger as a
+19:31
+motivating force in the revolution
+19:33
+evidently the use of psilocybin has been
+19:36
+linked to heightened empathy and
+19:38
+creativity as well as the sort of felt
+19:40
+connection with nature emphasized in
+19:42
+intervene this suggests that Collective
+19:46
+usage May promote a greater concern for
+19:48
+nature as well as one's relationships
+19:50
+with others and potentially even the
+19:52
+creative thinking that could surpass
+19:54
+capitalist realism of course the
+19:56
+promises of the 60s did not come to pass
+19:58
+which Fisher largely blames on
+20:01
+insufficient material conditions the
+20:03
+heavy regulation of these substances has
+20:05
+also played a role this is captured in
+20:08
+the words of Terence McKenna
+20:10
+psychedelics are illegal not because a
+20:12
+loving government is concerned that you
+20:14
+may jump out of a third story window
+20:15
+psychedelics are illegal because they
+20:17
+dissolve opinion structures and
+20:20
+culturally laid down models of behavior
+20:22
+and information processing they open you
+20:24
+up to the possibility that everything
+20:26
+you know is wrong
+20:28
+Fisher believes that we now have better
+20:31
+material conditions than the 60s but
+20:33
+also lack the sort of emotional and
+20:35
+existential conditions to bring about
+20:37
+this possible future the rigid
+20:40
+atomization of Our Lives has only left
+20:42
+us dejected from forming any sort of
+20:44
+movement the question remains as to
+20:46
+whether such a vision of acid communism
+20:48
+is even possible or if we have simply
+20:50
+given up on getting together if in the
+20:54
+words of juvenile we have lost the
+20:56
+reason to live for the sake of staying
+20:58
+alive
+20:59
+foreign
+21:05
+of course this video is just a
+21:08
+roundabout way of saying that love will
+21:10
+save us which isn't a very revolutionary
+21:12
+or unique statement but there's got to
+21:14
+be some level of Truth in its Simplicity
+21:16
+and Timeless appeal and evidently
+21:19
+healing the world through love holds
+21:21
+certain political implications it's a
+21:23
+recognition of interconnectedness and a
+21:26
+rejection of atomization it's a return
+21:28
+to rituals over our personal attempts at
+21:31
+self-realization and it's a Revival of
+21:34
+the optimism of 60 psychedelia over the
+21:37
+pessimism of capitalist realism
+21:39
+yes it holds a socialist bias but
+21:42
+importantly Fisher never imagines a
+21:45
+specific Utopia he does not claim that
+21:47
+such a Revolution Will manifest in
+21:49
+anything in particular what he is
+21:51
+concerned with is manifesting a certain
+21:53
+optimism and that's why I obviously
+21:56
+can't claim that a revolution will look
+21:58
+like this or like that but it's always
+22:00
+good to have an idea of where we could
+22:02
+shoot for
+22:03
+there is however perhaps one clear
+22:06
+objective to come out of this thesis to
+22:09
+recognize intervene is to be aware of
+22:11
+our entangled existence of not simply
+22:14
+living in the world but rather of being
+22:16
+at home in a shared world for whatever
+22:19
+reason most of our history has involved
+22:22
+trying to escape this fact through
+22:24
+visions of the afterlife and to Utopias
+22:26
+we have consistently sought salvation
+22:28
+beyond the Earth nowadays some of us use
+22:32
+their vast wealth in an attempt to fully
+22:34
+escape the dreaded connection with
+22:36
+others they wish to escape to other
+22:39
+planets or plunge themselves into
+22:41
+virtual reality they wish to be anywhere
+22:44
+but here and it is this observation that
+22:47
+concerns Bruno later after the lockdown
+22:50
+it is apparent that our common enemy
+22:52
+lies in those who see themselves
+22:55
+detached from the rest of us wretched
+22:57
+and entangled creatures locked down of
+23:00
+the World Unite you have the same
+23:02
+enemies the people
+23:04
+escape to another planet
+23:07
+[Music]
+23:12
+a man just shot his wife
+23:16
+just caused a hate cry
+23:19
+everyone's annihilistice billionaires in
+23:23
+space
+23:24
+someone's getting tested the ocean
+23:28
+the ocean's on fire
+23:30
+religion and violence but that's no
+23:35
+please
+23:36
+foreign
+23:41
+[Music]
+24:01
+[Music]

@@ -1,0 +1,29 @@
+
+# on migranes.txt
+supposed: may be misunderstood
+
+I have formed a sort of argumentative proof on the affects of migraines; something I believe we've false attributed to smaller variables. I see how severe these pains may be in others, though, I do not experience them myself.
+
+To give context and clarity for my proposed *proof*, it would be of benefit to those that read this- that I go on to describe a few necessary terms and my own understanding of them. 
+
+I would only need to enlighten of two terms for your best comprehension of this topic; even if you know them, please humor me. The words *rhetoric* and *soliloquy*. They are necessary for greater context so that I may go further to add weight to my abstract model here. I feel we've falsely attributed the causes of these physical pains.
+
+So, just these two terms,
+
+Rhetoric, as I understand it, is putting forth our best-known knowledge and our fullest schemas. To convey information withheld in the mind to those we are talking to; best done when we are speaking most from our greatest will. Rhetoric is sharing internalized models of the world with others. To be forthright about our own holdings of knowledge and to bring those best understandings to others. It's these suppositions of knowledge which go on to create our concepts of the world. To explain outward our best reasoning to someone.
+
+Soliloquy, as I understand it, is giving forth that which is withheld in the mind, but different in-that it is explicitly expressed in perceived solitude; to speak outloud with our most heartfelt, expressive potential; putting forward our most-realized speech, or moving ourselves through anguage of which we would otherwise keep internalized; talking to oneself in the most sincerest of ways. To *externalize*, or vocalize which is most unexpressed, even despite our felt lack of company in the moment of *communication*.
+
+It is of incredible recognition to my mind, through my own experience and time with others; though so-lacking are my own models of the world; though as grounded as I believe them to be, -that I've gone and formed a model of this condition that discomforts so many of my friends. 
+
+I could go further here to better describe what's happening by citations and research; which would give these concepts greater credence, though it's my hope in this rhetoric that I may give weight to what I want others find conclusion in.
+
+I see so strongly that we withhold ourselves from the greatest conveyance to others- consequence to how this society has shaped us. To say further, I see the act (learned behavior) of prayer as a sort of soliloquy in its own right; to give expression to those most withheld those thoughts, which may, [in greatest potential], soothe the mind.
+
+The society we have been born into supposes that a person who speaks to themselves is crazy or somewhat maddened. Much of the 'soliloquy' we hear, is often partially withheld; full context all but known to that of the speaker.
+
+Of humanity's great telling of tales that were carried in speech over generations- we are orators by nature. We've such great ability to share ourselves through language. 
+
+I believe we've misaligned our understandings of what it is the need to convey ourselves really proves to be. I see it as repression of our drives to communication. These incredible wants to give rhetoric and expression; further recognized as desire of emotional output and felt [acceptance] in others. 
+
+Although we have weak attributions to what we suppose causes these internal pains, and such variation among our bodies and conditions, I believe it's these modern breakings that give hint to the so-often internalized damage that goes from our deepest retentions of the self. All to say, migraines are consequented by our unrecognized self-repression.

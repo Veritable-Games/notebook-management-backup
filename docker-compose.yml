@@ -1,0 +1,169 @@
+version: '3.8'
+
+services:
+  # Backend API - Central API server
+  backend-api:
+    build:
+      context: ./projects/backend-api
+      dockerfile: Dockerfile
+    ports:
+      - "3001:4000"
+    volumes:
+      - ./projects/backend-api:/app
+      - /app/node_modules
+      - ./projects/backend-api/logs:/app/logs
+    environment:
+      - NODE_ENV=development
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+  # 3D Visualization - Three.js frontend
+  3d-visualization:
+    build:
+      context: ./projects/3d-visualization
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8080"
+    volumes:
+      - ./projects/3d-visualization:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+  # Content Management Backend - Express server
+  content-management-backend:
+    build:
+      context: ./projects/content-management/backend
+      dockerfile: Dockerfile
+    ports:
+      - "3002:3001"
+    volumes:
+      - ./projects/content-management/backend:/app
+      - /app/node_modules
+      - /home/user/Desktop/symbols-copy:/symbols:ro
+    environment:
+      - NODE_ENV=development
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+  # Content Management Frontend - Next.js app
+  content-management-frontend:
+    build:
+      context: ./projects/content-management/frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3003:3000"
+    volumes:
+      - ./projects/content-management/frontend:/app
+      - /app/node_modules
+      - /app/.next
+    environment:
+      - NODE_ENV=development
+    depends_on:
+      - content-management-backend
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+  # Constellation Viewer - Wiki system
+  constellation-viewer:
+    build:
+      context: ./projects/constellation-viewer
+      dockerfile: ./config/Dockerfile
+    ports:
+      - "8090:80"
+    volumes:
+      - ./projects/constellation-viewer/frontend:/usr/share/nginx/html
+      - ./Notebooks:/notebooks:ro
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+  # User Admin Portal - Admin interface
+  user-admin-portal:
+    build:
+      context: ./projects/user-admin-portal
+      dockerfile: ./config/Dockerfile
+    ports:
+      - "8100:3000"
+    volumes:
+      - ./projects/user-admin-portal:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+    depends_on:
+      - user-admin-db
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+  # User Admin Database - MongoDB
+  user-admin-db:
+    image: mongo:6.0
+    ports:
+      - "27018:27017"
+    volumes:
+      - user_admin_db_data:/data/db
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=password
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+  # PS2 Era Forum - WordPress site
+  ps2-era-forum:
+    image: wordpress:latest
+    ports:
+      - "8030:80"
+    volumes:
+      - ./projects/wordpress-projects/PS2-Era-Forum/themes:/var/www/html/wp-content/themes
+      - ./projects/wordpress-projects/PS2-Era-Forum/plugins:/var/www/html/wp-content/plugins
+    environment:
+      - WORDPRESS_DB_HOST=ps2-era-forum-db:3306
+      - WORDPRESS_DB_USER=wordpress
+      - WORDPRESS_DB_PASSWORD=wordpress
+      - WORDPRESS_DB_NAME=wordpress
+    depends_on:
+      - ps2-era-forum-db
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+  # PS2 Era Forum Database - MySQL
+  ps2-era-forum-db:
+    image: mysql:5.7
+    volumes:
+      - ps2_era_forum_db_data:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=wordpress
+      - MYSQL_DATABASE=wordpress
+      - MYSQL_USER=wordpress
+      - MYSQL_PASSWORD=wordpress
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+  # Monitoring Dashboard - Service status
+  monitoring:
+    image: nginx:alpine
+    ports:
+      - "9090:80"
+    volumes:
+      - ./projects/monitoring/dashboard:/usr/share/nginx/html:ro
+    networks:
+      - repository-network
+    restart: unless-stopped
+
+networks:
+  repository-network:
+    driver: bridge
+
+volumes:
+  user_admin_db_data:
+  ps2_era_forum_db_data:

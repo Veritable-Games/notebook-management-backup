@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  # WebSocket Server
+  server:
+    build: .
+    image: vg-canvas
+    container_name: vg-canvas-server
+    ports:
+      - "5000:5000"
+    command: node scripts/system/server.js
+    environment:
+      - NODE_ENV=development
+      - PORT=5000
+    networks:
+      - vg-canvas-net
+    volumes:
+      - ./logs:/app/logs
+
+  # Test client (for load testing)
+  test-client:
+    build:
+      context: .
+      dockerfile: tests/docker/Dockerfile.test
+    image: vg-canvas-test
+    container_name: vg-canvas-test-client
+    depends_on:
+      - server
+    ports:
+      - "5001:5001"
+    environment:
+      - SERVER_URL=http://server:5000
+      - NUM_CLIENTS=5
+      - TEST_DURATION=30
+    networks:
+      - vg-canvas-net
+    command: tail -f /dev/null  # Keep container running but idle
+
+networks:
+  vg-canvas-net:
+    driver: bridge

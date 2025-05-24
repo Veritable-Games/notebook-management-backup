@@ -1,0 +1,16 @@
+{
+  "title": "corp-mail",
+  "content": "# corp-mail\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T23:12:37-07:00\n\n====== corp-mail ======\nuser@remote:~$ dig mail.veritablegames.com AAAA\n\n; <<>> DiG 9.18.24-0ubuntu0.22.04.1-Ubuntu <<>> mail.veritablegames.com AAAA\n;; global options: +cmd\n;; Got answer:\n;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10844\n;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1\n\n;; OPT PSEUDOSECTION:\n; EDNS: version: 0, flags:; udp: 65494\n;; QUESTION SECTION:\n;mail.veritablegames.com.\tIN\tAAAA\n\n;; Query time: 0 msec\n;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)\n;; WHEN: Mon Jul 15 21:30:59 PDT 2024\n;; MSG SIZE  rcvd: 52\n\nuser@remote:~/Documents/Domain$ nc -zv mail.veritablegames.com 80\nnc: connect to mail.veritablegames.com (10.175.1.103) port 80 (tcp) failed: No route to host\nuser@remote:~/Documents/Domain$ \n\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/corp-mail.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, quest\n- **Imported**: 2025-05-05T16:25:37.088Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/corp-mail.txt",
+    "importedAt": "2025-05-05T16:25:37.088Z"
+  },
+  "created": "2025-05-05T16:25:37.088Z",
+  "modified": "2025-05-05T16:25:37.088Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "quest"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "player_testing_tips_txt",
+  "content": "# player_testing_tips.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-08-15T21:55:42-07:00\n\n====== player testing tips.txt ======\n\tLet them know how long the test is expected to last\r\n\tIt's ok to change their mind if the game doesn't interest them\r\n\tHow they will be observed/recorded during the session\r\n\tMake the playtesting environment comfortable for them\r\nQuestions to ask\r\n\tDid you have any confusion with the controls? \r\n\tAre there any mechanics that should be better explained?\r\n\tWas the experience enjoyable? \r\n\tWere there any points of frustration for you?\r\nThings to figure out\r\n\tWhat is the ideal play session length? ~30 minutes perhaps?\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/player_testing_tips.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, quest, mechanic\n- **Imported**: 2025-05-05T16:25:37.165Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/player_testing_tips.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.165Z"
+  },
+  "created": "2025-05-05T16:25:37.165Z",
+  "modified": "2025-05-05T16:25:37.165Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "quest",
+    "mechanic"
+  ]
+}

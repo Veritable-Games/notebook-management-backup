@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-02T11:43:14-07:00
+
+====== llama3.1 start ======
+python3 -m venv llama-test-env
+source llama-test-env/bin/activate
+pip install torch transformers sentencepiece
+python ~/Repository/llama-models/models/llama3_1/llama.py --model instruct
+

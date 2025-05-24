@@ -1,0 +1,937 @@
+
+# REC001.txt
+I am...
+Orange-Lake-Naflake-Dryn-Rentressa.
+Yikes.
+I am...
+Superfart-up.
+
+
+# REC002.txt
+
+
+# REC003.txt
+When the eclipse happens, when the eclipse is thought to happen in the future, in this
+world, the eclipse will instigate the separation of the sphere.
+But it's not the eclipse before it.
+It's like the eclipse several, several eclipse down the line.
+It's like, um, that is the, the estimate of time they use.
+Mathematics.
+You can pinpoint how many eclipses the, the earth would have for any of the planet.
+And it's given like time.
+Eclipses might be better.
+Hm.
+There's no idea, I guess.
+
+
+# REC004.txt
+Imagine finding a book in the world, and instead of picking it up and looking at a big
+pluck-up texture.
+Have the third person character pick it up, and then have the text be displayed in screen,
+give it more of a diege to the element, you know, they're flukking to the pages.
+Oh, my head hurts.
+
+
+# REC005.txt
+If the player misses a jump, they are usually caught by the, caught and saved by the builder
+AEI.
+
+
+# REC006.txt
+
+
+# REC007.txt
+Design character outfits help help NPCs stand out from the environment around them.
+
+
+# REC008.txt
+Hey, I've heard that twice now, I've heard that five times now, I don't like modern PCs they're lacking
+It's the hero of reliance that'll make the history of both
+There's resistance and here comes the spark
+They're so static and they refuse to be
+Quiet
+
+
+# REC009.txt
+Okay, so actually two in bastion, right?
+They have, I don't know what it is.
+Okay, I'm gonna show you bastion them.
+This is bastion.
+He's like a bird.
+But anyway, that's the beeping noise.
+That's a beeping noise I could use.
+A means for which I can communicate language is whistling or beeping.
+But it's gotta be done in a communicative way.
+It's gotta be done in a...
+There are languages out there that are used clicking.
+That means communication.
+Let me show you this.
+Yeah, I know.
+It's like we're not ready yet.
+Okay, so...
+And what are the four types of clicks?
+Okay, is there another phrase that uses a lot of them?
+Yes, there is.
+Okay, give us an example.
+Okay.
+No, I don't mean who uses it.
+I mean some words that some phrases and sentences that use a lot of the clicks.
+But use a lot of them.
+Such as I am going to the dance, but something longer than that.
+Something longer than that.
+Yeah.
+Can you think of something?
+Really?
+Yeah, come on.
+Oh, please.
+Okay.
+Can I try in the Boschman language?
+Of course.
+Okay.
+Perfect.
+All right.
+So that means I'm going to change this sheep out.
+Make them go uphill and then I'll come back on this side.
+Thanks, right?
+Okay, this was Carl, our wonderful staff.
+Okay, Ios.
+Okay, Ios, thank you.
+Okay, Ios.
+Thank you very much.
+
+
+# REC010.txt
+The English language in itself is lacking some attributes of human communication.
+And I mean, not to say that we need clicking, it's just the point that there are more means
+to express ourselves within the given language.
+And if like, that clicking noise has filled in some gaps of information that our language
+doesn't have.
+So if you imagine, what is a question mark, right?
+It's, when you speak, it's, are you sure?
+Huh?
+Or not, let me try to look, okay.
+What about this?
+This.
+This.
+It's just how you pronounce it.
+It's the, it's the, it's the, it's the, it's the, it's the, it's the, it's the, uh,
+so, uh, rising and pitch, inc, inc, inc, inc, inc, inc, inc, and implies question.
+And, I don't know, you know, it's like, uh, it's like, uh, it's like, uh, it's like, uh,
+I mean it comes to, uh, it clicks, uh, the noise.
+I just keep it out here, I don't know.
+Right.
+I think we're breached, we're missing aspects though in, in, in our communication, like,
+then again, moose, so, most, most of, most things that actually end the question mark,
+you usually have a question.
+So, you don't really need to actually say it on Instagram, no, I said, I don't know.
+I dunno.
+Yeah.
+It's still the same thing because it's a question, it's a question.
+Question.
+Yeah.
+Uh, but I think question is the statement you're fine with is I don't think it in,
+because you don't need to actually see that.
+do actually say it differently than what you would normally just if you're saying it
+if it works.
+Question to question.
+That said, I do think there's another information to be conveyed within a question,
+within a statement.
+So imagine, okay, so human communication, in and of itself, when we're talking, when
+we're communicating, I am articulating ideas, expressions, feelings, but a lot of time
+when you're communicating with someone, the inner feelings are not expressed externally.
+They are kept within us and we somehow, for a lot of people, a lot of relationships
+they do, what they do is a spouse will believe that their loved one can almost read their
+thoughts like they'll be like, no, I'm not talking, I'm not going to, I'm going to just
+be quiet because someone is shutting themselves out because they feel like their spouse hasn't
+understood them, but their spouse can't understand them because they hadn't communicated
+the internal processes of their brain, of their mind.
+That said, someone that's close like that that can probably really relieve relationships
+and emotions better, it's easier to talk to someone, it's easier to express to someone
+what you mean, what you're saying.
+So on the dough, I can imagine that there are 12 sides and these 12 sides, they have symbols.
+And the symbols, the symbols are, I mean, it would be, the clicking is a good metaphor,
+a good analogy for what could be done, but I think the beeping was a little more pleasant.
+It makes the player seem a little more alien, not alien, but as a machine, AI, they're
+not, whistle is more efficient, beeping, no, not beeping, whistling, whistling in a way
+that communicates more information than would be expressed through human language.
+You need more than just beeping your whistle, like, whistling, whistling, whistling, whistling,
+whistling, whistling, whistling, whistling, whistling, whistling, whistling, whistling,
+I hope I can find my screenshots somewhere, as I take screenshots as bullshit, and
+I need to find, I need to do the organization later, I'm just saying, if you want to go
+with that, you want to just do more noises, just generic everyday hearing noises, screenshots.
+I don't know if I'm right this is, I don't know if I'm telling you a second to set up.
+Did you hear of any controller?
+Huh?
+I heard you.
+I heard you.
+Nope.
+Still found it.
+Kind of annoying.
+Inside I could do anything in your room.
+Yeah, not kidding.
+I can't do anything in mine.
+I don't know where it is, huh?
+It probably is me.
+Well, I'll have to find another one at some point.
+Just find another one.
+Yeah.
+That's what it is for me.
+I think it's if, if spending on the energy it could be used to find it, I'm going to,
+I look through my drawers every aspect of my, I've got enough of what the arch is for.
+Oh, look at that.
+You got an update for your television, sir.
+Yeah.
+You got a version 5.
+I hate that.
+I don't know.
+I don't know.
+You got a 3.
+You got a 3.
+You got a 3?
+Do you want me to stick it in?
+An update to now.
+Interesting.
+I see that, I see.
+Person.
+Okay.
+Can I try?
+Can I?
+Okay.
+Yeah, come on.
+Oh, please.
+Is something really?
+Yeah.
+It's put something longer than that.
+Something longer than that.
+Yeah.
+Can you think of something?
+Really?
+Yeah.
+It's put something longer than that.
+Something longer than that.
+Yeah.
+Can you think of something?
+Yeah, come on.
+Oh, please.
+Okay.
+Can I try the pushman language?
+Of course.
+Okay.
+One more tip I don't know.
+It's a little short.
+It's a little short.
+It's a little short.
+It's a little short.
+It's a little short.
+Yeah.
+Can you think of something?
+Really?
+Yeah.
+Come on.
+Oh, please.
+Okay.
+Can I try the pushman language?
+Of course.
+So that means I am going to change the chip out, make them go up here and then I will come back from this side.
+
+
+# REC011.txt
+So this is one thing I want to show you. It's absolutely gorgeous. It's better.
+Lance is more than a body of knowledge.
+If you can find it up again, I'm trying to do this, it's a little bizarre, but I think
+you can really convey it's what I want to do.
+Oh, did you read this? This remains real quick.
+That's my write-out is asleep.
+Crunch with a mouthful for pride.
+Oh, he invited friends, okay, I'm coming.
+Are you setting up a list of behind us, I gotta go get him.
+I'm trying, I'm trying, I'm trying.
+Sorry, it's free for our back, I guess.
+Where's the search results?
+Let's do...
+Where are...
+Video...
+Oh my god, did it restart?
+Sorry, my name.
+Oh, I hate you too, this is just a bad means of searching.
+There's a technical term for it, and technical term is not intuitive, I suppose.
+Okay, so to describe it, the Aurora's honor to emit electromagnetic signals, and you can use radio waves to interpret those signals.
+The signals, signals don't mean anything, people are paranoid as fuck, they're just a natural result of radio signals, radio frequency.
+And I think it is the ideal, fuck off, I'll look it up better.
+I think I may have cleared my history at some point.
+I don't have to, I haven't had a screenshot of it, and it's probably in my work to organize, unsorted.
+This is crazy, I suppose shit.
+That's pretty.
+Alright, there's gonna be days to get there.
+This is like ideas I have to work, and then I never had to transfer for them, and then...
+I'll do it later, fuck it.
+I'll show you something.
+
+
+# REC012.txt
+Use Active Reload as a baseline mechanic for positive feedback reinforcement.
+What's the satisfying attack in a game you might think of?
+In For Honor, you have those final strikes that go...
+You have their excruciate move for the glory kill and doom.
+And weird times weird, but Mario Odyssey, the recent one.
+Mario, don't put it in the city area.
+There's this thing called Pocchio, yeah?
+And Pocchio.
+
+
+# REC013.txt
+Imagine active reloading your edge where you're pressing a key at the right moment to clear yourself up faster than
+Ambling through it you're kind of
+The better you're better you're you bet the better you are at active reload actively
+pulling extra
+pulling again during a pull during a pull up
+Like imagine a your depressive trigger at a certain moment. You're pressing it to climb you're pressing it again to
+to
+climb faster to push yourself up faster than normally
+So instead of ambling through space you're not climbing. I mean you're you're keeping the player engaged like
+Yeah, you know they're climbing through it. They're
+You know, you're managing these options without school. You're you're grabbing things look like they're climbable and
+You're climbing a bit of a structures in a
+They're actually done. We are
+Using two hands to navigate a space
+You have your hands you have your true triggers your hands
+Okay, so how would you how would you do that with your hands? So you actually just grab off school so fuck the active reload thing for this
+It would be the just a VR grabbing your grabbing with your hands
+But how would you jump so how would you jump from one so I
+Climate is this weird thing was like you kind of you thrush yourself forward that kind of makes sense
+But it's got to be better articulated. So I'm thinking what if you have you have an option to kind of pull yourself towards it
+I don't know how do you make that more intuitive
+Grappling hook, okay
+You know what if what if instead of grapple hook it was a
+No, no, no, okay, have you seen they've seen the electromagnetic gauntlets
+So you can magnetize
+The gauntlets like yeah, it's like
+You know, it's like
+You're taking those effects. You imagine that come and VR like you mess up you don't you don't connect the right moment
+And you'll go whoa whoa whoa you got a time it right to magnetize that because the better your time in the less energy you waste
+Because it turns on and off right so imagine like the device long you haven't held more energy your consumes
+This is like a periodic thing. This is not always
+This is like a legendary legend of Zelda climate. Although that might be interesting and then of itself in
+terms of
+Traditional mechanics
+And no, but you need that
+But you're you're stamina bar as your body you're holding around like this. That's not
+Stamina enough. I don't think I think that's it's a little it'd be a little more intense. You had some time for like
+I don't know two or three minutes
+Yeah, but I mean still just waving your arms up, but that didn't mean like this
+See that they do they do they do people do this the old man
+Climbing
+but
+You got to encourage floor movement so they can involve they would get pulled into the the experience
+You know because it's like a blade of sorcery or whatever you got the slower you go
+The more you reward for gameplay
+because it you can strategize as you're swimming slowly the game incentivizes you to act the act in the way it wants you to
+So that's what I'm doing here. I'm trying to use game mechanics use the
+idea of active or load in the method of climbing
+So it's like you press trigger you press
+Imagine you're using right trigger left trigger for talking I mean I understand that and then you have right bumper and left bumper
+For climbing and interact with objects and stuff. I can't understand it when you're using a control
+Yeah, so that's the thing I think in beating the air is better. Yeah, honestly. I think third person might be best
+third person traditional
+Dark Souls like
+
+
+# REC014.txt
+Okay.
+Okay, could you work out a quick draft of what the space might be, what the overall size
+might be for each space? We can work on other contracts you have to yet, but for notes, let's see.
+Maybe 12 people, maybe 15, 20 max, I guess.
+So it's larger, but not too much larger.
+And then from there, it's a gradient, it's exponential, but it's not consistent in the exponential.
+It's kind of a, you see, there's a curve of human interaction and in the space size, it varies, but I guess I need a representative piece of these main spaces.
+I can probably try to better define them, but imagine just for reference.
+So you have the bedroom, you have the living room, you have the bar, then you have maybe...
+Let's begin that.
+Make the office like you're saying, the office space, and then you have maybe a lab or an art area.
+Right, so we've got to find a middle ground there, we can't draw entirely from conventional architectural design, we have to be a little more creative in that.
+We have to think a little, we have to build the spaces with human interaction mind, human social body.
+Yeah, a foyer might be a good description, or maybe like a lounge, right?
+Yeah, you can play a board game, you can get some coffee, you can get some, I mean it's like a living room, but a little more public.
+Perfect, that's a great descriptor.
+So now we're going to do the one we've done there.
+Oh, I don't need to do that for a small one. So can you see my screen?
+Okay, so let's imagine that these, I don't know, I'm going to mess that, reduce the size.
+Whoa, that's full screen.
+I don't know how to minimize that on land, I don't know.
+Just put it up there, two monitors.
+Oh, you know, I have the same solution here, so I have a 1440p monitor, yeah.
+It's 144Hz, but then I have a monitor up top above that it's a higher color gamut, higher color range.
+But yeah, that's good.
+That makes sense. How do you calibrate exactly?
+Oh, okay, what is that called?
+Spider monitor calibration. Okay, cool.
+Is the brand data color?
+I see a spider X pro monitor calibration.
+Okay, cool. I'll do some research, thank you, man.
+All right, so imagine, okay, to explain a little bit more about the game.
+You have social media, social interaction is the main mechanic.
+Conversations being the main means for which you interact with people.
+There's no combat involved.
+And you are exploring the space in a dark souls-like fashion.
+It's in a metroidvania-like fashion almost.
+You're navigating a 3D space using mirrors edge and tomb raided-like elements.
+So you're climbing, and you're running, and you're jumping, and you're using parkour.
+I mean, these areas outside the hub need to be more vertical and more intricate.
+They're more not traditional buildings.
+They had to be a little more intertwined, and I wouldn't say standalone.
+I'd say that it's more like a maze of architecture.
+It's not...
+Well, there's...
+Yeah.
+Good we put it.
+Okay, so imagine there's a main walkway at the bottom, yeah?
+You could take that, take these around, but there's a lot more interesting things to be found if you go vertically.
+So you climb, and you take stairs, and think, okay, I don't...
+The stairs are down, all the elevators down.
+I'm going to climb instead.
+You know what kind of thing?
+You want to encourage interaction in a...
+Yeah, you're walking in the river, and it's like, no, no, no, no.
+There's going to be so much more interesting.
+You can have this space built out, and people interact, and socialize, and there's walkways, there's railings, there's paths, there's open areas, there's closed areas, there's little hallways,
+and you can build comfortable, beautiful cities vertically.
+It's just a matter of designing them to be vertical in the first place.
+I think you're right.
+Another aspect of that is probably, I explained this before, but cars, right?
+You're slowly dividing people more and more until there's so far spread out that I have to take a car to go to the grocery store because I can't walk there.
+It's too far.
+It's the point where we don't encourage social interaction, where our technology, not necessarily, it's not bad per se, because it is efficient.
+But we've taken the efficiency to an extreme, and it has divided us in a way that goes beyond our biological traits.
+There's a lot of things that we don't want to do, but we want to do something that we don't want to do.
+We want to do something that we don't want to do.
+We want to do something that we don't want to do.
+No, no, no, no.
+So it is about expansion. It's about these cities.
+It's not just cars, you're right.
+It's the fact that these cities have expanded. They've grown, and populations have expanded.
+I do think we can find a reasonable amount of space within a given community.
+It's just a matter of designing it to be comfortable designing it to be.
+So I mean, I guess that's.
+What are the references, references, can you think of in terms of overall visual, because you've got the idea on down, I think that.
+Okay, so have you seen everything inside out?
+Okay, so there is this one scene, I'm trying to imagine it.
+You have a New York City street, but it goes up in like hills.
+Okay, that's pretty famous right there.
+I'm going to close. I'll just dig in there.
+Oh, that's not bad.
+What, 1960?
+I don't know.
+Wait, where is that?
+Where is it?
+Uh, trolling.
+Wow.
+Oh, look at that.
+Got to just walk across the street. I think it's nothing.
+Cars are so...
+Right, it's not mature.
+They're not deadly yet, per se. Not as deadly.
+Look at that.
+Oh my, okay, I'm at that show right there.
+God, that's a beautiful reference, man.
+Okay, good stuff. On to the feet.
+Let's see.
+Okay, so with that in mind, with these smaller spaces, right, imagine that there are no cars present hypothetically,
+and the divide here is less significant between buildings.
+You have more buildings that are intertwined, intermatched, but they're not strictly speaking,
+and they're not traditional buildings. They're more...
+Uh, where is the reference, Jesus? Can I find it?
+Wow. Uh, desktop. This one.
+Like more...
+Uh, let's look it up.
+Calum...
+Oh, let's see.
+K-O-W.
+Oh.
+Oh, that I've seen a lot of those shots.
+Well...
+Okay, so that's a great reference, too, but I think in terms of closeness, it's dinging dirty, but I think, yeah,
+so it's a good space-wise. If you blocked it out, white-blocked it out.
+You know, I think that if you were to hypothetically infuse a series with more wealth, they'd do better.
+It's just that the region makes it difficult.
+Oh.
+Wow.
+Wow.
+Wow.
+Wow.
+Dude, that is a great reference. Oh, my God.
+Look at that.
+Dude, that is a great reference. Oh, my God.
+Look at that.
+But you need more room in between these spaces. It's too crowded. It's too...
+1960s, no.
+Ah.
+Oh, hey. That's great.
+Oh. That's a color. I love it.
+Huh.
+Okay. I'm not going to go down these rabbit holes later on.
+Anyway, so I need help convey in the sense of verticality in these spaces next.
+I think that's the most important aspect.
+So imagine the medium space, the smaller space beyond this, the smaller space beyond the hub.
+If we're building our way out, let's say you build...
+We need to imagine... let's go to the extreme, actually.
+The extreme helps because we can build the interior in between.
+So yeah, let's go to the extreme. Let's go to the...
+I don't have the two extremes because we need bedrooms.
+If the bedroom is one and the living room is two, then we go to three.
+And three would be the parks, not parks, but the walkways.
+The means for which humans travel from one area to another.
+The open area is open paths.
+Imagine... oh, have you seen...
+This is going to be a strange reference, I guess.
+Wow. Chrome is eating up my processing power.
+So... what's it called?
+Yeah, Cruza.
+Cruza map.
+Cruza games.
+It's an RPG, yeah.
+A bit like Grant I thought, but not quite so expansive.
+A lot of...
+Come on.
+Okay, cool.
+I gotcha.
+So I'm trying to build more...
+Instead of a vast open area with lots of empty space, I'm trying to build a close knit.
+You have a lot of dense content in a smaller area, a smaller location.
+That way I can keep the scope reasonable in terms of production.
+If you find my references, send them away, yeah.
+I mean, if you take a look, I don't know if I'm not sure what your process is.
+Okay.
+Um...
+Huh.
+Hey, that's nice.
+Stupid.
+Where's that at?
+Oh, man.
+I think I found it.
+Oh, okay.
+Imagine this with more green.
+Oh, man.
+Yeah.
+Imagine more grass and trees.
+Oh, man, that's beautiful.
+Okay.
+What other...
+Olding this.
+Sure.
+Hmm.
+Cities, streets.
+Oh, man, that's good.
+I'm going to go.
+Ah-ha.
+Seen more.
+Oh, boy.
+Oh, that's rabbit hole.
+I'm kind of worried.
+Okay.
+Um, but do you kind of see them going there with that?
+Um, so it will.
+Uh...
+Oh, geez, that's nice.
+Yeah.
+So more of these kinds of spaces.
+You have the walkways, the streets, right?
+But I guess this is not quite it either.
+Because it's not in the furticada, it's not in the openness to it.
+It's too strictly and linear.
+There's, imagine intersecting paths, right?
+You have more room to navigate.
+It doesn't have to be large paths, but paths that are large enough to where people are going to navigate through them.
+Like the fire extinguisher rounds almost, you know, the mid-sections between taller buildings.
+Yeah.
+Um, and then we need to make sure that there's enough furticada there.
+Like the hub is fine to be as flat as it is, but we need...
+I think the next interior, the next exterior to this, or the...
+Geez, I need to have better, have fine better terminology for all this stuff.
+One, two, three, four, five, six, seven.
+Seven being largest, one being smallest.
+Um, I'll name that later.
+Anyway, let's say, let's say four or five, I guess, is this kind of area.
+And...
+You have more verticality to it.
+Like, you can go...
+There's no... there's no...
+Hmm.
+Main paths are found closer to the city center.
+But because these areas are more vertical, the built to be vertical, the built to be intertwined,
+you have more staircases.
+Or, you know what? Oh, boy.
+Can I find that reference?
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+That's a good description.
+That's a brilliant description. Oh, my God.
+Okay.
+Yeah, go with that. Write it down if we can.
+Or just make a mental note.
+Cool.
+So, let me try to show you this.
+What do you have a second?
+I'll kind of stroke through it, but there's a section here that I want to show you.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+I'll do it.
+Watch this.
+Okay.
+Here.
+Okay.
+Okay.
+Okay.
+.
+I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
+I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
+I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I
+I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry.
+Yeah, yeah, huh?
+Quono-quad science.
+Okay, so I'm gonna move a little farther.
+Oh geez.
+That was about a lot of it.
+I'm gonna move a little farther.
+I'm gonna move a little farther.
+Okay.
+Yeah, generally speaking, if you live in that community,
+people, kids, are a lot safer than you expect them to be.
+Let me show you some real quick.
+I'm sorry, now the tangent.
+I've got so much information backed up in my head.
+I've got to express some of it.
+They have a lot of freaking content.
+Uh, appendix.
+Hmm.
+Size of psychology.
+Okay, answer us.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+
+
+# REC015.txt
+I'm gonna take spoilers there. I'm getting tired. This is like I should have been
+a bad like a 9 a.m. but it is now 9 p.m. I work with a night shift. Anyway.
+Okay.
+Hmm.
+Hmm.
+So.
+That's not a bad idea. I do think that, okay, so given this, maybe this is like a hallway, right?
+There's another way, the, what do you call it? The alleyway.
+Hmm.
+That.
+That's a, yeah. That is a good visual reference.
+Um.
+So, yeah. Okay. That's how much it was then. I needed to find the size of spaces. I needed to find the type of spaces.
+Um. But overall, I think I have, have I conveyed a decent enough starting point?
+So.
+Okay. Well.
+Well, it over, yeah.
+Yeah, you have found some really references. I think it's perfect.
+Um.
+Oh, geez.
+The studio died.
+The people that made this game, it's absolutely gorgeous and it's really cool.
+But I think they focus way too much on the, they felt the need to add traditional gameplay mechanics.
+Hmm.
+Well.
+Hmm.
+Hmm.
+Hmm.
+Yeah, this is, yeah. Oh, that's, this is a good reference for size, but I think it's, it's too, yeah, it's too repetitive. It's too, huh.
+Damn.
+Mm-hmm. Damn. The die-jury hood. Yeah.
+Wow.
+And that's all it's worth.
+Here's, they should have been like a demo of the gameplay or a vertical slice. No, not prototype. Just a little.
+Hmm.
+Hmm.
+So you can do a lot with very little actually. That's, really good point.
+Yeah, this, this scope has to be considered a scope has to be regulated. It can't be, if you let it go too far, it's fun to explore ideas, but you've got to set limits.
+You've got to set restrictions, otherwise the project becomes, project becomes unmanageable and out of scope, out of budget, out of production potential.
+Creature creep, yeah. Give me a way of putting it.
+So I'm, I'm still in the early phases. I do think I'm coming closer to an overall concept. I have an idea. Not the idea.
+I have hours and hours of recordings of conversations, how to friends, and just information ideas I've gathered to build the, build the concept.
+And it's just a matter of taking the time to put it into a game design document.
+Hmm.
+Hmm.
+Hmm.
+Hmm.
+That's good.
+Hmm.
+You know, you, yeah, that's kind of, that's true. I mean, I think that characters, relatively speaking, are usually generically attractive, generically, I don't know, they're,
+the typical, I mean, I know it's, it's tried, but the typical white map, white map protagonist, right?
+Yeah, they're so plain of features.
+Or that,
+Yeah.
+Yeah, there's no new ones there, it's.
+Yeah, good.
+So, you're right.
+Have you played, have you played Firewatch? Firewatch is good. That's, that's a good protagonist. Well written to protagonist.
+There's, I mean, if it oxygen-free, or life is strained, I mean, not life, I mean, life is strage is interesting mechanically, but the narrative is a little bit lacking.
+Yeah.
+And then there's neither woods.
+That is like the, I would say like the best reference I have in terms of casual conversation, in terms of social interaction.
+It feels more natural.
+Hmm, I have something in mind.
+I, so the exploration ties into that, because content development takes time, and I can already produce so much.
+What I'm thinking is that I could really see early access game, hypothetically, have it, have this be the vertical slice, yeah?
+With all the amount of content I need to keep them occupied for like maybe five hours, six hours.
+And a lot of the time has been exploring, right? Navigating the space, trying to learn all the secret rats and stuff, all the intricacies of that area.
+But then over time I could expand the space, I could add more paths. Like I imagine like this area is in construction, right?
+I can't go that way, okay, so when I have the content ready, boom, this area is in open, you can explore this space.
+Oh wow, I can't wait, it's so awesome.
+You're slowly expanding the world, expanding the content, vertically and horizontally.
+And that's why it's so important to convey this right.
+Yup.
+Hmm.
+Hmm.
+Hmm.
+Just a scale reference, it's all takes, it's, hmm.
+Hmm.
+Hmm.
+I imagine a space being memorable.
+I imagine like, okay, so you, again, it's right, but dark souls, you learn the levels, you learn the layout, you learn the field of space.
+But if you tie people to that space, if you tie characters and you tie, you have more interesting architecture and spaces to navigate if you use music and color to help with memorization and social interactions and developing a memory, really.
+You're forming a mental map of the space.
+And we don't typically do that anymore, right?
+It's more of a, I'll rely on GPS, I'll rely on the waypoint in game.
+Hmm.
+Hmm.
+Oh, um, what metroidvenia is a good plate?
+Metroidvenia?
+Okay.
+You have to play to my recent ones, like Hollow Knight or...
+Okay.
+I got you that makes sense. There's a lot of games I haven't finished either.
+I haven't finished Hollow Knight, but I played a decent portion of it, I should say.
+But one aspect of it, I really like about the game, is the sense of exploration, the not holding your hand, the finding of secrets and alternative routes, and you unlock disability that, oh wow, I can now break the ground, I can go through the little pieces you can add to the gameplay, but also add to the environment exploration.
+Um, so some design constraints, I'm setting for myself.
+Design constraints actually breed some interesting possibilities, so what I'm doing here is I'm, with dialogue, I'm only using two buttons, I'm using right trigger and left trigger.
+I'm not using a dialogue selection thing, I'm not using, you have...
+Hello, hey, what's up? Hey, what are you guys talking about? You know that kind of thing.
+You have interaction, you have social cohesion, you have people talking to another in a more natural way.
+Yeah, tangents, there's limited tangents, you can only go in one direction, two direction, maybe three pushing in, you could probably remember something, you know, talk about later.
+But humans are really only, we're not good at multitasking.
+Yeah, and imagine, uh, let me know it's, you know, these sparse, quick conversations, but there's a lot to be said there.
+It's just, uh, and you have, you have to play your talking and engaging throughout the conversation.
+So it's not like you're reading text, you're waiting for some to talk, you get to talk, you get to speak, you get to communicate.
+But at the same time, there's that potential for one person talking and one person listening.
+There's the potential for you just taking in the moment or just being in silence, just enjoying each other's company.
+Like real people I suppose, or having like a group, you know, you have four or five friends talking together, you're doing a role-playing game, you know, it's like...
+We can make conversation interesting mechanically.
+And I think that exploration of conversation and exploration of the 3D space kind of complement each other really well.
+Because you're exploring, you're getting to know the world, you're engaging in the gameplay and you're finding secrets, you're...
+And maybe your character, you have find like little hats or little coats and shirts and pants and you're...
+You're kind of decorating your character, you're expressing yourself in gameplay, through exploration, you're expressing yourself through conversation, through gameplay.
+If that makes sense, you're doing both. You're...
+What else?
+Oh, okay.
+So, have you played Halo?
+Let's go to sound off the beat.
+Do you remember the Plasma Mr. Egg? You remember how it sounds?
+Yeah, let me play it real quick. Halo.
+Yeah, let me show you.
+Let's go to the original one. Halo.
+CE.
+Plasma.
+This is no audio, no commentary.
+Alright, if he holds it, here.
+So, this sound effect, it's like you're...
+Imagine, let's say...
+Mega Man, right? You have your plaster on you, you're charging it up, you're winding it up, right?
+You let go of the right time, you emit that sound and it feels good. You nailed it, right?
+Let's try to explain.
+So, you have this sound effect, right?
+It's winding up, winding up, winding up.
+It eventually gets uncomfortable to hold, because it just holds there, goes,
+and then going,
+it's about letting go of the right time.
+It's using your timing, it's using the audio and the visual itself to cue the player to release at a certain given moment.
+So, imagine you're climbing, right?
+Yeah, in this world, when you have these Electromagnetic Gauntlets,
+and instead of, right to your Electro-Conversation,
+but there's also Left Bumper and Right Bumper, and these are used for climbing.
+So, imagine you're kind of winding up and you're...
+Breath the Wild.
+Electro-Zeldin, maybe he's climbing in that game,
+that climbing would be represented in this year.
+You're winding up, you're pulling,
+and you press the right moment like an active reload in the Gears of War,
+you get a successful attach.
+And you do it over and over again,
+the process of getting the perfect timing on that is
+reward for...
+for releasing at the right moment.
+Now, imagine that relative to human conversation,
+or imagine that relative to dancing.
+For example, you're using audio,
+and movement, and sound, and animation to...
+Jeez.
+Yeah.
+We're going to see...
+Can you give us a name?
+Oh, can you sign it?
+Oh, cute.
+I'll send you this.
+You can watch your own time, I guess.
+Or if you want, I can summarize it here.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+I'll send you a name.
+So the Halo class pistol, you're charging up and you're releasing at the optimal moment.
+Sorry, that was a good...
+
+
+# REC016.txt
+120g
+1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5
+1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 2.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 2.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 2.5cm x 1.5cm x 2.5cm x 1.5cm x 1.5cm x 1.5cm x 2.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 1.5cm x 2.5cm x 1.5cm x 1.5cm x 1.5cm x 1
+________
+Hah!
+Esz a bad reference either, wow.
+...
+Ok, vegan播fats
+Ok.
+Du skal høybe inne, folk de t centrene.
+Ye!
+Ko?
+Hay莉, hut?
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+
+# REC017.txt
+I strange this sounds to find some references from the Legend of Korra series, and maybe
+a bit from the last Airbender.
+
+
+# REC018.txt
+So to re-articulate another idea, the visual script we have now,
+we use this system in place, as is.
+But there are some conversations with predominantly longer horizontal sections.
+So imagine there are different types of conversations.
+There are in this game design, in the game design context.
+There are conversations by which the player is talking to one NPC.
+And the NPC's conversation is dominant.
+There's NPC dominant conversation in a two person dialogue bit.
+But then there are hypothetically three, four, five, six, seven person conversations.
+But those larger conversations are done in the illusory way that we talked about.
+But at the same time, there is a thing on.
+So now to re-articulate that context in mind.
+
+
+# REC019.txt
+Imagine that you have the system in place.
+It is unchanged.
+But you have a horizontal conversation that is pre-scripted.
+The two NPCs talking to each other in a natural way to reduce scope.
+For particular conversations, not all of them, but a few.
+Work for the majority, I guess.
+Two NPCs are talking and the player can interject at certain points
+and depending on where they interject, they get different tangents.
+The earlier they interject, the more potential tangents they have available to them.
+But you can only have two to time.
+So they fade over a given tangual fade over a period of time.
+You'll have the greeting, right and gauge. Hello. How you doing?
+What are you just talking about? What's up?
+But then you have the actual conversation branches.
+Like, what is that? What is this?
+Like, oh, what is that term? I've never heard it before.
+There's, hmm, interesting.
+Okay, so, hmm.
+All right, so I need to record that bit dialogue.
+The pieces between conversation, the affirmations and...
+Yeah, the affirmations.
+Anyway.
+I'm gonna try to sit for like a few hours.
+

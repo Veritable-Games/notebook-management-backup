@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-03-10T15:51:56-07:00
+
+====== characters-twine-variables ======
+CREATE XCELL DOCUMENT FOR THESE
+
+=====================================================================
+VARIABLES - Chapter 1 
+=====================================================================
+--------------------
+<% if (s.variable== "name_variable") { %>var text result<% } %>
+--------------------
+
+<% s.status_ruan= "alive" %> 
+- <% if (s.status_ruan == "alive") { %>Player Aided Ruan Instead of Sorrel<% } %>
+<% s.status_ruan= "dead" %>
+- <% if (s.status_ruan == "dead") { %>Player Aided Sorrel Instead of Ruan<% } %>
+
+<% s.ruan_outcome= "coma" %> 
+- <% if (s.ruan_outcome == "coma") { %>Player Aided Ruan Without Carden's Help<% } %>
+<% s.ruan_outcome= "amputated" %> 
+- <% if (s.ruan_outcome == "amputated") { %>Player Built a Tourniquet for Ruan<% } %>
+<% s.ruan_outcome= "healed" %> 
+- <% if (s.ruan_outcome == "healed") { %>Player Healed Ruan Without Incident<% } %>
+
+<% s.aching_body= "truth" %> 
+- <% if (s.aching_body == "truth") { %>Sorrel Said That He Slipped<% } %>
+<% s.aching_body= "joke" %> 
+- <% if (s.aching_body == "joke") { %>Player Joked With Sorrel<% } %>
+<% s.aching_body= "lie" %> 
+- <% if (s.aching_body == "lie") { %>Sorrel Claimed He Was Pushed<% } %>
+
+<% s.why_the_wait= "hostiles" %> 
+- <% if (s.why_the_wait == "hostiles") { %>Player Didn't Mention the Soldier<% } %>
+<% s.why_the_wait= "tangent" %> 
+- <% if (s.why_the_wait == "tangent") { %>Player Avoided Sorrel's Question<% } %>
+<% s.why_the_wait= "reveal" %> 
+- <% if (s.why_the_wait == "reveal") { %>Player Told Sorrel About the Soldier<% } %>
+
+<% s.ruan_death= "blame_self" %> 
+- <% if (s.ruan_death == "blame_self") { %>Player Chose to Blame Themself<% } %>
+<% s.ruan_death= "blame_sorrel" %> 
+- <% if (s.ruan_death == "blame_sorrel") { %>Player Chose to Blame Sorrel<% } %>
+
+--------------------
+
+<% s.status_kang = "dead" %>                  [Hostage Was Killed]
+<% s.status_kang = "alive" %>                 [Hostage Survived]
+
+<% s.status_nilvarda = "dead" %>                 [Abductor Was Killed]
+<% s.status_nilvarda = "alive" %>                [Abductor Survived]
+
+<% s.action_help_kang = "attended" %>          [Hostage Was Comforted]
+<% s.action_help_kang = "ignored" %>           [Hostage Was Fearful]
+
+==================================
+VARIABLES - Chapter 2
+==================================
+
+

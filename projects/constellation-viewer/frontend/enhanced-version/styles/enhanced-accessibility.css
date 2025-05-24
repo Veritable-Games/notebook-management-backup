@@ -1,0 +1,359 @@
+/**
+ * Enhanced Accessibility CSS for Notebook Explorer
+ * Provides additional accessibility improvements beyond the basic accessibility.css
+ */
+
+/* ====== Improved Focus States ====== */
+:focus-visible {
+  outline: 3px solid var(--color-primary) !important;
+  outline-offset: 3px !important;
+  box-shadow: 0 0 0 3px rgba(156, 39, 176, 0.4) !important;
+  transition: box-shadow 0.1s ease-out !important;
+  border-radius: 2px !important;
+  z-index: 5 !important; /* Ensure focused elements appear above others */
+}
+
+/* High contrast focus indicators */
+@media (prefers-contrast: more) {
+  :focus-visible {
+    outline: 3px solid #000000 !important;
+    box-shadow: 0 0 0 5px #ffffff, 0 0 0 8px #000000 !important;
+  }
+}
+
+/* ====== Enhanced Keyboard Navigation Indicators ====== */
+body.using-keyboard .interactive-element {
+  position: relative;
+}
+
+body.using-keyboard .interactive-element:focus-visible::before {
+  content: "";
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  border-radius: 5px;
+  background: rgba(156, 39, 176, 0.1);
+  animation: pulse-focus 2s infinite;
+  z-index: -1;
+  pointer-events: none;
+}
+
+@keyframes pulse-focus {
+  0% { opacity: 0.2; transform: scale(1); }
+  50% { opacity: 0.3; transform: scale(1.05); }
+  100% { opacity: 0.2; transform: scale(1); }
+}
+
+/* ====== Skip Link Enhancements ====== */
+.skip-link {
+  transition: transform 0.3s, top 0.3s, box-shadow 0.3s !important;
+  z-index: 9999 !important;
+}
+
+.skip-link:focus-visible {
+  transform: translateY(40px) !important;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* ====== Enhanced Color Contrast ====== */
+@media (prefers-contrast: more) {
+  :root {
+    --color-text: #000000 !important;
+    --color-primary: #660099 !important;
+    --color-primary-dark: #4d0066 !important;
+    --color-border: #000000 !important;
+    --color-focus: #ff6600 !important;
+  }
+  
+  body {
+    background-color: #ffffff !important;
+  }
+  
+  .app-header {
+    background: var(--color-primary) !important;
+    border-bottom: 3px solid #000000 !important;
+  }
+  
+  footer {
+    background: var(--color-primary) !important;
+    border-top: 3px solid #000000 !important;
+  }
+  
+  .sidebar, .content {
+    border: 2px solid var(--color-border) !important;
+  }
+  
+  .btn {
+    border: 2px solid currentColor !important;
+  }
+  
+  .notification {
+    border-width: 2px !important;
+  }
+}
+
+/* ====== Text Spacing for Readability ====== */
+@media (prefers-reduced-motion: no-preference) {
+  .content-display p {
+    line-height: 1.8 !important;
+    margin-bottom: 1.2em !important;
+  }
+  
+  .content-display h1, 
+  .content-display h2, 
+  .content-display h3 {
+    margin-top: 1.5em !important;
+    margin-bottom: 0.8em !important;
+  }
+  
+  .content-display ul, 
+  .content-display ol {
+    margin-bottom: 1.2em !important;
+  }
+  
+  .content-display li {
+    margin-bottom: 0.5em !important;
+  }
+}
+
+/* ====== Improved Text Resizing Support ====== */
+html {
+  font-size: 100%; /* Base font size as percentage instead of fixed px */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth !important;
+  }
+}
+
+/* ====== ARIA Live Regions Enhancements ====== */
+.live-region {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+[aria-live="polite"],
+[aria-live="assertive"] {
+  position: relative !important;
+}
+
+/* ====== Enhanced Loading States ====== */
+.skeleton-loading {
+  position: relative !important;
+  overflow: hidden !important;
+  background-color: var(--color-gray-200) !important;
+}
+
+.skeleton-loading::after {
+  content: "" !important;
+  position: absolute !important;
+  top: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  transform: translateX(-100%) !important;
+  background-image: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0,
+    rgba(255, 255, 255, 0.2) 20%,
+    rgba(255, 255, 255, 0.5) 60%,
+    rgba(255, 255, 255, 0)
+  ) !important;
+  animation: shimmer 2s infinite !important;
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%) !important;
+  }
+}
+
+/* ====== Fixed Height Content Areas ====== */
+.content-display {
+  contain: size layout !important; /* Modern CSS containment */
+}
+
+.file-list {
+  height: auto !important;
+  max-height: 30vh !important;
+  overflow-y: auto !important;
+  contain: content !important;
+}
+
+/* ====== Touch Optimization ====== */
+@media (hover: none) and (pointer: coarse) {
+  .btn,
+  .tab,
+  .file-item,
+  .nav-btn,
+  .dropdown-toggle,
+  .tag {
+    min-height: 44px !important; /* Minimum touch target size */
+    min-width: 44px !important;
+  }
+  
+  .file-item, .tag {
+    margin-bottom: 8px !important;
+    padding: 8px !important;
+  }
+  
+  /* Increased spacing between interactive elements */
+  .navigation-controls {
+    gap: 8px !important;
+  }
+  
+  .content-tabs {
+    gap: 4px !important;
+  }
+}
+
+/* ====== Language and Text Direction Support ====== */
+[lang] {
+  word-break: normal !important;
+  overflow-wrap: break-word !important;
+}
+
+[dir="rtl"] {
+  text-align: right !important;
+}
+
+/* Support for dark mode preference */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-primary-background: #1e1e1e !important;
+    --color-text: #ffffff !important;
+    --color-text-light: #e0e0e0 !important;
+    --color-border: #444444 !important;
+  }
+  
+  body {
+    background-color: #121212 !important;
+    color: var(--color-text) !important;
+  }
+  
+  .sidebar, .content {
+    background-color: #1e1e1e !important;
+    border-color: #333333 !important;
+  }
+  
+  .content-display {
+    background-color: #262626 !important;
+  }
+  
+  /* Adjust contrast for better readability in dark mode */
+  .content-display pre,
+  .content-display code {
+    background-color: #333333 !important;
+    border-color: #444444 !important;
+  }
+}
+
+/* ====== Stability Improvements ====== */
+.container,
+.sidebar,
+.content,
+.content-tabs,
+.view {
+  contain: content !important; /* Modern CSS containment for performance */
+}
+
+/* ====== User Preference Based Accommodations ====== */
+@media (prefers-reduced-transparency: reduce) {
+  .app-header::before,
+  footer::before,
+  .notification,
+  .dropdown-menu,
+  .modal-overlay {
+    opacity: 1 !important;
+    background-image: none !important;
+  }
+}
+
+@media (prefers-reduced-data: reduce) {
+  * {
+    background-image: none !important;
+  }
+}
+
+/* ====== Voice Control Support ====== */
+[aria-keyshortcuts] {
+  position: relative;
+}
+
+[aria-keyshortcuts]::after {
+  content: attr(aria-keyshortcuts);
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  font-size: 0.7em;
+  opacity: 0;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 2px 5px;
+  border-radius: 3px;
+  transition: opacity 0.3s;
+}
+
+body.using-keyboard [aria-keyshortcuts]:focus::after {
+  opacity: 1;
+}
+
+/* ====== Announcement System for Screen Readers ====== */
+#sr-announcer {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Make the demo status indicator accessible */
+.demo-status {
+  display: block !important; /* Ensure it's visible */
+  box-shadow: 0 0 0 2px white !important; /* Clear visual boundary */
+}
+
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+/* Forced colors mode support for Windows High Contrast */
+@media (forced-colors: active) {
+  * {
+    border-color: CanvasText;
+  }
+  
+  :focus-visible {
+    outline: 3px solid Highlight !important;
+    outline-offset: 2px !important;
+  }
+  
+  .btn, .tab, .tag {
+    border: 1px solid CanvasText !important;
+  }
+  
+  .active {
+    border: 2px solid Highlight !important;
+  }
+}
+
+/* Improve content scaling for better readability */
+@media (max-width: 640px) {
+  html {
+    font-size: 110% !important; /* Slightly larger text on small screens */
+  }
+}

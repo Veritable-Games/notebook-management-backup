@@ -1,0 +1,302 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-30T17:24:12-07:00
+
+==============================================================================
+WILMET EDITH - RELIABLE DEFENDER
+==============================================================================
+
+Profile:
+Wilmet Edith is a reliable defender, known for her steadfastness and tactical 
+acumen. She was born in the mountain regions of Helios, where she developed 
+a strong sense of duty and resilience.
+
+Background:
+Growing up in Helios, Wilmet was surrounded by tales of bravery and 
+perseverance. She trained in various forms of combat and defense, preparing 
+herself for the challenges that would come with being a Sentinel.
+
+Role in the Conflict:
+Wilmet's primary role is to defend key positions and ensure the safety of 
+her squad. She is often found on the front lines, holding the line against 
+enemy advances and providing cover for her teammates.
+
+Personality:
+Wilmet is known for her reliability and strong sense of duty. She approaches 
+every task with determination and is always ready to step up and protect her 
+team.
+
+Wilmet's personality is characterized by:
+- Reliability and steadfastness
+- Strong sense of duty and responsibility
+- Tactical acumen
+- Determination and resilience
+
+Relationships:
+- Carden: Wilmet has a professional relationship with Carden, respecting his 
+  technical expertise.
+- Kalisa: Wilmet values Kalisa's strategic mind and often collaborates with 
+  her on defense plans.
+- Marian: Wilmet relies on Marian for medical support and appreciates her 
+  caring nature.
+- Player Character: Wilmet is loyal to the player, always ready to defend and 
+  support them in any situation.
+
+Combat Style:
+Wilmet excels in defensive tactics and fortifications. She is adept at using 
+cover and positioning to her advantage, ensuring that her squad is protected 
+from enemy fire. Her combat style focuses on holding the line and providing 
+suppressive fire to keep enemies at bay.
+
+--------------------
+Voice Lines:
+--------------------
+
+### Assign SP
+- "Affirmative."
+- "Right away, sir!"
+- "Roger that."
+
+### Unassign SP
+- *
+
+### Unassign All SP
+- *
+
+### Fortify SP
+- *
+
+### Emplacement Zone VO
+- *
+
+### Setup EZ
+- *
+
+### Destroy EZ
+- *
+
+### Squad Feedback VO
+- *
+
+### Player Killed Enemy
+- *
+
+### NPC Killed Enemy
+- *
+
+### Gyre Spotted
+- *
+
+### Ultra Gyre Spotted
+- *
+
+### Dredge Spotted
+- "Dredge! Be ready to move!"
+- "Fall back if that Dredge gets too close!"
+
+### Scope Spotted
+- *
+
+### Siphon Spotted
+- *
+
+### Siren Spotted
+- *
+
+### Vector Spotted
+- *
+
+### Soldier Spotted
+- *
+
+### Reloading
+- *
+
+### Low Armor
+- *
+
+### Low Armor Urgent
+- *
+
+### Friendly Fire
+- *
+
+### Player AFK
+- *
+
+### Player Misfiring
+- *
+
+### Squad Abandoned
+- *
+
+### Invalid Command
+- *
+
+### Squad Abandoned Urgent
+- *
+
+### Player Blocking Way
+- *
+
+### Terminal Slice VO
+- *
+
+### Slice Terminal
+- *
+
+### Cancel Slice Terminal
+- *
+
+### Terminal Slice Status
+- *
+
+### Terminal Slice Complete
+- *
+
+### Door Slice VO
+- *
+
+### Slice Door
+- *
+
+### Cancel Door Slice
+- *
+
+### Door Slice Status
+- *
+
+### Door Slice Complete
+- *
+
+### Breaching VO
+- *
+
+### Breach Door
+- *
+
+### Cancel Door Breach
+- *
+
+### Breach Charge Armed
+- *
+
+### Detonation Reaction
+- *
+
+### Set Charge VO
+- *
+
+### Set Charge
+- *
+
+### Charge Status
+- *
+
+### Cancel Charge
+- *
+
+### Change Armed
+- *
+
+### Detonate Charge & Reaction
+- *
+
+### Resupply VO
+- *
+
+### Resupply
+- *
+
+### Cancel Resupply
+- *
+
+### Resupply Complete
+- *
+
+### No Resupply Needed
+- *
+
+### Revive VO
+- *
+
+### Revive
+- *
+
+### Cancel Revive
+- *
+
+### Exception Dialogues
+- *
+
+### Revive Complete
+- "I'm back on my feet, sir."
+- "Partially armored. I'm good to go, lead."
+
+### Player Downed
+- *
+
+### Reviving Player
+- *
+
+### Carden Downed
+- *
+
+### Reviving Carden
+- *
+
+### Kalisa Downed
+- *
+
+### Reviving Kalisa
+- *
+
+### Marian Downed
+- *
+
+### Reviving Marian
+- *
+
+### Sorrel Downed
+- *
+
+### Reviving Sorrel
+- *
+
+### Wilmet Downed
+- *
+
+### Reviving Wilmet
+- *
+
+### Arrisi Downed
+- *
+
+### Reviving Arrisi
+- *
+
+### X Downed
+- *
+
+### Reviving X
+- *
+
+### Disable Mine
+- *
+
+### Cancel Mine Disable
+- *
+
+### Mine Disable Complete
+- *
+
+### Rewire Mine
+- *
+
+### Setup Trap
+- *
+
+### Cancel Trap Setup
+- *
+
+==============================================================================

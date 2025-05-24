@@ -1,0 +1,16 @@
+
+# to see myself.txt
+It's through deprivation of the soul that we want for so much more
+There are secret misgivings of those withholding of power
+
+"I'd like to try articulating more. [This text goes on to argue that the affect of migraines is causally related to someone's (not so chosen) inexpressiveness]
+
+I greatly understand that many people on this platform are withholdingly passive. This writing is to still observing friends, family, cohorts and acquaintances that do not see themselves being wholly-invested in the things I or others might put out. 
+
+I recognize this maligned behavior in myself and other friends in so many ways; not knowing best how to express ourselves. Being held to a feeling of *imposter syndrome* in some ways.
+
+It's my thinking on it that if I'm to reach those most-often silent voices, I can only continue to put forth what it is I *might" myself to. Please see, that I have put myself aside here. 
+
+I do not do this out of ego, but better hope of our shared understanding of this thing that hurts so many of us.
+
+So, as it goes,"

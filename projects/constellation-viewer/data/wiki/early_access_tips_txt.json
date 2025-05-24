@@ -1,0 +1,19 @@
+{
+  "title": "early_access_tips_txt",
+  "content": "# early_access_tips.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-08-15T21:59:54-07:00\n\n====== early access tips.txt ======\n\tInclude something important in each update's feature set to encourage playing it\r\n\tPrivate forum for beta should include ideas, questions, and problems sections.\r\n\tOpen beta should be reserved for further polish and bug fixes. \r\n\tMake sure the game is modular. Easy for the community to modify. Add a Steam workshop.\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/early_access_tips.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, quest, feature, bug, fix\n- **Imported**: 2025-05-05T16:25:37.109Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/early_access_tips.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.109Z"
+  },
+  "created": "2025-05-05T16:25:37.109Z",
+  "modified": "2025-05-05T16:25:37.109Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "quest",
+    "feature",
+    "bug",
+    "fix"
+  ]
+}

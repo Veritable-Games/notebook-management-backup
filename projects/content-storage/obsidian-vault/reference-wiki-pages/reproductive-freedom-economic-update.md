@@ -1,0 +1,480 @@
+
+# reproductive-freedom-economic-update
+think that the
+abortion decision by these unelected right wingers is trying to push women back into a fascist,
+back not really back into a fascist family because it used to be that as long as you were white
+and in a family headed by a male, if you got married, you would be supported
+for all your domestic emotional and social labor. So that's what I think is their agenda.
+Sorry, Liam. Yeah, no, it's all good. So is it, is it very much of the deliberate decision about
+population numbers and that essentially we need more people to be the workers, be the soldiers
+and the abortion laws get in the way of that end? Yes, but I also think that it's a way of
+juicing a movement that America used to go be great. And if we re-enact the restrictions that
+we're used to have, it will again be great if we just re-institute Jim Crow and discriminate
+against black people and keep women in their inferior place, then America will be great again.
+And they don't want a face that the American century is over. Am I right in thinking that
+Roe versus Wade had problems to begin with because it was based on not really on women's rights,
+but more on privacy, is that correct? Yeah, I mean, the thing about, the thing about Roe is that
+it was very much a compromise with what the movement wanted. The movement wanted free abortion
+on demand. So the free part becomes much more important as medical costs rise, but it was
+always important because abortions, you know, initially costed when they were first legal in
+New York, costed $200. So that wasn't easily available to pretty much anybody.
+Now, briefly, the Medicaid did cover abortions nationally from 1973 to 1976. And a lot of people,
+a lot of people availed themselves of that 300,000 abortions a year. So a lot of people
+needed abortions that they were getting at that point. And that was stopped under Carter.
+Carter signed the high amendment initially. It was an issue in the election. Ford
+staked out of position against it. Carter was for it. And this basically banned any federal
+funding for abortions. So that meant that we really had no right to abortion. We really had the
+right to go out into the private market and attempt to purchase one. Yeah. So that and you
+can see like the contrast with Argentina, which just won legalized abortion abortion in 2020, right?
+Their law says that within 10 days of your requesting an abortion, the health system has to
+provide it to you. Like, you know, that's sort of the opposite of ours where you have to have
+a waiting period, right? So and the movement wanted it to be five days. They didn't win that,
+but they wanted in 10 days. So that sort of shows what an abortion right would actually look like
+if we had had won it in the US. But we never really won the right. What we won was the ability for
+the states were basically prohibited from from putting in certain certain restrictions.
+And then as the Supreme Court decisions have piled up, they've allowed more and more restrictions
+to the point where there are so many restrictions in some of the states, even before the
+DOBS decision, it was very difficult for a lot of people to get abortions. And so I think when
+we look at this, we should say, well, we don't want to go back to 2021 on abortion law. We really
+want to go forward and make it a national right through a national health care system, a Medicare
+for all, whatever you want to call it, where everybody has the right to all the health care they
+did. That is really how we can get reproductive rights in reality, including contraception,
+which is also quite expensive. Yeah, that's very important. Because I think what you had in Argentina,
+with where they won abortion in spite of the Pope making an in-person visit to his birthplace to try
+to get them to vote against abortion, is they had that kind of unity of indigenous movement,
+the socialist movement, the feminist movement, the black rights movement, the climate movement,
+all supporting them. And I think in 1973, we had a de facto coalition because the riots were
+happening starting in 1968. They also had a very unpopular war in Vietnam that people were
+demonstrating against. And they really couldn't afford to have millions of women out there demanding
+the right to abortion as well and being dissatisfied. So I think they felt they had to give.
+And I don't think they feel that now because there isn't a unity on the left,
+even de facto, the way they used to be, and the way they have been sorry.
+Yeah, the other factor there is, of course, you had the entire socialist world with abortion legal
+and free in government hospitals, right? You could go and get it, including Poland, where it's
+now completely illegal. So people could go behind the eye and curtain for freedom, right? So that
+that was really embarrassing and just added to the pressure on the US government to do something.
+Meanwhile, we had whole wards of people with botched abortions, dying or terribly injured,
+you know, whereas you could get a free legal abortion in hospital in Moscow.
+Yeah, that's true. That competition made them give a lot more than they would have.
+And I think that if we are to win these rights back, we have to make a coalition of all people
+who are deprived of their rights, which is an awful lot of people in the United States,
+including the climate movement being deprived of the right to live.
+But that would have to happen on the left, the way it did in Chile and in Argentina and also in
+Colombia, that from South America. Sorry, Harry, I just want to pick up on that sort of the observation
+you made just then and in the book, this idea that there's a difference in sort of birth rate
+between capitalist nations and previously socialist nations and how they changed over time.
+I don't know if you could talk about that a bit because yeah.
+Yeah, so what I observed is that with a couple of exceptions,
+so all the socialist countries made abortion legal shortly after they won.
+This was Turin Vietnam, it was Turin Korea, it was Turin Cuba.
+Russia, yeah.
+Yeah, so Union was the first.
+And so you have to ask, okay, why was that? Well, first of all, they believed in equality.
+In the Soviet Union, certainly, there was a lot of laws passed for women to have equality.
+But they also believed that women had contributions to make other than just as mothers, right?
+So they tried to make it easier for people to have babies and put a lot of resources into
+maternity care and crushes and laundries and cafeterias to get the housework out of the home
+and basically lighten the burden on people so that they could do other things, right?
+And in Vietnam, you also see that they had this plan, which was to lighten the burdens
+on women workers so that they could do other things than just raise kids.
+And one of the parts of that was to give them control over reproduction.
+So that was an ideological thing.
+But then the other thing, and you see it in China, right?
+Which has gone from, which went from a position of having a one-child policy to slowly
+loosening that to a two-child policy. And now, they're really actually in trying to encourage
+births. The one-child policy came in as part of the dump-shopping reforms in 1979.
+And what they, what their stated reason for it was, and by the way, it was one child,
+if you were urban, if it was two children, if you were rural, and if you were a national minority,
+you could have three children because those were oppressed groups.
+They brought it in because they felt that the gains that they were making from development
+were basically getting spread out too much among this burgeoning population that they had.
+And they wanted to consolidate those gains of development and basically have each person
+have more stuff, right? So that's only a situation that you can have in a socialist country where
+they're actually sharing stuff out, right? So that was the stated reason for the policy.
+And as capitalism has been restored, and more and more of China has basically become capitalist,
+they have realized that they need to feed the needs of these corporations for workers.
+And so that's why they have loosened these policies.
+And also you see this in Russia. So in the Soviet Union, abortion was made legal between
+1921 and 1936. In 1936, abortion was outlawed under Stalin's changes because they were afraid.
+You know, here was Hitler saying he was going to annex parts of Russia.
+In my comp, he talks about how he's going to annex parts of Russia.
+And they were under attack from every European country basically sent troops and the US and troops
+into the Soviet Union tried to overthrow the government. So for military reasons, they got rid of
+that. Then in 54, they restored it in the postwar period. They restored abortion rights.
+And basically had full abortion rights up until the overthrow of communism.
+Now after that, they started to work. There was an incredible drop in the birth rate because
+living conditions got so bad when the looting of the state happened and basically the oligarchs
+took over. And living conditions were so terrible. The death rate went up drastically and the
+birth rate went down drastically. And so now it has become a theme of the Russian state to try
+to raise the birth rate. And every year Vladimir Putin gives speeches about how we have to raise
+the birth rate. And they have also put enormous amounts of money into cash support for mothers.
+So that's their preferred way of doing it. And that's raised the birth rate slightly.
+But you can see that now they're now they're very concerned about the birth rate. Whereas during
+the socialist period, it was not really an issue. All that postwar period, you know, it was the
+birth rate. It was around 2.1 round replacement. Nobody was freaking out that there weren't enough
+people. Oh, man, the factory is nobody was free. It was it was not an issue. Whereas in the US,
+when we have a around replacement or below replacement birth rate, or in China with capitalism
+restored, they're very worried about that. So I think that's it now there are cases of horrible
+reproductive coercion and, you know, Romanian orphanages and all this stuff. But but for the most
+part in socialist countries, they have a much better record on the on first of all, on contraception
+and reproductive reproductive rights in general, partly because they're willing to go up against
+the church. But but also, but also there's not this massive need to to create profit opportunities
+through the growth of the system in general, which has relied primarily on population growth
+since the inception of the system. Populations have been growing. So that's I think that's an
+interesting contrast to make and to say, okay, what is it about capitalism that it that requires us
+to have births at baby boom rates in order for the system to continue and to not stagnate? So
+that's a question that that we should be asking. Well, I also think that right now, what's happening
+is that they have exported a lot of the good jobs overseas. And we've gone from a manufacturing
+economy to a service economy. And women and men's wages have more have become more equal,
+not because men's wages improved, but they stagnated. And so women now make 82% on average
+of what men make, but people are rejecting shit jobs now. 20 million people dropped out of
+the labor force during the pandemic, because they were being exploited, underpaid, and told they
+were essential. And the contradiction was just too much. And so I think what's happening is
+also they kicked out the immigrants who used to wash dishes for almost nothing in an
+oppressive environment. So between getting rid of the immigrants who took the shit jobs and were
+underpaid and people refusing the shit jobs where they were underpaid and a massive unionization
+across the United States, unlike anything that was seen before except in the 30s, they're getting
+nervous. And they want to have a lot of cheap shit labor. And these neglected unwanted children
+with inadequate upbringings would be the dishwashers of tomorrow without allowing immigrants to come in.
+And the low page clickers in the grocery stores and so on. So I think they want to replenish
+the bottom of the labor force that they don't allow in because of immigrants. And because they
+underpaid people so terribly and told them they were essential, people are refusing.
+In all these examples of control, historic and present, I think one of the things that
+one of the stats that was really interesting in your book was that 25 to 30 percent of women are
+going to need abortions, whether it's legal or illegal. So these forms of social control,
+it's questionable how much they sort of quote-unquote work for their particular ends, given that
+you know, it's very similar to the drug policy stuff when we spoke to
+the Karl Eric Fisher, was that his name? When he was talking about when he tried ban
+substances, all it does is it just drives it underground. Like there's still just the same amount
+of demand for stuff. So there's a sort of lunacy to the trying to control everyone, right?
+It's interesting because I was just reading this American Enterprise Institute report from
+2018, which is all about the declining fertility, right? So this is a railing think tank that has
+been promoting capitalist interest. And the report, first of all, it has empty bassinets on the front
+cover, right? So it's by this guy named Lyman Stone, and he mournfully says, well, you know,
+even really strict laws making abortion and contraception illegal are probably not going to
+raise the birth rate by more than about 5 percent. What we really need is to sort of change the
+culture. And he points to the former Soviet state of Georgia as an example, where, you know,
+the head of the church there has said you must have children, and you know, they have all this,
+you know, basically there's a lot of propaganda around it that, you know, your role is to have
+what not. So we could see some of these bands and the crackdown on contraception as, which is also
+another aspect of this, and we're going to see more of that if the Supreme Court decision is
+any indication. But I mean, even under Trump, like half of the Title 10 family planning visits
+evaporated, like those policies really made it hard to get contraception. So when you, when you
+ban contraception and abortion, it may not raise the birth rate much, but this, this sort of culture
+of disapproving of abortion, disapproving of contraception, trying to get people to think of, to
+identify themselves somewhat as Harry was saying, you know, with, with their, their ability to produce
+children and the family and sort of enclosing, getting rid of, of other options for women and
+enclosing them back into the family to make that basically the only option that you have. I think
+very much is on their agenda and they're hoping, you know, through a combination of making these
+things illegal and disapproving of them and all this religious propaganda and all and, and other
+propaganda, this particular American Enterprise Institute guy Lyman Stone is big into a, his big
+thing is promoting marriage, how great marriage is. And this is part of his idea of like, if, if
+people get married, then they'll have kids, which I think he's got the causation wrong at, you know,
+people get married because they're planning on having kids. But, um, but, you know, there's definitely
+a correlation and he thinks if we can just force and discriminate against women enough to make the
+family the, the best option for them, then maybe we can force them into raising the birth rate and
+pat Buchanan, you know, former Nixon speechwriter and various, like, right wing presidential candidate
+at various points, who claims to be responsible for, for, as he says, running the sword through
+child care under the Nixon administration. His whole thing is, you know, that we have to
+discriminate against women more vigorously and so that, you know, he believes that the equal pay
+was, um, you know, a siege gun against, against the West, he talks about this, he also calls the,
+he also calls contraception, the suicide tablet of the West, right? So, so it's very much, he's very
+much into this racist replacement theory, um, stuff. But, but his idea is if you bring back discrimination
+against women and jobs, then they will be forced back into dependence on husbands who will then
+have power over them and then they will go, what Harry, it was saying, it forced you back into
+the family and that is, that will be the only way that you can fulfill yourself as through having
+kids. So, uh, you know, I, I think it's part, I think the, the, uh, banning abortion and contraception
+while they might not immediately have, uh, effects on the birth rate, although I have to say that
+banning contraception in, uh, in parts of Texas where, uh, in 2011, there were, there was, uh,
+massive cuts in contraception funding and they, and there, there was a whole area where there were
+no, no clinics anymore. Birth, the births raised were, the birth rate went up 27%. So it may be that
+they can actually force this abortion, not so effective as we can see from, for example,
+Poland, which still has one of the world's lowest birth rates despite, um, despite having banned
+abortion. But when you, when you get rid of access to contraception, that can be, I think, a little
+more effective than even this American enterprise institute guy thought. But at the same time,
+it's, it's part of a whole plan of, of enclosing people back and forcing the expenses of, uh,
+of having kids back into the family and back onto our strained wages. That's, that's kind of the
+agenda for, um, you know, it's not just a high birth rate agenda, but it's also who's going to
+pay for it in agenda and the agenda around that is that, is that any expenses have to be born
+by the family out of our paycheck. It's not going to be guaranteed. It's not going to be paid
+publicly. Yeah, one of the problems with that, though, is they've wanted to push women back into
+the situation of the 50s without pushing back the conditions of existence of that family,
+which were a family wage for the white male. And so that's, they could have the fascist family,
+where they have women forced to work and also forced to subordinate themselves to their husbands.
+But then they're so exhausted, they can't have children, which is what happened in Nazi Germany.
+The birth rate didn't go up as planned because women couldn't conceive it. They were too wiped out.
+Yeah, I mean, the crisis, they're, you know, they're facing this crisis on all these different levels.
+And they, you know, basically the idea of the family wage, which, which is sexist in the, in all
+the ways that we just described, but at least it meant that corporations were providing some
+resources for raising a family, right? But now we are, we are completely on our own,
+where both parents are working. They're getting 80 or more hours a week out of a couple.
+And there's, there's no resources for raising the kids. There's no, the family, the family job,
+which used to be paid by the man's foot, you know, in the ideal, like, good union job situation,
+where, where the man's wage paid for the kids and for a spouse to do all the care work.
+We don't have that anymore, right? So, so that's created the crisis within the family.
+And then that result, what has resulted is people are just having fewer kids. I mean, in my group,
+people were saying, well, you know, I wanted to, but I just decided to stop at one. I can't,
+it's, it's too much. I can't do it with the time, the expense, the childcare expenses, the
+lack of reliable healthcare, no time off at work. I mean, it's just too much. So, and then many people
+are deciding not to have any kids. So that's kind of the, the, where the struggle is, is expressing
+itself is in this low birth rate, which we're calling, in my group, we call it a spontaneous birth
+strike using, using an early 20th century term that Emma Goldman used, spontaneous birth strike
+that, but we are all blaming ourselves. We don't see it as the political thing. And we think it's
+important for us to see it as a political thing and not just think of it as our own personal
+failings to make it work. I think that's completely right. Because the biggest development
+among married people now is married people, no children. Because they're too expensive. And because
+everybody gets divorced, really it's more than 50% because 50% are formally divorced.
+But then another 20% at least are people who have no kids and no
+valuable possessions enough to fight over it. So they just split. So you have about 70% of people
+splitting in a marriage. And people, women don't want to be left with the kids. And so
+they're the ones refusing marriage now, particularly among blue collar women. That's why 42%
+of kids are born outside of a marriage. Whereas in the 50s, it was about 15%.
+It's huge. And it's an economic issue as well as a social one. And the only way I think
+they could pull off getting women back is to have a fascist family like they had in Nazi Germany.
+And even that didn't increase the birth rate because women were wiped out from all the jobs they
+had to do. Well, I think it's really interesting as well what you're saying about this particular
+right wing think tank. And that they have to change the culture that there has to be propaganda.
+I think one of the things that came out from reading the book is just how much the
+initial sort of women's liberation movement, their demands, how relevant
+that the sort of seven initial demands are still. Yeah, right. And particularly the last
+one was about the workers control the profits. That's another sort of rabbit hole to go down.
+But the thing that is fascinating is like, you know, you very much outline in your book
+things that worked and things that work in terms of changing laws in terms of pushing
+for a society where abortion is, you know, legal and free and easy, right. And that these
+certain things that work are just conversations being actually being able to talk to each other.
+And like exactly like you said, people are sort of when they're just having the one kid or whatever
+they're just sort of seeing it as a personal failure or something opposed to sort of systemic
+like a social issue. And on this, I think we should talk about all these things that work to push
+to sort of push back and, you know, sort of create the world you actually want to live in.
+But sort of one of the most fascinating things is all the things that don't fit neatly
+into the right wing's position, right. The one that blew my mind was seven out of ten
+women that get abortions or already mothers. Yes, yeah.
+So that, I don't know. It sounds like both both Harriet and Equal, you knew that like maybe I'm
+just being a sort of stupid British person over here. But like, is that a known thing in America?
+Oh, I think that's a very surprised. I think it's a worldwide, I mean, statistic in general
+that it's not just an American statistic, if I recall.
+Well, I think that even Margaret Sanger, as you cited, Jenny, was a appeal to by these women
+who had more children than they could possibly handle. I mean, the right thing here likes to say,
+likes to sort of demonize anyone who wants an abortion. But
+and I think I make, quote, in the book this, this mom who went to get an abortion and she thought
+she was like some terrible Medea-like person for wanting to get an abortion even though she
+already had a kid. And then she was astonished to read that most people who had abortions in the US,
+and I guess Equal, he says worldwide, are people who have kids. So it's part of the propaganda
+that, oh, it's just, you know, these careless teenagers or whatever that are getting abortions.
+Clearly, clearly, it's all kinds of people getting abortions.
+Well, I would say that the things that worked for, that we should bring into the current situation
+in the 60s are what Harriet was talking about, this general uprising was very effective in
+winning a lot of things because the power structure was frantically trying to peel off different
+segments of the movement and sort of neutralize them. So, for example, we got the occupational
+safety and health act partly because the because the Nixon administration wanted to
+appeal to workers in a way that it was losing its chance to appeal to workers.
+We, you know, we got abortion, probably they were trying to try to get women to calm down
+and various other things. So definitely a broad left movement with all of these demands in it
+is, was one of the ways that we want. Another way we want is, and this was very clear in the
+situation with the referendum in Ireland in 2017. So they had bumped along with a sort of a reform,
+abortion reform movement for decades and, and basically the content of it was trying to
+create a few exceptions to the, the ban on abortion in Ireland. And one of the things was,
+well, would you have, would you have two shrinks sign off on the person with suicidal or could you
+just have one shrinks sign off on whether, well, all of these debates about like, well, if it was
+rape, could do, would you have to prove it was rape, blah, blah, blah. All of that, we had the same
+problem in the US. We had a small reform movement that went along and tried to change these,
+changed the laws with these little exceptions. But it didn't appeal to the general public because
+most people didn't think they were going to be in that kind of a situation. Very, you know,
+and it wouldn't help most people who needed abortions. So, so it was when the women's liberation
+movement raised the demand for free abortion on demand where people saw, oh, wow, I could get this.
+It would be free. This is what I need. Um, that galvanized an enormous uprising on the issue. Same
+thing happened in Ireland when they went from these small demands to a demand, a group of, um,
+anarcho feminists in Dublin came up with this, this idea of, uh, free safe legal as the,
+as the demand. And we're able to lead the movement into that into talking about abortion.
+They named their campaign the abortion rights campaign. They were told, don't use the word abortion
+that'll turn people off. They said, no, we have to talk about what we want. And they were able to,
+and they won overwhelmingly. They were very surprised. They thought it was going to be extremely close.
+They won by 66% of the vote, um, after a huge campaign in which they did a lot of door to door
+canvassing. And I think this is important to getting people to talk about abortion in more than
+just this very surface sort of, um, a moralistic way and really think about the issues. And,
+and of course, think about all of the people and learn all the people in their lives that have
+had abortions, um, that was able to happen in Ireland because of all this canvassing because it was
+on the ballot. And we're going to have the opportunity to do that in various states where abortion
+is going to be on the ballot. So, for example, in Michigan, they're putting it on the ballot.
+Um, in Kentucky, there's going to be a referendum that is actually anti-abortion, but it's the same
+conversation right vote against this referendum around abortion in Michigan. So there are going to
+be all these opportunities to really have deep conversations about what is this about. And I think
+we also need to include like what is this about in terms of having control of our reproduction when
+reproductive working conditions are so bad. Um, but that was I think that is very effective. And I
+noticed that when you look at the polling around abortion in the 90s, there's a big leap in support
+for abortion rights. And the 90s were when we really went back to doing a lot of mass mobilization
+around abortion. So it's really effective. Um, and getting people to think about it in ways that
+they had not thought about it. You think, oh, there's all this abortion rhetoric. Everybody knows
+everything they've heard everything about abortion, but it's not really true. They haven't really
+thought about it in their own sort of context. And, and it so that that's important. The other part
+that was incredibly important was the speakouts, people talking about their legal abortions,
+getting up women, whole panels of women saying we had legal abortions on her sister, Rose, was one
+of the first people to testify about this. So like actually talking about the illegal abortions and
+and and this contradicts everything that we hear in the current sort of liberal version of this
+where, oh, abortion is a very private and personal decision. It's between you and your doctor.
+You shouldn't talk about it in public. You shouldn't be forced to testify about it. Well,
+obviously people shouldn't force to testify about it. But it's very important that we do testify
+about it and do talk about it. And that will make it safer for other people to talk about it. And
+eventually it will become just this commonplace thing, right? If if we're scared to and if we're
+shamed and to not talking about it as we are by both liberals and conservatives in this in this
+situation, we will still end up with everybody thinking it's something shameful. It's something
+secret or private. And instead, what we said is the personal is political. We have to make this
+public. We have to talk about it. And I have to say shout your abortion. I have to give a lot
+of kudos to this was basically a hashed a couple of women who's testified about their abortions
+in the main game. This hashtag that went viral blew up and and thousands and thousands of women
+testified about their abortions. And so that kind of thing we need to do more of that to give
+people who are viewing shame the the sense that oh no, this is not something that I should have
+to keep secret. That's right. That's huge. I also think that you know, one of the things that's
+in our favor these days and that the Supreme Court is reacting against as it's progressive is
+that religion is much less popular than it has ever been particularly among young people.
+And the kind of misogyny that evangelical religions espouse like the southern
+Baptist conference on men and women. And they are the largest Protestant
+denomination says that women should be subordinate to men. Men should be protective of women.
+Women should be subordinate. They should never be your boss or anything like that if you're a man.
+And yet probably because they're always caught literally with their pants down over and over again.
+Jerry fall well liking to watch his wife have sex with the pool boy and investing in the pool boys
+gay club and the guy from Liberty University,
+board of trustees who died with a dildo up his ass and a rubber suit, which didn't look good
+for the church. Well, you know, their expose as perverts hasn't helped and their numbers are
+dwindling and so the Catholic Church is it with the expose starting in the year 2000 and increasing
+and increasing even in South America of their sexual predations against children.
+And I think that the the moral. This was this was very important in the Irish case because they
+just they had exposed both the sexual abuse of children and the Magdalene laundries where
+where and then also this horrible operation that they forced on people where they basically
+break your pelvis in order to allow the baby through right instead of a cesarean. So all of that
+really dis made made the church and and they had also just won a marriage equality referendum.
+So that gave people hope. So at very much like church, people may still, you know, have beliefs
+and religion, but they were very anti clerical at that point. So that that's a that was a very
+important thing. And I think that's got to it's got to have been true as well to some extent
+in Argentina. Oh, yes. Yeah. But I think also that there's a there's a great bit in your book
+for it. There's a it's not a testimonial as such, but it was somebody talking about working
+in an abortion clinic and that they were fully aware that there were Catholics going in there
+for abortions and that they there was this sort of ex they saw themselves as the exception to
+the rule like that. You know, they were doing the responsible thing or something like that. And
+that it's worse than that. The actual picketers that were picketing the clinic would would bring
+in their daughters to another clinic across town to get abortions or or anti abortion women who
+were actually active in the movement would come and get their own abortions and they always thought,
+oh, well, they were the exception and all of these other people were terrible and they but they
+had real reasons to have an abortion. And and the the you know, the clinic staff would say,
+no, you're you're you have exactly the same reasons that all these other people do.
+Right. I mean, that's a very common that's a very, very common thing. You know, I mean, I
+when I was in school in Orange County, which is, you know, very conservative
+county in in Southern California right between LA and San Diego, but, you know, I used to be very
+active with doing like sex ed and, you know, abortion right to what not on campus. And, you know,
+I would, you know, often have, you know, the some of the members of the, you know, the anti-abortion
+groups sometimes take me aside doing like, hey, can you give me information for a friend?
+Right. Always for a friend. You know, it's that, you know, for a friend or, you know, one of them,
+you know, was honest and was just like, you know, I mean, a, you know, kind of a bad situation.
+You know, and I would always provide them information, you know, and and and be like, hey, like, you
+know, I hope this changes your your position on this issue because, you know, same thing. Everyone
+is, you know, like you, you know, people have abortions because they're protecting their future,
+they're protecting, you know, your family, their family, their life. I mean, you know, various,
+various reasons, right? There's a great quote in the book, having an abortion made me happy.
+I was not forced, I was not forced to become a mother. And and and the idea of testimonials being
+really sort of powerful, people sharing those stories, people sharing stories like the, you know,
+working in abortion clinic and seeing these people come in. And then also, you know, statements
+like that. I've never heard that in an abortion debate. But then, you know, I'm, it's not
+surprising. I'm, you know, a dude in Britain and I sort of not fully glued up really until reading
+this book. But I was like, wow, like immediately there's some part of my brain that was like, okay,
+that's got to be the title of the trailer or the episode because that would just make everyone
+really mad. Well, I mean, that was one of the major, you know, one of the major aspects of
+abstinence only sex said, I think in terms of, you know, when you're talking about the culture of
+being able to discuss these things, you know, did I think really set back an entire generation?
+Yes, it did, but only among the really religious and I think no, no, no, no, not at all, not at all.
+I absolutely disagree with that. So, so hang on. So what was the point?
+The abstinence only sex education that was in schools.
+Right. And that's basically shames people, right?
+Well, it doesn't only shame people. I mean, like, you know, the gay men who's used,
+for the longest time has been a really strong supporter of reproductive rights, you know,
+back in the 80s and 90s and, you know, early odds, like when I was very active in the issue,
+was like very, very common to see like many gay men into to the state, the older gay men are,
+but a lot of the younger gay men are because they've been subjected to abstinence only sex said at
+schools. And yet they're not abstinent. And I have read that in the schools where they teach
+abstinence only, there's a much higher teen pregnancy rate. There is, there is, but there is a
+nix, there is a, you know, so absolutely. It has nothing to do with abstinence. I'm just saying,
+it creates a, you know, if you're going to talk about the culture of, you know, it created a lot
+of shame about abortion, about birth control, about people, you know, also not knowing any basics
+about their bodies. And I mean, it's, yeah, it's, it's, it's kind of hard to sometimes, you know,
+like you, you have to do a lot of explaining and informing when, because it's, it's really common
+when I talk to people that they don't understand the difference between a birth control pill,
+a morning after pill, and then abortion pill. Right. And they need to know. But I think,
+and this is even, even the New York Times gets this wrong. I have to say from watching
+the discussions of the morning after pill and the abortion pill, they, I mean, even journalists
+are, are guilty of this. Right. Right. Which is, you know, it's not that, it's, I, you know,
+it's not that difficult of, of, they're, they're very, they're, you know, I mean, the birth
+control pill and the morning after pill are somewhat like more closely related together in terms
+of actual pharmaceutical products. Right. But yeah, it's, it's kind, you know, there has been a huge
+gap of, you know, over 10 years, because abstinence only sex education still happens,
+you know, pretty regularly in public schools. But, you know, of just being able to, you know,
+let me, none of these programs ever mentioned abortion at all. There's only 17 states in the United
+States that have biologically correct sex education. So we're really talking about a desert here.
+But I think a very important thing is the invocation of religion. And the Supreme Court
+passed three pro-religion rules also, parochial schools now get public money. And people can pray
+that football coach can pray on the football field and so on. And that it's not, it was not illegal
+to have a Christian flag outside of the state house in Boston that they are trying to push
+religion, which also pushes shame on women. And, you know, the only really good woman in Christ,
+in Catholicism is the Virgin Mary who never had sex. And so, you know, women, that's so much for
+women's sexuality. And women are constantly being humiliated and punished for their sexuality
+in the Bible and the Quran. And so, by pushing religion, you push shame on women. However,
+as these organized formal religions fade among young people, religion too is losing its
+clout. And I think they're panicked about that and want to re-invoke religion to teach women
+to be ashamed and responsible for men's transgressions as they were in Genesis,
+and have their husbands rule over them as it says in Genesis. So, there is a whole right wing
+movement here. Oh, absolutely. Yeah. And that goes to kind of what the American Enterprise
+Institute guy was talking about is like, we have to somehow create a world in which people think
+this is what they should be doing, having kids, being in a family, having large families.
+Since we don't have the economic support for that, you know, they're having to
+gin that up pretty far in order to make any difference. But that is definitely the thing.
+And, you know, it's interesting because there were thousands and thousands of clergy
+in the late 60s, starting in 1967, there was the clergy consultation service for abortion,
+which did abortion referrals to illegal, you know, basically all abortion was illegal at that point.
+So, to doctors, to doctors, they referred across state lines hoping that would keep the
+prosecutions down. And it did help a little bit. But basically, they relied on these doctors
+who were willing to risk their practices providing abortions. But they were in almost every state,
+they were doing counseling and basically a referral service. And this was all, you know,
+progressive clergy and rabbis and just a bunch of clergy. And where are they right now? Where
+is the pro-choice religious community? I'm sure they're out there, you know, making a lot of noise,
+making a lot of noise. But we need to encourage that because, you know, that's the answer to this,
+right? That's part of the answer. Totally. Yeah, exactly. So, and they were very brave about it.
+And I think that needs to, that whole idea of a clergy consultation service for abortion
+could be, could be gotten back up again, because if you're in a legal state, you're going to need
+help getting to a legal state to get abortion. And, and why not have a clergy consultation
+service? Yeah. Well, they have, now they do have other sources plus transportation and payment
+for your abortion across state lines, but it doesn't have the religious power behind it. However,
+I do say people might not know how to get to it, right? So there have to be a lot of,
+there have to be a lot of different angles so that this is really available to the maximum number
+of people. And I mean, this is, it's going to be an information war in many ways is to get,
+not to mention the price, right? And some people can't leave, you know, to fly to New York.
+They have kids. They have to figure out like child care. They might not trust the, the people that
+they're, you know, they might not have a trustworthy person to give child care. They, you know,
+it's like all kinds of stuff that you have to arrange in order to just pick up and leave. And so,
+so the other thing that's different from the 60s is the availability of abortion pills. So,
+aid access, which is based in Austria will do consultations with you by email text and phone.
+And then they will send you the pills from India. They send them into all, all states in the US.
+It doesn't matter what the laws are. So if people are interested, they should go to aidaccess.org
+to find out they're also doing advanced provisions so that you could have the pills to give to friends
+if they need them. And then planseapills.org does trainings for ambassadors of information on
+the abortion pill, what's available, how you can get it, the cheapest options and the most reliable,
+planseapills.org. I highly recommend them. They're very organized. And they actually do have a
+scorecard of various places. You can get the pills, how fast will it be, what's the expense and all
+of that. So, so there are a lot more options and a lot lower barriers to entry than there were
+in the 60s for actually providing abortion services. In the 60s, you actually had to know how to
+do a procedural abortion in order to provide that. Now we have all these other options. And I should
+mention that the second pill in the abortion pill combination, Ms. Aprostol, is also
+effective on its own, it's much 85% effective and it's much cheaper. It sells under the
+under the brand name Cytatec. It's often prescribed for to protect your stomach if you're taking
+non-steroidal anti-inflammatories and keep you from getting an ulcer from that. So, so we have
+and that pill is available. It's over the counter in in Mexico and it's available in flea markets in
+Texas and whatnot. So, so there are a lot of options that we have right now that we never had
+in the previous period, which which make it even less likely that they're actually going to be
+successful in raising the birth rate through this. They're just going to make a lot of people miserable.
+And this conversation continues for another 30 minutes on our Patreon. So why not join us over
+at patreon.com for slash it's not just in your head. Massive thank you as always to our VIP patrons.
+Alex Placito, Bruce Rodgers Vaughn, Jennifer Cox, Justin Harper, Rebecca Johns, Shema Socono,
+and Shina Belmus. If you have enjoyed anything you've heard Harriet say in this program, you will
+definitely enjoy capitalism hits home, which is a solo program that Harriet does through
+democracy at work, which is a worker-owned cooperative that produces other great programs such as
+economic update with Richard Wolfe and the anti-capitalist chronicles with David Harvey. I can't
+recommend enough that everyone also listen to capitalism hits home if you enjoy. It's not just
+in your head. And you can hear more from Harriet on her radio show called interpersonal update.
+It's on WBAI at 230 EST on Wednesday, afternoons, and in the WBAI archives.

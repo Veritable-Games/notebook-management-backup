@@ -1,0 +1,15 @@
+{
+  "title": "search_key_txt",
+  "content": "# search_key.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:42:51-07:00\n\n====== search key.txt ======\n<script async src=\"https://cse.google.com/cse.js?cx=e1c3f5571ba0f4f9d\">\r\n</script>\r\n<div class=\"gcse-search\"></div>\r\n\r\nsetx GOOGLE_API_KEY \"YOUR_GOOGLE_API_KEY\"\r\nsetx CUSTOM_SEARCH_ENGINE_ID \"YOUR_CUSTOM_SEARCH_ENGINE_ID\"\r\n\r\n686112518355-9nd15cr105f6utkphu3nl9e1n3rqhsct.apps.googleusercontent.com\r\n\r\n\r\n\r\ne1c3f5571ba0f4f9d\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/search_key.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.194Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/search_key.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.194Z"
+  },
+  "created": "2025-05-05T16:25:37.194Z",
+  "modified": "2025-05-05T16:25:37.194Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

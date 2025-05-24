@@ -1,0 +1,125 @@
+
+# REC001.txt
+This is better.
+
+
+# REC002.txt
+3D printing houses with giant rails, giant mechanisms designed to build a house, build a entire house size 3D printer, Jesus Christ.
+
+
+# REC003.txt
+Black, Locus, Hardwood.
+
+
+# REC004.txt
+I think it's still good.
+Super dense.
+I mean, I've said that you can use that to design a medireture.
+You can use that bioengineer design and mimic it.
+
+
+# REC005.txt
+structures in nature using 3D printing.
+
+
+# REC006.txt
+like
+
+
+# REC007.txt
+E4.
+It's a rubber simplification.
+Firm and tapped.
+As with good.
+
+
+# REC008.txt
+and cester humanity and descendant humanity and then you have the present of
+humanity. Humanity as a whole.
+
+
+# REC009.txt
+So imagine, then, oh boy, hang on.
+
+
+# REC010.txt
+I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry
+I sent out colony ships, I sent out colony ships towards the stars, they spent 300,000
+thousand years, apart from one another, V. But that is the next step I have to explain.
+
+
+# REC011.txt
+So you have Ancestromanity and Descendant Humanity. Ancestromanity is on Geon and descendant
+of Ancestromanity is on earth. This branch is as good of entirely the lack of communication
+or the lack of direct communication. It is a slow progression of knowledge.
+No, no. Ideally, it would be a stream of knowledge that is sent from humanity here to humanity
+300,000 light years away. But for some reason, the signals no longer pass.
+They are scattered by large structures, bigger than planets, out in the galaxy.
+These are the planet shells, the environs, which house both the energy capacity and civilization capacity
+We could only imagine a world of streams and it is all done in a scientifically literate way.
+It is less dense than mass of planet, but it has ore housing. You can change the density of this structure.
+Fending word is just the gravitational pull to the mass of this planet that this planet has in a given region of space.
+You are putting out words and you are at the same time doing the heat constraints.
+There is a natural limitation of population that arises, not an extreme one.
+Imagine that global warming, right?
+Okay. I mean, no, no, no, it is still a bit silly.
+Backing up, backing up, backing up. Imagine you can have as many kids you want hypothetically.
+And the machine, the structure, will compensate for heat loss by accident heat loss in the space as thrust.
+It is not free energy, but it is used energy in a more efficient way than ions.
+And faster, when you are spending less energy, it is like controlled heat through exertion.
+As you collect the body of the species and you have at the center of this planet the sheer mass, the most mass is when you have the dense core.
+And the core is made out of a, the core is made out of a distance form.
+It is made out of a distance sphere. It is not made out of a sphere of the planet shell, I should say.
+Back up, back up, back up. The planet is made out of this structure is made out of this structure, the internal part, the core.
+It is comprised of a planet in and of itself, which is to be its own.
+Dyson's form is complete, when the star stabilization is complete as they use starlifting as it means to extract resources from it.
+This is the starlifting as it means to extract resources from the sun to stabilize it.
+It is exertion rate of energy of hydrogen energy.
+So, they are not using the stars as a kind of stars, because they would be an efficient.
+The more efficient way to do it is to use, you know, as it is described, heat energy is exhausted as faster than neurons but more controlled.
+More natural, I should say, of the rise in the fall of population.
+The bigger, better these communities get, the faster they can contribute heat in their own.
+They can choose to exert a certain amount of resources in the resources for sure about the population.
+So, they are pushing the ship together through the use of these dot-x.
+They are converting the dot-x, the empty space, the shell above the planet.
+So, in between the flesh are vessels like bloodstreams, allowing heat to pass through like people.
+And, well, that's just it.
+It's a vertical space for people built on a more naturalistic way.
+You're given free rain, free rain to build whatever you want here in these empty spaces that are available to any entity that transposes themselves into them.
+But, the veins, I should say, have the structure, and they build vertically as well as horizontally.
+Like the antlers, Heather said they learned how to build better in two.
+And, the better they build, higher they go, and eventually they go high enough and it's like, coincidentally, not coincidentally, just naturally.
+And, maybe not even when they're done, when, by the time they've actually been encapsulated, when the tree once been encapsulated by the shell, they're not on the top of the other side of the shell.
+And, they won't be for some time to come.
+But, it's before these, these last next 100 years say, in this world, in this game.
+I had to go 30 years, 30 years at least.
+So, the next 30 years of this game are to develop, put in a slow way.
+Now, let's say, I spent 30 years playing this game.
+Let's say about 10 years in the world.
+10 very dense, interesting years.
+Like a story, both out over time. Like a conventional, like a good person's level.
+The verticality and horizontal axes at the space.
+Build out words, but horizontally and vertically.
+I need to get slowly over time in whatever direction that the design takes.
+The design and player interests the states.
+Years of the community, too.
+I'm not used.
+Build blockchains in the end of the community.
+Let them purchase goods, built by artists, and by philosophers and by writers.
+And, every medium, we can obtain to our owning something.
+So, imagine, you're building a house, right? You won't furniture, but then do it.
+You buy a piece of good furniture, you buy some painting, you buy a book to read.
+But the book to read is limited by virtues. It's available.
+But some people prefer just to have a fiscal reminder of things.
+And I'm not sure if that will ever change.
+It might.
+But I think that the idea is just him.
+People like to have owned the things they deemed to be theirs.
+And that's not nearly bad, but just not as us wanting a personal space for ourselves.
+So, we're building it.
+And everyone knows that. We both together.
+Build communities.
+We build a world.
+Get by bed, let up in a little.
+We're slowly making progress towards our goals.
+

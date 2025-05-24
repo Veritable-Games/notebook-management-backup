@@ -1,0 +1,157 @@
+# VG-Canvas Collaboration Troubleshooting Guide
+
+If you're experiencing issues with the collaboration features in VG-Canvas, this guide will help you diagnose and resolve common problems.
+
+## Common Issues and Solutions
+
+### 1. "Joining room..." Message Stuck
+
+**Symptoms:**
+- The "Joining room..." message appears and never disappears
+- No error message is displayed
+- Cannot create or join rooms
+
+**Possible Causes and Solutions:**
+
+a) **WebSocket Server Not Running**
+   - **Solution:** Make sure the WebSocket server is running on port 5000
+   - Use `start-collaborative-vg-canvas.sh` (Linux/macOS) or `start-collaborative.bat` (Windows) to start both the server and client
+   - Check `server.log` for any error messages
+
+b) **Port 5000 In Use**
+   - **Solution:** Free up port 5000
+   - Linux/macOS: `sudo lsof -i:5000` to find the process, then `kill [PID]`
+   - Windows: Use Task Manager or `netstat -ano | findstr :5000` to find the process, then end it
+
+c) **Network Firewall Blocking WebSocket**
+   - **Solution:** Check your firewall settings
+   - Allow node.js to communicate on ports 3000 and 5000
+   - Try temporarily disabling the firewall to test if this is the issue
+
+d) **Browser Console Errors**
+   - **Solution:** Open browser developer tools (F12) and check the console for errors
+   - Look for connection errors or CORS issues
+
+### 2. Cannot See Other Users' Changes
+
+**Symptoms:**
+- You can join a room, but don't see other users' cursors or changes
+- Room shows connected users but no updates are visible
+
+**Possible Causes and Solutions:**
+
+a) **Scene Updates Not Being Sent/Received**
+   - **Solution:** Check browser console for errors
+   - Make sure all users are on the same network or can reach each other's computers
+   - Try refreshing the page
+
+b) **Different Room IDs**
+   - **Solution:** Make sure all users are using the exact same room ID
+   - Use the "Copy Invite Link" button to share the correct link
+
+c) **Outdated Browser**
+   - **Solution:** Make sure all users are using an up-to-date browser
+   - Chrome, Firefox, or Edge recommended
+
+### 3. Sudden Disconnections
+
+**Symptoms:**
+- Users get disconnected during collaboration
+- Have to rejoin rooms frequently
+
+**Possible Causes and Solutions:**
+
+a) **Unstable Network Connection**
+   - **Solution:** Check your internet connection
+   - Try using a wired connection instead of Wi-Fi
+
+b) **Server Timeout**
+   - **Solution:** The server may be timing out inactive connections
+   - Make regular changes to keep the connection active
+
+c) **Server Process Terminated**
+   - **Solution:** Make sure the server process is still running
+   - Check `server.log` for any error messages
+
+### 4. Performance Issues
+
+**Symptoms:**
+- Lag or slow responsiveness when collaborating
+- Drawing feels sluggish
+
+**Possible Causes and Solutions:**
+
+a) **Too Many Scene Updates**
+   - **Solution:** The app broadcasts changes every second
+   - Try making smaller, more incremental changes
+
+b) **Many Users in One Room**
+   - **Solution:** The performance can degrade with many users
+   - Try limiting rooms to 5-10 users for best performance
+
+c) **Complex Drawings**
+   - **Solution:** Very complex drawings can be resource-intensive
+   - Try splitting complex diagrams across multiple rooms/canvases
+
+## Checking Server Status
+
+### Linux/macOS
+
+```bash
+# Check if server is running
+ps aux | grep "node server.js"
+
+# Check server logs
+cat server.log
+
+# Check port usage
+lsof -i:5000
+```
+
+### Windows
+
+```powershell
+# Check if server is running
+netstat -ano | findstr :5000
+
+# Check server logs
+type logs\server.log
+
+# Check for Node.js processes
+tasklist | findstr node
+```
+
+## Restarting the Collaboration Server
+
+If you encounter persistent issues, try restarting both the server and client:
+
+### Linux/macOS
+
+1. Press Ctrl+C in the terminal running the application
+2. Run `./start-collaborative-vg-canvas.sh` again
+
+### Windows
+
+1. Close the command prompt windows for both the server and client
+2. Run `start-collaborative.bat` again
+
+## Advanced Debugging
+
+For advanced users, you can monitor WebSocket traffic:
+
+1. Open browser developer tools (F12)
+2. Go to the Network tab
+3. Filter by "WS" to show WebSocket connections
+4. Examine the frames being sent/received
+
+## Still Having Issues?
+
+If you've tried the solutions above and are still experiencing problems:
+
+1. Check the GitHub Issues page for similar reports
+2. Create a detailed bug report including:
+   - Steps to reproduce the issue
+   - Browser and OS versions
+   - Any console errors
+   - Server logs
+3. Contact support at support@veritable-games.com

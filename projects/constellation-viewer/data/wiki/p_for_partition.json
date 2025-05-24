@@ -1,0 +1,15 @@
+{
+  "title": "p_for_partition",
+  "content": "# p_for_partition\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:37:03-07:00\n\n====== p for partition ======\nCommand (m for help): p\n\nDisk /dev/sda: 476.94 GiB, 512110190592 bytes, 1000215216 sectors\nDisk model: Samsung SSD 850 \nUnits: sectors of 1 * 512 = 512 bytes\nSector size (logical/physical): 512 bytes / 512 bytes\nI/O size (minimum/optimal): 512 bytes / 512 bytes\nDisklabel type: gpt\nDisk identifier: 85378A24-67CC-4F7C-98A1-6A887602B65A\n\nDevice       Start        End   Sectors   Size Type\n/dev/sda1     2048    1048575   1046528   511M Microsoft basic data\n/dev/sda2  1050624    5244927   4194304     2G Linux swap\n/dev/sda3  5244928    9439231   4194304     2G Solaris boot\n/dev/sda4  9439232 1000215182 990775951 472.4G Solaris root\n\nCommand (m for help): \n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/p_for_partition.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.161Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/p_for_partition.txt",
+    "importedAt": "2025-05-05T16:25:37.161Z"
+  },
+  "created": "2025-05-05T16:25:37.161Z",
+  "modified": "2025-05-05T16:25:37.161Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

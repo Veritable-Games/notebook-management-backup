@@ -1,0 +1,31 @@
+{
+  "name": "constellation-viewer",
+  "version": "1.0.0",
+  "description": "Interactive 3D constellation viewer with wiki integration",
+  "scripts": {
+    "start": "webpack serve --open --config frontend/webpack.config.js",
+    "build": "webpack --config frontend/webpack.config.js",
+    "backend": "node backend/server.js",
+    "dev": "concurrently \"npm run backend\" \"npm run start\"",
+    "docker:build": "npm run build && docker build -t constellation-viewer -f config/Dockerfile .",
+    "docker:run": "docker run -p 9003:80 constellation-viewer"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^21.1.1",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "three": "^0.160.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "babel-loader": "^10.0.0",
+    "concurrently": "^8.2.2",
+    "css-loader": "^6.8.1",
+    "html-webpack-plugin": "^5.6.3",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.2"
+  }
+}

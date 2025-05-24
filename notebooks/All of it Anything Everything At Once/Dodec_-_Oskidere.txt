@@ -1,0 +1,456 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-31T09:20:20-07:00
+
+==============================================================================
+OSKIDERE - SENTINEL MACHINE
+==============================================================================
+
+Profile:
+Oskidere is a modular machine, originally designed for war but repurposed for 
+utility and repair. As a Sentinel, Oskidere's primary function is to maintain 
+the infrastructure of Maria and assist its citizens. Despite its imposing size 
+and weight, Oskidere has become beloved by many for its selfless service.
+
+Background:
+Created during a time of conflict, Oskidere was part of a line of war machines 
+designed to defend human interests. When peace was established, instead of being 
+decommissioned, Oskidere and others like it were repurposed to serve the 
+colonies on Chione. Over centuries, Oskidere has operated under various owners, 
+slowly developing a sense of identity and purpose beyond its original 
+programming.
+
+Role in the Conflict:
+As tensions rise between the citizens of Maria and the ACP on Boreas, Oskidere 
+finds itself in a unique position. Its knowledge of Maria's infrastructure and 
+ability to repair complex systems make it invaluable in maintaining the colony's 
+independence. However, its origins as a war machine complicate its relationship 
+with both sides of the conflict.
+
+Abilities:
+- Modular design allows for adaptation to various tasks
+- Bipedal and wheeled locomotion
+- Advanced repair and maintenance capabilities
+- Heat management system (requires periodic cooling)
+- Ability to interact with and form bonds with human colonists
+
+Personality:
+Despite its mechanical nature, Oskidere has developed a distinct personality 
+through its interactions with the people of Maria. It is known for its 
+dedication to service, curiosity about the world around it, and desire to form 
+meaningful connections with others. Oskidere struggles with the weight of its 
+wartime origins and seeks to prove its worth as a protector and builder rather 
+than a destroyer.
+
+--------------------
+Voice Lines:
+--------------------
+
+### Assign SP
+- "No problem!"
+- "Fine with me!"
+- "Absolutely."
+
+### Unassign SP
+- *
+
+### Unassign All SP
+- *
+
+### Fortify SP
+- *
+
+### Emplacement Zone VO
+- *
+
+### Setup EZ
+- *
+
+### Destroy EZ
+- *
+
+### Squad Feedback VO
+- *
+
+### Player Killed Enemy
+- *
+
+### NPC Killed Enemy
+- *
+
+### Gyre Spotted
+- *
+
+### Ultra Gyre Spotted
+- *
+
+### Dredge Spotted
+- "Enemy Dredge, please don't let it crush me."
+- "Hostile Dredge! Can I fall back, sir?"
+
+### Scope Spotted
+- *
+
+### Siphon Spotted
+- *
+
+### Siren Spotted
+- *
+
+### Vector Spotted
+- *
+
+### Soldier Spotted
+- *
+
+### Reloading
+- *
+
+### Low Armor
+- *
+
+### Low Armor Urgent
+- *
+
+### Friendly Fire
+- *
+
+### Player AFK
+- *
+
+### Player Misfiring
+- *
+
+### Squad Abandoned
+- *
+
+### Invalid Command
+- *
+
+### Squad Abandoned Urgent
+- *
+
+### Player Blocking Way
+- *
+
+### Terminal Slice VO
+- *
+
+### Slice Terminal
+- *
+
+### Cancel Slice Terminal
+- *
+
+### Terminal Slice Status
+- *
+
+### Terminal Slice Complete
+- *
+
+### Door Slice VO
+- *
+
+### Slice Door
+- *
+
+### Cancel Door Slice
+- *
+
+### Door Slice Status
+- *
+
+### Door Slice Complete
+- *
+
+### Breaching VO
+- *
+
+### Breach Door
+- *
+
+### Cancel Door Breach
+- *
+
+### Breach Charge Armed
+- *
+
+### Detonation Reaction
+- *
+
+### Set Charge VO
+- *
+
+### Set Charge
+- *
+
+### Charge Status
+- *
+
+### Cancel Charge
+- *
+
+### Change Armed
+- *
+
+### Detonate Charge & Reaction
+- *
+
+### Resupply VO
+- *
+
+### Resupply
+- *
+
+### Cancel Resupply
+- *
+
+### Resupply Complete
+- *
+
+### No Resupply Needed
+- *
+
+### Revive VO
+- *
+
+### Revive
+- *
+
+### Cancel Revive
+- *
+
+### Exception Dialogues
+- *
+
+### Revive Complete
+- "I can move again, thanks!"
+- "I've got some armor now, sir!"
+
+### Player Downed
+- *
+
+### Reviving Player
+- *
+
+### Carden Downed
+- *
+
+### Reviving Carden
+- *
+
+### Kalisa Downed
+- *
+
+### Reviving Kalisa
+- *
+
+### Marian Downed
+- *
+
+### Reviving Marian
+- *
+
+### Sorrel Downed
+- *
+
+### Reviving Sorrel
+- *
+
+### Wilmet Downed
+- *
+
+### Reviving Wilmet
+- *
+
+### Arrisi Downed
+- *
+
+### Reviving Arrisi
+- *
+
+### Gregers Downed
+- *
+
+### Reviving Gregers
+- *
+
+### Jo Downed
+- *
+
+### Reviving Jo
+- *
+
+### Lorens Downed
+- *
+
+### Reviving Lorens
+- *
+
+### Vivian Downed
+- *
+
+### Reviving Vivian
+- *
+
+### X Downed
+- *
+
+### Reviving X
+- *
+
+### Disable Mine
+- *
+
+### Cancel Mine Disable
+- *
+
+### Mine Disable Complete
+- *
+
+### Rewire Mine
+- *
+
+### Setup Trap
+- *
+
+### Cancel Trap Setup
+- *
+
+==============================================================================
+
+==============================================================================
+PLAYER CHARACTER COMMANDS
+==============================================================================
+
+### General Commands
+- "Taking cover!"
+- "On it!"
+- "I'll be there!"
+
+### Assign SP
+- "Set up there, Sentinel."
+- "Taking position."
+
+### Unassign SP
+- "Pack it up, Sentinel."
+
+### Unassign All SP
+- "Sentinels, regroup."
+- "Form up, squad."
+
+### Fortify SP
+- "Let's fortify this position."
+
+### Destroy SP
+- "Destroy this strategic point."
+
+### Player Killed Enemy
+- "Enemy down!"
+- "Target eliminated."
+
+### NPC Killed Enemy
+- "Nice shot!"
+- "Enemy neutralized."
+
+### Dredge Spotted
+- "Sir, we've got a Dredge headed our way!"
+- "Dredge incoming, boss."
+
+### Scope Spotted
+- "Scope spotted!"
+
+### Siphon Spotted
+- "Siphon spotted!"
+
+### Siren Spotted
+- "Siren spotted!"
+
+### Vector Spotted
+- "Vector spotted!"
+
+### Soldier Spotted
+- "Soldier spotted!"
+
+### Reloading
+- "Reloading!"
+
+### Low Armor
+- "My armor's running low!"
+
+### Low Armor Urgent
+- "Critical armor damage!"
+
+### Friendly Fire
+- "Watch your fire!"
+
+### Player AFK
+- "Player inactive."
+
+### Player Misfiring
+- "Check your fire!"
+
+### Squad Abandoned
+- "We've been abandoned!"
+
+### Invalid Command
+- "Invalid command received."
+
+### Player Blocking Way
+- "You're in my way!"
+
+### Terminal Slice VO
+- "Slicing terminal."
+
+### Cancel Slice Terminal
+- "Cancel slicing."
+
+### Door Slice VO
+- "Slicing door."
+
+### Cancel Door Slice
+- "Cancel door slicing."
+
+### Breach Door
+- "Breaching door!"
+
+### Cancel Door Breach
+- "Cancel breach."
+
+### Breach Charge Armed
+- "Charge armed!"
+
+### Detonation Reaction
+- "Detonation in 3, 2, 1..."
+
+### Set Charge VO
+- "Setting charge."
+
+### Cancel Charge
+- "Cancel charge."
+
+### Resupply VO
+- "Resupplying."
+
+### Cancel Resupply
+- "Cancel resupply."
+
+### Revive VO
+- "Reviving."
+
+### Cancel Revive
+- "Cancel revive."
+
+### Mine Disable VO
+- "Disabling mine."
+
+### Cancel Mine Disable
+- "Cancel mine disable."
+
+### Setup Trap
+- "Setting up trap."
+
+### Cancel Trap Setup
+- "Cancel trap setup."
+
+==============================================================================

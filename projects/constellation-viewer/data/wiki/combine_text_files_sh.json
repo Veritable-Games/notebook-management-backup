@@ -1,0 +1,15 @@
+{
+  "title": "combine_text_files_sh",
+  "content": "# combine_text_files.sh\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T23:16:50-07:00\n\n====== combine text files.sh ======\n#!/bin/bash\n\n# Set the base directory\nbase_dir=\"/media/user/External/VOICE/0COMPLETE\"\n\n# Function to combine text files in a directory\ncombine_text_files() {\n\tlocal folder_path=\"$1/nano_files\"\n\tlocal output_file=\"$folder_path/combined_output.txt\"\n\n\t# Create or empty the output file\n\t: > \"$output_file\"\n\n\t# Loop through each text file in the directory\n\tfor file in \"$folder_path\"/*.txt; do\n\t\tif  -f \"$file\" ; then\n\t\t\t# Write the file name as a separator\n\t\t\techo \"======== $(basename \"$file\") ========\" >> \"$output_file\"\n\t\t\t# Append the contents of the file\n\t\t\tcat \"$file\" >> \"$output_file\"\n\t\t\techo -e \"\\n\" >> \"$output_file\"\n\t\tfi\n\tdone\n}\n\n# Loop through each folder in the base directory\nfor folder in \"$base_dir\"/*/; do\n\tfor subfolder in \"$folder\"*/; do\n\t\t# Check if the nano_files directory exists\n\t\tif [ -d \"$subfolder/nano_files\" ]; then\n\t\t\t# Combine text files in the nano_files folder\n\t\t\tcombine_text_files \"$subfolder\"\n\t\t\techo \"Combined text files in $subfolder/nano_files into $subfolder/nano_files/combined_output.txt\"\n\t\telse\n\t\t\techo \"Skipping $subfolder as it does not contain a nano_files directory.\"\n\t\tfi\n\tdone\ndone\n\necho \"All applicable text files have been combined.\"\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/combine_text_files.sh.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.087Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/combine_text_files.sh.txt",
+    "importedAt": "2025-05-05T16:25:37.087Z"
+  },
+  "created": "2025-05-05T16:25:37.087Z",
+  "modified": "2025-05-05T16:25:37.087Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

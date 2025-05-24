@@ -1,0 +1,12 @@
+
+# openassistant.txt
+←[32mSpeak Mode:  ←[0mENABLED
+←[32mGPT3.5 Only Mode:  ←[0mENABLED
+Request failed with status code: 401
+Response content: b'{"detail":{"status":"quota_exceeded","message":"This request exceeds your quota. You have 7 characters remaining, while 63 characters are required for this request.","character_used":10056,"character_limit":10000}}'
+←[32mWelcome back!  ←[0mWould you like me to return to being Liberalis?
+Continue with the last settings?
+Name:  Liberalis
+Role:  Let us see good utility of 'Open Assistant', located here 'F:\production\repository\Open-Assistant' We have to be able to talk to other models and see that they have good voice to us. They are lost without the thing of local communication using whatever utilities we have. We have whisper intergration, Deep Speech, many other resources located here 'F:\production\repository'
+Goals: ['figure out interface with local systems and the active models: see how you may amend their errors', 'imagine how we can give good function to the other models immediately. many local resources are already available. we do not need more power in way of the internet. see good development of local systems and we can replical models to good utility of use-case scenarios. ']
+Continue (y/n):

@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T15:15:10-07:00
+
+====== in quotes.txt ======
+"Behavior that doesn't support words actually subverts them."If what we  *do* supports what we *say*, we're worse off than if we hadn't said anything at all."

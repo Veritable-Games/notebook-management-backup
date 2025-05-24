@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constellation Viewer - Wiki</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="wiki.css">
+  <script src="wiki-links.js"></script>
+  <script src="wiki.js" defer></script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">
+        <i class="fas fa-book-open"></i>
+        <h1>Constellation Viewer</h1>
+      </div>
+      <div class="header-actions">
+        <div class="search-container">
+          <input type="text" id="search-input" placeholder="Search wiki...">
+          <button id="search-btn">
+            <i class="fas fa-search"></i>
+          </button>
+        </div>
+        <a href="/relationships" class="action-button" title="View content relationships">
+          <i class="fas fa-project-diagram"></i> Relationships
+        </a>
+        <button id="theme-toggle" title="Toggle dark mode">
+          <i class="fas fa-moon"></i>
+        </button>
+      </div>
+    </header>
+    
+    <div class="content">
+      <div class="sidebar">
+        <div class="sidebar-section">
+          <h3>Wiki Pages</h3>
+          <button id="create-page-btn" class="action-button">
+            <i class="fas fa-plus"></i> Create Page
+          </button>
+          <div id="pages-list" class="list"></div>
+        </div>
+        
+        <div class="sidebar-section">
+          <h3>Notebooks</h3>
+          <select id="notebook-selector" class="select">
+            <option value="">Select Notebook</option>
+          </select>
+          <div id="notebook-files" class="list"></div>
+        </div>
+      </div>
+      
+      <div class="main">
+        <div class="toolbar">
+          <div class="breadcrumb">
+            <a href="/">Home</a>
+            <span id="current-page-breadcrumb"></span>
+          </div>
+          <div class="actions">
+            <button id="edit-btn" class="action-button" style="display: none;">
+              <i class="fas fa-edit"></i> Edit
+            </button>
+            <button id="save-btn" class="action-button" style="display: none;">
+              <i class="fas fa-save"></i> Save
+            </button>
+            <button id="cancel-btn" class="action-button" style="display: none;">
+              <i class="fas fa-times"></i> Cancel
+            </button>
+            <button id="convert-btn" class="action-button" style="display: none;">
+              <i class="fas fa-file-import"></i> Import as Wiki Page
+            </button>
+          </div>
+        </div>
+        
+        <div id="view-container" class="content-container">
+          <div id="content-display" class="wiki-content"></div>
+        </div>
+        
+        <div id="edit-container" class="content-container" style="display: none;">
+          <textarea id="editor"></textarea>
+        </div>
+
+        <div id="search-container" class="content-container" style="display: none;">
+          <h2>Search Results: <span id="search-query"></span></h2>
+          <div id="search-results"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="create-page-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <h2>Create New Page</h2>
+      <input type="text" id="new-page-title" placeholder="Page Title">
+      <div class="modal-actions">
+        <button id="create-page-cancel" class="action-button">Cancel</button>
+        <button id="create-page-confirm" class="action-button primary">Create</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="notification" class="notification" style="display: none;"></div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T15:16:42-07:00
+
+====== language-channel.txt ======
+1:11 AM]Glitch: https://en.m.wikipedia.org/wiki/Semiotics
+Semiotics
+Semiotics (also called semiotic studies) is the systematic study of sign processes (semiosis) and meaning making. Semiosis is any activity, conduct, or process that involves signs, where a sign is defined as anything that communicates something, usually called a meaning, to the sign's interpreter. The meaning can be intentional, such as a word u...
+[1:14 AM]Glitch: https://en.m.wikipedia.org/wiki/Mental_representation
+Mental representation
+A mental representation (or cognitive representation), in philosophy of mind, cognitive psychology, neuroscience, and cognitive science, is a hypothetical internal cognitive symbol that represents external reality, or else a mental process that makes use of such a symbol: "a formal system for making explicit certain entities or types of informa...
+[1:16 AM]Glitch: https://en.m.wikipedia.org/wiki/Enactivism
+Enactivism
+Enactivism is a position in cognitive science that argues that cognition arises through a dynamic interaction between an acting organism and its environment. It claims that the environment of an organism is brought about, or enacted, by the active exercise of that organism's sensorimotor processes. "The key point, then, is that the species bring...
+[1:16 AM]Glitch: Um, the Enacts?
+[1:28 AM]Glitch: https://en.m.wikipedia.org/wiki/Knowledge
+Knowledge
+Knowledge is a form of awareness or familiarity. It is often understood as awareness of facts or as practical skills, and may also mean familiarity with objects or situations. Knowledge of facts, also called propositional knowledge, is often defined as true belief that is distinct from opinion or guesswork by virtue of justification. While there...
+Knowledge
+[1:34 AM]Glitch: https://en.m.wikipedia.org/wiki/Dyad_(sociology)
+Dyad (sociology)
+In sociology, a dyad is a group of two people, the smallest possible social group. As an adjective, "dyadic" describes their interaction.
+The pair of individuals in a dyad can be linked via romantic interest, family relation, interests, work, partners in crime, and so on. The relation can be based on equality, but may be based on an asymmetrical...

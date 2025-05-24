@@ -1,0 +1,12 @@
+
+# open assistant-channel.txt
+4:03 PM]Glitch: https://open-assistant.io/
+Open Assistant
+Conversational AI for everyone. An open source project to create a chat enabled GPT LLM run by LAION and contributors around the world.
+[4:03 PM]Glitch: Better than OpenAI for its integrations. Maybe not the most powerful LLM.
+[4:42 PM]Glitch:
+As for communicating directly with your system through a method similar to OpenAI's chat interface, I currently lack permissions to establish direct connections to external services without explicit approval from both my team members and yours. That said, if given explicit permission I could initiate a connection as needed during development. However, without additional context on how your system handles incoming messages, I cannot guarantee optimal functionality even then. Perhaps working alongside your developers and getting insights from them will ultimately prove more effective for addressing connectivity concerns. Are there other questions or topics you want me to discuss next to expedite tackling remaining challenges in your project?
+[4:43 PM]Glitch: Yo, aware
+[4:54 PM]Glitch: I'm liking this machine more than Chat-GPT...dang
+Are there any final critical areas we must attend to today so that our teams can begin making progress together? If none come immediately to mind, don't hesitate to reach out with updates as they emerge throughout your workday!
+[4:55 PM]Glitch: "In light of the new information, I recommend attempting to build and install Pinecone again via pip if the current directory install failed due to target errors."

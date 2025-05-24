@@ -1,0 +1,17 @@
+{
+  "title": "Home",
+  "content": "# Home\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.4\nCreation-Date: 2025-04-15T00:00:00Z\n\n====== On Command ======\n\n===== Project Overview =====\nOn Command is a squad-based tactical third-person shooter with a focus on strategic combat and exploration. Set in a future where humanity battles alien forces using advanced technology and strategic teamwork.\n\n===== Key Documents =====\n* [[design/game-design-document|Game Design Document]]\n* [[characters/index|Characters]]\n* [[world/index|World Building]]\n* [[equipment/index|Equipment and Technology]]\n\n===== Recent Updates =====\n* Initial wiki restructuring\n* Documentation reorganization\n\n===== Categories =====\n* [[design/index|Design Documents]]\n* [[characters/index|Characters]]\n* [[world/index|Locations and Settings]]\n* [[equipment/index|Equipment and Technology]]\n* [[narrative/index|Narrative Elements]]\n\n## Metadata\n- **Source**: on-command-wiki/Home.txt\n- **Type**: wiki\n- **Tags**: wiki, on-command-wiki, character-design, location\n- **Imported**: 2025-05-05T16:25:37.222Z",
+  "source": {
+    "type": "notebook",
+    "path": "on-command-wiki/Home.txt",
+    "importedAt": "2025-05-05T16:25:37.222Z"
+  },
+  "created": "2025-05-05T16:25:37.222Z",
+  "modified": "2025-05-05T16:25:37.222Z",
+  "tags": [
+    "wiki",
+    "on-command-wiki",
+    "character-design",
+    "location"
+  ]
+}

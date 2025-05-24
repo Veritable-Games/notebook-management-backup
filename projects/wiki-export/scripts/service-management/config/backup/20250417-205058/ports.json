@@ -1,0 +1,51 @@
+{
+  "port_assignments": [
+    {
+      "service": "CV-Backend",
+      "port": 3004,
+      "protocol": "http",
+      "endpoint": "/api"
+    },
+    {
+      "service": "CV-Frontend",
+      "port": 9003,
+      "protocol": "http",
+      "endpoint": "/"
+    },
+    {
+      "service": "CM-Backend",
+      "port": 3001,
+      "protocol": "http",
+      "endpoint": "/"
+    },
+    {
+      "service": "CM-Frontend",
+      "port": 3002,
+      "protocol": "http",
+      "endpoint": "/"
+    },
+    {
+      "service": "3D-Visualization",
+      "port": 8081,
+      "protocol": "http",
+      "endpoint": "/"
+    },
+    {
+      "service": "PS2-Forum",
+      "port": 8000,
+      "protocol": "http",
+      "endpoint": "/"
+    },
+    {
+      "service": "Wiki-Export",
+      "port": 8080,
+      "protocol": "http",
+      "endpoint": "/"
+    }
+  ],
+  "port_range": {
+    "min": 3000,
+    "max": 9999
+  },
+  "reserved_ports": [3000, 8080, 8443]
+}

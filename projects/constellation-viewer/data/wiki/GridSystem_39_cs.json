@@ -1,0 +1,15 @@
+{
+  "title": "GridSystem_39_cs",
+  "content": "# GridSystem_39.cs\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:09:41-07:00\n\n====== GridSystem 39.cs ======\nusing System.Collections.Generic;\nusing UnityEngine;\n\npublic class GridSystem_39 : MonoBehaviour\n{\n\tpublic float cellSize = 1f; // You can set this to whatever size you want your grid cells to be\n\tpublic List<Collider> colliders; // Set this in the inspector to include all relevant colliders\n\n\tprivate class GridCell\n\t{\n\t\t// Add fields here for any information you want to store about each grid cell\n\t}\n\n\tvoid Start()\n\t{\n\t\tBounds bounds = new Bounds();\n\t\tforeach (Collider collider in colliders)\n\t\t{\n\t\t\tbounds.Encapsulate(collider.bounds);\n\t\t}\n\n\t\tint xSize = Mathf.CeilToInt(bounds.size.x / cellSize);\n\t\tint ySize = Mathf.CeilToInt(bounds.size.y / cellSize);\n\t\tint zSize = Mathf.CeilToInt(bounds.size.z / cellSize);\n\n\t\tGridCell[,,] grid = new GridCell[xSize, ySize, zSize];\n\n\t\tLineRenderer lineRenderer = gameObject.AddComponent<LineRenderer>();\n\t\tList<Vector3> points = new List<Vector3>();\n\n\t\tfor (int x = 0; x <= xSize; x++)\n\t\t{\n\t\t\tfor (int y = 0; y <= ySize; y++)\n\t\t\t{\n\t\t\t\tfor (int z = 0; z <= zSize; z++)\n\t\t\t\t{\n\t\t\t\t\tVector3 position = bounds.min + new Vector3(x * cellSize, y * cellSize, z * cellSize);\n\t\t\t\t\tif (x < xSize) // Draw line in the x direction\n\t\t\t\t\t{\n\t\t\t\t\t\tpoints.Add(position);\n\t\t\t\t\t\tpoints.Add(position + new Vector3(cellSize, 0, 0));\n\t\t\t\t\t}\n\t\t\t\t\tif (y < ySize) // Draw line in the y direction\n\t\t\t\t\t{\n\t\t\t\t\t\tpoints.Add(position);\n\t\t\t\t\t\tpoints.Add(position + new Vector3(0, cellSize, 0));\n\t\t\t\t\t}\n\t\t\t\t\tif (z < zSize) // Draw line in the z direction\n\t\t\t\t\t{\n\t\t\t\t\t\tpoints.Add(position);\n\t\t\t\t\t\tpoints.Add(position + new Vector3(0, 0, cellSize));\n\t\t\t\t\t}\n\t\t\t\t\tgrid[x, y, z] = new GridCell();\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\n\t\tlineRenderer.positionCount = points.Count;\n\t\tlineRenderer.SetPositions(points.ToArray());\n\t}\n}\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/GridSystem_39.cs.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once\n- **Imported**: 2025-05-05T16:25:37.060Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/GridSystem_39.cs.txt",
+    "importedAt": "2025-05-05T16:25:37.060Z"
+  },
+  "created": "2025-05-05T16:25:37.060Z",
+  "modified": "2025-05-05T16:25:37.060Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once"
+  ]
+}

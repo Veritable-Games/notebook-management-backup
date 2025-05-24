@@ -1,0 +1,103 @@
+{
+  "nodes": [
+    {
+      "id": "home",
+      "title": "Home",
+      "type": "document",
+      "category": "navigation",
+      "size": 1.2
+    },
+    {
+      "id": "about",
+      "title": "About",
+      "type": "document",
+      "category": "information",
+      "size": 0.9
+    },
+    {
+      "id": "projects",
+      "title": "Projects",
+      "type": "document",
+      "category": "navigation",
+      "size": 1.1
+    },
+    {
+      "id": "three-js",
+      "title": "Three.js",
+      "type": "document",
+      "category": "technical",
+      "size": 0.95
+    },
+    {
+      "id": "unity-project",
+      "title": "Unity Project",
+      "type": "document",
+      "category": "technical",
+      "size": 0.9
+    },
+    {
+      "id": "notebooks",
+      "title": "Notebooks",
+      "type": "document",
+      "category": "information",
+      "size": 1.0
+    },
+    {
+      "id": "ps2-forum",
+      "title": "PS2 Forum",
+      "type": "document",
+      "category": "design",
+      "size": 0.85
+    }
+  ],
+  "links": [
+    {
+      "source": "home",
+      "target": "about",
+      "type": "references",
+      "strength": 0.7
+    },
+    {
+      "source": "home",
+      "target": "projects",
+      "type": "contains",
+      "strength": 0.9
+    },
+    {
+      "source": "projects",
+      "target": "unity-project",
+      "type": "contains",
+      "strength": 0.8
+    },
+    {
+      "source": "projects",
+      "target": "ps2-forum",
+      "type": "contains",
+      "strength": 0.6
+    },
+    {
+      "source": "unity-project",
+      "target": "three-js",
+      "type": "references",
+      "strength": 0.5
+    },
+    {
+      "source": "three-js",
+      "target": "notebooks",
+      "type": "implements",
+      "strength": 0.7
+    },
+    {
+      "source": "about",
+      "target": "notebooks",
+      "type": "describes",
+      "strength": 0.6
+    },
+    {
+      "source": "notebooks",
+      "target": "projects",
+      "type": "documents",
+      "strength": 0.8
+    }
+  ]
+}

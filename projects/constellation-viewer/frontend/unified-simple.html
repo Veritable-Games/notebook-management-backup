@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Constellation</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        header {
+            background-color: #1e1e1e;
+            padding: 1rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        header h1 {
+            font-size: 1.8rem;
+            margin: 0;
+        }
+        
+        .views {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+        
+        .view-card {
+            flex: 1 1 300px;
+            background-color: #1e1e1e;
+            border-radius: 8px;
+            padding: 1.5rem;
+            min-height: 200px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.2s;
+        }
+        
+        .view-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .view-card h2 {
+            margin-top: 0;
+            color: #90caf9;
+        }
+        
+        .view-card p {
+            flex-grow: 1;
+        }
+        
+        .view-card a {
+            display: inline-block;
+            background-color: #303030;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            margin-top: 1rem;
+            transition: background-color 0.2s;
+        }
+        
+        .view-card a:hover {
+            background-color: #4285f4;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Knowledge Constellation</h1>
+        <div class="user-info">
+            Unified Knowledge Management
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="views">
+            <div class="view-card">
+                <h2>Enhanced Wiki</h2>
+                <p>Browse and edit your knowledge wiki with a traditional interface. Create, update, and manage content.</p>
+                <a href="/enhanced" target="_blank">Launch Wiki</a>
+            </div>
+            
+            <div class="view-card">
+                <h2>Notebook Browser</h2>
+                <p>Direct access to your notebook files. Import content from notebooks into your wiki.</p>
+                <a href="/simple" target="_blank">Launch Browser</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

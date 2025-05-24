@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T14:57:01-07:00
+
+====== ck error.txt ======
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x0000024299880020
+
+VCRUNTIME140
+Mordhau_Win64_Shipping!<lambda_b23369ed6a0be55efe632c06c32df106>::operator()() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureCore\Private\AudioCaptureCore.cpp:194]
+Mordhau_Win64_Shipping!Audio::FAudioCaptureRtAudioStream::OnAudioCapture() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\AudioCaptureRtAudio.cpp:196]
+Mordhau_Win64_Shipping!OnAudioCaptureCallback() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\AudioCaptureRtAudio.cpp:18]
+Mordhau_Win64_Shipping!RtApiDs::callbackEvent() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\RtAudio.cpp:6281]
+Mordhau_Win64_Shipping!callbackHandler() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\RtAudio.cpp:6663]
+ucrtbase
+kernel32
+ntdll
+
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x0000023408db0020
+
+VCRUNTIME140
+Mordhau_Win64_Shipping!<lambda_b23369ed6a0be55efe632c06c32df106>::operator()() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureCore\Private\AudioCaptureCore.cpp:194]
+Mordhau_Win64_Shipping!Audio::FAudioCaptureRtAudioStream::OnAudioCapture() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\AudioCaptureRtAudio.cpp:196]
+Mordhau_Win64_Shipping!OnAudioCaptureCallback() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\AudioCaptureRtAudio.cpp:18]
+Mordhau_Win64_Shipping!RtApiDs::callbackEvent() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\RtAudio.cpp:6281]
+Mordhau_Win64_Shipping!callbackHandler() [D:\BuildAgent02\work\c3c40d1ef4189e88\UE4\Engine\Source\Runtime\AudioCaptureImplementations\AudioCaptureRtAudio\Private\RtAudio.cpp:6663]
+ucrtbase
+kernel32
+ntdll

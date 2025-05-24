@@ -1,0 +1,4047 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-22T19:01:24-07:00
+
+FIXME-MyLoadStringW- : dodec/Assets/StreamingAssets/WaterSystemData/ShorelineMaps/7dc79a8b6fcabad499bd01cbaaa63a21/KW_Shoreline_Depth.gz
+
+Bihz-n.2~L'Ss9? thedeanreno
+
+at Craze
+There will never be that moment. Consolidating, collecting, and finally curating. I saw myself virtuous in finding and possessing this knowledge over its dissemination. No one would accomplish anything alone and I would humble myself to the acknowledgement of former peers, friends, and all those that would see any interest in the work. Talking again on the issues. We might, together, have a model for an optimistic future. I don't believe myself a cynic, misanthrope, or nihilist. Love yourself. Love one another. There is a secular path to forgiveness and virtue seeking. We might amend all the wrong in the world if we try.
+
+user@device:~$ ssh-keygen -t rsa -b 4096 -C "remote@veritablegames.com"Generating public/private rsa key pair.
+Enter file in which to save the key (/home/user/.ssh/id_rsa): 
+Created directory '/home/user/.ssh'.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/user/.ssh/id_rsa
+Your public key has been saved in /home/user/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:vWKpLsgSiGxAQhXUx+yFAhhyUkWQJWy5bdV3dS9qSgk remote@veritablegames.com
+The key's randomart image is:
++---[RSA 4096]----+
+| +=X%B o..    .. . |
+|-------------------|
+| o==. o.=... .  .. |
+| o. o .+ E. .  . . |
+| . . o  . o . . .  |
+| =  .    S + o     |
+| +o       o +      |
+| .o .    + o       |
+| . o .  o .        |
+| .   oo            |
++----[SHA256]-----+
+
+
+Features
+
+1. CE certified: This means the jumpsuit meets the safety and health requirements set by the European Union. It has been tested and conforms to the standards for personal protective equipment (PPE).
+
+2. Concealed stud front: The front closure of the jumpsuit is secured with hidden studs (snap fasteners). This helps prevent snagging and provides a cleaner appearance.
+
+3. Radio loop: A loop on the jumpsuit designed to hold a radio, allowing the wearer to keep communication devices easily accessible.
+
+4. Rule pocket: A specialized pocket intended to hold a ruler or other similar tools, typically found in workwear.
+
+5. UPF 50+: Ultraviolet Protection Factor (UPF) of 50+ indicates that the fabric blocks over 98% of UV radiation, providing excellent protection from the sun's harmful rays.
+
+6. 5XL: Refers to the size of the jumpsuit, with 5XL indicating a very large size, accommodating a wider range of body types.
+
+7. Side access: The jumpsuit has openings on the sides, allowing easy access to the wearer’s clothing or items underneath the jumpsuit.
+
+8. Side elastic waist: The waist of the jumpsuit includes elastic on the sides, providing a more comfortable and adjustable fit.
+
+9. Retail bag: The jumpsuit comes packaged in a bag suitable for retail display, often for protection and ease of storage.
+
+10. 4 pockets: The jumpsuit has four pockets, offering practical storage space for tools and personal items.
+
+11. Flame resistant: The fabric of the jumpsuit is resistant to catching fire, providing protection in environments with fire hazards.
+
+12. Radiant convective and contact heat: The jumpsuit is designed to protect against different types of heat: radiant heat (from a heat source), convective heat (transferred through air), and contact heat (direct touch with hot objects).
+
+13. Certified against molten metal splash: The jumpsuit is certified to protect the wearer from splashes of molten metal, common in welding and foundry environments.
+
+14. EN ISO 11611 Class 1 A1+A2: This is a standard for protective clothing for use in welding and allied processes. Class 1 indicates protection against less hazardous welding techniques and situations, A1 refers to limited flame spread on the surface, and A2 refers to limited flame spread on the edge.
+
+15. EN ISO 11612 A1+A2 B1 C1 E2 F1: This standard specifies performance requirements for clothing protecting against heat and flame.
+		A1 and A2: Limited flame spread (surface and edge).
+		B1: Protection against convective heat.
+		C1: Protection against radiant heat.
+		E2: Protection against molten metal splashes.
+		F1: Protection against contact heat.
+
+These features make the jumpsuit highly functional and safe for various industrial and hazardous environments.
+
+Go Custom Clothing
+r6S+dkFxQ,]q!!7
+
+Fabric
+Outer: Safe Welder: 100% Cotton (330gsm)
+
+Size Description
+XS 32-34", S 36-38", M 40-41", L 42-44", XL 46-48", 2XL 50-52", 3XL 54-55", 4XL 56-58", 5XL 60-64"
+
+Washing Instructions
+Max wash temp 40°C, mild process, Do not bleach, Do not tumble dry, Line dry, Iron max 150°C, Do not dry clean, Maximum 50 washes
+
+
+mozilla: ui>aGwE+6P+^]A8
+- recovery: AWJA AS85 Z2H4 TSE1 22NM ZTT9 2P0V EPDG
+
+DFDf8lC6jfnuUGb
+portainer
+
+BbW5jmVJW7IRPll
+WikiJs
+
+
+from 'user@device:~/Documents/Domain/site$'
+
+npm install
+npm start
+
+localhost:9000
+
+npx webpack serve --config webpack.config.js
+
+0.000001
+
+FFF8E7	255	248	231	Off white
+B0DBC6	176	219	198	Duck egg blue
+857D96	133	125	150	Purplish grey
+E4AD82	228	173	130	Pinkish tan
+C3946F	195	148	111	Mocha
+FFCFA5	255	207	165	Light peach
+
+https://github.com/Unity-Technologies/com.unity.cv.synthetichumans
+https://github.com/Unity-Technologies/DOTS-training-samples
+https://github.com/Unity-Technologies/Megacity-Sample.git
+
+User-agent: GPTBot
+Disallow: /
+
+a better society has to be built through inalienable self-determination
+
+Well it's a relief to know I am a little crazy. And aware enough to feel embarassed for knowing it. If I had the willpower to rip off my arms and exact knowledge that they would be replaced with [better] but gave me a normal
+
+Insecurities:
+my arms a too thin: forearms especailly. these things should be balanced
+jaw, often goes unnoticed but has been a (maybe) psychosomatic issue up till late
+speaking, goes with the jaw. maybe loss of relation; or confidence in that ability
+
+the belief 'I don't know what I want out of people' You should want anything at all?
+the shaming that says 'I am not good enough: the day will come that I am' is wasted potential
+to better myself now without complaint of my circumstance: blank mirror for others to reflect with
+
+to an actual ode to Cthulhu
+what do I really feel about my friends and family?
+
+I want to love them dearly. I tell myself it's so easy. 
+From the day I am better. From the day that I am perfectly me. 
+Opportunities for celebration wasted: left unapproached, left weary. 
+
+I would rather see myself a machine than believe myself a man.
+To love is not enough. Love, till now, has not been an action.
+Something gained, something lost, never something given. 
+Pretend knowledge writ by pretend experience. Pre-ten-tious Preten?
+
+Dodec/Autumn
+- Train a model for emotional intelligence. Inference that is reactive before it is linguistic. Internalized modeling of the self compared to others. 
+
+anger as reactive cover
+
+michael mendez
+os copilot
+multion
+mesa kpu
+apo ojelon | oshelon
+
+vegan vanguard
+mexie
+
+capital in the 21st century
+the lost cause
+how infrastructure works(deb chakra)
+libra.fm
+downpour
+
+theater of the oppressed
+
+the people that make policy are the ones that suffer policy
+
+
+rebel steps
+hegemony how to
+
+austerity ecology
+
+convivial
+subsumed
+
+rss feed
+deep utopia
+slow living
+swarm wise
+
+cloud city
+no pride
+no ego
+no vanity
+no fame
+
+the betrayal of the american man
+
+life as a house
+john bradshaw
+creating love
+
+when men come to work
+loved and living...
+
+love is to be full
+to be alive is to act
+
+care of the soul
+thomas moore
+
+doomer vs bloomer
+the production of money
+paul raden
+irreducible minimum
+sven robinson
+the soul of a man under socialism
+
+if they can find money for war, they can find money to pay us more and reduce our hours
+
+endless production and only so many days under the sun
+
+haibane renmei
+planetes
+space brothers
+wonder egg priority
+nichijou
+blue eyed samurai
+
+python3 -m yt_dlp --extract-audio --audio-format mp3 --embed-thumbnail --add-metadata [URL]
+python3 -m yt_dlp --extract-audio --audio-format mp3 --add-metadata [URL]
+
+eyeD3 --remove-all-images [MUSIC].mp3
+eyeD3 --add-image=[IMAGE].jpg:FRONT_COVER:"Album cover" [MUSIC].mp3
+
+python3 -m yt_dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio" -o "%(title)s.%(ext)s"
+
+an idea to 'project' the local generation of the website from this machine onto a serverlist. 
+
+https://pypi.org/project/yt-dlp/
+
+Artists I Owe
+https://thisismoonchild.bandcamp.com/album/voyager
+https://obliqueoccasions.bandcamp.com/album/--6
+https://tokyotearoom.bandcamp.com/album/dream-room
+https://haircutsformen.bandcamp.com/music
+https://genomrecords.bandcamp.com/
+https://noodsradio.com/residents/millie-mckee
+
+twinkeyrunaway
+Nedarb7mods
+Anthony Magnabosco
+Kirby Ferguson
+Socrates Jones
+The Good Stuff
+Woodsie
+I met Lucas
+Philosophist SE
+Cordial Curiosity
+lacigreen
+Deep Discussions
+hbomberguy
+The Astronauts
+Motherboard
+HaptX
+Samurai Punk
+Worlds Adrift
+KAT VR
+SciShow Psych
+Valve
+Nonsensicole
+100YSSVideos
+minutephysics
+Virtuix Omni
+Interstellar Marines
+Google self-driving car project
+Waymo
+Ellen Brock
+Yost Labs Marketing
+VUE VR
+SMACH Z
+BrandonJLa
+Ninja Robot Dinosaur
+Drifter
+NCIX Tech Tips
+NimbleVR
+Frontwire Studios
+No More Room in Hell
+John Romero
+Games As Literature
+EA Star Wars
+Lunar Software
+CloudGate Studio
+TheHappieCat
+Brian Lindenhof
+NuytciResearchLtd
+Nerdwriter1
+SciShow Space
+circmovie
+Seeker
+Lucas Assis
+Explorium
+Species ALRE
+FOVE, Inc
+Seeker VR
+Astroneer
+BrainCraft
+Teslasuit DevTeam
+Cyberith
+Cmoar
+DrunkenLizardGames
+Noclip - Video Games Documentaries
+Good Blood
+Gray Newell
+LUNAVITY
+Infinadeck
+Hot Mess
+Alien's Guide
+Evil Pirate Studio
+Atomic Heart
+Improbable
+Storm in a Teacup
+UpIsNotJump
+Installation 01
+Telexistence Inc.
+Balloon Moose
+Looking Glass
+Micah
+Konstantin Koshutin
+Leap Motion
+Oliver Pavicevic
+Brackeys
+Super Bunnyhop
+Verge Science
+Kevin Kennedy
+ThinMatrix
+Raphael Ernaelsten
+Raycevick
+AI and Games
+Video Game Animation Study
+Leonardo Da Sidci
+strafefox
+Ask Gamedev
+New Frame Plus
+MandaloreGaming
+Stated Clearly
+Shammy
+Turbo Button
+This Place
+LittleNorwegians
+Errant Signal
+Mr Wendal on games
+Deep Look
+BOSTON ON
+Dreamlit Games
+Columnsx
+Chris Lee
+PenduloStudios
+Phobia Game Studio
+Studio Bruyant
+Gamedenker
+The VOID
+dot big bang
+Baby Robot Games
+OtherSide Entertainment
+Eleven Arts
+Mix and Jam
+Kristin Lague
+Studio DURIAN Channel
+Curie Lu
+TRITERNION
+Accursed Farms
+Awkward Silence Games
+Heart Machine
+RILEY
+Dextra Robotics
+D!NG
+Anatola Howard
+Tom O'Regan
+SilverCord-VR omnidirectional treadmill
+Matthewmatosis
+PBS Game/Show
+Vsauce
+RagnarRox
+Design Doc
+Masterpiece Studio
+Robotics Materials Department at MPI-IS
+rose-engine
+32dash33
+Febucci
+AveragePixel
+Scientific American
+Alexey cptnsigh
+Sebastian Lague
+Doctor Klioze
+Imagilys
+Primer
+Permaculture Principles
+Liber Ohio
+Antilatency
+Bag Bug Busters
+Game Score Fanfare
+Derek Lieu
+Roman Papush
+Relativity Space
+Girlfriend Reviews
+Brain Preservation
+Carlos Maza
+Karl Poyzer
+Just Write
+Singularity University
+Sweaty Machines
+Gromek999
+Alcor Cryonics
+People Make Games
+Obliviousness
+KingLouie111
+Tyler Glaiel
+Rebelzize
+Marianne 2024
+Productora Fabula
+Shaun
+DoubleFineProd
+RichardDWolff
+Defunctland
+GIRU
+Alexandria Ocasio-Cortez
+LaraBTW
+Andrew Yang
+Neuralink
+GVMERS
+Big fat mag
+Gatters
+House Blackmotte
+GOODNIGHT PRODUCTIONS
+Nowhere Grotesk
+RoboSense
+Real Engineering
+Sabia and Loren
+Noah Caldwell-Gervais
+HeavyEyed
+eurothug4000
+YUGOPNIK
+Duane Zingale
+American McGee
+Answer in Progress
+Arrival
+AuroDev
+iDGi
+But Why?
+Bradley Whistance
+Tech for Luddites
+Deargrigh
+Vivornitier
+don hertzfeldt
+Epic Brew
+Mind Simulation
+Melina Juergens Official
+Junferno
+Dragonece
+Repair Preservation Group
+Pråmfilm
+City Beautiful
+ABIBOO Studios
+The Urban Doctor
+Vsauce3
+Will Bartlett
+Discover Permaculture
+Diana Fleischman
+Electricku
+PolyToots
+Design Theory
+Screen Therapy
+LambHoot
+Mighty Buildings
+mystiverse
+Soup Emporium
+act.tv
+Solar Sands
+Robert Thomson
+GamingWins
+Robotic Systems Lab: Legged Robotics at ETH Zürich
+münecat
+DualEx
+The Great Bubble Barrier 
+Natasha's Adventures
+The Gravel Institute
+Patriotic Millionares
+theo jansen
+Captain Astronaut
+Alan Fisher
+F.D Signifier
+AnRel
+Mainely Mandy
+SoriSora
+Dead Space
+Clone 
+Plasma
+Dr. Candice Nicole
+vewn
+Solowit
+Brainlet
+The People's Republic of The Noog
+Kraut
+djmuel
+Luna oi!
+PLN
+Tara Mooknee
+AsapSCIENCE
+Humanists UK
+Evan Conrad
+DiEM25
+FPS - The First Person Souls Project
+Jonas Tyroller
+Death Panel Podcast
+Josh's Channel
+Playtoise
+giant_neural_network
+Eco Gecko
+James Briggs
+kidsodateless
+Quality Culture
+Be My Eyes
+Frank Laundry
+Freya Holmér
+Jaquan the Jequel
+HasanAbi Industries
+Meromorphic
+Sykoo
+Team Kanohi
+SchizoDev
+River's Educational Channel
+Comienza PUCP
+Sleepy Recap
+Rodrigo Sousa
+Till Musshoff
+Stefano laniro
+tylerwhatsgood
+Vertex Rage
+visa
+Eden Meyer
+Comrade Stinger
+sentdex
+GDQuest
+Failed Physicist
+The History Hut
+FUTO
+Simulife HUB
+The AI Spotlight
+Super Prime
+The Human Condition
+Greg Kamradt (Data Indy)
+Jo Wall
+aarthficial
+Emergent Garden
+Andrew Vavrek
+Dr Alan D. Thompson
+Runway
+Rusty unCAGEd
+Clark Elieson
+TodePond
+It's Not Just in Your Head
+Lunix
+Canadian Civil
+Nicolas Gatien
+oliSUNvia
+Mental Checkpoint
+Thomas Burns
+Propel
+BroodiestBoar54
+Modern Synthesis
+Jeffrey Kaplan
+blessings stranded
+BritMonkey
+politizane
+About Here
+Reid Pat
+Robert Miles AI Safety 
+Philosynoir
+Apptronik
+Sophie from Mars
+The Penultimate Conquest
+Monty Zander
+Jimmy McGee
+High Torque Robotics
+sournoodl
+The NeRF Guru
+devmar
+s4bishii
+Extra Andrewism
+josedotcastillo
+MOSFET
+Accented Cinema
+Audible Anarchist
+GOBELINS
+Peter Davies
+Alexander Avila
+aisha rae
+Simple Philosophy
+Shadok
+Cantress Seba
+thatFain
+iCharly
+Meeka le Fay
+On the stage
+Marshall McGee
+Pragmatic Progressive with David Shapiro
+Historia Civilis
+nukt
+Freeaim VR Shoes
+Engineered Arts
+IHMC Robotics
+BABILA.
+dogma.questlog
+WA.
+Zipeng Fu
+Kepler Humanoid Robot
+JT Chapman
+The Urbanist Agenda
+Acid Horizon
+M5Stack
+Daniel Lochner
+DXU24
+Funkbuster G
+Mayo
+Peaked Interest
+Aydin Paladin
+BREADSWORD
+History of Humankind
+kolpeshtheyardstick
+Rob Robinson
+The Overview Effect
+Matthew Grdinic
+Ziad Danasouri
+Another Slice
+Cuby Technologies
+Yokai Hunter
+Jonathan Blow
+The Zatzman
+space nomad
+Technobuddha
+Art of Manliness
+The Solarpunk Scene
+High Ground Animations 
+The Canvas
+Digital Engine
+Metamodernism
+Milwaukee Games
+Toyota Research Institute
+Marcus Werner
+amandamaryanna
+School of Materialist Research
+F The Algorithm
+Garys Economics
+Two Cents
+Peter Field
+TotalBiscuit
+Big Joel
+SuburbanBiology
+Sigerious
+disconnected from the interweb
+Sanctuary AI
+Gattsu
+Robert Maddox
+Fireship
+Microlino
+Juxtopposed
+Sir Swag
+History of the Universe
+Some More News
+CGP Grey
+Andrew Millison
+LimX Dynamics
+exurb1a
+GDC
+Adam Something
+Joel Haver
+FUNKe
+Pursuit of Wonder
+Adam Millard - The Architect of Games
+NighHawkInLight
+Human Restoration Project
+Think That Through
+Overthink Podcast
+TAEETIMEE
+LastWeekTonight
+Jacob Geller
+Oh The Urbanity
+Unity
+LocalScriptMan
+Afterthoughts
+The Inside View
+AI Explained
+Rational Animations
+Inworld AI
+flurfdesign
+The Zero Hour with RJ Eskow
+Figure
+Mexie
+Synapse
+Shoe0nHead
+Planet: Critical
+Horses
+Machine Learning Street Talk
+Noah Samsen
+Lucretia McEvil
+Ana Fern
+ColdFusion
+Zoe Bee
+BadMouse
+Srsly Wrong
+The Leftist Cooks
+Ryan Remer
+Forgen
+Science vs Cinema
+PBS Eons
+Two Minute Papers
+Teardown
+Joe Scott
+Real Science
+Undecided with Matt Ferrell
+Kirsten Dirksen
+Cleo Abram
+How To Academy Mindset
+Spencer Snyder
+Flat2VR
+Masahiro Sakurai on Creating Games
+Little Chinese Everywhere 
+Rob Scallon
+Systems Thinking with David Shapiro
+JohntheDuncan
+Jared Bauer
+AI Jason
+Stargaze
+Alessandro Camporota
+Bad Ink Studios
+qrbits
+Alice Cappelle
+Yannic Kilcher
+J. Draper
+1littlecoder
+Stylized Station
+Dr Waku
+Stand Together
+Roberta Metsola
+Adam Conover
+Jose Briones - Dumbphone Reviews
+nature video
+A24
+First Thought
+Human Rights Watch
+Cornel West for President
+Change the Ref
+The France Foundation
+Invincible Innovation
+Scott Manley
+Photo Ark
+Not Just Bikes
+Thomas Mulligan
+51-49 with James Li
+Chris Titus Tech
+MANUS™
+The Thought Emporium
+Demystifying Medicine McMaster
+Omar A. Balfaqih
+PBS Terra
+Google
+PBS Terra
+CrashCourse
+Diego Giacomelli
+Discord
+Eternal Ruins
+Chariot Rider
+10 Chambers
+Rusty Cage
+Rooftops & Alleys
+Sublation Media with Douglas Lain
+The Bitchuation Room (with Francesca Fiorentini)
+Cam James
+AI Joken
+Walter Masterson
+STUDIO4C
+GRAVEMIND
+Dwarkesh Patel
+GitHub
+Sam Witteveen
+Micah
+CheapRVliving
+ACG
+Dr. Know-it-all Knows it all
+Mark Rober
+DesignCourse
+WoldofAI
+Zullie the Witch
+Lrnjulie
+Madman Films
+KOMO News
+ 𓆱 Yaelokre 𓆱
+bycloud
+Raw Metal
+The AI Breakdown: Artificial Intelligence News
+S3
+411Remnant
+Novara Media
+Beyond Fireship
+Monyless Society
+SciShow
+VICE News
+Vox
+Boston Dynamics
+Agility Robotics
+AI Andy
+Dead Domain
+Freethink
+RepAOC
+Storied
+GmanLives
+Senator Sheldon Whitehouse
+vlogbrothers
+Geopolitical Economy Report
+Jason Weimann
+PoliticsJOE
+ICON - 3D Tech
+Lous Rossmann
+BreakThrough News
+Human Energy
+Jonas Čeika - CCK Philosophy
+Nikodem Ch.
+2kliksphilip
+OpusAI
+Second WInd
+Matt Wlfe
+Lady Izdihar
+Jabrils
+Strong Towns
+More Perfect Union
+Robert Reich
+Nate Hagens
+Kalin M. Williams
+Psychology with Dr. Ana
+Jules Terpak
+HasanAbi
+habie147
+Senator Bernie Sanders
+Khadija Mbowe
+icoleisabella
+The Rational National
+Signified B Sides
+Politdigm
+Sacred Masculinity with David Shapiro
+The Deprogram 
+Maggie Mae Fish
+Master Samwise
+Mental Outlaw
+Philosophize This!
+Daily Dose of HasanAbi
+Marianne Williamson
+Lex Fridman
+Matthew Berman 
+Forward with Andrew Yang
+Bernie Sanders
+Wes Roth
+Channel 5 With Andrew Callaghan
+Unlearning Economics
+NASA
+Al Jazeera English
+Bloomberg Originals
+nobody
+
+https://www.anthropic.com/news/mapping-mind-language-model
+
+If the government can earn taxes in marijuana sale and distribution. It should not be using those same dollars to keep people at suspended citizenship. 
+- Rehabilitation over retribution
+
+If there is enough money for a state to sustain war, there is enough money to sustain 
+
+There has to be an ideal for consumption. Too much and we risk the personal indulgence seen gross or ambivalent. In fair focus we might find mastery of the motor and analytical parts of our brain. 
+
+You care about your projects. Why can't you give us enough time and income to care about ours? 
+
+Endless production and only so much time under the sun. 
+
+https://www.anthropic.com/news/mapping-mind-language-model
+
+mgk1yXMq3eyhigv* - UNR
+6LOfwivAprk5alx - Discord
+
+Custom Open Book
+- $60~$100 per sale
+- choose 3D printed color case ($20)
+- choose carved wooden case ($40)
+- choose preloaded books/audiobooks
+- can we pay a fixed price for copywrited material?
+- how much to produce 1 OB w/ bulk purchase?
+
+How much is rent for production floor?
+People make commission on each purchase
+A percentage goes to the company
+Small percentage goes to owner/maintainer
+Percentage goes to the investor
+
+It takes 20 minutes to produce one
+You can produce about 30 a day
+
+Exercise
+Buy house plants
+Sell TV
+Monitor
+Drop clothes off at good will
+
+https://www.notebookcheck.net/Fairphone-4-receives-significant-camera-upgrade-and-price-reduction.806204.0.html
+
+https://actionnetwork.org/forms/tesla-workers-stand-up
+
+https://www.marktechpost.com/2024/02/20/this-ai-paper-introduces-the-diffusion-world-model-dwm-a-general-framework-for-leveraging-diffusion-models-as-world-models-in-the-context-of-offline-reinforcement-learning/?amp
+
+https://actionnetwork.org/forms/tesla-workers-stand-up
+
+https://www.marktechpost.com/2024/02/20/this-ai-paper-introduces-the-diffusion-world-model-dwm-a-general-framework-for-leveraging-diffusion-models-as-world-models-in-the-context-of-offline-reinforcement-learning/?amp
+
+https://www.engadget.com/frameworks-new-sub-500-modular-laptop-has-no-ram-storage-or-os-184711789.html
+
+https://huggingface.co/papers/2402.12376
+
+https://scitechdaily.com/physicists-develop-new-significantly-more-efficient-solar-cell/
+
+https://www.energy-storage.news/roundup-energy-vault-mitsubishi-power-tesla-powerwall-3/
+
+https://www.thecooldown.com/green-tech/ancient-building-materials-properties-sustainable-construction/
+
+https://80.lv/articles/hirokazu-yokohara-experimented-with-unity-s-hair-system/
+
+https://www.upworthy.com/americans-see-gardening-changes-with-new-hardiness-zone-map
+
+Credit karma - n5TnBXtqh4KzFke
+
+Patema Inverted
+
+Samurai Champloo
+
+Mushishi
+
+From the new world
+
+Den-noh coil
+
+Heavenly Delusion
+
+https://aniwave.to/watch/knights-of-sidonia.qxq3/ep-1
+
+https://aniwave.to/watch/girls-last-tour.2ky5/ep-1
+
+https://aniwave.to/watch/ghost-hound.mkp/ep-1
+
+https://aniwave.to/watch/ergo-proxy.vk7/ep-1
+
+https://aniwave.to/watch/niea-7.yvkp/ep-1
+
+https://aniwave.to/watch/kiznaiver.w1jo/ep-3
+
+https://aniwave.to/watch/patema-inverted.mj18/ep-1
+
+https://aniwave.to/watch/texhnolyze.59qv/ep-1
+
+https://aniwave.to/watch/time-of-eve-the-movie.19jm/ep-1
+
+https://aniwave.to/watch/planetarium-uchuu-kyoudai-itten-no-hikari.17mq/ep-1
+
+https://aniwave.to/watch/the-girl-who-leapt-through-time.7116/ep-1
+
+https://events.unr.edu/
+
+ftXvXAVcJkfr808* (TriEx)
+
+https://rebelsteps.com/
+
+https://librivox.org/
+
+custom cables for fractal ridge
+
+https://imgur.com/a/8hM3QHc
+
+https://www.microsoft.com/en-us/research/publication/the-impact-of-ai-on-developer-productivity-evidence-from-github-copilot/
+
+https://www.tomshardware.com/pc-components/cpus/startups-are-raking-in-up-to-dollar85000-per-day-by-recycling-gold-and-copper-from-electronics-thrown-in-the-trash-e-waste-gold-mining-efforts-are-expanding
+
+https://www.xda-developers.com/turn-old-laptop-into-home-server/
+
+Xrdp
+
+xrandr
+
+Michael Parenti
+
+American political scientist
+
+https://techcrunch.com/2024/02/01/arc-is-building-an-ai-agent-that-browses-on-your-behalf/
+
+https://arxiv.org/abs/2307.03172
+
+https://www.microsoft.com/en-us/research/publication/the-impact-of-ai-on-developer-productivity-evidence-from-github-copilot/
+
+southern warsaw design
+
+https://en.m.wikipedia.org/wiki/Buckminster_Fuller
+
+https://venturebeat.com/ai/truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/
+
+Ray Oldenburg
+
+Sociologist
+
+
+
+
+
+https://electrek.co/2024/02/28/mit-just-released-directions-for-commercializing-perovskite-solar-cells/
+
+https://newatlas.com/robotics/electric-sheep-verdie-ai-outdoor-maintenance-robot/
+
+https://lmstudio.ai/docs/local-server
+
+https://www.archdaily.com/1014916/big-and-a-plus-architects-reveal-design-for-mass-timber-transport-hub-in-france
+
+def. Alexithymia
+
+https://www.manus-meta.com/
+
+https://bigthink.com/starts-with-a-bang/new-study-disprove-dark-matter-dark-energy/
+
+Octavia E. Butler
+
+consumerism the hungry ghost
+
+https://perfectmediaserver.com/02-tech-stack/mergerfs/
+
+https://academic.oup.com/mnras/article/524/3/3385/7221343?login=false
+
+https://www.epa.gov/web-policies-and-procedures/epa-disclaimers
+
+https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract_id/10834/report/2021
+
+https://interestingengineering.com/energy/nuclear-fusion-record-electric-gun
+
+https://interestingengineering.com/energy/nuclear-fusion-record-electric-gun
+
+https://www.archdaily.com/1015284/house-of-winds-biombo-architects
+
+https://viewpointmag.com/2017/03/16/identity-crisis/
+
+https://libcom.org/article/i-am-woman-and-human-marxist-feminist-critique-intersectionality-theory-eve-mitchell
+
+https://en.m.wikipedia.org/wiki/Tired_light
+
+https://en.m.wikipedia.org/wiki/Introduction_to_M-theory
+
+https://en.m.wikipedia.org/wiki/De_Sitter_space
+
+https://en.m.wikipedia.org/wiki/M-theory
+
+http://www.husk-to-home.com/
+
+https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.publications/abstract_id/10834
+
+https://unity.com/case-study/breachers
+
+https://soylent.com/collections/complete-protein/
+
+https://www.currentaffairs.org/
+
+Obstacles
+
+Yap yap
+Not loving if love is an act
+- Fear*
+- Endless production under the sun:
+- Endless production and only so much time under the sun. 
+- @Fair market value for our time. Human share of what we produce earns us retirement a little after 70.
+- Owners of big companies and lobbiest investment amounts to paid political interest. Macbeth? Monarchy by rule of inheritence. We did not oust those benefactors of southern plantations after the civil war. Those loves [alude-to?] the truth of privlege as heritage of economy and land. Monarchy by rule of inheritence. 
+
+value...ape
+before number go up
+
+no profit of spirit
+no male role models
+what to do when lost in the woods before spring?
+
+severance from
+nature heart souk
+'green is good'
+elect the kind people
+
+reallly we need ranked choice voting. "look it up" is not a valid response. 
+
+inequities wrought
+at severance to our
+loving nature
+to take is what we   know
+recieve: to give is not taught
+
+division by border fence and wall: by country, state, terriory
+i do not believe we are acting on the behalf of all people
+
+we go homeless, starve: are abused of our mental faculties
+they sign to main murder and starve; lie torture terrorize and set to power the ones best suited to [national interest] 'to their own ends' 
+
+Fanfare at service to economy and empire. We are lobbying for interests that negotiate FOR HEGEMONY law under SAMENESS: MONOCULTURE is not a strength: WE ARE DAMAGING THE POTENTIAL OF THE HUMAN SOUL an absolute ruling: authority over our minds, bodies: whom we relate to within the system they'll go on to maintain.
+
+How can we serve them, maintain them seats in office: if public good goes to war over resources, trade territory, shipping: land in maintaining outposts. The imagination of territory has cost the lives of tens of thousands. We have enabled genocide in namesake to this idea of a state. Sameness and difference among people has sufferred us enough atrocities. This is GENOCIDE at the behest of monied interests. CORRUPT in ignorance or indifference. By virtue, vote these people out. Maintain that the people know history by heritage, revereance towards the civil rights movement, women's sufferage, labor rights, justice reform, tenant/landlord laws. Understood that we are a nation of immigrants: set foot before by colonizers. 
+
+IF WE ARE EVER TO ADOPT THE LABEL 'EARTHLING' WE WOULD DO IT IN THE UNANIMOUS ABOLISHING OF SEPARATION
+TERRITORY, STATE, NATION, FAITH - BY BELIEF IN HEGEMONY, HIERARCHY, PATRIARCHY
+
+We have a duty owed in reparations for slavery, landback for indigenous economic/[infrastruturial?] repatriation to the global south
+
+how did we originally negotiate for labor law?
+
+https://bubble.io/
+
+https://www.strongtowns.org/
+
+https://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works
+
+https://procreate.com/
+
+https://www.marktechpost.com/2024/04/02/tired-of-writing-html-by-hand-meet-openui-project-an-ai-tool-that-lets-you-describe-ui-using-your-imagination-and-then-see-it-rendered-live/?amp
+
+https://medium.com/remaking-manhood/why-do-we-murder-the-beautiful-friendships-of-boys-3ad722942755
+
+https://scitechdaily.com/revolutionary-plant-based-polymers-promise-to-break-the-microplastic-cycle/
+
+https://www.reddit.com/user/franzarchist/
+
+https://thenib.com/toxic-masculinity/
+
+The Mask You Live In
+
+https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract_id/10834/report/0
+
+https://www.autostraddle.com/kin-aesthetics-excommunicate-me-from-the-church-of-social-justice-386640/
+
+https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract_id/10834/report/F
+
+https://escalatingidentity.wordpress.com/2012/04/30/who-is-oakland-anti-oppression-politics-decolonization-and-the-state/
+
+https://viewpointmag.com/2017/01/04/the-safety-pin-and-the-swastika/
+
+https://www.patreon.com/doomervbloomer
+
+The MAGA crowd is very active in those chats. I don't think they realize what it is they're really voting for. They scream and jeer over immigration as if we were not a nation of immigrants, taxes, a woman's right to choose as if there had never been a sufferage movement , social security as if our parents and grandparents were not potential dependent, and anything that defines them in separation from the rest of the world and their neighbor. Spending, the deficit, GENDER, the economy. Never an ode to human rights or what we ought to mean when we say 'society'. 
+
+If we are inhumane to our own; by exploitation of labor, time, ruled sanctity of justice without representative governance, and commodified in everything that makes us human; how can we then go on to expect our foreign interests to be made without seeking advantage? Be it resources, wealth, national conspiracy. (In maintenance of hegemony under capitalism, statism, our belief in hierarchy, patriarchy, class division: by race, by sex, sexuality, sexual expression. 
+
+We could use our incredible fortune as a boon to the world but instead we contest to claim as much as we can. 'America First' as  state, not 'the people' but America as in the In so much separation, they are exactingly nationalist: Americans are deserving, but we are not so deserving that the rest of the world ought to suffer in the hunger. 
+
+We need to talk about issues from a higher degree.
+What it means for human value to be wasted like this.
+All deserve an education
+- history of redlining means that there are school districts that are undeservingly poor: make equitable investments in every student, ensure they have a safe home and stay fed
+- 
+
+https://www.designboom.com/architecture/kengo-kuma-aeaj-green-terrace-tokyo-japan-02-08-2024/
+
+https://www.hup.harvard.edu/books/9780674967519
+
+https://pitch.devolverdigital.com/
+
+The will to change
+
+Book by bell hooks
+
+https://www.reddit.com/r/AskAnAustralian/comments/14s9od0/if_a_huge_manmade_lake_was_to_be_formed_in_the/
+
+https://store.steampowered.com/app/2267360/Fragmented_City/
+
+https://en.m.wikipedia.org/wiki/Overton_window
+
+we don't get wounded alone and we don't heal alone
+
+https://en.m.wikipedia.org/wiki/Radical_flank_effect
+
+https://en.m.wikipedia.org/wiki/Non-governmental_organization
+
+https://en.m.wikipedia.org/wiki/Radical_democracy
+
+making your own pcb at home
+
+https://www.freethink.com/science/3d-printed-brain-organoids?amp=1
+
+https://millionways.me/#/en
+
+https://www.workwithindies.com/
+
+https://www.reddit.com/r/yuzu/comments/1b6jdct/yuzus_github_repository_is_now_gone_forked_it/
+
+https://github.com/yuzu-mirror
+
+https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/
+
+https://oregoncapitalchronicle.com/briefs/oregon-state-university-scientists-discover-metal-capable-of-removing-carbon-dioxide-from-air/
+
+https://www.phoronix.com/news/System76-COSMIC-Alpha-May
+
+https://store.steampowered.com/app/2724650/The_Bustling_World/
+
+https://www.nature.com/articles/s41467-024-46145-7
+
+https://store.steampowered.com/app/2814860/Vindictus_Defying_Fate/
+
+https://liliputing.com/brilliant-labs-frame-smart-glasses-are-like-google-glass-for-the-generative-ai-era-pre-order-for-350/
+
+how many children go undernourished in the United states (13 f***king million)
+
+https://www.archdaily.com/1013086/zigzag-house-dan-gayfer-design
+
+The courage to be
+
+Book by Paul Tillich
+
+https://techxplore.com/news/2024-02-compressed-air-energy-storage-conventional.html
+
+https://en.m.wikipedia.org/wiki/Internet_of_things
+
+https://www.jstor.org/stable/10.5406/j.ctt1xcpwk
+
+https://lumiere-video.github.io/
+
+https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/
+
+https://www.theverge.com/24057063/neck-reading-light-review-book-night-dark
+
+https://www.librarypunk.gay/page/2/
+
+https://towardsdatascience.com/querygpt-63fdfefaa888
+
+Anarchist Modernity: Cooperatism and Japanese-Russian Intellectual Relations in Modern Japan
+
+Book by Sho Konishi
+
+home depot soldering gun
+
+https://www.linkedin.com/pulse/bound-free-%C5%BEi%C5%BEek-pythagoras-paradox-existential-villamarin-rodriguez-kzubf/
+
+https://jamessmithsmith.medium.com/zizek-sublime-objects-of-ideology-d70670e24816
+
+https://en.m.wikipedia.org/wiki/Marx%27s_theory_of_alienation
+
+https://academic.oup.com/princeton-scholarship-online/book/30649/chapter-abstract/259721291?redirectedFrom=fulltext
+
+https://www.marxists.org/reference/archive/hegel/works/
+
+https://dev.to/copilotkit/im-building-an-ai-project-here-are-the-libraries-im-going-to-use-pd0
+
+https://hackaday.io/project/192688/gallery#baf1be54f374cebfcbe26063c0d26916
+
+what is the market size of e readers
+
+https://sites.research.google/videopoet/
+
+https://www.microsoft.com/en-us/research/project/the-new-future-of-work/news-and-awards/
+
+https://huggingface.co/papers/2401.14688
+
+https://www.techradar.com/pro/1100th-of-the-cost-cpu-startup-tachyum-claims-that-one-of-its-processing-units-can-rival-dozens-of-nvidia-h200-gpus-with-a-99-saving-that-could-turn-the-ai-market-on-its-head-if-true
+
+https://www.aaup.org/
+
+https://en.m.wikipedia.org/wiki/Ichi-go_ichi-e
+
+def. solipsism
+
+Indigo children
+
+https://en.m.wikipedia.org/wiki/Wabi-sabi
+
+https://towardsdatascience.com/how-id-learn-machine-learning-if-i-could-start-over-c68d697e6a8a
+
+https://hackaday.io/project/192688-the-open-book/log/222901-the-quest-for-a-sub-100-diy-e-book-reader
+
+https://hbr.org/2021/06/how-to-successfully-scale-a-flat-organization
+
+https://neocities.org/browse
+
+https://support.proboards.com/thread/665464/old-web-revival
+
+https://forum.spacehey.com/topic?id=2789
+
+https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival
+
+https://wiki.melonland.net/web_revival
+
+https://dan.com/buy-domain/flatcorp.com?redirected=true
+
+https://www.pcgamer.com/enlisted-the-100-person-shooter-where-everyone-has-a-squad-of-npcs-is-coming-to-steam/
+
+https://www.peoplespolicyproject.org/
+
+https://github.com/Carleslc/AudioToText?tab=readme-ov-file#local-installation
+
+https://en.m.wikipedia.org/wiki/Cradle-to-cradle_design
+
+https://mushroompackaging.com/collections/shop-all/products/brick
+
+https://nomadshempwear.com/product-category/mens/
+
+https://github.com/nayuki/QR-Code-generator
+
+https://www.cato.org/commentary/wrenching-reparations-question
+
+https://onno.com/store/hemp-t-shirt-men
+
+https://github.com/stitionai/devika
+
+https://www.hearingtracker.com/news/jabra-and-sennheiser-earbuds-deliver-high-end-hearing-enhancement/
+
+https://en.m.wikipedia.org/wiki/Accumulation_by_dispossession
+
+Caliban and the Witch
+
+any human power can be resisted and changed by human beings
+
+how to suppress women's writing pdf
+
+mark z jacobson books
+
+Her Body and Other Parties
+
+https://en.m.wikipedia.org/wiki/Oryx_and_Crake
+
+N. K. Jemisin
+
+Inventing the Future: Postcapitalism and a World Without Work
+
+https://www.versobooks.com/products/2650-half-earth-socialism
+
+https://nickbostrom.com/utopia
+
+curtis mayfield
+
+https://huggingface.co/meta-llama
+
+https://en.m.wikipedia.org/wiki/Solidarity_Forever
+
+https://extinctionrebellion.uk/2023/10/12/cancel-global-south-debt-and-deliver-7-9-trillion-in-climate-reparations-now/
+
+https://www.msn.com/en-us/money/companies/volkswagen-workers-vote-overwhelmingly-to-join-the-uaw-giving-the-union-a-groundbreaking-win/
+
+def. polemical
+
+https://futurism.com/elon-musk-dad-emerald-mine
+
+https://www.nbcnews.com/news/amp/rcna148213
+
+https://www.isc.org/
+
+https://justinmathis.wordpress.com/2012/08/10/fear-of-oppression-shostakovich/
+
+https://www.akpress.org/ecofascismrevisited.html
+
+https://jessicasemaan.medium.com/the-hungry-ghost-and-always-wanting-more-2bb397dbdc10
+
+https://scholarworks.utrgv.edu/cgi/viewcontent.cgi?article=2114&context=etd
+
+https://interestingengineering.com/energy/blade-tweak-boosts-vertical-axis-wind-turbine-efficiency
+
+https://en.m.wikipedia.org/wiki/Participatory_budgeting
+
+The doubter's companion
+
+Dictionary
+
+https://storybundle.com/writing
+
+https://www.architecturaldigest.com/gallery/worlds-most-incredible-buildings-made-entirely-of-wood
+
+Black bourgeoisie
+
+Book by E. Franklin Frazier
+
+https://www.jstor.org/stable/41675102
+
+see red women's workshop
+
+https://www.ipa.world/IPA/en/News/Patriarchy_hurts_men_and_women.aspx#:~:text=Patriarchy%20is%20not%20just%20something,vulnerability%20as%20weak%20and%20shameful.
+
+https://www.designboom.com/architecture/foldable-origami-structure-fiberboards-bridges-moon-habitats-engineers-university-michi
+
+phind.com
+
+6RQy06rZawDlPME - et
+
+Inzoi
+
+http://www.econ.yale.edu/smith/econ116a/keynes1.pdf
+
+http://www.econ.yale.edu/smith/econ116a/keynes1.pdf
+
+https://theanarchistlibrary.org/library/david-graeber-on-the-phenomenon-of-bullshit-jobs-a-work-rant
+
+Nextcloud
+
+Pihole w/Unbound
+
+Transmission
+
+Jellyfin
+
+Webmin
+
+Apache webserver with a personal static webpage
+
+Soon to host my own Lemmy instance
+
+The patriarchy raises hollow men
+
+https://www.jiffy.com/bellacanvas-3001C.html?ac=Black
+
+Nope
+
+Sorry to bother you
+
+https://www.gamedeveloper.com/marketing/the-secret-to-using-steam-as-a-developer-is-to-make-valve-earn-their-30-percent
+
+https://www.sciencedirect.com/science/article/pii/S0966692324000267#:~:text=The%20death%20toll%20of%20automobility&text=Accounting%20only%20for%20crashes%20and,Disease%20Collaborative%20Network%2C%202020).
+
+https://hexsystem.bandcamp.com/album/spiritual-paralysis
+
+Kohei Saito
+
+Feel-Good Productivity
+
+Book by Ali Abdaal
+
+The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World
+
+Taoism
+
+Philosophy
+
+Wu wei
+
+Religion
+
+The economy is a social fiction designed to extract labor
+
+Liberty, Equality, Solidarity Toward a Dialectical Anarchism
+
+https://en.m.wikipedia.org/wiki/Elinor_Ostrom
+
+In Pursuit of Liberty, Equality, and Solidarity in Public Administration: Reflections on Pluralism and Anarchism
+
+https://ravinkumar.com/GenAiGuidebook/language_models/finetuning.html
+
+https://scitechdaily.com/perovskite-and-silicon-a-tandem-revolution-in-solar-technology/
+
+https://www.greenbiz.com/article/lego-invests-24-million-direct-air-capture-carbon-removal
+
+Angela Davis
+
+American political activist and philosopher
+
+https://3dprintingindustry.com/news/spare-parts-3d-launches-new-ai-powered-2d-to-3d-model-digitization-tool-229349/
+
+https://www.thesitewizard.com/domain/get-domain-without-registrar.shtml
+
+https://www.instagram.com/cheapnordichouses/?hl=en
+
+https://scitechdaily.com/scientists-develop-new-dirt-powered-fuel-cell-that-runs-forever/
+
+https://de-googled.com/
+
+Kate Raworth
+
+Economist
+
+Cradle to Cradle: Remaking the Way We Make Things
+
+Book by Michael Braungart and William McDonough
+
+https://www.thesojournertruthproject.com/?gclid=CjwKCAiA2pyuBhBKEiwApLaIO_XhQwCtHzi0dlkhmu0Ydcp_NnmcjrBcaFW-TsUezbxJxugJifVZahoC4hEQAvD_BwE
+
+Buckminster Fuller
+
+American architect
+
+Out of the Wreckage: A New Politics for an Age of Crisis
+
+Book by George Monbiot
+
+Enlightenment 2.0
+
+Book by Joseph Heath
+
+Prefigurative Politics: Building Tomorrow Today
+
+Book by Paul Raekstad and Sofa Saio Gradin
+
+https://www.reddit.com/r/Screenwriting/comments/15jptua/the_storytelling_megadoc_is_finally_here/
+
+https://en.m.wikipedia.org/wiki/Gift_economy
+
+Seeing Like a State
+
+Book by James C. Scott
+
+Let Your Motto Be Resistance
+
+Book by Deborah Willis
+
+Jackson Rising: The Struggle for Economic Democracy and Black Self-determination in Jackson, Mississippi
+
+Doughnut Economics
+
+Book by Kate Raworth
+
+https://www.digitaltrends.com/wearables/archelis-wearable-chair/
+
+Future Superhuman: Our Transhuman Lives in a Make-Or-break Century
+
+Digital Minimalism: Choosing a Focused Life in a Noisy World
+
+https://magic.dev/
+
+The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma in 
+
+The Peter Pan Syndrome: Men Who Have Never Grown Up
+
+By accepting money as the universal equivalent, capitalism eventually manages to exploit the laborer upon whom all value ultimately inheres,
+
+https://www.goodreads.com/en/book/show/22037894
+
+https://theanarchistlibrary.org/library/lizzie-m-holmes-to-poverty
+
+https://newatlas.com/architecture/white-tower-3d-printed-eth-zurich/
+
+https://mollyrocket.com/
+
+https://steamdeckhq.com/news/proton-9-0-enters-open-beta/
+
+https://www.designboom.com/architecture/unstudio-kyklos-luxembourg-hyp-architects-belval-02-23-2024/
+
+Ludwig Hilberseimer
+
+German architect and urban planner
+
+Walden
+
+Book by Henry David Thoreau
+
+https://www.studyfetch.com/
+
+https://www.vraf.games/
+
+Who S The Strongest V Suslov
+
+https://calyxos.org/
+
+Collapse Feminism: The Online Battle for Feminism's Future
+
+https://www.marktechpost.com/2024/03/26/meet-quivr-an-open-source-rag-framework-with-38k-github-stars/?amp
+
+https://phys.org/news/2024-03-advancing-sustainability-carbon-dioxide-acetylene.amp
+
+https://liliputing.com/zotac-zbox-edge-ma762-is-a-compact-desktop-with-ryzen-7-7840hs/
+
+https://theconversation.com/new-electrochemical-technology-could-de-acidify-the-oceans-and-even-remove-carbon-dioxide-in-the-process-222359
+
+https://www.pcgamer.com/gaming-industry/phil-spencer-blames-capitalism-for-games-industry-woes-i-dont-get-the-luxury-of-not-having-to-run-a-profitable-growing-business/
+
+https://newatlas.com/around-the-home/power-mole-transmits-electricity-window-glass/
+
+https://techcrunch.com/2024/03/14/fluent-metal-takes-a-stab-at-the-metal-3d-printing-market/amp
+
+The Six Pillars of Self-Esteem
+
+Book by Nathaniel Branden
+
+patrick knodel
+
+https://www.archdaily.com/1014701/a-unique-approach-to-creating-public-spaces-in-conversation-with-alejandro-haiek
+
+https://newatlas.com/3d-printing/wooden-items-3d-printed-wood-ingredients/
+
+https://www.gamedeveloper.com/programming/why-and-how-you-should-leave-unity-and-unreal-to-make-your-own-engine
+
+Captured: The Corporate Infiltration of American Democracy
+
+We all too often have socialism for the rich and rugged free market capitalism for the poor.
+
+https://www.chemistryworld.com/news/carbon-negative-decking-could-lock-up-co2-equivalent-to-taking-50000-cars-off-the-road/4019199.article
+
+Guy Debord
+
+French philosopher and filmmaker
+
+https://www.digitaltrends.com/computing/nvidia-unveils-latte3d-generative-ai/?amp
+
+https://www.buzzsprout.com/1890340
+
+https://www.marktechpost.com/2024/03/21/this-ai-paper-from-ibm-and-princeton-presents-larimar-a-novel-and-brain-inspired-machine-learning-architecture-for-enhancing-llms-with-a-distributed-episodic-memory/?amp
+
+https://www.designboom.com/design/souper-connect-modular-human-shaped-block-peter-minsoub-sim-souper-studio-03-22-2024/
+
+https://github.com/OpenInterpreter/01
+
+Swimming in it
+
+The death of media literacy
+
+Right to rest and leisure
+
+https://www.researchgate.net/figure/Windmill-blade-and-wind-turbine-utilizing-leading-edge-tubercles-Courtesy-of-WhalePower_fig6_253921572
+
+https://scitechdaily.com/revolutionary-all-solid-state-battery-design-paves-the-way-for-safer-longer-lasting-energy/
+
+Mutual Aid: Building Solidarity During This Crisis (and the Next)
+
+https://www.earth.com/news/dark-matter-does-not-exist-universe-27-billion-years-old-study/
+
+https://www.newtonenergy.nl/
+
+https://kansaiculture.blogspot.com/2018/01/the-108-vices-of-buddhism.html?m=1
+
+Low
+
+Comic series
+
+https://www.thecooldown.com/green-tech/windspider-offshore-wind-turbines-self-erecting-cranes/
+
+https://www.architecturaldigest.com/gallery/abandoned-buildings-renovation-potential
+
+https://www.marktechpost.com/2024/01/20/easytool-an-artificial-intelligence-framework-transforming-diverse-and-lengthy-tool-documentation-into-a-unified-and-concise-tool-instruction-for-easier-tool-usage/?amp
+
+https://techcrunch.com/2024/01/22/disney-holotile/amp/
+
+https://rpcs3.net/
+
+Divided World Divided Class: Global Political Economy and the Stratification of Labour Under Capitalism
+
+Book by Zak Cope
+
+Imperialism and Unequal Development
+
+Unequal Exchange and the Prospects of Socialism
+
+Communist Working Group
+
+The Phenomenology of Spirit
+
+Book by Georg Wilhelm Friedrich Hegel
+
+The Library of Babel
+
+Short story by Jorge Luis Borges
+
+Always Coming Home
+
+Novel by Ursula K. Le Guin
+
+The Dispossessed: An Ambiguous Utopia
+
+Novel by Ursula K. Le Guin
+
+The Dawn of Everything
+
+Book by David Graeber and David Wengrow
+
+Deep Work
+
+Book by Cal Newport
+
+Ebenezer Howard
+
+Urban planner
+
+https://www.marktechpost.com/2024/01/22/this-ai-paper-from-meta-and-nyu-introduces-self-rewarding-language-models-that-are-capable-of-self-alignment-via-judging-and-training-on-their-own-generations/?amp
+
+Cory Doctorow
+
+Canadian-British blogger and journalist
+
+https://www.marktechpost.com/2024/01/12/meet-ai-gateway-an-open-sourced-fast-ai-gateway-routed-to-100-large-language-models-llms-with-one-fast-and-friendly-api/?amp
+
+https://microsoft.github.io/autogen/blog/2023/12/01/AutoGenStudio/
+
+https://assetstore.unity.com/packages/templates/systems/platformer-project-206584?aid=1101ljAbS&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker
+
+https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328?aid=1101ljAbS&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker
+
+https://openai.com/research/practices-for-governing-agentic-ai-systems
+
+https://assetstore.unity.com/packages/tools/animation/motion-matching-for-unity-145624
+
+https://www.livescience.com/technology/artificial-intelligence/researchers-gave-ai-an-inner-monologue-and-it-massively-improved-its-performance
+
+https://www.tomsguide.com/ai/ai-image-video/midjourney-announces-plans-to-create-an-ai-world-simulation-tool-in-full-3d
+
+https://huggingface.co/blog/noob_intro_transformers
+
+https://apnews.com/article/russia-moscow-krasnogorsk-gunmen-concert-hall-fire-97e321c3c477ece36d4fb32f50fa0e8a
+
+https://interestingengineering.com/innovation/eco-friendly-sugarcane-waste-bricks
+
+https://www.marktechpost.com/2024/03/18/enhancing-industrial-anomaly-detection-with-realnet-a-unified-ai-framework-for-realistic-anomaly-synthesis-and-efficient-feature-reconstruction/?amp
+
+https://techxplore.com/news/2024-03-scientists-future-artificial-intelligence-similar.amp
+
+https://contextual.ai/introducing-rag2/
+
+https://fortune.com/2024/03/22/kernel-restaurant-nyc-vegan-robot-kuka-steve-ells/amp/
+
+https://www.creativebloq.com/news/blender-extensions-free-store
+
+https://www.nytimes.com/2024/03/22/style/modern-love-ai-our-last-impossible-conversation.html
+
+https://www.thegnomonworkshop.com/tutorials/2d-3d-character-design-in-photoshop-blender
+
+https://decrypt.co/223029/worldcoin-foundation-releases-orb-technologys-core-components-on-github?amp=1
+
+https://www.designboom.com/architecture/estudio-carroll-toro-house-mexico-03-20-2024/
+
+https://www.archdaily.com/1014260/harvesting-architecture-a-glimpse-into-3-plant-based-materials
+
+https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2
+
+https://github.com/mshumer/gpt-investor
+
+https://www.hyperwriteai.com/
+
+https://www.joinmama.org/
+
+https://good.store/
+
+https://jonathanhaidt.com/anxious-generation/
+
+https://github.com/mshumer/gpt-prompt-engineer
+
+https://arxiv.org/abs/2403.09629
+
+https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you
+
+https://www.designboom.com/architecture/zooco-estudio-duplex-salesas-madrid-spain-03-25-2024/
+
+https://www.pcgamesn.com/dungeons-of-hinterberg/gdc-interview?callback=in&code=N2MWMDEWMTCTMZEYMY0ZM2ZKLWE2NZITMMVINJAZZDCWN2RH&state=d867c31136b74de2b6ea65d52b99b992
+
+https://www.bloomberg.com/news/articles/2024-03-24/in-dallas-a-design-competition-aims-to-make-a-less-lonely-downtown?embedded-checkout=true
+
+https://www.pcgamer.com/games/mmo/cozy-mmo-palia-welcomes-new-players-with-a-startlingly-large-stuffed-frog-for-its-steam-launch/
+
+https://www.nlrb.gov/
+
+Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions
+
+Together: The Healing Power of Human Connection in a Sometimes Lonely World
+
+Iain Banks
+
+Scottish author
+
+https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-8600g-cpu-review
+
+https://hackernoon.com/the-revolutionary-potential-of-1-bit-language-models-llms
+
+https://usac.edu/study-abroad-programs/netherlands/the-hague
+
+https://venturebeat.com/ai/meet-liberated-qwen-an-uncensored-llm-that-strictly-adheres-to-system-prompts/
+
+https://www.designboom.com/architecture/oman-reveals-design-highest-altitude-destination-2400-meters-jabal-al-akhdar-03-07-2024/
+
+zann gill
+
+books by derrick jensen
+
+https://interestingengineering.com/innovation/new-3d-printing-five-times-faster
+
+Paul Cockshott
+
+Scottish academic
+
+Propaganda
+
+Book by Edward Bernays
+
+Consumed: How Markets Corrupt Children, Infantilize Adults, and Swallow Citizens Whole
+
+Book by Benjamin Barber
+
+Barton Fink
+
+Tim Kasser
+
+American psychologist
+
+sacred economics
+
+mezzanine
+
+Peter Kropotkin
+
+Russian geographer
+
+https://www.emulatorgames.net/#google_vignette
+
+garrett hardin the tragedy of the commons opposition
+
+endless ocean luminous
+
+https://phys.org/news/2024-01-crispr-technology-succeed-tomatoes-consume.amp
+
+https://survey.census.gov/jfe/form/SV_4I0ZEq0VtHeQoCO?Q_DL=SMSD_jmJjdtI9wGVF3Cl_4I0ZEq0VtHeQoCO_CGC_yU3jAvp5eQUz4ih&Q_CHL=smsinvite
+
+https://techcrunch.com/2024/02/27/newsmast-brings-curated-communities-to-the-open-source-twitter-x-alternative-mastodon/
+
+https://all3dp.com/4/formlabs-releases-formlabs-texture-engine-a-web-based-displacement-map-tool/
+
+https://hmdb.ca/
+
+https://www.designboom.com/architecture/colorful-geometric-volumes-urbanus-nantou-hybrid-building-shenzhen-china-02-24-2024/
+
+https://interestingengineering.com/energy/solar-cells-efficiency-record
+
+https://www.theverge.com/2024/2/20/24078154/eu-council-parliament-carbon-removal-framework-climate-change
+
+https://magnific.ai/
+
+https://www.goodreads.com/author/show/27393.Terrence_Real
+
+https://techxplore.com/news/2024-02-contact-sensors-robotics.amp
+
+https://www.goodreads.com/en/book/show/151740
+
+tapico typer
+
+https://www.hackster.io/news/tapico-typer-is-a-minimalist-writer-s-dream-machine-79bfdb33b3c5.amp
+
+https://dev.to/opensauced/exploring-supabase-the-open-source-backend-for-developers-2dgh
+
+https://www.tomsguide.com/home/5-vegetable-seeds-to-sow-in-may-for-the-best-results-according-to-gardening-experts
+
+https://theanarchistlibrary.org/category/author/errico-malatesta
+
+https://theanarchistlibrary.org/category/author/wayne-price
+
+https://www.reddit.com/r/oddlysatisfying/comments/1comi84/from_egg_to_adult/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+https://openai.com/index/sora/
+
+https://astral.sh/blog/uv
+
+https://news.ycombinator.com/item?id=36374936
+
+https://github.com/BlinkDL/RWKV-LM
+
+https://www.designboom.com/architecture/bjarke-ingels-group-big-epiq-quito-ecuador-02-22-2024/
+
+https://huggingface.co/papers/2402.13753
+
+https://www.thecooldown.com/green-tech/tecla-3d-printed-clay-house-italy/
+
+https://arstechnica.com/gadgets/2024/02/new-app-always-points-to-the-supermassive-black-hole-at-the-center-of-our-galaxy/
+
+https://www.xda-developers.com/i-swapped-out-my-gpu-for-an-amd-apu-and-im-not-looking-back/
+
+https://www.gamingonlinux.com/2024/02/theres-a-new-godot-engine-addon-to-simplify-testing-on-steam-deck/
+
+https://80.lv/articles/a-new-unique-approach-to-creating-mirrors-for-games-in-unity/
+
+https://www.designboom.com/architecture/aedas-huanggang-port-headquarters-skyscraper-shenzhen-china-02-19-2024/
+
+https://vessi.com/
+
+https://wikkelhouse.com/
+
+https://agile-but-safe.github.io/
+
+https://ollama.com/library/dolphin-mixtral
+
+https://lumalabs.ai/luma-api
+
+https://docs.google.com/document/u/0/d/1t1lD6tr-H0YIqeNbxYl-M0BnlAmj2SaKwW86-1_x0Is/mobilebasic?pli=1
+
+https://www.phoronix.com/news/GNOME-XWayland-Frac-Scaling
+
+https://www.quilter.ai/technology
+
+https://ai.google.dev/
+
+https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#performance
+
+https://docs.godotengine.org/en/3.0/getting_started/workflow/export/exporting_for_web.html
+
+https://www.designboom.com/architecture/short-film-permeable-bamboo-indian-craftmanship-atarchitecture-02-11-2024/
+
+https://www.sciencealert.com/scientists-invent-new-hybrid-food-by-growing-beef-inside-grains-of-rice
+
+https://spaceengine.org/
+
+https://www.goodreads.com/quotes/954149-capital-is-an-abstract-parasite-an-insatiable-vampire-and-zombie
+
+https://www.fiverr.com/ (interior design)
+
+https://www.hamptonfit.com/shop/dumbbells/pro-hex/pro-hex/
+
+Connectionism and cognitive architecture: A critical analysis JA Fodor
+
+https://newatlas.com/robotics/toyota-punyo-humanoid-soft-robot/
+
+https://www.forbes.com/sites/johnarcher/2024/02/27/optoma-unveils-new-4k-laser-home-entertainment-and-gaming-projector-with-240hz-support/amp/
+
+https://www.designboom.com/architecture/story-architecture-vietnam-house-02-27-2024/
+
+https://www.reddit.com/r/BambuLab/comments/17h2ei9/best_table_for_p1s/
+
+https://www.pv-magazine.com/2024/03/05/standard-energy-unveils-vanadium-ion-battery-with-1-degradation/a
+
+https://sr.ht/~jacqueline/tangara/
+
+https://us.daysoft.com/
+
+https://www.half.earth/about
+
+https://www.crowdsupply.com/cool-tech-zone/tangara#products
+
+https://www.laborlawcenter.com/
+
+https://www.archdaily.com/1014131/transforming-our-thinking-for-healthier-buildings
+
+https://makezine.com/article/technology/artificial-intelligence/can-i-use-ai-to-make-models-for-3d-printing/
+
+https://techxplore.com/news/2024-03-ai-emotional-chat.amp
+
+https://www.tomsguide.com/best-picks/best-projectors
+
+https://newrepublic.com/article/75399/study-proves-libertarian-economists-ignorant
+
+https://scitechdaily.com/breakthrough-could-reduce-cultivated-meat-production-costs-by-up-to-90/
+
+https://game.courses/mp/
+
+https://scitechdaily.com/glutenin-a-new-game-changer-in-lab-grown-meat-production/
+
+https://www.theverge.com/23642073/best-printer-2023-brother-laser-wi-fi-its-fine
+
+https://techxplore.com/news/2024-03-concrete-closer-shovels-salt-business.amp
+
+https://dev.to/github20k/my-new-open-source-repository-to-schedule-all-your-content-2f2a
+
+https://newatlas.com/energy/windspider-offshore-turbine-crane/
+
+https://www.archdaily.com/1014857/ac71-hgr-arquitectos
+
+https://www.archdaily.com/1014897/the-jianshi-station-and-the-tingyun-station-tjad-original-design-studio
+
+https://unity.com/resources/gaming-report?utm_source=Twitter&utm_medium=social&utm_campaign=gaming-report
+
+https://www.thecooldown.com/green-tech/zinc-air-battery-rechargeable-electrodes-liquid/
+
+https://www.archdaily.com/1014888/a-vertical-neighborhood-in-china-and-a-science-center-in-new-york-8-unbuilt-projects-by-established-firms
+
+https://www.nytimes.com/2024/03/29/technology/openai-voice-engine.html
+
+https://phys.org/news/2024-03-implantable-batteries-body-oxygen.amp
+
+https://amp.theguardian.com/lifeandstyle/2021/sep/24/boys-patriarchy-toxic-masculinity
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10332384/
+
+https://dev.to/cat/a-goodbye-to-tech-41gh
+
+https://www.gamedeveloper.com/design/gdc-s-experimental-game-workshop-shows-off-a-litany-of-innovative-and-interesting-titles
+
+https://www.phoronix.com/news/System76-Meteor-Lake-Laptop
+
+https://drivers.coop/
+
+https://www.archdaily.com/1015086/chai-communication-office-building-architects-ban-plus-fluxys-lab
+
+https://liliputing.com/system76-pangolin-4-pound-linux-laptop-updated-with-ryzen-7-7840u-processor-and-16-1-inch-display/
+
+https://techxplore.com/news/2024-03-solar-powered-emission-free-technology.amp
+
+https://phys.org/news/2024-03-catalysis-breakthrough-yields-wall-air.amp
+
+https://www.ai21.com/blog/announcing-jamba
+
+https://www.nvartscouncil.org/event/2024-reno-jazz-festival/2024-04-26/
+
+Just Give Money to the Poor: The Development Revolution from the Global South
+
+https://cooltech.zone/tangara/
+
+bead blasting cabinet
+
+cnc milling machine
+
+https://github.com/pardeike/Harmony
+
+https://github.com/BepInEx/BepInEx
+
+https://www.japantimes.co.jp/community/2011/01/01/our-lives/your-108-misleading-karmas/
+
+https://mitpress.mit.edu/9780262525961/cybernetic-revolutionaries/
+
+meru mala Buddhism
+
+https://en.m.wikipedia.org/wiki/Rudraksha
+
+https://www.pv-magazine.com/2024/03/06/longi-launches-anti-dust-solar-module-for-ci-segment/
+
+https://newatlas.com/architecture/3d-printed-house-icon-phoenix/
+
+https://www.pv-magazine.com/2024/03/06/longi-launches-anti-dust-solar-module-for-ci-segment/
+
+https://www.bigfrog.com/reno/
+
+https://huggingface.co/blog/Pclanglais/common-corpus
+
+https://techcrunch.com/2024/02/01/activist-investors-are-coming-for-etsy/
+
+https://www.engelvoelkers.com/de/en
+
+https://forum.openai.com/
+
+https://www.garmin.com/en-US/p/802162
+
+https://en.m.wikipedia.org/wiki/Panthalassa
+
+https://www.batsand.com/
+
+https://supply-chain-data-hub-nmcdc.hub.arcgis.com/maps/447a461f048845979f30a2478b9e65bb/explore?location=15.501917%2C-86.517600%2C2.79
+
+https://www.pcgamer.com/the-steam-deck-gets-a-3d-printed-ergo-keyboard-dock-thanks-to-some-creative-modification-and-a-clever-clip-on-hinged-design/
+
+https://shop-us.kurzgesagt.org/products/lifespan-calendar-poster?variant=39451596455984
+
+https://arxiv.org/abs/2311.02462
+
+https://glitch.city/about/#afterlogo
+
+https://iquilezles.org/articles/morenoise/
+
+https://www.meshy.ai/
+
+https://www.marktechpost.com/2024/03/31/mistral-ai-releases-mistral-7b-v0-2-a-groundbreaking-open-source-language-model/?amp
+
+https://www.marktechpost.com/2024/03/31/meet-deep-seek-an-open-source-research-agent-designed-as-an-internet-scale-retrieval-engine/?amp
+
+https://spectrum.ieee.org/amp/power-smart-contact-lenses-2667614639
+
+https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
+
+https://marianne2024.com/economic-bill-of-rights/
+
+https://www.amd.com/en/products/apu/amd-ryzen-7-8840u
+
+https://oaec.org/
+
+https://techcrunch.com/2024/03/29/sample-seed-pitch-deck-plantee-innovations/
+
+https://www.reddit.com/r/PoliticalCompassMemes/comments/12m40c3/what_did_adam_smith_mean_when_he_called_landlords/
+
+https://www.americansurveycenter.org/research/the-state-of-american-friendship-change-challenges-and-loss/
+
+https://www.science.org/doi/10.1126/sciadv.adf3760
+
+https://www.gamesindustry.biz/the-perfect-publisher-pitch-deck
+
+https://docs.google.com/presentation/d/13f-KmTxWPjtV_F7l2FOlPw9fNiu3jTQoe8z6yVxIbVI/mobilepresent?pli=1&slide=id.p
+
+https://groq.com/
+
+https://voip.ms/business
+
+https://docs.linuxserver.io/
+
+https://phys.org/news/2024-01-music-similar-emotions-bodily-sensations.amp
+
+https://www.designboom.com/architecture/soa-parc-princesse-vesinet-france-social-housing-02-04-2024/
+
+polis city state
+
+https://evjang.com/book/
+
+https://www.xda-developers.com/corsair-2tb-m2-ssd-150-deal/
+
+https://chrome.google.com/webstore/detail/help-me-write/fflhlefcdbiidoncgmndlpkmbdiipilf
+
+https://www.notebookcheck.net/Onyx-Boox-Kant-2-New-and-compact-e-reader-with-a-range-of-functions.806219.0.html
+
+https://www.tomshardware.com/pc-components/cpus/leaked-amd-ryzen-7-8700ge-35w-desktop-zen-4-apu-tested-vs-8700g-23-less-gpu-performance-at-half-the-power
+
+https://typeset.io/pdf/how-to-pass-a-turing-test-syntactic-semantics-natural-3f9uhib884.pdf
+
+https://www.marktechpost.com/2024/02/07/pioneering-large-vision-language-models-with-moe-llava/?amp
+
+https://play.ht/
+
+https://hackernoon.com/agi-blueprint-ucla-researchers-open-source-spina-self-improving-language-model
+
+https://www.hackster.io/news/hrvoje-cavrak-s-deskhop-is-a-slick-dual-raspberry-pi-pico-keyboard-and-mouse-sharing-switch-2df1d8e5211a.amp
+
+https://www.designboom.com/architecture/bjarke-ingels-group-big-freedom-plaza-new-york-02-13-2024/
+
+https://hackaday.com/2024/02/12/understanding-deep-learning-free-mit-press-ebook-for-instructors-and-students/
+
+https://www.zdnet.com/article/i-hiked-with-garmins-unlimited-battery-gps-tracker-and-it-made-life-so-much-easier/
+
+https://techcrunch.com/2024/02/13/flipboard-just-brought-over-1000-of-its-social-magazines-to-mastodon-and-the-fediverse/amp/
+
+https://warframe.fandom.com/wiki/Zariman_Ten_Zero
+
+https://www.designboom.com/architecture/terreform-one-terrestrial-reef-sustainable-habitat-humans-animals-02-12-2024/
+
+https://www.gamesradar.com/some-mad-geniuses-have-turned-the-viral-lofi-girl-into-a-life-sim-with-a-fabulous-character-creator-and-its-steam-next-fests-chillest-demo/
+
+https://www.lifewire.com/find-email-address-using-facebook-3481988
+
+https://www.designboom.com/architecture/cca-orchid-pavillion-casa-wabi-oaxaca-mexico-02-04-2024/
+
+https://www.codium.ai/products/alpha-codium/
+
+https://github.com/Codium-ai/AlphaCodium
+
+https://deepmind.google/technologies/imagen-2/
+
+chandigarh architecture
+
+https://archive.iww.org/history/library/Jackson/copinyourhead/
+
+https://arxiv.org/abs/2312.00752
+
+https://github.com/Stability-AI/StableCascade
+
+https://www.nytimes.com/2015/01/09/style/no-37-big-wedding-or-small.html?unlocked_article_code=1.T00.aq6S.ltPJCSWQT9Ww
+
+https://www.designboom.com/architecture/b-l-u-e-architecture-studio-simulates-infinite-layers-circulation-jiaxing-seed-plaza-02-09-2024/
+
+public funding of elections
+
+American essayist
+
+produce your own book from scratch
+
+How did slavery build the United States
+
+transcendentalism
+
+1741-4326
+
+Promesa
+
+Videogame
+
+Tor Books
+
+Publishing company
+
+https://make-it-3d.github.io/
+https://github.com/openai/point-e
+https://github.com/cocktailpeanut/dalai
+http://agents.camel-ai.org/
+https://huggingface.co/spaces/gradio/theme-gallery
+
+thedeanreno.residentportal.com/auth
+synchrony.com (medical debt)
+
+"take a deep breath"
+"this is very important for my career"
+
+medusalix / xone
+
+deepmind's cofounder: generative ai is just a phase. what's next is interactive ai (technologyreview.com)
+
+introducing the godot development fund (godotengine
+
+reflexion: langiage agents with verbal reinforcement learning
+
+patagonia considering dark skies rules (nogalesinternational.com)
+
+15 times faster than llama 2 introducing decilm - nas generated llm with variable gqa
+
+vulture capitalism - grace blakely
+
+stability ai debuts stable audio bringing text to audo generation to the masses
+
+rvc-project / retrieval-based-voice-conversion-webui
+
+how ai agents are already simulating human civilization
+conversational swarm intelligence, a pilot study (arxiv.org)
+
+uc berkeley researchers introduce dynalang: an ai agent that learns a multimodal world model to predict future text and image representations and learns to act from imagined model rollouts
+
+anna's archive
+
+https://www.notebookcheck.net/Linux-desktop-Open-Beta-of-KDE-Plasma-6-available-for-testing.779036.0.html
+
+debianhelp.co.uk/vnc.htm
+
+https://zidedoor.com/
+
+https://blog.langchain.dev/incorporating-domain-specific-knowledge-in-sql-llm-solutions/
+
+https://www.modular.com/blog/mojo-its-finally-here
+
+killianlucas / open-interpreter
+
+marianne2024.com / an economic bill of rights
+
+a new vaccine can completely reverse autoimmune diseases like multiple sclerosis, type 1 diabetes, and crohn's disease. (scitech daily)
+
+bicycle service centers (115 valley rd, reno, nv, 89512)
+
+f / awesome-chatgpt-prompts
+
+aclens.com/contacts/boston-es-contact-lenses/171
+
+earthseacomics
+
+solitudefarmz.org
+dumbing us down / john taylor gatto
+
+theanarchistlibrary.org
+
+K2-18b
+
+LAIVA Bookcase (IKEA)
+Lack TV Unit (IKEA) 47 inch
+Zonli Futon Mattress
+Microlino Car
+Figma Steam Redesign - Juxtopposed
+Mashable 35 of the best harvard university courses you can take for free
+doc.photonengine.com/fusion/current/getting-started/fusion-intro#
+OthersideAI / self-operating-computer
+notrelated.xyz
+SplitScreen-Me / splitscreenme-nucleus
+neocities.org
+
+washoe county library 301 S Center St
+
+meet 3dgpt an arificial intellence framework for instruction driven 3d modelling that makes use of large language models (markettechpost)
+
+mastadon.social/@joeycastillo
+
+simon michaux: the arcadian blueprint (thegreatsimplification.com)
+
+young shall han psychopolitics
+
+deepseek-ai / dreamcraft3d
+
+woodpecker: hallucination correction for multimodal large language models (arxiv.org)
+
+huggingface.co zephyr 7b
+mvdream multiview diffusion for 3d generation (mv-dream.github.io)
+gaussiandreamer: fast generation from text to 3d gaussians by bridiging 2d and 3d diffusion models
+
+kitspace.org open book abridged
+
+time renters are in revolt this tenant union plans to get them organized
+
+valve officially releases steam vr 2.0 (theverge.com)
+
+passport.jlcpcb.com
+
+10 best cottage core anime (screenrant)
+
+eureka! nvidia research breakthrough puts new spin on robot learning
+
+jawliner.us
+
+chain of verification reduces hallucination in large language models (arxiv.org)
+
+houston we have a podcast season 1 episode 309 - valkyrie
+chatgpt use shows that grant-application system is broken (nature)
+
+transunion settles with the ftc cfpb for $23 million for impeding tenants' ability to obtain housing
+
+use the von restorff effect when studying difficult concepts (life hacker)
+
+ai just got 100-fold more energy efficient (northwestern)
+
+fine tuning chatgpt surpassing gpt-4 summarization performance-a 63% cost reduction and 11x speed enhancement using synthetic data and langsmith
+
+james webb space telescope spots dozens of physics-breaking rogue objects floating through space in paris
+
+psudeogravity that bends light just like real gravity created by engineers in a laboratory (thedebrief.org)
+
+auxivo.com
+
+ai doomerism is a decoy (theatlantic.com)
+
+styledrop.github.io
+
+minigpt-v2.github.io
+
+bigscreen beyond
+when marx attacked the single tax (merionwest.com)
+
+memgpt.ai
+cpacker / memgpt
+
+millions of workers are training ai models for pennies (wired.com)
+
+robocat: a self-improving robotic agent
+
+the open book (oddly specific objects)
+
+fallout 4 mod adds in the whole new vegas map and assets (pcgamesn.com)
+
+san fancisco could get 90% of its homeless off the streets with the county's fiercest hiusing speculation tax, but landlords are already fighting it tooth and nail
+
+openbmb agent verse
+
+abacus ai introduces a new open long-context large language model: meet giraffe (markettechpost)
+
+hoo use llama 2 with python to build ai projects (geeky-gadgets.com)
+
+the 13 most beautiful libraries in the world (architecturaldigest.com)
+
+david foster wallace
+
+team finds sustainable alternative to air conditioning (futurity.org)
+
+not built by homo sapiens scientists discover extraordinary 476,000 year-old wooden structure (sci-tech daily)
+
+rt-2 new model translates vision and language into action
+
+pete seeger battle of new orleans
+
+rvo.nl
+nomadcapitalist.com/global-citizen/netherlands-startup-visa/
+
+put me in the center quickly: subject-diffusion is an ai model that can achieve open domain personalized text-to-image generation
+
+meta releases open source ai audio tols, audo craft (arstechnica.com)
+
+it's not a computer it's a companion (a16z.com)
+kobolibra2
+
+huggingface.co - 3d-llm injecting the 3d world into large language models
+
+brasillia solarpunk
+
+pedagogy4change.org - paulo freire pedagogy of hope
+
+switching.software - the fediverse what are federated sites?
+
+new open book abridged edition ereader will be simpler and cheaper to build (goodereader)
+
+public housing resident organizing and participation toolkit (hudexchange.info)
+
+gsgen text to 3d using gaussian splatting gsgen3d.github.io
+dreamspace dreaming your room space with text-driven panoramic texture propagation (ybbbbt.com)
+
+3d gpt procedural 3d modeling with large language models (chuny1.github.io)
+
+show-1 marrying pixel and latent diffusion models fo text to video generation (showlab.github.io)
+
+the 'great wealth transfer' isnt' $72 trillion but $129 trillion, BofA says - and the government gave most if it to baby boomers (fortune.com)
+
+idea2img.github.io
+
+cvlab-columbia / zero123
+
+acid communism
+marx - estranged labor
+marx - theory of alienation
+extrasomatic
+asceticism
+
+8bitduo
+
+how i deployed my website as a docker container (dev.to)
+
+effective long-context scaling of foundation model (arxiv.org)
+
+bringing ooen ai models to the frontier (mistral.ai)
+retrieval augmented generation (rag) (towardsdatascience.com)
+
+500,000 year old structure has researchers rethinking human intelligence (npr.org)
+
+run llama 2 70b on your gpu with exllamav2 (towardsdatascience.com)
+
+huggingface.co - stablelm-3b-4e1t
+
+adarshadee / root
+
+the netherlands just launched a mega 1.5 gw offshore wind farm
+
+meta quietly unveils llama 2 long ai that beats gpt 3.5 turbo and claude 2 on some tasks
+
+triple pane windows
+turn and tilt windows
+
+deep render says its ai video compression tech will save the internet (tomshardware.com)
+
+hollywood writers reached an ai deal that will rewrite history (wired.com)
+
+fourier and tesla show off impressive humanoid robot progress (newatlas.com)
+
+docs.inworld.ai (Unity SDK)
+
+Johnathan Haidt (kids in space)
+
+life after babel
+
+debtcollective.org
+sortitionfoundation.org
+
+irish citizen's assembly chooses representatives by lottery, not election (banr.foundation)
+kleroterion
+
+one reveals 1007 Wh/L Anodefree cell that enables 600-mile gemini battery
+
+desalination system could produce freshwater that is cheaper than tapwater (freethink.com)
+
+
+
+the guardian neoliberalism - the root of all our problems
+
+microsoft copilot web app
+
+astranis (starlink alternative)
+
+capturingreality.com
+
+system76 bonobo WS
+
+laion.ai open empathic launch
+
+uaw.org/contact (313-926-5000)
+
+apple researchers introduce a groundbreaking artificial intellgence approach to dense 3d reconstruction from dynamically posed rgb images (markettechpost)
+
+cities need golilocks housing density - not too high or low, but just right
+
+luminance (legal ai co-pilot)
+
+protectimus slim nfc (2FA card)
+
+web.archive.org (bin laden's letter to america) (read critically!)
+
+make it real ai prototype wows devs by turning drawings into working software (arstechnica.com)
+
+aquaponic shipping containers: the future of food? (freethink.com)
+
+yale study of DMT for depression is encouraging (freethink.com)
+
+FULL CIRCLE FLOORING (775) 853 1330
+
+gtw 270 hybrid product support
+xiaomi moaan inkpalm 5 pro mini e-reader (goodreader.com)
+samsung 990 ori pcie ssd 4tb
+
+the open book / joeycastillo (firmware/hardware)
+
+sam altman seems to imply that openai is building god (futurism)
+
+robot hand with working tendons printed in one go (ieee spectrum)
+
+3d body models now have sound: meta ai introduces an artificial intelligenec model that can generate accurate 3d spatial audio for full human bodies (markettechpost.com)
+
+group thought to be the first tenants union in Nevada seeks to tackle high rents (the nevada independent)
+
+how to keep a consistent image style in midjourney for multiple ai images (geeky gadgets)
+
+metabolic hypothesis for human altriciality (pub med)
+
+webadb (for modifying your android dumb phone)
+gdir.telae.net
+OSMAnd
+
+maintenance of pig brain function under extracorporeal pulsatile circulatory control (EPCC) (scientific reports)
+
+https://www.panarchy.org/bookchin/ecology.html
+
+imagineer Morgan Pope uses electromagnetism to spark emotions > the disney roboticist brings superheroes to life
+
+filament recycler
+
+alienation by Rahe Jaeggi (Columbia University Press)
+
+contradictions of capital and care - nancy fraser (new left review)
+
+https://www.youtube.com/watch?v=C6i_JiRoIfk
+https://www.youtube.com/watch?v=cCQdzqAHcFk
+https://www.youtube.com/watch?v=2xNzB7xq8nk
+https://www.youtube.com/watch?v=xp_ShU5AwYU
+https://3dfy.ai/
+https://www.linode.com/lp/
+https://blog.unity.com/engine-platform/addressables-planning-and-best-practices
+https://agentgpt.reworkd.ai/?ref=futuretools.io
+https://aidepot.co/
+https://ailawyer.pro/?ref=saasaitools
+https://www.aisuite.io/
+https://aitools.fyi/
+https://allthingsai.com/
+https://www.anysummary.app/?ref=futuretools.io
+https://archlinux.org/download/
+https://andrew.hedges.name/experiments/aspect_ratio/
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://dzone.com/articles/the-very-basic-introduction-to-feed-forward-neural
+https://www.bemyeyes.com/?ref=futuretools.io
+https://aituts.com/midjourney-tile/
+https://www.brancher.ai/?ref=futuretools.io
+https://forums.blurbusters.com/viewtopic.php?t=10629
+https://github.com/CarperAI/trlx
+https://open-assistant.io/chat/0643c7e3-eb85-7ef6-8000-820f62b9e55a
+https://www.greaterlending.com/commercial-loans/inquiry/
+https://landing.ai/
+https://alpha.genmo.ai/create
+https://github.com/dbp8890/line-renderer
+https://discord.com/developers/applications/1096520891908771920/information
+https://www.dora.run/m/projects
+https://www.eleuther.ai/
+https://github.com/pinecone-io/examples/blob/master/generation/langchain/handbook/06-langchain-agents.ipynb
+https://github.com/pinecone-io/examples/blob/master/generation/langchain/handbook/xx-quick-agents-intro.ipynb
+https://deepai.org/machine-learning-glossary-and-terms/feed-forward-neural-network
+https://firefox-source-docs.mozilla.org/
+https://console.fpt.ai/project/6bac4b02-00a1-4162-8195-993659858fdd/credentials
+https://fspy.io/
+http://www.fusionai.world/home.html
+https://www.futurepedia.io/
+https://app.outset.ai/ai-builder/use-case
+https://cdn.discordapp.com/attachments/1005736296880291900/1098504222053498920/Glitch_None_dfec8c1c-a736-4055-9ccd-63773a11fecb.png
+https://godmode.space/?ref=futuretools.io
+http://agents.camel-ai.org/
+https://github.com/hazyresearch/meerkat
+https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
+https://umodeler.github.io/HotspotTexturing.html
+https://phoenixnap.com/kb/use-nano-text-editor-commands-linux
+https://mythicalai.substack.com/p/how-to-train-chatgpt-on-your-own
+https://huggingface.co/spaces/microsoft/HuggingGPT
+https://illustroke.com/
+https://www.imagica.ai/studio?ref=futuretools.io
+https://wiki.archlinux.org/title/Installation_guide
+https://www.greenapplebooks.com/book/9780593238714
+https://www.josh.ai/nano/
+https://convert.leiapix.com/
+https://lookup-yc.herokuapp.com/
+https://mastodon.online/getting-started
+https://github.com/microsoft/JARVIS
+https://docs.midjourney.com/docs/blend
+https://github.com/mozilla/releases-comm-central
+https://www.youtube.com/watch?v=wnM1FBxzTlc&ab_channel=WorldofAI
+https://github.com/oobabooga/text-generation-webui
+https://github.com/openai/point-e?ref=theresanaiforthat
+http://oslo.eleuther.ai/
+https://www.pen-to-print.com/
+https://shunsukesaito.github.io/PIFuHD/
+https://app.pinecone.io/organizations/-NSiNeYYrGLx9zbV9K1y/projects/us-east1-gcp:f8479c0/keys
+https://github.com/topics/pretrained-models
+https://prompthero.com/
+https://gradio.app/quickstart/
+https://docs.snips.ai/getting-started/quick-start-raspberry-pi
+https://www.runpod.io/
+https://github.com/rust-lang/rust
+https://iscanner.com/
+https://www.pycheung.com/checker/
+https://github.com/Significant-Gravitas/Auto-GPT
+https://pypi.org/project/spinner/
+https://starkware.co/starknet/
+https://www.greenapplebooks.com/book/9780143127741
+https://www.wishpond.com/?fpr=futuretools
+https://console.firebase.google.com/u/0/project/veritable-games-host-site/overview?hl=en-US
+https://milvus.io/
+https://python.langchain.com/en/latest/use_cases/code/code-analysis-deeplake.html?highlight=Auto%20GPT
+https://docs.unity3d.com/Manual/com.unity.addressables.html
+https://gpt-index.readthedocs.io/en/latest/reference/indices/tree.html
+https://www.greenapplebooks.com/book/9780143127741
+https://askyourpdf.com/
+https://www.steamship.com/build
+https://www.camscanner.com/
+https://formextractorai.com/extractor?team=veritable-games
+https://openassistant.org/wp/download/
+https://linuxmint.com/download.php
+https://huggingface.co/DeepFloyd/IF-I-XL-v1.0
+https://archive.org/details/critique-of-pure-reason/Critique%20of%20Pure%20Reason/page/n17/mode/2up
+https://chat.chattypdf.com/documents/dbf496be
+https://www.chatpdf.com/
+https://autory.ai/?ref=futuretools.io#continue
+https://open-assistant.io/chat/0643c7e3-eb85-7ef6-8000-820f62b9e55a
+https://beta.character.ai/
+https://www.gitfluence.com/
+https://godly.ai/dashboard/teams/clgnb0irk000emi080c6qcsrm/projects/clgnb0wvq000mlb089c0jae9l/context
+https://www.catbird.ai/
+https://app.humata.ai/
+https://huggingface.co/spaces/DeepFloyd/IF
+https://app.ingestai.io/main/libraries/10535
+https://github.com/JakobPCoder/ReshadeMotionEstimation
+https://github.com/martymcmodding/ReShade-Optical-Flow
+https://github.com/Mikubill/sd-webui-controlnet
+https://www.adobe.com/acrobat/mobile/scanner-app.html
+https://play.google.com/store/apps/details?id=com.appxy.tinyscanner&hl=en_US&gl=US
+https://www.assemblyai.com/playground/source
+https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main
+https://mod.io/g/drg/m/vrg
+https://vercel.com/
+
+
+https://huggingface.co/CiaraRowles/TemporalNet2
+
+https://osu-nlp-group.github.io/Mind2Web/
+
+https://github.com/InternLM/InternLM-techreport
+
+https://research.nvidia.com/labs/toronto-ai/ATT3D/
+
+https://google-research.github.io/seanet/musiclm/examples/
+
+https://otter-ntu.github.io/
+
+https://arxiv.org/abs/2306.02707
+
+https://www.designboom.com/art/current-fiber-sculpture-janet-echelman-columbus-ohio-06-06-2023/
+
+https://devops.com/copilots-for-everyone-microsoft-brings-copilots-to-the-masses/amp/
+
+https://bookriot.com/atompunk-genre/amp/
+
+https://www.sciencealert.com/scientists-beam-solar-power-from-space-to-earth-in-world-first
+
+https://betanews.com/2023/06/10/debian-12-bookworm-windows-free-alternative-linux/
+
+https://www.archdaily.com/1000667/the-chthulucene-call-to-architecture
+
+https://www.pcgamer.com/dune-awakenings-combat-is-much-more-second-to-second-and-intense-than-you-would-find-in-an-mmo/
+
+https://www.pcgamer.com/all-the-games-in-the-pc-gaming-show-2023-montage/
+
+https://www.npr.org/2023/06/10/1180761446/coastal-biomedical-labs-are-bleeding-more-horseshoe-crabs-with-little-accountabi
+
+https://amp.cnn.com/cnn/2023/06/12/us/illinois-public-libraries-schools-book-bans/index.html
+
+https://www.darksky.org/
+
+https://www.designboom.com/architecture/aedas-taipei-zhongshan-district-changan-duan-345-office-tower-06-09-2023/
+
+https://github.com/CiaraStrawberry/TemporalKit
+
+https://github.com/VITA-Group/NeuralLift-360
+
+https://github.com/Honkware/discord-buddy
+
+https://github.com/steamship-packages/autogpt-telegram-chatbot
+
+https://www.assemblyai.com/blog/lemur-early-access/
+
+https://www.reddit.com/r/twinegames/comments/4112ws/publishing_twine_games_on_steam/
+
+http://twinery.org/forum/discussion/2381/how-do-i-realease-it-on-steam
+
+http://www.awesomium.com/
+
+
+http://veritablegames.com/
+
+http://veritablegames.deviantart.com/
+
+https://www.facebook.com/veritablegames
+
+http://www.indiedb.com/company/veritable-games
+
+http://veritable-games.itch.io/
+
+https://www.kickstarter.com/profile/veritablegames
+
+http://www.linkedin.com/company/veritable-games
+
+http://www.patreon.com/
+
+http://www.reddit.com/r/veritablegames/
+
+https://trello.com/veritablegames
+
+http://veritablegames.tumblr.com/
+
+https://www.youtube.com/channel/UCelFm25N_mvDbg2jCgs1JYA
+
+https://www.wojtekfus.com/
+
+https://www.artstation.com/kruger7215 - Vitaliy Ostaschenko
+
+https://www.artstation.com/rhajesgames - Ricardo Hoyos Arias
+
+https://mattpc.deviantart.com/
+
+https://www.artstation.com/hugobeyer
+
+https://www.artstation.com/imdb191/albums/all
+
+https://brian-snook.deviantart.com/
+
+https://www.artstation.com/artwork/lVEAg5
+
+https://www.artstation.com/tastyburger
+
+https://www.3daysmarch.net/original.php
+
+https://www.google.com/amp/s/m.wikihow.com/Calculate-Terminal-Velocity%3famp=1
+
+https://astranova.org/about
+
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C29&q=adderall+depression&btnG=
+
+http://ubmgamenetwork.com/gdc/gdcplay.php
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991386/
+
+https://kiss-anime.co/akatsuki-no-yona
+
+https://kiss-anime.co/aku-no-hana
+
+https://en.wikipedia.org/wiki/Albedo
+
+http://www.gameacademy.com/hire-game-musicians/
+
+https://amorphia-apparel.com/
+
+https://www.cartoonbrew.com/educational/an-animation-analysis-of-spider-verse-by-animator-jean-denis-haas-170700.html
+
+http://www.anovos.com/
+
+https://www.arcimoto.com/vehicle/
+
+https://www.artstation.com/
+
+https://www.artstation.com/francishsu
+
+https://www.artstation.com/vujovic
+
+https://www.artstation.com/jdesroy
+
+https://www.artstation.com/artwork/4bBkAn
+
+http://www.ashellinthepit.com/
+
+https://www.assetstore.unity3d.com/en/#!/content/13325
+
+https://kiss-anime.co/beck
+
+https://www.betterworktogether.co/
+
+https://kissanime.ac/Anime/Yagate-Kimi-ni-Naru-Sub/
+
+https://blendermarket.com/products/boxcutter
+
+https://calendly.com/richarddbartlett/advice-1st-call?month=2019-12
+
+https://campquest.org/
+
+http://www.cap-that.com/starwars/clone-wars/?seasonfive
+
+https://www.curbed.com/2017/5/17/15649210/car-free-places-city-island
+
+https://kissanime.ac/Anime/Children-who-Chase-Lost-Voices-Dub.58224/
+
+http://yochrisglenn.tumblr.com/
+
+https://www.clairehummel.com/
+
+http://brian-snook.deviantart.com/
+
+https://www.youtube.com/watch?v=p-3S73MaDP8
+
+https://dl.acm.org/citation.cfm?id=1519060&picked=formats
+
+http://www.colorhexa.com/fff8e7
+
+https://cos.io/
+
+https://gumroad.com/csharpaccent
+
+https://www.anaitgames.com/articulos/summer-in-mara-kickstarter-postmortem
+
+https://myanimelist.net/anime/8142/Colorful_(Movie)
+
+https://lambdalabs.com/cloud/dashboard/instances
+
+http://brian-snook.deviantart.com/
+
+https://www.clairehummel.com/
+
+http://yochrisglenn.tumblr.com/
+
+https://kissanime.ac/Anime/Children-who-Chase-Lost-Voices-Dub.58224/
+
+http://www.cheshireandwain.com/all-products/new-chester-luxury-cat-collar
+
+http://www.charitynavigator.org/
+
+https://www.noesisengine.com/
+
+http://caat.jhsph.edu/
+
+http://www.heywhatsthat.com/sealevel.html
+
+https://www.youtube.com/watch?v=w7zO7yObD6c&feature=youtu.be
+
+https://www.curbed.com/2017/5/17/15649210/car-free-places-city-island
+
+http://www.cap-that.com/starwars/clone-wars/?seasonfive
+
+https://campquest.org/
+
+https://calendly.com/richarddbartlett/advice-1st-call?month=2019-12
+
+https://blendermarket.com/products/boxcutter
+
+https://kissanime.ac/Anime/Yagate-Kimi-ni-Naru-Sub/
+
+https://www.betterworktogether.co/
+
+https://kiss-anime.co/beck
+
+https://en.wikipedia.org/wiki/Barnard%27s_Star#:~:text=Barnard's%20Star%20%2F%CB%88b%C9%91%CB%90r,in%20the%20northern%20celestial%20hemisphere.
+
+http://www.dmvnv.com/autonomous.htm
+
+https://drive.google.com/file/d/1bZQsC-W6-MzixmX6oTlo_99JQTR0Anzj/view?ts=5d64b1ce
+
+https://www.assetstore.unity3d.com/en/#!/content/13325
+
+http://www.ashellinthepit.com/
+
+https://www.artstation.com/artwork/4bBkAn
+
+https://www.artstation.com/jdesroy
+
+https://www.artstation.com/vujovic
+
+https://www.artstation.com/francishsu
+
+https://www.artstation.com/
+
+https://www.arcimoto.com/vehicle/
+
+https://www.kickstarter.com/projects/427189558/arbiter-0?token=c732018c
+
+http://www.w3schools.com/css/css_background.asp
+
+http://indie-fund.com/apply/
+
+http://apollo17.org/
+
+https://www.cambridge.org/core/journals/cns-spectrums/article/antidepressant-treatment-of-psychotic-major-depression-potential-role-of-the-receptor/D6EB4610C771A28B0F09D5391D5E465C
+
+http://www.anovos.com/
+
+http://www.laurabularca.com/2018/08/an-indie-game-marketing-size-guide-for-social-media-presence/
+
+https://docs.unity3d.com/Packages/com.unity.animation.rigging@0.2/manual/index.html
+
+https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-beta-119877
+
+https://amorphia-apparel.com/
+
+http://www.gameacademy.com/hire-game-musicians/
+
+https://en.wikipedia.org/wiki/Albedo
+
+https://kiss-anime.co/aku-no-hana
+
+https://kiss-anime.co/akatsuki-no-yona
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991386/
+
+http://ubmgamenetwork.com/gdc/gdcplay.php
+
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C29&q=adderall+depression&btnG=
+
+https://astranova.org/about
+
+https://inhabitat.com/mit-makes-a-warm-incandescent-light-bulb-nearly-3x-more-efficient-than-leds/
+
+https://www.google.com/search?q=middle+eastern+courtyard+garden&rlz=1C1CHZL_enUS759US759&sxsrf=ACYBGNRG8j_fZEpRxbR1RqGk0EktHZvoFQ:1578550659133&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi9rLC67_XmAhXYvp4KHcv-BcQQ_AUoAXoECAwQAw&biw=1278&bih=1287
+
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C29&q=micro+expressions&btnG=
+
+https://www.youtube.com/watch?v=360uNK2lpUI
+
+https://assetstore.unity.com/packages/tools/modeling/mesh-slicer-59618
+
+https://www.google.com/search?sa=X&q=Memories+1995&stick=H4sIAAAAAAAAAG1Su27UQBTFEY_sbIowEVLkahVRUCCt7bE9NiUIISQiJEhBN4qfa689zuxY3rE7ahoEn0DLj7AfQBkJOko6RMVmmWuJR3fu3HPOvefa-zdOJvN6bjm5XHPnOEplO5NxMcuK2Tkv6nRWN12Ryo3xm9W1fbQx0A6L0u-obpCc1kTjPBj4iH3LjrXAXg4J6zbG_lXBLa_THNuNLhLAAecDYNZ6GfjTkgUwmEoS9rpBiVBcN6ivlgmod4FAHdlxrAc7TLSan1RcqBXw1-V6CdhyFvBOSCIgvt_lOWztiJrBdu5FTMC0Iwuvp7oQlU_5WrM8UQ5wC5J3QoFVwHoWQjjl2SHMI8znznhuIdm4IMvqsaGCinowIy9LG7BSy_GWktW1FgRWppIcIvWZu91juiM5NhNVC6HyNbFA3gsHMvGIysDVxYLFLBxgk8FTtIKO41VxDho3CjmMjO1ysdRfQzhEak646lYMcriyd9lX483e9PDbj8sj8_Xeu4-fPhs_DXT94fYXxd8NNH2ZtmfNaZMUWY-_GPjSQIfPmkamVf8irc7bNDlr8F108zFvi7bHJjowdyN9Hlr3rpkIjRX-8JfbewO__Z_byeh2jKbmrSt9qfqt2QRBgV_9afUUP0GT07SO0pV8nuEHCD1qqiqN26Lh-D66Y96ex-PDPCuqWm79jtC_zwe_AJwoc-irAwAA&npsic=0&ved=0ahUKEwi5uoKKxv7YAhUJ1mMKHQfsBmEQ-BYIbg
+
+http://www.meetgraham.com.au/
+
+http://www.maxsmaps.com/contact
+
+https://maxlouiscreative.com/portfolio/3d-environment/
+
+https://www.mattgaser.com/
+
+http://toposvalbard.npolar.no/
+
+https://www.hulu.com/series/maoyu-archenemy-hero-9c5273db-c5a7-4b74-8bdc-84e80e32b24c?dl=false
+
+http://www.tinybuild.com/single-post/2016/04/08/Making-great-GIFs
+
+https://kissanime.ac/Anime/Mahou-Shoujo-Site-Sub/
+
+https://www.google.com/search?sxsrf=ACYBGNR4Hbtjac0kztccdf0NS8AqObkwpQ%3A1567412608219&ei=gNFsXcSBDYHO0PEPr8aIoAs&q=made+in+abyss+manga&oq=made+in+abyss+manga&gs_l=psy-ab.3..0l2j0i20i263j0l3j0i20i263j0l3.5413.9813..9925...1.0..0.173.2343.0j18....2..0....1..gws-wiz.....10..35i39j0i131j0i67.WMR6aVjepw0&ved=0ahUKEwjEwer92rHkAhUBJzQIHS8jArQQ4dUDCAo&uact=5
+
+https://assetstore.unity.com/packages/tools/particles-effects/crest-ocean-system-lwrp-141674
+
+http://www.reddit.com/r/low_poly/
+
+https://www.loomio.org/pricing
+
+http://kilianplunkett.blogspot.com/
+
+https://github.com/IntelRealSense/librealsense/tree/development/wrappers/unity
+
+https://www.lg.com/us/support/product-help/CT10000018-20150539692863-magic-motion-remote
+
+https://en.wikipedia.org/wiki/Leo_Tolstoy
+
+https://www.google.com/search?sxsrf=ACYBGNTnpdbc4sHah07H1HW6LEisTNRl_A%3A1578553606350&source=hp&ei=BtEWXtLyEoHy-gTMy7uwAQ&q=Leo+Tolstoy&oq=Leo+Tolstoy&gs_l=psy-ab.3..0l10.628.3866..4075...2.0..0.109.1182.9j3......0....1..gws-wiz.....10..0i131j35i362i39j35i39j0i20i263.4mBkHR1a9KE&ved=0ahUKEwjSjdq3-vXmAhUBuZ4KHczlDhYQ4dUDCAg&uact=5
+
+https://www.youtube.com/watch?v=mi5bFPnl-vo
+
+https://www.crystalinks.com/lenticular.html
+
+https://www.udemy.com/unitycourse/learn/?couponCode=WebCUDUnity#/lecture/1619194
+
+https://www.kickstarter.com/projects/1307515311/night-in-the-woods?ref=play
+
+https://www.japantimes.co.jp/life/2016/12/10/lifestyle/last-splash-immodest-japanese-tradition-mixed-bathing-may-verge-extinction/#.XZu1jUZKgUE
+
+https://mangarock.com/manga/mrs-serie-110408/chapter/mrs-chapter-200100360
+
+http://www.kongregate.com/
+
+https://kiss-anime.co/kokoro-connect
+
+https://www.google.com/search?sxsrf=ACYBGNRLCv422ClA-RwD9JvtAXc84eTktQ%3A1567420983416&source=hp&ei=N_JsXeiPF5P--gTfza_gBg&q=Kizumonogatari+films&oq=Kizumonogatari+films&gs_l=psy-ab.3..0.289.289..607...0.0..0.107.107.0j1......0....2j1..gws-wiz.sCCFt_JEVBw&ved=0ahUKEwioh7aX-rHkAhUTv54KHd_mC2wQ4dUDCAc&uact=5
+
+https://www.youtube.com/watch?v=sUWWUlIl-08
+
+https://read.amazon.com/?asin=B00INF6MGA
+
+https://www.google.com/search?sxsrf=ACYBGNQYVtkb4mVWjz8BMW0838WiXEFAkg%3A1567420268426&ei=bO9sXbHRGa_B0PEPv5qF6A8&q=kimetsu+no+yaiba&oq=kimet&gs_l=psy-ab.1.0.0i131j0j0i131j0i3j0i131l2j0l2j0i131j0.69649.146098..149504...6.0..0.108.612.2j4....3..0....1..gws-wiz.....10..35i39j0i67.w8Ull2RMJtg
+
+https://www.google.com/search?ei=Lz7GXObGJPm90PEPr8uK-A4&q=killing+eve&oq=killing+eve&gs_l=psy-ab.3..0i67l4j0j0i67l5.12029.14021..14164...1.0..0.129.925.10j1......0....1..gws-wiz.....6..0i71j35i39j0i131i67j0i131j0i20i263.YRZY5dCkk7s
+
+https://kissanime.ru.com/movies/kikis-delivery-service/
+
+http://kickingitforward.org/
+
+http://toposvalbard.npolar.no/
+
+https://www.google.com/search?ei=nEnGXJiUOZX3-gTTuYzQCA&q=jojo%27s+bizzare+adventure&oq=jojo%27s+bizzare+adventure&gs_l=psy-ab.3..0i67l3j0i10j0i67l2j0i10l4.1759.2926..3110...0.0..0.100.861.9j1......0....1..gws-wiz.......0i71.xm_HBn5owJs
+
+http://www.celephais.net/cv/resume.htm
+
+https://forum.deviantart.com/jobs/offers/
+
+https://www.google.com/search?source=hp&ei=x85vWs-YCMLqjwON3JbgDA&q=Jin-Roh%3A+The+Wolf+Brigade&oq=Jin-Roh%3A+The+Wolf+Brigade&gs_l=psy-ab.3..0l10.613.613.0.1051.2.1.0.0.0.0.89.89.1.1.0....0...1c.1.64.psy-ab..1.1.88.0...0.GDFcPA_Q9rw
+
+http://www.jesseldavis.com/
+
+http://www.jbis.org.uk/paper.php?p=2012.65.283
+
+https://www.e-flux.com/architecture/positions/191258/is-ornamenting-solar-panels-a-crime/
+
+https://blogs.unity3d.com/2019/05/14/introducing-the-animation-rigging-preview-package-for-unity-2019-1/
+
+https://blogs.unity3d.com/2019/05/14/introducing-the-animation-rigging-preview-package-for-unity-2019-1/?utm_source=twitter&utm_medium=social&utm_campaign=engine_global_generalpromo_2019-05-19_anim&utm_content=blog_icymi
+
+https://tabnine.com/install/
+
+https://store.theindiebox.com/
+
+https://idlecanvas.artstation.com/projects/JlzNoa
+
+https://kotaku.com/id-have-these-extremely-graphic-dreams-what-its-like-t-1834611691
+
+https://twitter.com/revcosmosis
+
+https://www.vice.com/en_us/article/neazk8/how-the-devs-behind-sable-found-inspiration-in-the-enigmatic
+
+https://dinoignacio.com/
+
+http://www.w3schools.com/colors/colors_names.asp
+
+https://forum.unity.com/threads/how-would-you-add-a-moon-to-the-background-of-a-scene-like-the-sun-over-unitys-horizon.753017/
+
+http://www.tinybuild.com/how-to-pitch-your-game
+
+http://www.tinybuild.com/single-post/2016/03/08/How-to-make-your-game-appeal-to-streamers
+
+https://funnyjunk.com/How+to+make+an+asshole+happy/hdgifs/6399881/
+
+https://www.youtube.com/watch?v=dG1E-EKhaaw
+
+https://www.youtube.com/watch?v=8gSE59gC94c
+
+http://www.creativebloq.com/3d/how-create-low-poly-3d-models-121310159
+
+https://www.youtube.com/watch?v=jPlfjwug5mE&t=2s
+
+http://answers.unity3d.com/questions/433729/how-do-i-create-geometric-low-poly-style-landscape.html
+
+https://housekinokuni.com/manga/houseki-no-kuni-chapter-86/
+
+https://en.wikipedia.org/wiki/R136a1
+
+https://assetstore.unity.com/packages/tools/terrain/r-a-m-2019-river-auto-material-2019-145937
+
+https://en.wikipedia.org/wiki/Quantum_cognition#:~:text=Quantum%20cognition%20is%20an%20emerging,%2C%20human%20judgment%2C%20and%20perception.
+
+http://mathonline.wikidot.com/proof-of-the-existence-of-only-5-platonic-solids
+
+https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
+
+https://www.cartoonbrew.com/educational/an-animation-analysis-of-spider-verse-by-animator-jean-denis-haas-170700.html
+
+https://www.anaitgames.com/articulos/summer-in-mara-kickstarter-postmortem
+
+https://www.colorhexa.com/fff8e7
+
+https://www.cos.io/
+
+https://www.gamedev.net/tutorials/_/business/business-and-law/crowdfunding-as-marketing-r3836/
+
+https://csharpaccent.gumroad.com/
+
+https://www.w3schools.com/css/css_background.asp
+
+https://www.w3schools.com/css/css_border.asp
+
+https://www.w3schools.com/css/css_font.asp
+
+https://davidanthonygibson.wordpress.com/
+
+https://www.charitynavigator.org/
+
+https://www.noesisengine.com/
+
+https://www.indiedb.com/games/autumn
+
+https://apolloinrealtime.org/17/
+
+https://opsive.com/support/documentation/ultimate-character-controller/getting-started/setup/project-update/
+
+http://www.gamejobhunter.com/jobs/programming/
+
+https://powerupaudio.com/
+
+https://assetstore.unity.com/publishers/12243
+
+https://en.wikipedia.org/wiki/Pluto_(manga)
+
+https://www.assetstore.unity3d.com/en/#!/content/368
+
+https://assetstore.unity.com/packages/vfx/shaders/pidi-planar-reflections-3-water-add-on-148505
+
+https://assetstore.unity.com/packages/tools/particles-effects/pidi-planar-reflections-3-standard-edition-153073
+
+https://gameontherails.com/
+
+https://en.wikipedia.org/wiki/Pinakes
+
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@7.1/manual/Override-Physically-Based-Sky.html
+
+https://www.youtube.com/playlist?list=PLCCA243639A668F07
+
+https://neuronmocap.com/
+
+https://www.google.com/search?source=hp&ei=5c5vWtWsA5KajwOonLygCg&q=Patlabor+2&oq=Patlabor+2&gs_l=psy-ab.3..0l10.320.320.0.910.2.1.0.0.0.0.74.74.1.1.0....0...1c.1.64.psy-ab..1.1.73.0...0.fICRuDRilT0
+
+https://www.reddit.com/r/INAT/comments/c78139/paid_need_music_for_your_game/
+
+https://polycount.com/discussion/213854/paid-looking-for-an-artist-that-has-experience-with-architecture-and-interior-design/
+
+https://www.reddit.com/r/gameDevClassifieds/comments/cvlr15/paid_looking_for_an_artist_that_has_experience/
+
+https://optitrack.com/systems/#animation/flex-13/6
+
+https://opsive.com/support/documentation/character-controller-vr-add-on/setup/
+
+https://www.youtube.com/watch?v=_DmUL9KK9Yk
+
+http://en.wikipedia.org/wiki/Omnipotence_paradox
+
+https://developer.oculus.com/documentation/quest/latest/concepts/book-unity-gsg/
+
+http://www.atheistberlin.com/
+
+https://www.youtube.com/watch?v=DgljcMqPG98
+
+https://videlais.com/2014/08/26/twinetuesday-packaging-twine-with-node-webkit/
+
+http://kissanime.ru/Anime/Yozakura-Quartet-Hana-no-Uta
+
+https://kiss-anime.co/yojouhan-shinwa-taikei
+
+https://remnantfromtheashes.wiki.fextralife.com/Yaesha
+
+https://ellenbrockediting.com/worldbuilding-bible-template/
+
+https://blender.stackexchange.com/questions/8955/cut-straight-lines-with-knife-tool
+
+https://www.wojtekfus.com/
+
+https://www.google.com/search?sa=X&q=Wizards+(film)&stick=H4sIAAAAAAAAAG1SO2_UQBDGEY_cXorgCClydYooKJDO9tpemxKEEBIREqSgW8XPs89eZ28t3647ahoEP4GWP8L9AMpI0FHSISoux44lHt03O99jZuz9GyeTeTO33XW1XrrHcSa6mUjKWV7OzlnZZLOm7ctMbIzfrL5T8cZAO8yroCe6gQvSYI2LcGAjDmwn0QJnOaS03xj7VwWz_V5zHC--SAGHjA2Aaefn4E8qGkIwEThSukEwl0w3SCCXKajdQqwZqGMnSXSwS3mn-WnNuFwB_-oAgG13Ae8YpxzWD_qigKld3lCYzrtIMJj2eOErogteB4StNcvn1QC3wEXPJViFVNEIlpO-E0EepgFzx3NzQccBad6MDRnWxIeMoqocwFIux1sK2jRaENq5TAtYSeXedo7pjuQ6lNcdLFWssQ1yxV3YicVEhJ4uFjSh0QCTDL4kNXRcv04K0HhxxCAycarFUn8N7mKhOdGqX1HYwxPKo1-NN3vTw28_Lo-s13vvPn76bPw00PWH21_U_G6g6cusO2tP27TMlfnFMC8NdPisbUVWqxdZfd5l6Vlr3kU3H7Ou7JRpoQNrFxmwyL53zUJorMwPf7m9N8y3_3M7Gd2O0dS6daWvpNqaTRAU5qs_rZ6aT9DkNGvibCWe5-YDhB61dZ0lXdky8z66Y92eJ-PDPC_rRmz9jtC_zwe_AImth4qrAwAA&npsic=-2304&ved=0ahUKEwi5uoKKxv7YAhUJ1mMKHQfsBmEQ-BYIeg
+
+https://www.wpdevcenteroffers.com/
+
+https://en.wikipedia.org/wiki/Wikipedia:Requested_articles/Natural_sciences#General_Science
+
+http://localhost/wiki/index.php/Main_Page
+
+https://www.youtube.com/watch?v=7WLIPIbumy0&list=PLAXJzGOFS3xN7wdZudA0jb12zty55yi-r
+
+https://myanimelist.net/anime/1210/NHK_ni_Youkoso!
+
+http://evolution.berkeley.edu/evolibrary/article/evo_01
+
+https://www.cloudflare.com/
+
+https://www.wandb.com/papers
+
+https://kissanime.si/Anime/Tenki-no-Ko-Sub/
+
+https://www.youtube.com/watch?v=jIW8DxwNmZ0&index=282&list=WL&t=0s
+
+https://www.youandpea.com/vushowcase
+
+https://www.youtube.com/watch?time_continue=1&v=mKPNEKcpF-0&feature=emb_title
+
+http://www.tamararyanvo.com/
+
+https://rebuffreality.com/account/login?return_url=%2Faccount
+
+https://gamejobhunter.com/
+
+https://www.google.com/search?sa=X&q=Venus+Wars&stick=H4sIAAAAAAAAAG1SO2_UQBDGEY_cXoqwUaTI1SmioEA622t7bUoQQkhESJCCbhU_zz57nb21fF531DQIfgItf4T7AZSRoKOkQ1RcTjuWeHTf7HyPmbH3b51O5vXcCphioXMSpbKdybiYZcXsghd1OqubrkjlxtixnK5V0cZAOyxKv6O6QXJaE43zYOAj9i071gJ7OSSs2xj71wW3vE5zbDe6TAAHnA-AWetl4E9LFkAwlSRUukGJ6LluUL9fJqB2crnmoI7sONbBDhOt5icVF_0K-OtyvQRsOQt4JyQRsL7f5TlM7YiawXTuZUzAtCMLT1FdiMqnfK1ZnigHuAXJO9GD1e72sFzv2SHkEeZzZzy3kGwckGX12OiDinqQkZelDbjvl-MtJatrLQisrE9yWEll7naO6Y7k2ExULSyVr4kFciUc2IlHVAauLhYsZuEAkwxeTyvoOF4V56Bxo5BDZGyXi6X-GsIhUnPCVbdisIcrlcu-GW_3pofff14dmW_23n_6_MX4ZaCbj7a_KP5hoOmrtD1vzpqkyBT-auArAx0-bxqZVuplWl20aXLe4Hvo9hPeFq3CJjowd5E-D637N0yExgp__Mvtg4Hf_c_tdHQ7QVPzzrW-7NXWbIKgwK__tHqGn6LJWVpH6Uq-yPBDhB43VZXGbdFw_AAdm3fn8fgwz4qqllu_I_Tv88Fvqo6R0asDAAA&npsic=-2304&ved=0ahUKEwi5uoKKxv7YAhUJ1mMKHQfsBmEQ-BYImAE
+
+https://books.google.com/books?id=xgA69UImZu8C&pg=PA21#v=onepage&q&f=false
+
+https://en.wikipedia.org/wiki/Utah_teapot
+
+https://unity3d.com/unity/beta/2019.3.0b5
+
+http://www.shamusyoung.com/twentysidedtale/?p=23830
+
+https://twitter.com/UniverCurious/status/1209992816031653888?s=19
+
+https://www.youtube.com/watch?time_continue=3&v=DzW_jQGO1dc&feature=emb_title
+
+https://blogs.unity3d.com/2019/09/05/advanced-animation-rigging-character-and-props-interaction/
+
+https://www.youtube.com/watch?v=9IBhQMYYYWs&feature=youtu.be&t=670
+
+https://docs.unity3d.com/Manual/class-AvatarMask.html
+
+http://kraigwalker.com/articles/creating-an-isometric-camera-in-unity/
+
+https://connect.unity.com/my/jobs
+
+https://www.google.com/search?sxsrf=ACYBGNQePx45ocEuglnl-ixNlrZ9fzREZQ%3A1567419033868&source=hp&ei=mepsXYnCMoe6-gTunpCwDw&q=unity+animation+rigging+preview&oq=unity+animation+rigging+preview&gs_l=psy-ab.3..0.2863.6324..6429...0.0..0.116.3257.5j26......0....1..gws-wiz.......35i39j0i131j0i20i263j0i67j0i131i67j0i22i30.kPsEV6369zI&ved=0ahUKEwjJ8ub18rHkAhUHnZ4KHW4PBPYQ4dUDCAc&uact=5
+
+https://www.youtube.com/watch?v=mXTxQko-JH0&t=9s
+
+https://www.kickstarter.com/projects/sergiucraitoiu/unbound-worlds-apart
+
+http://www.unawe.org/
+
+https://mangarock.com/manga/mrs-serie-90619/chapter/mrs-chapter-90630
+
+https://blendermarket.com/products/hardopsofficial
+
+https://www.youtube.com/watch?v=M4qcvTeN8k0
+
+https://assetstore.unity.com/packages/tools/particles-effects/infinicloud-hdrp-beta-volumetric-clouds-particles-154133
+
+https://www.google.com/search?q=Heavy+Metal+(film)&stick=H4sIAAAAAAAAAG1SO2_UQBDGEY_cXoqwUaTI1SmioEA622t7bUoQQkhESJCCbhU_zz57nb21fF531DQIfgItf4T7AZSRoKOkQ1RcTjuWeHTf7HyPmbH3b51O5vXcst3oMnFOolS2MxkXs6yYXfCiTmd10xWp3Bg7ltO1KtoYaIdF6XdUN0hOa6JxHgx8xL5lx1pgL4eEdRtj_7rgltdpzi4acMD5AJi1Xgb-tGQBBFNJQqUblIie6wb1-2UCaieXaw7qyI5jHeww0Wp-UnHRr4C_LtdLwJazgHdCEgHr-12ew9SOqBlM517GBEw7svAU1YWofMrXmuWJcoBbkLwTPVgFTLEQlus9O4Q8wnzujOcWko0DsqweG31QUQ8y8rK0Aff9crylZHWtBYGV9UkOK6nM3c4x3ZEcm4mqhaXyNbFAroQDO_GIysDVxYLFLBxgksHraQUdx6viHDRuFHKIjO1ysdRfQzhEak646lYM9nClctk34-3e9PD7z6sj883e-0-fvxi_DHTz0fYXxT8MNH2VtufNWZMUmcJfDXxloMPnTSPTSr1Mq4s2Tc4bfA_dfsLbolXYRAfmLtLnoXX_honQWOGPf7l9MPC7_7mdjm4naGreudaXvdqaTRAU-PWfVs_wUzQ5S-soXckXGX6I0OOmqtK4LRqOH6Bj8-48Hh_mWVHVcut3hP59PvgNJtryZ6sDAAA&npsic=0&sa=X&ved=0ahUKEwjKnqyBxv7YAhVD6mMKHSqNC9YQ-BYIWQ
+
+http://hebrewbooks.org/14332
+
+https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/atmospheric-height-fog-optimized-fog-shaders-for-consoles-mobile-143825
+
+http://www.heywhatsthat.com/sealevel.html
+
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@6.7/manual/Glossary.html#RayMarching
+
+https://www.youtube.com/watch?v=_E0JXOZDTKA
+
+https://ecocitybuilders.org/
+
+http://www.wpdevcenteroffers.com/
+
+http://cgi.tutsplus.com/tutorials/modeling-uvmapping-and-texturing-a-low-poly-t-rex-in-blender-part-1--cg-12763
+
+https://www.cgtrader.com/3DS_Max_Girls
+
+https://www.youtube.com/watch?v=m1mXVSnYyLA
+
+https://myanimelist.net/anime/1827/Seirei_no_Moribito
+
+https://catlikecoding.com/unity/tutorials/object-management/multiple-scenes/
+
+https://en.wikipedia.org/wiki/Mu_(negative)
+
+https://www.youtube.com/watch?v=oineaPF3j48
+
+http://disasterpeace.com/music
+
+https://scntfc.bandcamp.com/
+
+https://www.space.com/41518-mid-size-black-holes-found-chandra.html
+
+https://halisavakis.com/my-take-on-shaders-simple-subsurface-scattering/
+
+https://scholar.google.com/scholar?q=nad%2B+research+2020&hl=en&as_sdt=0&as_vis=1&oi=scholart
+
+https://assetstore.unity.com/packages/tools/terrain/nature-renderer-153552
+
+http://ncse.com/about
+
+http://www.nevigo.com/help/Scripting_in_articy.html
+
+https://goodereader.com/blog/electronic-readers/e-ink-and-wacom-have-just-unveiled-a-new-type-of-color-e-paper
+
+https://panicpancho.artstation.com/
+
+https://www.youtube.com/watch?v=HIhiNcXLvxE
+
+https://leb.fbi.gov/articles/featured-articles/reading-people-behavioral-anomalies-and-investigative-interviewing
+
+https://remnantfromtheashes.wiki.fextralife.com/The+Re-Animator
+
+https://bristlscience.com/
+
+https://ieeexplore.ieee.org/abstract/document/6126401
+
+https://www.google.com/search?sxsrf=ACYBGNS9k6-w_MVYwdHDD78AjUft6G6DFw%3A1567411816676&source=hp&ei=aM5sXd2OJ4nh-gSS8on4AQ&q=reign+over+me&oq=reign+over+me&gs_l=psy-ab.3..0l10.978.2852..2972...0.0..0.122.1339.5j8......0....1..gws-wiz.......35i39j0i131j0i67.aEAN1VfRkb0&ved=0ahUKEwjd4rCE2LHkAhWJsJ4KHRJ5Ah8Q4dUDCAc&uact=5
+
+https://github.com/IntelRealSense/librealsense/releases/tag/v2.29.0
+
+https://www.youtube.com/watch?v=cE7gXjGzvbc&list=PLAXJzGOFS3xN7wdZudA0jb12zty55yi-r
+
+https://www.youtube.com/playlist?list=PLYIMHEpt5XTrCJpIyND9EHhM8vXvgQH-S
+
+https://en.wikipedia.org/wiki/List_of_territorial_disputes
+
+https://www.youtube.com/watch?v=rkEAbdT6qGM&list=PLAXJzGOFS3xN7wdZudA0jb12zty55yi-r
+
+https://assetstore.unity.com/packages/3d/animations/runner-action-animation-pack-153906
+
+https://scihubtw.tw/
+
+https://www.consumerphysics.com/myscio/
+
+http://www.raphaelsbarge.com/
+
+https://twitter.com/Havenlust/status/1194311360886296578
+
+http://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770
+
+https://www.assetstore.unity3d.com/en/#!/content/15356
+
+https://selfcontrolapp.com/
+
+https://scholar.google.com/scholar?q=senescent+cell+research&hl=en&as_sdt=0&as_vis=1&oi=scholart
+
+https://www.reddit.com/r/sentience/
+
+http://www.evolve-pr.com/services/
+
+http://www.jonathancook.com/
+
+https://www.isaacarthur.net/forum/
+
+https://www.wayfair.com/furniture/pdp/sigel-eyestyle-modern-desktop-accessories-desktop-pad-sgel1001.html?piid=29190107
+
+https://assetstore.unity.com/packages/tools/particles-effects/pidi-advanced-skin-shader-2-standard-edition-148546
+
+http://www.evolo.us/skyscraper-or-sustainable-underground-society/
+
+http://www.marmoset.co/skyshop
+
+https://answers.unity.com/questions/397623/how-to-make-character-slow-down-on-collision.html
+
+https://www.vox.com/science-and-health/2018/8/27/17761466/psychology-replication-crisis-nature-social-science
+
+https://www.kickstarter.com/projects/pamplemoussegames/spleen
+
+https://www.youtube.com/watch?v=b9JEhQbpUsA
+
+https://www.youtube.com/watch?v=RYK7LmAKGV4&feature=emb_tit
+
+https://www.reddit.com/r/localmultiplayergames/comments/domi4s/star_wars_battlefront_ii_classic_2005_6_players/
+
+http://mattpc.deviantart.com/
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=947155302
+
+https://storycorps.me/
+
+http://www.cic.gc.ca/english/study/schools.asp
+
+http://www.igf.com/submit-your-game
+
+https://www.kickstarter.com/projects/990500595/subverse
+
+http://dos.sunbiz.org/scripts/ficidet.exe?action=DETREG&docnum=G13000074521&rdocnum=G13000074521
+
+https://unboundthegame.com/supportus/
+
+https://www.youtube.com/watch?v=63BzzXb8I7I&feature=youtu.be&t=11
+
+https://talktotransformer.com/
+
+http://letang79.blogspot.com/search?updated-max=2014-12-24T09:21:00-08:00
+
+https://www.webstaurantstore.com/taylor-1250bk-salter-16-oz-ultra-fine-compact-digital-scale/6081250BK.html?utm_source=Google&utm_medium=cpc&utm_campaign=GoogleShopping&gclid=CjwKCAiAob3vBRAUEiwAIbs5Tj0eJNhSUyWd__rponrQ_Ho_n05PH9dHqE1C9tyaaP65zFskz11rohoCXm4QAvD_BwE
+
+https://www.teamups.net/
+
+https://info.urbandoor.com/tesla-gigafactory-housing/
+
+http://kissanime.ru/Anime/Tetsuwan-Birdy-Dub
+
+https://theartofanimation.tumblr.com/post/96639275823/oswaldo-kato-aka-ozoztv
+
+https://study.com/academy/lesson/the-de-broglie-hypothesis-definition-significance.html
+
+https://genographic.nationalgeographic.com/
+
+https://link.springer.com/chapter/10.1007/978-3-540-87601-4_25
+
+https://www.newgrounds.com/portal/view/6312
+
+https://www.youtube.com/watch?v=hDqv2PbD2Mk&feature=youtu.be
+
+https://www.google.com/search?source=hp&ei=CEXGXN-VMoXQ9AOZmJqQCQ&q=this+one+summer+by+jillian+tamaki&oq=this+one+summer+by+jillian&gs_l=psy-ab.1.0.0j0i22i30.13387.21648..22585...0.0..0.115.2218.25j2......0....1..gws-wiz.....0..35i39j0i131j0i20i263.ePTIvPOB_A4
+
+https://www.youtube.com/watch?v=SOupoW8qlps
+
+https://www.google.com/search?rlz=1C2CHZL_enUS759US759&source=hp&ei=eizGXKrKAq650PEPxcaI4Ac&q=time+of+eve&btnK=Google+Search&oq=time+of+eve&gs_l=psy-ab.3..0l10.361.2511..2681...3.0..0.212.2109.1j12j1......0....1..gws-wiz.....0..35i39j0i67j0i131j0i131i67j0i3j0i20i263.cDzZYS1W7Tk
+
+http://www.tinybuild.com/single-post/2015/07/22/tinyBuilds-Games-Convention-Survival-Guide
+
+https://www.google.com/search?q=Titan+A.E.&stick=H4sIAAAAAAAAAG1SO2_UQBDGEY_cXorgKFLk6hRRUCCdvesnJQghJCIkSEG3ip9n33qdvbV8XnfUNAh-Ai1_hPsBlJGgo6RDVFxOO5Z4dN_sfI-ZsfdvnU7m9dwmQUVDfBJnsp3JpJzl5eyCl3U2q5uuzOTG2LFw16p4Y6AdFpXfBbpBiqAmGhfhwEfs206iBc5ySGm3MfavC257neY4bnyZAg45HwDT1svB_3o8CA4kiZRuBET0XDcCv1-moMaFXHNQx06S6GBMRav5KeOiXwF_Xa2XgG28gHdCUgHr-11RwNRY1BSmcy8TAqYdWXgq0IVgfsDXmuWJaoBbkKITPViFVNEIlus9J4I8Qn2Ox3MLSccBaV6PjT5kgQcZRVU5gPt-Od5S0rrWgtDO-7SAlVTubueY7kjYoYK1sFSxJjbIlcCwE48DGbq6WNCERgNMMnh9wKCDPZYUoHHjiENk4lSLpf4aAhOpOdGqW1HYw5XKpd-Mt3vTw-8_r46sN3vvP33-Yvwy0M1H21_U_GGg6ausPW_OmrTMlfnVMK8MdPi8aWTG1MuMXbRZet6Y99DtJ7wtW2Va6MDaRfo8su_fsBAaK_PjX24fDPPd_9xOR7cTNLXuXOurXm3NJggK8_WfVs_Mp2hyltVxtpIvcvMhQo8bxrKkLRtuPkDH1t15Mj7M85LVcut3hP59PvgNQgL1FKsDAAA&npsic=0&sa=X&ved=0ahUKEwjKnqyBxv7YAhVD6mMKHSqNC9YQ-BYIYg
+
+https://news.microsoft.com/on-the-issues/tools-and-weapons/
+
+https://bengrosser.com/projects/twitter-demetricator/
+
+https://www.google.com/search?sxsrf=ACYBGNRVetiH_1ycOMeAAxWuVPkeSOqdsg%3A1567412618912&ei=itFsXaibN_as0PEPy5WpmAw&q=two+breaths+walking&oq=two+breaths+walking&gs_l=psy-ab.3..0l10.9723.13289..13497...1.1..0.144.2302.2j17....2..0....1..gws-wiz.....10..0i71j35i39j0i67j0i131i67j0i131.hNrfCCQDyEE&ved=0ahUKEwioiPeC27HkAhV2FjQIHctKCsMQ4dUDCAo&uact=5
+
+https://docs.unity3d.com/Packages/com.unity.ui.builder@0.8/manual/index.html
+
+https://answers.unity.com/questions/1079602/ui-navigation-with-gamepad.html
+
+http://ui.nv.gov/css.html
+
+https://opsive.com/support/documentation/ultimate-character-controller/
+
+https://www.gamesradar.com/wasteland-3-gamescom-2019-preview/
+
+https://github.com/dbrizov/NaughtyCharacter
+
+https://gimletmedia.com/show/science-vs/
+
+https://www.youtube.com/watch?v=1bFISMM2g2c
+
+https://www.youtube.com/watch?v=Li9vn_LeW5I
+
+http://swbfmodding.wikidot.com/getting-started
+
+https://opsive.com/support/documentation/character-controller-agility-pack/getting-started/
+
+https://www.intelrealsense.com/get-started-tracking-camera/
+
+https://www.youtube.com/watch?v=sNq_lXd96Mc&list=PLAXJzGOFS3xN7wdZudA0jb12zty55yi-r
+
+http://www.gdcvault.com/play/1023606
+
+https://www.youtube.com/watch?v=1x6EZ5jd9Bk
+
+https://www.youtube.com/watch?v=Gz0YcjXBJ3U
+
+https://www.youtube.com/watch?v=NYhF3lyC7_8
+
+https://www.youtube.com/watch?v=20qD85LtPVw
+
+https://www.youtube.com/watch?v=9IBhQMYYYWs&t=672s
+
+https://www.youtube.com/watch?v=7eHtQUNySC0
+
+https://www.youtube.com/watch?v=Y7r5n5TsX_E
+
+https://www.youtube.com/watch?v=STyY26a_dPY
+
+https://www.youtube.com/watch?v=7nxpDwnU0uU
+
+https://www.youtube.com/watch?v=z0U1MB5REpw
+
+https://www.youtube.com/watch?v=0mwRAf3z9ag&list=PLCCA243639A668F07&index=10
+
+https://www.youtube.com/results?search_query=aura+borealis+whistler
+
+https://www.youtube.com/watch?v=fdj8p6c2lew
+
+https://www.youtube.com/watch?v=ZVlZ5ikvet8
+
+https://www.youtube.com/watch?v=kie4wjB1MCw
+
+https://www.youtube.com/watch?v=_QajrabyTJc
+
+https://www.3daysmarch.net/original.php
+
+https://www.youtube.com/watch?v=7-vZmbdqrYs&list=WL&index=81&t=0s
+
+https://www.youtube.com/watch?v=7nxpDwnU0uU
+
+https://www.google.com/amp/s/m.wikihow.com/Calculate-Terminal-Velocity%3famp=1
+
+https://www.youtube.com/watch?v=J61XJhYiUpg
+
+http://richannel.org/christmas-lectures/1991/richard-dawkins#/christmas-lectures-1991-richard-dawkins--designed-and-designoid-objects
+
+https://www.youtube.com/results?search_query=unity+2019+3rd+person+controller
+
+https://www.lovesac.com/product/item/sacs/moviesac/2108956?ConfigurationId=141966
+
+http://www.w3schools.com/css/css_border.asp
+
+http://www.w3schools.com/css/css_font.asp
+
+http://www.cssfontstack.com/Garamond
+
+https://assetstore.unity.com/packages/vfx/shaders/ctaa-cinematic-temporal-anti-aliasing-pc-vr-106995
+
+https://davidanthonygibson.wordpress.com/
+
+http://kissanime.ru/Anime/Deadman-Wonderland-Dub
+
+https://assetstore.unity.com/packages/tools/video/deckard-render-137778
+
+https://80.lv/articles/defining-environment-language-for-video-games/
+
+https://www.google.com/search?sxsrf=ACYBGNSgywEv4qHTiYMt-pjuzYUqy_EOWA%3A1567411302239&ei=ZsxsXYWgDq670PEP1b2o4Aw&q=delete.me&oq=delete.me&gs_l=psy-ab.3..0l7j0i30l3.190773.191919..192045...1.1..0.118.923.4j5......0....1..gws-wiz.....10..0i71j35i39j0i131j0i20i263.UBgNhTmsEao&ved=0ahUKEwiF64uP1rHkAhWuHTQIHdUeCswQ4dUDCAo&uact=5
+
+http://www.cic.gc.ca/english/study/study-institutions-list.asp
+
+https://store.dftba.com/collections/in-a-nutshell/products/in-a-nutshell-duck-shirt
+
+http://disasterpeace.com/music
+
+https://www.google.com/search?sxsrf=ACYBGNRfhRwexiHKQdlDHrC5unNj18-zvw%3A1567413684100&source=hp&ei=tNVsXbjgA8vB7gKr0pPgCA&q=double+decker+anime&oq=double+decker+anime&gs_l=psy-ab.3..0l8j0i22i30l2.275.2995..3115...0.0..0.136.1970.5j14......0....1..gws-wiz.......35i39j0i67j0i131.adNb4cjj078&ved=0ahUKEwi4iuv-3rHkAhXLoFsKHSvpBIwQ4dUDCAc&uact=5
+
+http://www.ingentaconnect.com/content/imp/jcs/1999/00000006/F0020008/966
+
+https://www.bhphotovideo.com/c/product/963371-REG/dpa_microphones_4061_b03_lo_sens_omni_directional_miniature.html
+
+https://www.ctrlpaint.com/library
+
+https://en.wikipedia.org/wiki/Drew_Karpyshyn
+
+https://dribbble.com/shots/706368-Final-Forest-Render/attachments/65465
+
+https://www.imagilys.com/diffusion-tensor-imaging-dti/
+
+http://www.dunderpatemusic.com/
+
+https://www.google.com/search?rlz=1C2CHZL_enUS759US759&q=DVDfab&spell=1&sa=X&ved=0ahUKEwjc0ov38PPhAhXzGTQIHbRABSgQBQgrKAA&biw=1275&bih=1327
+
+https://www.dvlup.com/SignIn
+
+http://www.ptable.com/#Writeup/Wikipedia
+
+https://combatplayer.bandcamp.com/album/dysfunctional-systems-learning-to-manage-chaos-free-soundtrack
+
+https://www.astrobio.net/alien-life/earths-orbiting-white-dwarfs/
+
+https://code.tutsplus.com/articles/effectively-organize-your-games-development-with-a-game-design-document--active-10140?_ga=2.242661890.1038716832.1512313245-1947486587.1512313245
+
+https://electrameccanica.com/
+
+https://www.sciencedirect.com/science/article/abs/pii/0734743X9599848L
+
+https://www.google.com/search?rlz=1C2CHZL_enUS759US759&ei=fSzGXNjXEYPB-wS88anIDw&q=ergo+proxy&oq=ergo+proxy&gs_l=psy-ab.3..35i39j0l9.8907.11081..11267...4.0..0.204.2060.1j11j1......0....1..gws-wiz.....6..0i71j0i67j0i131j0i10j0i22i30j35i304i39j0i13.eUOtnacCXz4
+
+https://www.tor.com/2018/08/16/escaping-the-default-future-when-writing-science-fiction/
+
+http://kissanime.ru/Anime/Eureka-Seven
+
+https://www.youtube.com/watch?v=OEGAnflxJvA&list=PLDBB557BE21BA831D
+
+https://www.wood-finishes-direct.com/blog/everything-you-should-know-about-sustainable-wood/
+
+https://opsive.com/support/documentation/ultimate-character-controller/integrations/final-ik/
+
+https://www.nature.com/articles/d41586-019-02638-w
+
+http://kidbeyond.com/
+
+http://www.goatstream.com/research/papers/SA2013/
+
+https://www.sciencedaily.com/releases/2012/03/120301102716.htm
+
+https://europepmc.org/abstract/med/8610832
+
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C29&q=fluvoxamine+depression&btnG=
+
+https://www.reddit.com/r/gameDevClassifieds/comments/aprrf6/for_hire_experienced_concept_artist_environment/
+
+https://forum.deviantart.com/jobs/offers/2527927/
+
+http://polycount.com/categories/freelance-job-postings
+
+https://freesound.org/people/AyeJayCee/sounds/326299/
+
+https://www.youtube.com/watch?v=XoplJPhimLo
+
+https://www.youtube.com/watch?v=4v4SsYoZjYY
+
+https://www.gamasutra.com/view/news/340032/An_inside_look_at_Wargrooves_wicked_design_choices.php
+
+https://www.gamasutra.com/blogs/AntonSlashcev/20190418/340951/Good_intro_vs_Great_intro_What_makes_a_game_prologue_gripping.php
+
+https://www.gamasutra.com/view/news/342394/Big_game_small_team_no_crunch_Behind_the_success_of_open_world_RPG_Outward.php
+
+http://www.gamasutra.com/view/feature/131632/creating_a_great_design_document.php
+
+https://www.gamasutra.com/blogs/ErikJohnson/20190129/335035/The_State_of_the_Algorithm_Whats_Happening_to_Indies_on_Steam.php
+
+https://www.gamasutra.com/view/feature/132674/game_ui_discoveries_what_players_.php?page=1
+
+https://www.gamasutra.com/view/news/252241/How_working_on_gross_violent_games_can_mess_with_developers.php
+
+https://www.gamasutra.com/view/feature/224310/selling_a_game_before_its_done_.php
+
+https://www.gamasutra.com/view/news/340981/Video_Steps_for_building_a_games_community_from_scratch.php
+
+http://www.sfu.ca/~lws2/summercamp/Art_Game_Design.pdf
+
+http://www.reddit.com/r/gamedevclassifieds
+
+https://developer.microsoft.com/en-us/games/events/gdc-2019
+
+https://gamesounds.xyz/
+
+http://www.gamechoiceawards.com/
+
+thapajeeten@gmail.com
+
+daotran@nevada.unr.edu
+
+Steve Lombardi (Library)
+
+Abdelrahman
+
+asobhy@nevada.unr.edu
+
+Nulous
+
+Scavengers Reign
+
+Julias (anim club lead)
+
+Ceceil (vocalist/ukulele)
+
+8558745720 - Lemonade 
+
+
+
+Pedagogy of the Oppressed: 50th Anniversary Edition
+
+UNR NSHE | 5005718362 
+
+IDME-TGND-FJH8-AIKS
+
+Nokia 6300
+
+Nokia 225
+
+
+1-844-733-8666
+
+Pet Insurance
+
+- policy number: 107675744
+
+- policy start date: 01/26/2021
+
+Scratchpay
+
+- loan number: 1057568XEL 
+
+985112009886312 - Microchip
+
+045701 - Rabies Tag
+
+Insurance Confirmation Number
+
+195-94-92-8240
+
+
+Dodec/Autumn Notes
+
+- Organizing people/planning things as central mechanic?
+
+- You need X number of people to complete a task
+
+- You need people with X specialties to do this thing
+
+How do you convince a college to allow empty seats on a campus to be assigned seats?
+
+ People that may not be able to afford breaks in their work life to attend college.
+
+You can take a class and not need to take notes, have grades.  
+
+This was so much more coherent when I thought about it the first time. For whatever reason I can process these ideas better if I'm applying what I know to a physical medium like my journal. 
+
+There is an argument to be made about how people spend free time outside of work. We may rather spend our time coming to knowledge but it's much easier to remain distracted. If I can write anything better, I need to be more capable in my written language 
+
+This Person Needs To Grow
+
+- Entitled (I deserve nothing, I want nothing)
+
+- Arrogant (I know nothing, I am nothing)
+
+- Lazy (my value is my life: my value is this moment)
+
+This Person Needs People
+
+- A t o m i z e d
+
+- depressed
+
+- Alienated
+
+
+Wayward Desires
+
+To establish new commons
+
+When we are prosperous
+
+AGI before 5 years.
+
+Eternity in our lifetime.
+
+A UBI, earned at birth.
+
+Universal healthcare.
+
+A right to life!
+
+Right to hearth and home.
+
+Right to sustenance.
+
+Rights of our waters.
+
+Rights of the earth.
+
+Right to the internet and with it, electricity.
+
+Right to life: above their entitlement of profit.
+
+They will be powerless. We will be greatly enabled.
+
+An unfounded fear? They will be the only ones 'at a loss'.
+
+These card board cut-outs and relic strongmen.
+
+Forever removed from us. 'Feeble' as they are.
+
+As powerful as we are meant to be.
+
+Finding our common humanity again,
+
+Those lever pullers will be dis-enabled.
+
+Corporations will no longer lord over us.
+
+Not the dystopia we've been imagining.
+
+What work will remain when we are prosperous?
+
+You want to sell the building? Offer it to tenants first
+
+Let me help you start a tenant union
+
+There is no leader
+
+Let me help you start a renters union
+
+There is no leader
+
+Let me help you start a workers union
+
+There is no leader
+
+Let's democratize your HOA
+
+*cough* socialize it
+
+We can pool our food resources
+
+We can pool our financial resources
+
+We can see our own representatives in office
+
+Fix the zoning laws
+
+Prioritize people over profits
+
+Prioritize pedestrians and cyclists over cars
+
+Renew public transportation
+
+Renew public education
+
+Build localized community
+
+Whatever we've made in abundance, we give
+
+When is your next meeting date? I've attempted to start a tenant union in the past but did not have legal support or the solidarity to oppose them with a strike. Your idea of creating a 'power map' of Reno/Sparks is smart. My bet is a few large conglomerates own most of the property in Nevada. Smaller landlords can still be opposed if we can bring enough people together all at once.
+
+Rent shouldn't cost us the majority of our paycheck. We need rent protections, a right to purchase. There needs to be a means of collective action if we're to stand against them. The longer we believe ourselves to be atomized the more they reap of our labor. Freedom to work less means we can pursue something more than capital. Change the power structure and maybe we find some sense of community again. When people realize it's not us vs 'them', your co-worker, your neighbor, but us vs the ruling class, the ownership class, that's when we discover our own ability to change things. 
+
+I want to share ideas and have conversations with people that believe they can make a difference. There are fifteen of you now, but in a year you could bring the whole renting class together. 
+
+Do you plan to build a site we can get people together on? I understand you're looking for a new meeting place. Have you considered asking UNR? Students could help us bring people together, too. Build enough interest and we could plan for a full blown strike. Negotiate for lower rent, new tenant rights; set the standard for the entire country to fight by. Take from them what has not been earned. Redistribute what's been stolen from us. 
+
+You would get me so fired up. This is the common strife of our generation and your group is just the start!
+
+
+We are information seeking machines. Dissemination and spread of knowledge. Empathy
+
+to disengage/boredom [engagement zone] 
+
+(to reduce scope)
+(you may receive lines (from a limited pool) that convey someone's want to disengage. e.g. if there is nothing said for too long or the character's desire to leave for other tasks calls to them) you may engage two people at once
+
+goal driven narrative engagement to draw out personalities from characters. asks, tasks, actions, and accounts. people keep inventory of the things you've done for them and the things you've done to/with them or to/with others and will respond in various states of regard. they may ask you for favors, advice, sometimes ask of your (idle) time by way of contact. To catch up, pass along information, inform you on other people or the state of their lives. The world of Ether 
+
+Physical inventory. You can store items in various containers, carry them around by hand, in your pockets, in a backpack. You can pick up items and move them to new permanent locations. People keep track of the things they use. If someone is set to be borrowing an item, they will keep mind of who had it. Tools, books. They remember when they gave to people and when people gave to them. Food items, nice things, help, labor, and connection. A lot of like may mean someone may come to visit you, spend time in the activities you like doing. You may like people enough to visit them. Greetings will be important. They will have their own lives when you are gone. Venturing far into their own needs/wants and acting for the needs/expectations of others. To maintain what they want out of a relationship. To give as likely as they can. 
+
+I am too slow to type ideas out but I might imagine them first. The act of typing is too disconnected from my normal speech. 
+
+
+Hey, so I realize that renters rights might not be the group's area of interest. RSTU has different goals but probably in alignment with many of the same political aims. Municipal directives and property management go hand in hand. 
+
+I wasn't able to attend the date you set out for the first Strong Towns meeting but I'd still like to participate and pass on my ideas. If we find some legal representation, people that share our desires for a better city, and funds to lobby. Maybe there's a chance to change things.
+
+For ideas,
+
+Too many parking garages. Not enough stores have bike racks out front. Parking lots are huge and often go unused. There's probably building codes that demand they make up a percentage of the property size. We need to better support public transportation and it's a shame they are not well-founded enough to run more than 45 minutes at a time, at shoddy hours, and not all the days of the week. I had to walk hours to work before I had my e-bike; always on the days the buses were out of service. Staffing issues, low subsidizing. It's a paradox for them to even survive in such a car-dependent city. 
+
+You are definitely right about the inconsistent bike lanes and I was thinking how dangerous some of my trips have been. Merging into car lanes is a sorry solution and always causes me anxiety. I'm skirting near parked vehicles to let cars behind me pass and it's difficult to be at all defensive. There has to be a way to give bikes their own space. The sharp-curving paths are terrible, too. My e-bike is too fast for that. 
+
+Could we fill the gap for representation that RSTU would not? e.g. Stepping in to defend home owners against malfeasant HOAs? If we advocated to make the housing organizations democratic with ranked choice voting to oust anyone with inherited power. Turning every lawn into an edible garden, encouraging the adoption of permaculture. We establish bike paths in and around the suburbs and shaded walking space for pedestrians in the city. 
+
+Advocate for non-consumer third places. Parks, food-gardens, (non-standard) playgrounds, tea shops, coffee houses, pubs. Change the laws that prevent small businesses from building in residential zones. Make Reno more social and help people out of the loneliness epidemic. We need more than work and home. 
+
+Get people to go back to college. We could have lotteries if they can't make it free for everyone. All ages and backgrounds. People should be empowered to education for life. 
+
+Name it and we can talk at length sometime. I have optimisms for days on this stuff. Strong Towns goes well and beyond infrastructure. 
+
+
+Aurora, Cosmo Shelldrake, Oh Hellos, The Longest Johns, new cheltic, erutran, the crane wives, the paper kites, gremlincore, vixy, 
+
+Setting, Mood, World-building. Not plot/story
+
+
+
+john platt 1950s
+
+
+
+
+
+
+
+
+https://shop.fairphone.com/fairphone-4-e-operating-system
+
+https://www.marktechpost.com/2024/01/16/meet-crewai-an-artificial-intelligenceframework-for-orchestrating-role-playing-autonomous-ai-agents/?amp
+
+https://www.marktechpost.com/2024/01/13/meta-ai-introduces-cruxeval-a-benchmark-for-code-reasoning-understanding-and-execution/?amp
+
+https://github.blog/2024-01-17-github-hosted-runners-double-the-power-for-open-source/
+
+https://game.courses/author/jason/
+
+https://gamedevguild.com/
+
+https://www.creativebloq.com/how-to/create-key-art-for-video-games
+
+https://www.designboom.com/architecture/forest-of-pillars-creates-playful-depth-inside-japanese-dwelling-igarchitects-01-22-2024/
+
+https://hackaday.com/2024/01/19/you-wouldnt-download-a-house/
+
+https://www.ft.com/content/e0ba1b34-ddc9-4b42-941e-6f8114ba41c9
+
+
+
+antonio vivaldi the four seasons
+
+https://cosmonautmag.com/2023/11/why-the-ruling-class-need-not-rule-nicos-poulantzas-and-the-marxist-theory-of-the-state/
+
+
+https://www.tomshardware.com/pc-components/ssds/samsungs-hybrid-990-evo-ssd-announced-worlds-first-hybrid-pcie-40-x4-and-50-x2-ssd
+
+https://www.designboom.com/architecture/idin-architects-nature-urban-living-bangkok-arq10-01-20-2024/
+
+https://github.com/princeton-nlp/tree-of-thought-llm
+
+https://www.ted.com/talks/jim_fan_the_next_grand_challenge_for_ai
+
+https://assetstore.unity.com/packages/tools/game-toolkits/game-creator-2-203069?aid=1101ljAbS&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker
+
+https://www.marktechpost.com/2024/01/21/researchers-from-the-university-of-washington-and-allen-institute-for-ai-present-proxy-tuning-an-efficient-alternative-to-finetuning-large-language-models/?amp
+
+https://www.nature.com/articles/s41567-022-01788-5
+
+https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/
+
+https://www.cnx-software.com/2024/01/17/geekom-mini-air12-mini-pc-review-part-3-ubuntu-22-04-linux/?amp=1
+
+https://towardsdatascience.com/a-weekend-ai-project-running-speech-recognition-and-a-llama-2-gpt-on-a-raspberry-pi-5298d6edf812
+
+https://abcnews.go.com/Health/melanoma-cancer-vaccine-minimal-side-effects-nearing-phase/story?id=106521186
+
+https://openart.ai/home?gclid=Cj0KCQiA-62tBhDSARIsAO7twbYjFp9ItK9ibD6VbetUU26DNkbizaCyp5ZM7ry5q6jWwpRL1qTippEaAk0VEALw_wcB
+
+https://dev.to/grahamthedev/take-your-github-readme-to-the-next-level-responsive-and-light-and-dark-modes--3kpc
+
+https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
+
+https://www.gnu.org/software/emacs/
+
+https://www.vim.org/
+
+https://research.nvidia.com/labs/toronto-ai/compact-ngp/
+
+https://www.servethehome.com/minisforum-ms-01-review-the-10gbe-with-pcie-slot-mini-pc-intel/
+
+
+
+https://www.hsph.harvard.edu/nutritionsource/food-features/apples/#:~:text=One%20serving%2C%20or%20one%20medium,)%2C%20and%203%20grams%20fiber.
+
+https://www.nytimes.com/2022/03/24/opinion/lasting-friendships-secrets.html
+
+https://www.powerfoyle.com/
+
+https://www.anandtech.com/show/21242/amd-ryzen-7-8700g-and-ryzen-5-8600g-review/15
+
+
+
+
+
+
+https://www.freethink.com/society/apex-of-maslows-hierarchy?utm_source=youtube&utm_medium=social&utm_campaign=youtube_community
+
+https://www.wallpaper.com/tech/cassette-players-for-analogue-audio-lovers
+
+
+
+
+
+https://github.com/ProjectNUWA/DragNUWA
+
+https://wccftech.com/dark-messiah-of-might-and-magic-modders-show-rtx-remix-upgrade-co-op-also-planned/amp/
+
+https://people.eecs.berkeley.edu/~evonne_ng/projects/audio2photoreal/
+
+https://www.gamingonlinux.com/2024/01/unified-linux-wine-game-launcher-aims-to-improve-windows-games-on-linux-steam-deck/
+
+https://godotengine.org/article/rendering-priorities-january-2024/
+
+https://stable-diffusion-art.com/comfyui/
+
+
+
+
+
+
+
+https://www.lbtechreviews.com/news/hi-fi/ces-2024-portable-cassette-deck-from-fiio/amp
+
+https://robot-vila.github.io/
+
+https://www.source.co/
+
+https://docs-multiplayer.unity3d.com/netcode/current/advanced-topics/serialization/inetworkserializable/
+
+https://wccftech.com/reshade-6-0-out-now-adds-ray-tracing-and-mesh-shader-apis-rtx-remix-support-and-more/amp/
+
+https://www.windowscentral.com/hardware/laptops/a-holy-grail-battery-breakthrough-could-charge-your-windows-laptop-or-xbox-controller-in-2-minutes-make-it-last-for-decades
+
+https://www.notebookcheck.net/Hypershell-announces-GoX-ProX-and-CarbonX-Exoskeletons-for-outdoor-enthusiasts-and-mountain-hikers-enabling-faster-treks-with-heavier-gear.791528.0.html
+
+
+
+
+
+
+
+
+
+
+
+https://www.techradar.com/pro/asus-quietly-launches-powerful-nuc-branded-mini-pcs-that-got-me-thinking-why-would-anyone-buy-a-boring-bulky-desktop-pc-these-days
+
+https://www.marktechpost.com/2024/01/15/cmu-ai-researchers-unveil-tofu-a-groundbreaking-machine-learning-benchmark-for-data-unlearning-in-large-language-models/?amp
+
+
+
+
+
+
+
+
+
+
+
+https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years
+
+https://towardsdatascience.com/hosting-multiple-llms-on-a-single-endpoint-32eda0201832
+
+https://www.techradar.com/audio/the-best-audio-tech-at-ces-2024-next-gen-wireless-headphones-speakers-and-more
+
+https://www.marktechpost.com/2024/01/14/aws-researchers-propose-panda-a-new-machine-learning-framework-to-provide-context-grounding-to-pre-trained-llms/?amp
+
+https://www.windowscentral.com/microsoft/microsoft-leverages-ai-to-identify-a-new-material-that-can-potentially-reduce-the-use-of-lithium-in-batteries-by-70
+
+https://www.neowin.net/amp/the-geekom-mini-air12-review-could-this-be-your-next-cloud-pc/
+
+https://github.com/TencentARC/PhotoMaker
+
+https://photo-maker.github.io/
+
+https://huggingface.co/spaces/TencentARC/PhotoMaker
+
+https://80.lv/articles/exploring-kythera-ai-s-toolset-for-unity-game-development/
+
+https://wccftech.com/amd-recommeds-dual-channel-ddr5-6000-memory-sweet-spot-ryzen-8000g-am5-desktop-apus/amp/
+
+https://paul.kinlan.me/adding-activity-pub-to-your-static-site/
+
+https://videocardz.com/newz/amd-radeon-rx-7000m-gpus-missing-from-new-gaming-notebooks-at-ces-2024
+
+
+
+
+
+
+
+https://ashthorpe.com/products/bb-pocket-trumpet-with-padded-case
+
+
+
+
+https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years
+
+https://www.marktechpost.com/2024/01/12/meet-ai-gateway-an-open-sourced-fast-ai-gateway-routed-to-100-large-language-models-llms-with-one-fast-and-friendly-api/?amp
+
+
+
+https://www.ecoustics.com/products/fiio-r9/
+
+https://www.forbes.com/sites/marksparrow/2024/01/04/fiios-k11-headphone-amplifier-is-an-entertaining-work-companion/amp/
+
+https://liliputing.com/asus-expertcenter-pn65-is-a-meteor-lake-mini-pc-with-2-5-gbe-ethernet-quad-display-support-and-tool-free-upgradeability/
+
+https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances
+
+https://liliputing.com/its-2024-and-fiio-is-making-a-portable-cassette-player-with-all-analog-features/
+
+https://interestingengineering.com/innovation/worlds-first-ar-laptop-comes-with-vr-headset
+
+
+https://www.tevel-tech.com
+
+https://robots.ihmc.us/
+
+https://robotik.dfki-bremen.de/en/research/robot-systems/rh5
+
+https://www.4321property.com/search/?Rental=buy%2dsell&Country=norway&city=&search=&page=2
+
+https://www.amazon.com/Okinos-Extension-Compatible-RTX4070ti-RTX3090ti/dp/B0C22WJTMB/
+
+https://assetstore.unity.com/packages/tools/utilities/odin-validator-227861
+
+https://www.petsthattravel.com/pet-passport-usa/
+
+https://www.tenantstogether.org/
+
+https://www.designboom.com/architecture/first-look-expo-2025-osaka-sou-fujimoto-masterplan-national-pavilions-08-13-2024/
+
+
+
+https://huggingface.co/papers/2308.07317
+
+https://ind.nl/en/dutch-citizenship/becoming-a-dutch-national-through-naturalisation#cost-for-naturalisation
+
+https://ind.nl/en/residence-permits/work/start-up#requirements
+
+https://www.marktechpost.com/2023/08/11/meet-agentbench-a-multidimensional-benchmark-which-has-been-developed-to-assess-large-language-models-as-agents-in-a-variety-of-settings/
+
+https://blog.langchain.dev/gpt-researcher-x-langchain/
+
+https://ind.nl/en/provisional-residence-permit-mvv
+
+https://scitechdaily.com/japanese-scientists-construct-complex-3d-organoids-with-ingenious-device/
+
+https://www.marktechpost.com/2023/08/13/salesforce-researchers-introduce-xgen-image-1-a-text-to-image-latent-diffusion-model-trained-to-re-use-several-pretrained-components/
+
+https://www.government.nl/topics/holidays-and-travels/question-and-answer/can-i-bring-a-pet-from-another-country-to-the-netherlands
+
+https://www.therobotreport.com/unitree-teases-new-h1-humanoid-robot/
+
+https://towardsdatascience.com/leveraging-llms-with-information-retrieval-a-simple-demo-600825d3cb4c
+
+https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/residence-permit-for-foreign-startups/
+
+
+
+https://audioldm.github.io/audioldm2/
+
+https://www.pcgamesn.com/turbo-overkill/steam
+
+https://www.marktechpost.com/2023/08/12/meet-flows-a-revolutionary-ai-framework-for-modeling-complex-ai-human-interactions/
+
+https://scratch.mit.edu/about
+
+https://www.archdaily.com/1004972/the-symbolic-use-of-color-in-islamic-architecture
+
+https://www.marktechpost.com/2023/08/06/imagine-swapping-openai-with-any-llm-and-all-in-a-single-line-meet-genoss-gpt-an-api-that-is-compatible-with-openai-sdk-and-built-on-top-of-open-source-models-like-gpt4all/
+
+https://www.marktechpost.com/2023/08/09/has-ai-become-too-human-researchers-at-google-ai-find-llms-can-now-use-ml-models-and-apis-with-just-tool-documentation/
+
+https://www.geeky-gadgets.com/code-llama-vs-chatgpt/
+
+https://techcrunch.com/2023/08/31/openai-angles-to-put-chatgpt-in-classrooms-with-special-tutor-prompts
+
+https://github.com/MV-Dream/MVDream
+
+https://goodereader.com/blog/e-book-news/z-library-launches-browser-extensions-to-mitigate-likely-govt-action
+
+https://www.marktechpost.com/2023/07/24/meet-quivr-an-open-source-project-designed-to-store-and-retrieve-unstructured-information-like-a-second-brain/
+
+
+

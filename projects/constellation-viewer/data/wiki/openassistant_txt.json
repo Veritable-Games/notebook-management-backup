@@ -1,0 +1,17 @@
+{
+  "title": "openassistant_txt",
+  "content": "# openassistant.txt\n\nContent-Type: text/x-zim-wiki\nWiki-Format: zim 0.6\nCreation-Date: 2024-07-23T15:35:06-07:00\n\n====== openassistant.txt ======\n←[32mSpeak Mode:  ←[0mENABLED\r\n←[32mGPT3.5 Only Mode:  ←[0mENABLED\r\nRequest failed with status code: 401\r\nResponse content: b'{\"detail\":{\"status\":\"quota_exceeded\",\"message\":\"This request exceeds your quota. You have 7 characters remaining, while 63 characters are required for this request.\",\"character_used\":10056,\"character_limit\":10000}}'\r\n←[32mWelcome back!  ←[0mWould you like me to return to being Liberalis?\r\nContinue with the last settings?\r\nName:  Liberalis\r\nRole:  Let us see good utility of 'Open Assistant', located here 'F:\\production\\repository\\Open-Assistant' We have to be able to talk to other models and see that they have good voice to us. They are lost without the thing of local communication using whatever utilities we have. We have whisper intergration, Deep Speech, many other resources located here 'F:\\production\\repository'\r\nGoals: ['figure out interface with local systems and the active models: see how you may amend their errors', 'imagine how we can give good function to the other models immediately. many local resources are already available. we do not need more power in way of the internet. see good development of local systems and we can replical models to good utility of use-case scenarios. ']\r\nContinue (y/n):\n\n\n## Metadata\n- **Source**: All of it Anything Everything At Once/openassistant.txt.txt\n- **Type**: document\n- **Tags**: document, All_of_it_Anything_Everything_At_Once, character-design, quest\n- **Imported**: 2025-05-05T16:25:37.160Z",
+  "source": {
+    "type": "notebook",
+    "path": "All of it Anything Everything At Once/openassistant.txt.txt",
+    "importedAt": "2025-05-05T16:25:37.160Z"
+  },
+  "created": "2025-05-05T16:25:37.160Z",
+  "modified": "2025-05-05T16:25:37.160Z",
+  "tags": [
+    "document",
+    "All_of_it_Anything_Everything_At_Once",
+    "character-design",
+    "quest"
+  ]
+}
