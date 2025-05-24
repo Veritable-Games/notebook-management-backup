@@ -6,7 +6,7 @@ from urllib.parse import unquote
 import json
 import datetime
 
-PORT = 3001
+PORT = 3002
 NOTEBOOKS_DIR = "/home/user/Notebooks"
 TAGS_FILE = "/home/user/Repository/data/tags.json"
 
@@ -214,85 +214,50 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
 <head>
     <title>Notebooks</title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Anonymous+Pro:wght@400;700&display=swap');
         
         body { 
-            font-family: 'Share Tech Mono', monospace; 
+            font-family: 'Anonymous Pro', 'Courier New', monospace; 
             margin: 0; padding: 0; display: flex; height: 100vh; 
-            background: linear-gradient(135deg, #0f0f23 0%, #1a1a3a 50%, #0f0f23 100%);
-            color: #00ff41;
+            background: #2c2e32;
+            color: #c9c9c9;
             overflow: hidden;
+            font-size: 14px;
         }
         
         .sidebar { 
-            width: 380px; 
-            background: linear-gradient(180deg, #1a1a3a 0%, #0a0a1a 100%);
-            border-right: 2px solid #00ff41; 
+            width: 320px; 
+            background: #25272b;
+            border-right: 1px solid #4a4c50; 
             overflow-y: auto; 
             padding: 15px;
-            box-shadow: inset -5px 0 15px rgba(0,255,65,0.1);
-            position: relative;
-        }
-        
-        .sidebar::before {
-            content: "";
-            position: absolute;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background: repeating-linear-gradient(
-                90deg,
-                transparent,
-                transparent 2px,
-                rgba(0,255,65,0.03) 2px,
-                rgba(0,255,65,0.03) 4px
-            );
-            pointer-events: none;
+            box-shadow: 2px 0 4px rgba(0,0,0,0.1);
         }
         
         .main { 
             flex: 1; 
             padding: 20px; 
             overflow-y: auto; 
-            background: linear-gradient(180deg, #0a0a1a 0%, #1a1a3a 100%);
-            position: relative;
-        }
-        
-        .main::before {
-            content: "";
-            position: absolute;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background: 
-                repeating-linear-gradient(
-                    0deg,
-                    transparent,
-                    transparent 20px,
-                    rgba(0,255,65,0.02) 20px,
-                    rgba(0,255,65,0.02) 22px
-                ),
-                repeating-linear-gradient(
-                    90deg,
-                    transparent,
-                    transparent 20px,
-                    rgba(0,255,65,0.02) 20px,
-                    rgba(0,255,65,0.02) 22px
-                );
-            pointer-events: none;
+            background: #2c2e32;
         }
         
         h2 {
-            font-family: 'Orbitron', monospace;
-            font-weight: 900;
-            color: #00ff41;
-            text-shadow: 0 0 10px #00ff41;
-            margin-bottom: 20px;
-            font-size: 18px;
-            letter-spacing: 2px;
+            font-family: 'Courier Prime', monospace;
+            font-weight: 700;
+            color: #e8e8e8;
+            margin-bottom: 15px;
+            font-size: 16px;
+            letter-spacing: 1px;
+            border-bottom: 1px solid #4a4a4f;
+            padding-bottom: 8px;
         }
         
         .view-tabs { 
             display: flex; 
             margin-bottom: 15px; 
-            border: 1px solid #00ff41;
-            background: rgba(0,0,0,0.5);
+            border: 1px solid #4a4c50;
+            background: #1f2125;
+            border-radius: 4px;
         }
         
         .view-tab { 
@@ -300,53 +265,46 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
             background: transparent;
             border: none; 
             cursor: pointer; 
-            color: #00ff41;
-            font-family: 'Share Tech Mono', monospace;
+            color: #c9c9c9;
+            font-family: 'Anonymous Pro', monospace;
             font-size: 12px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
             flex: 1;
             text-align: center;
-            transition: all 0.3s ease;
-            position: relative;
+            transition: background-color 0.2s ease;
         }
         
         .view-tab:hover {
-            background: rgba(0,255,65,0.1);
-            text-shadow: 0 0 5px #00ff41;
+            background: #323236;
         }
         
         .view-tab.active { 
-            background: #00ff41; 
-            color: #000;
+            background: #4a4a4f; 
+            color: #fff;
             font-weight: bold;
-            box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
         }
         
         .directory { 
             margin: 8px 0;
-            border: 1px solid rgba(0,255,65,0.3);
-            background: rgba(0,0,0,0.3);
+            border: 1px solid #4a4c50;
+            background: #1f2125;
+            border-radius: 4px;
         }
         
         .directory h3 { 
             margin: 0; 
             padding: 12px;
-            color: #00ff41; 
+            color: #e8e8e8; 
             cursor: pointer; 
             font-size: 14px;
-            font-family: 'Orbitron', monospace;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            background: rgba(0,255,65,0.05);
-            border-bottom: 1px solid rgba(0,255,65,0.2);
-            transition: all 0.3s ease;
+            font-family: 'Courier Prime', monospace;
+            background: #34363a;
+            border-bottom: 1px solid #4a4c50;
+            transition: background-color 0.2s ease;
+            border-radius: 4px 4px 0 0;
         }
         
         .directory h3:hover { 
-            background: rgba(0,255,65,0.15);
-            text-shadow: 0 0 8px #00ff41;
-            transform: translateX(5px);
+            background: #3a3a3f;
         }
         
         .files { margin: 0; padding: 8px; }
@@ -354,27 +312,22 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
         .file { 
             margin: 4px 0; 
             padding: 10px 12px; 
-            background: rgba(0,0,0,0.4); 
-            border: 1px solid rgba(0,255,65,0.2); 
+            background: #2a2a2e; 
+            border: 1px solid #4a4a4f; 
             cursor: pointer; 
             font-size: 13px; 
-            position: relative;
-            transition: all 0.3s ease;
-            font-family: 'Share Tech Mono', monospace;
+            transition: background-color 0.2s ease;
+            font-family: 'Anonymous Pro', monospace;
         }
         
         .file:hover { 
-            background: rgba(0,255,65,0.1); 
-            border-color: #00ff41;
-            transform: translateX(3px);
-            box-shadow: 0 0 15px rgba(0,255,65,0.3);
+            background: #323236;
         }
         
         .file.active { 
-            background: #00ff41; 
-            color: #000;
+            background: #5a5a5f; 
+            color: #fff;
             font-weight: bold;
-            box-shadow: 0 0 20px rgba(0,255,65,0.5);
         }
         
         .file-tags { margin-top: 8px; }
@@ -383,21 +336,17 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
             display: inline-block; 
             padding: 3px 8px; 
             margin: 2px; 
-            background: linear-gradient(45deg, #ff6b35, #f7931e);
-            color: #000; 
-            border-radius: 0;
+            background: #4a4a4f;
+            color: #c9c9c9; 
+            border-radius: 3px;
             font-size: 10px;
-            font-weight: bold;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            border: 1px solid #ff6b35;
+            border: 1px solid #5a5a5f;
             cursor: pointer;
-            transition: all 0.3s ease;
+            transition: background-color 0.2s ease;
         }
         
         .tag:hover {
-            background: #ff6b35;
-            box-shadow: 0 0 10px rgba(255,107,53,0.5);
+            background: #5a5a5f;
         }
         
         .content { 
@@ -487,9 +436,13 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
             font-weight: bold;
         }
         
+        .btn.primary { 
+            background: #4a4a4f;
+            border-color: #5a5a5f;
+        }
+        
         .btn.primary:hover { 
-            background: #00cc33;
-            box-shadow: 0 0 20px rgba(0,255,65,0.5);
+            background: #5a5a5f;
         }
         
         .edit-area { display: none; }
@@ -497,21 +450,22 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
         .edit-textarea { 
             width: 100%; 
             height: 400px; 
-            font-family: 'Share Tech Mono', monospace; 
-            border: 2px solid #00ff41; 
+            font-family: 'Anonymous Pro', monospace; 
+            border: 1px solid #4a4a4f; 
             padding: 15px;
-            background: rgba(0,0,0,0.8);
-            color: #00ff41;
+            background: #1e1e22;
+            color: #c9c9c9;
             resize: vertical;
+            border-radius: 4px;
         }
         
         .edit-textarea:focus {
             outline: none;
-            box-shadow: 0 0 20px rgba(0,255,65,0.5);
+            border-color: #6a6a6f;
         }
         
         .no-content { 
-            color: rgba(0,255,65,0.6); 
+            color: #8a8a8f; 
             font-style: italic; 
             text-align: center; 
             padding: 60px;
@@ -520,102 +474,86 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
         
         .collapsible { display: none; }
         .expanded .collapsible { 
-            display: block; 
-            animation: slideDown 0.3s ease-out;
+            display: block;
         }
         
-        @keyframes slideDown {
-            from { opacity: 0; transform: translateY(-10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
         
         .status-info { 
-            background: linear-gradient(45deg, rgba(0,255,65,0.1), rgba(0,255,65,0.05));
-            border: 1px solid #00ff41; 
-            color: #00ff41; 
+            background: #323236;
+            border: 1px solid #4a4a4f; 
+            color: #c9c9c9; 
             padding: 12px; 
             margin-bottom: 15px;
             font-size: 11px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
+            border-radius: 4px;
         }
         
         .tag-input { margin-top: 15px; }
         .tag-input input { 
             padding: 8px; 
             margin-right: 8px; 
-            border: 1px solid #00ff41; 
-            background: rgba(0,0,0,0.7);
-            color: #00ff41;
-            font-family: 'Share Tech Mono', monospace;
+            border: 1px solid #4a4a4f; 
+            background: #1e1e22;
+            color: #c9c9c9;
+            font-family: 'Anonymous Pro', monospace;
+            border-radius: 3px;
         }
         
         .tag-input input:focus {
             outline: none;
-            box-shadow: 0 0 10px rgba(0,255,65,0.5);
+            border-color: #6a6a6f;
         }
         
         .search-box { margin-bottom: 15px; }
         .search-box input { 
             width: calc(100% - 20px); 
             padding: 12px; 
-            border: 2px solid #00ff41; 
-            background: rgba(0,0,0,0.7);
-            color: #00ff41;
-            font-family: 'Share Tech Mono', monospace;
-            text-transform: uppercase;
-            letter-spacing: 1px;
+            border: 1px solid #4a4a4f; 
+            background: #1e1e22;
+            color: #c9c9c9;
+            font-family: 'Anonymous Pro', monospace;
+            border-radius: 4px;
         }
         
         .search-box input:focus {
             outline: none;
-            box-shadow: 0 0 15px rgba(0,255,65,0.5);
+            border-color: #6a6a6f;
         }
         
         .search-box input::placeholder {
-            color: rgba(0,255,65,0.5);
-            text-transform: uppercase;
+            color: #8a8a8f;
         }
         
         /* Scrollbar styling */
         ::-webkit-scrollbar {
-            width: 12px;
+            width: 8px;
         }
         
         ::-webkit-scrollbar-track {
-            background: rgba(0,0,0,0.5);
-            border: 1px solid rgba(0,255,65,0.2);
+            background: #232327;
         }
         
         ::-webkit-scrollbar-thumb {
-            background: #00ff41;
-            border-radius: 0;
+            background: #4a4a4f;
+            border-radius: 4px;
         }
         
         ::-webkit-scrollbar-thumb:hover {
-            background: #00cc33;
+            background: #5a5a5f;
         }
         
-        /* Glitch effect for title */
-        .glitch {
-            position: relative;
-            animation: glitch 3s infinite;
-        }
-        
-        @keyframes glitch {
-            0%, 90%, 100% { transform: translate(0); }
-            20% { transform: translate(-2px, 2px); }
-            40% { transform: translate(-2px, -2px); }
-            60% { transform: translate(2px, 2px); }
-            80% { transform: translate(2px, -2px); }
-        }
     </style>
 </head>
 <body>
     <div class="sidebar">
-        <h2 class="glitch">NEURAL ARCHIVE</h2>
+        <h2>Repository Hub</h2>
+        <p style="margin: 0 0 10px 0; font-size: 11px; color: #8a8a8f;">File browser • Direct editing</p>
+        <div class="nav-links" style="margin-bottom: 10px;">
+            <a href="http://localhost:8030" target="_blank" style="color: #c9c9c9; text-decoration: none; padding: 8px 12px; background: #323236; border: 1px solid #4a4a4f; border-radius: 3px; font-size: 11px; margin-right: 8px; display: inline-block;">📋 Forum View</a>
+            <a href="http://localhost:3002" style="color: #e8e8e8; text-decoration: none; padding: 8px 12px; background: #4a4a4f; border: 1px solid #5a5a5f; border-radius: 3px; font-size: 11px; display: inline-block;">📂 File Browser</a>
+        </div>
         <div class="status-info">
-            <strong>[SYSTEM STATUS]:</strong> DIRECT ACCESS MODE ENABLED. ALL MODIFICATIONS WRITE TO SOURCE FILES.
+            <strong>Status:</strong> Direct editing mode - all changes save to original files.
         </div>
         
         <div class="view-tabs">
@@ -647,6 +585,12 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
         <div id="content">
             <div class="no-content">>> AWAITING INPUT... SELECT FILE TO DECRYPT <<</div>
         </div>
+        
+        <footer style="margin-top: 30px; padding: 15px 0; border-top: 1px solid #4a4a4f; text-align: center; font-size: 11px; color: #8a8a8f;">
+            <strong>Repository Hub</strong> • 
+            <a href="http://localhost:3002" style="color: #e8e8e8; text-decoration: none;">File Browser</a> • 
+            <a href="http://localhost:8030" target="_blank" style="color: #c9c9c9; text-decoration: none;">Forum View</a>
+        </footer>
     </div>
     
     <script>
