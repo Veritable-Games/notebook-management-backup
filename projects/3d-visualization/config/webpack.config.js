@@ -26,5 +26,13 @@ module.exports = {
     open: true,
     port: 8080,
     host: '0.0.0.0',
+    proxy: [
+      {
+        context: ['/api'],
+        target: 'http://repository_backend-api_1:4000',
+        changeOrigin: true,
+        secure: false
+      }
+    ]
   },
 };

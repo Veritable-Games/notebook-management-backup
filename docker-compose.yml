@@ -12,6 +12,7 @@ services:
       - ./projects/backend-api:/app
       - /app/node_modules
       - ./projects/backend-api/logs:/app/logs
+      - /home/user/Notebooks:/home/user/Notebooks:ro
     environment:
       - NODE_ENV=development
     networks:
@@ -45,6 +46,7 @@ services:
       - ./projects/content-management/backend:/app
       - /app/node_modules
       - /home/user/Desktop/symbols-copy:/symbols:ro
+      - /home/user/Notebooks:/Notebooks:ro
     environment:
       - NODE_ENV=development
     networks:

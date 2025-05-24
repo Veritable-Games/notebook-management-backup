@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-08-15T21:53:28-07:00
-
-====== Supply Drop.txt ======
-The supply drop is a large cylindrical structure that deploys resources for use in combat. It supplies soldiers with Charges, ammunition, and allows the player to swap out weapons. They are usually found scattered around active combat zones.
-The human military's means of transporting ammunition and materials to soldiers. (Formerly named 'Warfare Consignment')

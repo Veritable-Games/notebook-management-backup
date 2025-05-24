@@ -1,0 +1,14 @@
+# Systemd timer for automated backups
+# Runs backup daily at 2 AM
+
+[Unit]
+Description=Daily Repository Backup
+Requires=auto-backup.service
+
+[Timer]
+OnCalendar=daily
+RandomizedDelaySec=1800
+Persistent=true
+
+[Install]
+WantedBy=timers.target

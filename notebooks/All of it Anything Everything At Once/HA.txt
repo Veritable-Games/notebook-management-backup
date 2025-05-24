@@ -1,6 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-07-23T15:10:11-07:00
-
-====== HA ======
-ELEVEN_LABS_API=241b9b3c7dcbbd64aac4711c6e0c8459 python3 speak.py

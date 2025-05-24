@@ -1,6 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-07-23T15:25:16-07:00
-
-====== new movement.txt ======
-https://en.wikipedia.org/wiki/New_Brandeis_movement

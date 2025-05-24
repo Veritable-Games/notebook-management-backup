@@ -1,0 +1,293 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-30T17:22:56-07:00
+
+==============================================================================
+MARIAN CENRIC - CARING MEDIC
+==============================================================================
+
+Profile:
+Marian Cenric is a Sentinel known for her caring nature and dedication to her squad. 
+She was born in the lush forests of Eos, where she developed a deep connection to 
+nature and a strong sense of community.
+
+Background:
+Marian’s background in medical sciences and her nurturing personality make her 
+a key figure in maintaining squad morale and health. Her expertise in field 
+medicine allows her to provide immediate care and support to her team.
+
+Role in the Conflict:
+Marian's primary role is to ensure the well-being of her squadmates. She’s often 
+found on the front lines, providing medical aid and moral support, making sure 
+her team can continue fighting.
+
+Personality:
+Marian is empathetic and always ready to lend a helping hand. Her presence is 
+comforting, and she’s known for her ability to remain calm in stressful situations.
+
+Marian's personality is characterized by:
+- Empathy and caring nature
+- Strong sense of community
+- Ability to remain calm under pressure
+- Dedication to her squad
+
+Relationships:
+- Carden: Marian appreciates Carden’s loyalty and often works closely with him 
+  to ensure the squad’s success.
+- Kalisa: Marian and Kalisa share a deep bond, often working together to support 
+  the team.
+- Sorrel: Marian acts as a mentor to Sorrel, guiding him with her wisdom and 
+  experience.
+- Player Character: Marian provides medical support and moral encouragement, 
+  ensuring the player is always ready for the next challenge.
+
+Combat Style:
+Marian excels in providing medical support and maintaining squad morale. Her 
+focus is on keeping her team healthy and combat-ready, making her an indispensable 
+part of any operation.
+
+--------------------
+Voice Lines:
+--------------------
+
+### Assign SP
+- "Ok!"
+- "I'll be there!"
+- "Can do!"
+
+### Unassign SP
+- *
+
+### Unassign All SP
+- *
+
+### Fortify SP
+- *
+
+### Emplacement Zone VO
+- *
+
+### Setup EZ
+- *
+
+### Destroy EZ
+- *
+
+### Squad Feedback VO
+- *
+
+### Player Killed Enemy
+- *
+
+### NPC Killed Enemy
+- *
+
+### Gyre Spotted
+- *
+
+### Ultra Gyre Spotted
+- *
+
+### Dredge Spotted
+- "Dredge! Don't let it hit anyone, lead!"
+- "If that Dredge gets near us, move back!"
+
+### Scope Spotted
+- *
+
+### Siphon Spotted
+- *
+
+### Siren Spotted
+- *
+
+### Vector Spotted
+- *
+
+### Soldier Spotted
+- *
+
+### Reloading
+- *
+
+### Low Armor
+- *
+
+### Low Armor Urgent
+- *
+
+### Friendly Fire
+- *
+
+### Player AFK
+- *
+
+### Player Misfiring
+- *
+
+### Squad Abandoned
+- *
+
+### Invalid Command
+- *
+
+### Squad Abandoned Urgent
+- *
+
+### Player Blocking Way
+- *
+
+### Terminal Slice VO
+- *
+
+### Slice Terminal
+- *
+
+### Cancel Slice Terminal
+- *
+
+### Terminal Slice Status
+- *
+
+### Terminal Slice Complete
+- *
+
+### Door Slice VO
+- *
+
+### Slice Door
+- *
+
+### Cancel Door Slice
+- *
+
+### Door Slice Status
+- *
+
+### Door Slice Complete
+- *
+
+### Breaching VO
+- *
+
+### Breach Door
+- *
+
+### Cancel Door Breach
+- *
+
+### Breach Charge Armed
+- *
+
+### Detonation Reaction
+- *
+
+### Set Charge VO
+- *
+
+### Set Charge
+- *
+
+### Charge Status
+- *
+
+### Cancel Charge
+- *
+
+### Change Armed
+- *
+
+### Detonate Charge & Reaction
+- *
+
+### Resupply VO
+- *
+
+### Resupply
+- *
+
+### Cancel Resupply
+- *
+
+### Resupply Complete
+- *
+
+### No Resupply Needed
+- *
+
+### Revive VO
+- *
+
+### Revive
+- *
+
+### Cancel Revive
+- *
+
+### Exception Dialogues
+- *
+
+### Revive Complete
+- "What a relief."
+
+### Player Downed
+- *
+
+### Reviving Player
+- *
+
+### Carden Downed
+- *
+
+### Reviving Carden
+- *
+
+### Kalisa Downed
+- *
+
+### Reviving Kalisa
+- *
+
+### Sorrel Downed
+- *
+
+### Reviving Sorrel
+- *
+
+### Wilmet Downed
+- *
+
+### Reviving Wilmet
+- *
+
+### Arrisi Downed
+- *
+
+### Reviving Arrisi
+- *
+
+### X Downed
+- *
+
+### Reviving X
+- *
+
+### Disable Mine
+- *
+
+### Cancel Mine Disable
+- *
+
+### Mine Disable Complete
+- *
+
+### Rewire Mine
+- *
+
+### Setup Trap
+- *
+
+### Cancel Trap Setup
+- *
+
+==============================================================================

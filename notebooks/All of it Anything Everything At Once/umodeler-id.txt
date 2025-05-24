@@ -1,6 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-09-15T16:18:33-07:00
-
-====== umodeler-id ======
-LQztXX6jK7NEDyz

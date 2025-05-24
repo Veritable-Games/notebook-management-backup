@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-08-15T22:01:30-07:00
-
-====== color hex.txt ======
-188-143-143 - Oski
-129-146-97 - Vivian

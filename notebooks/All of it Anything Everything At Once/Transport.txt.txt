@@ -1,6 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-08-15T21:53:03-07:00
-
-====== Transport.txt ======
-The transport is capable of taking the player back to their home city.

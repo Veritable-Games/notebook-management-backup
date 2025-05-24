@@ -1,0 +1,382 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-30T16:59:31-07:00
+
+==============================================================================
+DODEC: BEYOND OUR HOME - INTERNAL DESIGN DOCUMENT
+==============================================================================
+
+1. THE PITCH
+--------------------
+Dodec: Beyond Our Home is a:
+- Hard science fiction
+- Adventure, narrative-exploration
+- Vibrant verdant vertical vistas
+- In a future 500,000 years removed from our own
+- The super-earth world of Chione is our new home
+- We left the earth pristine and perfect for new life
+
+Welcome to a world of sprawling arcologies, towering self-contained cities 
+that provide everything their inhabitants need within their walls. Lifts, 
+platforms, walkways, vistas, pathways, and bridges connect the different 
+levels and sections of these massive structures. The 'hand-held high scaler' 
+technology is abundant, set to the side of buildings for rapid upwards 
+mobility.
+
+As you explore these arcologies, you'll encounter a variety of machines that 
+maintain them and make life easier for their inhabitants. These machines are 
+designed to be simple yet efficient, relying on both technology and humane 
+tradition to create innovative and sustainable solutions.
+
+The game encourages players to explore this optimistic vision of humanity's 
+future, where buildings are connected by an intricate system of pathways, 
+walkways, and bridges. The arcologies are alive with activity and movement, 
+reflecting the game's central themes of preserving history and making the 
+world a better place through beneficent actions and deeds that value other 
+people.
+
+2. WORLD SETTING
+--------------------
+
+2.1 Chione
+- Super-earth, 100 times the size of Earth
+- Blanketed by an endless ocean so dense and deep that no probe has survived
+- 16 Atlas Tethers: incredible towering structures ranging in humidity, 
+  temperature, and size
+- Each Atlas Tether encircled by waterfalls that flow continually in fresh water
+- Two giant planetary rings held by tethers
+- Three moons: Arcturus, Boreas, and Dionysus
+
+2.2 Grand Voss
+- Main city-scape on Chione
+- Sprawling arcologies and vertical cities
+- Connected by lifts, platforms, walkways, bridges
+- Home to interstellar travelers who colonized Chione
+- Encircled by two encapsulating rings, each with a centrifugal zone
+- Rings supported by 16 Atlas Tethers
+
+2.3 Maria
+- Northernmost Atlas Tether
+- Where most of humanity resides
+- Vertical towns scaling the tether
+- Townscape scales in all directions, winding deep into Chione's great sky
+
+2.4 Boreas (Moon)
+- Home of Allied Civil Preserve (ACP)
+- Shaped for mass production
+- Uses repurposed war machines for maintenance and repair
+- Settlement renamed from Boreas to Grand Voss
+
+2.5 Caridad
+- Secondary settlement on Chione
+- Known for its innovative vertical farming techniques
+- Home to a diverse community of scientists and agronomists
+- Features unique architecture that blends into the natural landscape
+
+3. CENTRAL THEMES
+--------------------
+- Preserving history of stars and humanity through oral tradition
+- Creating a better world through technology and beneficent actions
+- Community growth through shared work
+- Sustainable living and renewable energy
+- Non-dystopian, optimistic vision of humanity's future
+- Valuing other people and fostering community
+- Designing cities in consideration of ecosystems
+- Doing with less so that others may have more
+
+4. NARRATIVE ELEMENTS
+--------------------
+4.1 Disappearing Stars
+- Night sky going dark, stars only visible in infrared
+- Original system being 'muted' in the visible spectrum
+- Mystery of Sol's unexplained light pulses
+- Concern for Earth's fate
+- Quasars remain untouched
+
+4.2 Starbound Culture
+- Humans capable of living indefinitely ("eternalism")
+- 500,000-year journey between stars and planets
+- Loss of contact with original home system
+- Interstellar travelers set out with advancing technology
+
+4.3 Story Events
+- Sol, old home of Earth, still gives out pulses of light
+- Pulses have no discernible patterns of information
+- Centuries have passed since the great departure
+- Grand Voss has an almost magnetic hold on its atmosphere
+
+4.4 Theme Notes
+- Carrying names of stars through oral history
+- Bettering the world through creation
+- Designing cities in consideration of ecosystems
+- NPCs operate independently from the player
+- Community grows through shared work
+
+5. PLAYER CHARACTER
+--------------------
+5.1 Basic Description
+- A weighty, cumbersome machine in a less-dense cityscape
+- Tall, lumbering thing of cheap iron
+- Repurposed from war into utility as a mechanical helper
+- Can morph into different forms
+- Main function: repair and maintain ~~Grand Voss~~ infrastructure
+- Bipedal and wheeled forms
+
+5.2 Wooden Boards & Weight
+- Much heavier than the surrounding world
+- Movement is weighty and impactful
+- Can cause destruction if not careful
+- NPCs can 'switch off' the player if too destructive
+
+5.3 Gravity & Breaking Boards
+- Player can break boards when falling
+- Game has a system to 'catch' and release the player
+- Guard rails (made of metal) usually prevent falling
+
+5.4 World-Items & 'Collecting'
+- Basic system for selecting items in inventory
+- Items can be rotated and viewed
+- Realistic carrying capacity (no infinite inventory)
+
+5.5 Character Development
+- Known as Oskidere
+- Develops relationships with NPCs based on actions
+- Can be viewed positively or negatively based on behavior
+
+6. GAMEPLAY SYSTEMS
+--------------------
+6.1 Heat System
+- Player must manage heat levels
+- Can be disabled if overheated
+- Water sources for cooling
+- Heat management tied to gameplay and dialogue systems
+
+6.2 Conversation System
+- Two modes of expression called 'Enacts': Empathetic and Assertive
+- Empathetic Enacts build trust and open up emotional dialogues
+- Assertive Enacts can speed up conversations; this neglectful behavior may alienate people
+- NPCs remember player's conversation patterns and react accordingly
+- Dialogue trees adapt based on player's reputation and past choices
+
+6.3 Traversal System
+- Various transportation methods:
+  * Blimps, trolleys, bullet trains
+  * Hot air balloons, hang gliders, parachutes
+  * Ziplines, lifts, and bridges
+- 'Hand-held high scaler' for vertical mobility
+
+6.4 Repair and Upgrade Mechanics
+- Player gains abilities by exploring and helping others
+- Upgrades represented physically on character
+- New components improve task abilities
+
+6.5 Camera System
+- Perspective camera shots/gameplay styles for player experience
+- Main menu Random selection from a a list of perspective cameras at menu screen
+
+7. WORLD TECHNOLOGY
+--------------------
+7.1 Energy Systems
+- Solar collectors and 'thermal converters'
+- Small Modular Reactors (SMRs)
+- Hydroelectric Energy Storage
+- Solid-state batteries
+- Fusion energy for larger endeavors
+
+7.2 Transportation
+- Dirigibles, trolleys, ziplines, lifts, and hot-air balloons
+- Conveyor Transit system for gaps between towns
+- Vac-train systems between Atlas Tethers
+
+7.3 Autonomous Repair
+- Towns maintained by simple machines set to routine tasks
+
+7.4 Vertical Scalers
+- Enables quick transit of vertical sections
+- Hand-held device with grip and foot-pedal
+
+7.5 Pulley Battery Systems
+- Converts kinetic energy into potential energy
+- Can be used for transportation and power generation
+
+7.6 Atmospheric Processors
+- Massive machines that help maintain breathable air in Chione's settlements
+- Doubles as weather control systems, creating micro-climates within arcologies
+
+7.7 Quantum Communication Network
+- Allows for instantaneous communication across Chione and its moons
+- Crucial for coordinating activities between different settlements
+
+8. LOCATIONS & SETTING DETAILS
+--------------------
+8.1 Atlas Tethers
+- 16 enormous structures aligning the planet
+- Range in humidity, temperature, and size
+- Serve as secondary habitats
+- Northernmost tether (Maria) hosts most human settlements
+
+8.2 Planetary Rings
+- Two immense rings encircling Grand Voss
+- Held in place by Atlas Tethers
+- Contain centrifugal zones (inaccessible to inhabitants)
+- Rumored to house lush landscapes reminiscent of Earth
+
+8.3 Oceans and Water Systems
+- Planet blanketed by endless, dense ocean
+- High salinity in Grand Voss waters
+- Fresh water flows continually around Atlas Tethers
+- Hydroelectric Energy Storage uses water basins for potential energy
+
+9. CULTURE OF THE STARBOUND
+--------------------
+- Interstellar travelers on generation ships
+- Life-extension technology allows for extremely long lifespans
+- Goal of preserving trillions of lives
+- Sent probes and wafer sats ahead to prepare Grand Voss
+- Mix of excitement and uncertainty about new home
+- Some desire to explore further, others ready to settle
+- Efforts made to preserve generation ships and their history
+
+10. THE EDICT
+--------------------
+- Player character transforms into an Edict later in the game
+- Crystalline and abstract machine species native to Grand Voss
+- Improved mobility and abilities
+- Can bounce off walls and floors for momentum
+- Known for helping humans with construction and limiting hazards
+
+11. DESIGN PRINCIPLES & FEATURES
+--------------------
+- Non-centric world design (world alive without player input)
+- Encourage prosocial gameplay in cooperative environments
+- Follow paths of fun and expand upon developing expectations
+- Encourage player reflection on events
+- Use humane design to encourage cooperation over competition
+- Every visible place should be reachable in-game
+
+12. MENUS & OTHER SYSTEMS
+--------------------
+12.1 Main Menu Options
+- New Game
+- Continue
+- Load Game
+- Profiles
+  * Create New Profile
+  * Import Profile
+  * Delete Profile
+- Settings
+- Extras
+  * Concept Art Gallery
+  * Soundtrack Player
+  * Credits
+- Exit Game
+
+12.2 Settings
+- Gameplay Options
+  * Difficulty [Easy, Normal, Hard, Custom]
+  * Tutorial Messages [On/Off]
+  * Subtitles [On/Off]
+  * Language Selection
+  * Control Scheme [Default, Alternative, Custom]
+  * Auto-save Frequency [Off, 5 min, 10 min, 15 min, 30 min]
+- Video Options
+  * Resolution
+  * Display Mode [Fullscreen, Windowed, Borderless]
+  * Aspect Ratio
+  * V-Sync [On/Off]
+  * Frame Rate Limit [30, 60, 120, Unlimited]
+  * Field of View Slider
+  * Motion Blur [On/Off]
+- Audio Options
+  * Master Volume
+  * Music Volume
+  * Sound Effects Volume
+  * Dialogue Volume
+  * Ambient Sound Volume
+  * Audio Output [Stereo, 5.1 Surround, 7.1 Surround]
+- Graphics Options
+  * Quality Preset [Low, Medium, High, Ultra, Custom]
+  * Texture Quality
+  * Shadow Quality
+  * Anti-Aliasing [Off, FXAA, TAA, MSAA]
+  * Ambient Occlusion
+  * Post-Processing Effects
+  * Draw Distance
+  * Particle Effects Density
+- Accessibility Options
+  * Color Blind Mode [Off, Protanopia, Deuteranopia, Tritanopia]
+  * Text Size
+  * Controller Vibration Intensity
+  * Audio Descriptions [On/Off]
+  * Screen Reader Support [On/Off]
+
+12.3 In-Game Menu
+- Resume Game
+- Load/Save Game
+- Settings (Same as Main Menu)
+- Controls
+- Codex/Encyclopedia
+- Quit to Main Menu
+- Exit Game
+
+12.4 HUD Options
+- HUD Scale
+- HUD Opacity
+- Navigator [On/Off]
+- Objective Markers [On/Off]
+- Damage Numbers [On/Off]
+- Crosshair Style
+
+12.5 Control Customization
+- Keyboard & Mouse Bindings
+- Controller Button Mapping
+- Sensitivity Settings
+- Invert Y-Axis [On/Off]
+- Aim Assist [Off, Low, Medium, High]
+
+12.6 Cloud Saves
+- Enable Cloud Saves [On/Off]
+- Sync Frequency [Always, Daily, Manual]
+
+12.7 Mod Support (if applicable)
+- Enable Mods [On/Off]
+- Mod Load Order
+- Mod Configuration
+
+13. POST-GAME CONTENT
+--------------------
+- After main story, player can continue exploring and interacting
+- Player's machine form is maximally upgraded
+- Possibility of "death" and return to Chione unrecognized
+
+14. TO-DO LIST
+--------------------
+- Finalize core gameplay loop and player progression system
+- Develop AI for autonomous NPCs to create a living, breathing world
+- Design and implement at least 5 distinct arcology layouts
+- Create a library of modular assets for efficient level design
+- Implement the 'Enacts' conversation system with branching dialogues
+- Develop heat management system and related gameplay mechanics
+- Design and balance the upgrade system for the player character
+- Create a robust mission/quest system to guide player exploration
+- Implement save/load system with multiple character profiles
+- Optimize performance for seamless transitions between areas
+
+15. MISC NOTES
+--------------------
+- Game encourages non-combat exploration
+- Creator wants a world players can always return to and share with friends
+- Consideration of fundraising and marketing strategies
+- Potential for full voice acting and high-quality animations
+
+16. ART STYLE AND AUDIO
+--------------------
+16.1 Visual Aesthetic
+- Blend of organic and geometric forms reflecting the marriage of nature and technology
+- Color palette inspired by bioluminescent organisms and nebulae
+- Emphasis on vertical space and flowing lines to reinforce the game's themes
+
+16.2 Audio Design
+- Ambient soundscapes that change based on location and time of day
+- Procedurally generated music that responds to player actions and environment
+- Voice acting for key characters with procedural modulation for minor NPCs

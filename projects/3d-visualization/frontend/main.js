@@ -47,6 +47,22 @@ import('./OrbitControls.js').then((module) => {
     return;
   }
   window.sceneInitialized = true;
+
+  // Load relationship data from backend API
+  async function loadRelationshipData() {
+    try {
+      const response = await fetch('/api/v1/visualization/graph');
+      if (response.ok) {
+        const data = await response.json();
+        return data;
+      }
+    } catch (error) {
+      console.log('Could not load relationship data, using default visualization');
+    }
+    
+    // Default cube visualization if API not available
+    return null;
+  }
   
   const OrbitControls = module.OrbitControls;
 
@@ -200,26 +216,95 @@ import('./OrbitControls.js').then((module) => {
   window.logger = logger;
   logger('3D Visualization Started');
   
-  // Create the geometry and material
-  const geometry = new THREE.DodecahedronGeometry(1, 0); // The second parameter (detail) can affect shape
-  window.geometry = geometry;
-  
-  // Use a more sophisticated material with lighting and reflections
-  const material = new THREE.MeshStandardMaterial({ 
-    color: 0x14418B,  // PS2 blue color
-    metalness: 0.3,
-    roughness: 0.4,
-    wireframe: false,
-    flatShading: false,  // Smooth shading for nicer look
-    envMapIntensity: 0.5
-  });
-  window.material = material;
-  
-  // Create the main 3D object - always at center of scene
-  const dodecahedron = new THREE.Mesh(geometry, material);
-  dodecahedron.position.set(0, 0, 0); // Explicitly set to center
-  scene.add(dodecahedron);
-  window.dodecahedron = dodecahedron;
+  // Create content network visualization
+  async function createContentNetwork() {
+    const relationshipData = await loadRelationshipData();
+    
+    if (!relationshipData || !relationshipData.nodes) {
+      // Fallback to original dodecahedron if no relationship data
+      const geometry = new THREE.DodecahedronGeometry(1, 0);
+      const material = new THREE.MeshStandardMaterial({ 
+        color: 0x14418B,
+        metalness: 0.3,
+        roughness: 0.4,
+        wireframe: false,
+        flatShading: false,
+        envMapIntensity: 0.5
+      });
+      const dodecahedron = new THREE.Mesh(geometry, material);
+      dodecahedron.position.set(0, 0, 0);
+      scene.add(dodecahedron);
+      window.dodecahedron = dodecahedron;
+      return;
+    }
+
+    // Create network of content nodes
+    const nodeGroup = new THREE.Group();
+    const nodes = [];
+    const edges = [];
+
+    // Create materials for different content types
+    const materials = {
+      'game-design': new THREE.MeshStandardMaterial({ color: 0x14418B, metalness: 0.3, roughness: 0.4 }),
+      'character': new THREE.MeshStandardMaterial({ color: 0x8B1441, metalness: 0.3, roughness: 0.4 }),
+      'world': new THREE.MeshStandardMaterial({ color: 0x41148B, metalness: 0.3, roughness: 0.4 }),
+      'reference': new THREE.MeshStandardMaterial({ color: 0x148B41, metalness: 0.3, roughness: 0.4 }),
+      'default': new THREE.MeshStandardMaterial({ color: 0x888888, metalness: 0.3, roughness: 0.4 })
+    };
+
+    // Create node geometries based on content type
+    const geometries = {
+      'game-design': new THREE.DodecahedronGeometry(0.5, 0),
+      'character': new THREE.SphereGeometry(0.4, 8, 6),
+      'world': new THREE.BoxGeometry(0.6, 0.6, 0.6),
+      'reference': new THREE.TetrahedronGeometry(0.5),
+      'default': new THREE.SphereGeometry(0.3, 6, 4)
+    };
+
+    // Create nodes
+    relationshipData.nodes.forEach((node, index) => {
+      const type = node.type || 'default';
+      const geometry = geometries[type] || geometries.default;
+      const material = materials[type] || materials.default;
+      
+      const mesh = new THREE.Mesh(geometry, material);
+      mesh.position.set(node.x || 0, node.y || 0, node.z || 0);
+      mesh.userData = { nodeId: node.id, title: node.title, type: node.type };
+      
+      nodes.push(mesh);
+      nodeGroup.add(mesh);
+    });
+
+    // Create edges/connections
+    if (relationshipData.edges) {
+      const edgeMaterial = new THREE.LineBasicMaterial({ color: 0x444444, opacity: 0.6, transparent: true });
+      
+      relationshipData.edges.forEach(edge => {
+        const sourceNode = nodes.find(n => n.userData.nodeId === edge.source);
+        const targetNode = nodes.find(n => n.userData.nodeId === edge.target);
+        
+        if (sourceNode && targetNode) {
+          const edgeGeometry = new THREE.BufferGeometry().setFromPoints([
+            sourceNode.position,
+            targetNode.position
+          ]);
+          const line = new THREE.Line(edgeGeometry, edgeMaterial);
+          edges.push(line);
+          nodeGroup.add(line);
+        }
+      });
+    }
+
+    scene.add(nodeGroup);
+    window.contentNetwork = nodeGroup;
+    window.contentNodes = nodes;
+    window.contentEdges = edges;
+    
+    logger(`Loaded content network: ${nodes.length} nodes, ${edges.length} connections`);
+  }
+
+  // Initialize the content network
+  createContentNetwork();
   
   // We don't need the wireframe at all - remove it completely
   

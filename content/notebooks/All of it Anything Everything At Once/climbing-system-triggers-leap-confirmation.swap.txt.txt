@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T15:52:12-07:00
+
+====== climbing-system-triggers-leap-confirmation.swap.txt ======
+So, a note for the climbing system, to grab an obstacle, grab an object, you say for example,
+hold right trigger to leap out and grab it.
+Now, if you let go of right trigger, it'll drop. The character will let go.
+But if you hold right trigger and then use the right and the length start to look around,
+your character will now aim with a free hand, where they're going to go next.
+And you tap right trigger and let go of right trigger.
+Or just tap left trigger in general to leap. They're confirmed to leap.
+And you're going back before I've seen those two controls.
+So, it ties into the conversation system.

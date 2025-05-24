@@ -1,0 +1,14 @@
+# Systemd service file for automated backups
+# To install: sudo cp auto-backup.service /etc/systemd/system/
+# Then: sudo systemctl enable auto-backup.timer
+
+[Unit]
+Description=Repository Content Backup
+After=network.target
+
+[Service]
+Type=oneshot
+User=user
+ExecStart=/home/user/Repository/scripts/backup-content.sh
+StandardOutput=append:/home/user/Repository/logs/backup.log
+StandardError=append:/home/user/Repository/logs/backup-error.log

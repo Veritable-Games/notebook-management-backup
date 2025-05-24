@@ -1,6 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-08-15T22:01:21-07:00
-
-====== Comms Station.txt ======
-The comms station can be used to assign or dismiss squad members, talk to NPCs, and learn more about the game world through the city network.

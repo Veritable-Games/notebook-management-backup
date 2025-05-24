@@ -1,34 +1,71 @@
-# Veritable Games Repository Documentation
+# Veritable Games Repository
 
-Welcome to the centralized documentation for the Veritable Games Repository. This directory contains comprehensive documentation for all aspects of the project.
+A collection of tools for game design documentation, visualization, and web interfaces.
 
-## Documentation Structure
+## What's Included
 
-- [`api/`](./api/): API documentation for all services
-- [`architecture/`](./architecture/): System architecture and design documents
-- [`development/`](./development/): Development guides and standards
-- [`guides/`](./guides/): User guides and tutorials
-- [`services/`](./services/): Service-specific documentation
-- [`templates/`](./templates/): Documentation templates
-
-## Key Documents
-
-- [Project Structure](./PROJECT_STRUCTURE.md): Overview of the repository organization
-- [Naming Conventions](./NAMING_CONVENTIONS.md): Standardized naming conventions
+- **Wiki/Notebook Viewer** - Browse and edit game design documents
+- **Relationship Visualization** - See how content is connected
+- **Content Management** - Organize your game design materials
 
 ## Getting Started
 
-If you're new to the project, we recommend starting with these documents:
+See [GETTING_STARTED.md](./GETTING_STARTED.md) for a simple guide to using this repository.
 
-1. [Project Structure](./PROJECT_STRUCTURE.md)
-2. [Service Management](./guides/SERVICE_MANAGEMENT.md)
-3. [Development Workflow](./development/WORKFLOW.md)
+## Running the Applications
 
-## Contributing to Documentation
+1. **Start everything**:
+   ```bash
+   ./start-all.sh
+   ```
 
-When contributing to documentation:
+2. **Access the applications**:
+   - Wiki Viewer: http://localhost:8081/
+   - Relationship Visualization: http://localhost:8081/relationships
 
-1. Follow the established templates in the `templates/` directory
-2. Use Markdown for all documentation
-3. Include diagrams where appropriate (using Mermaid or images)
-4. Ensure all links are relative to enable documentation portability
+3. **Stop everything**:
+   ```bash
+   ./stop-all.sh
+   ```
+
+## Project Structure
+
+```
+Repository/
+├── notebooks/       # Game design documents and notes
+├── projects/        # Application code
+├── config/          # Configuration
+├── data/            # Data storage
+└── logs/            # Log files
+```
+
+## Notebooks
+
+The repository contains game design documents in the `notebooks/` directory:
+
+- **Game Projects**: `notebooks/game-projects/`
+- **Reference Material**: `notebooks/reference/`
+- **Various Notes**: `notebooks/All of it Anything Everything At Once/`
+
+## Managing Services
+
+Use the service manager to control individual services:
+
+```bash
+# Check what's running
+./service-manager.sh status
+
+# Start just the backend
+./service-manager.sh start backend-api
+
+# Restart a specific service
+./service-manager.sh restart constellation-viewer
+```
+
+## Need More Information?
+
+More detailed documentation is available in the `docs/` directory.
+
+## License
+
+© 2025 Veritable Games. All rights reserved.

@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-09-08T18:46:57-07:00
-
-====== authoritarian-robot-military ======
-gunners My robots will chase and eliminate any threats to protect the people.
-
-The day is approaching when we can focus on rebuilding the Commonwealth without the threat of the dangers that lie ahead.

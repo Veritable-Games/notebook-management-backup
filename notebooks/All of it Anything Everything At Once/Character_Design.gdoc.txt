@@ -1,6 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-08-15T22:03:01-07:00
-
-====== Character Design.gdoc ======
-{"url": "https://drive.google.com/open?id=17RHVpGvAq1R3eXw2na_aBAg_4JW0YIlTDS79bGTtokw", "doc_id": "17RHVpGvAq1R3eXw2na_aBAg_4JW0YIlTDS79bGTtokw", "email": "cwcorella@gmail.com"}

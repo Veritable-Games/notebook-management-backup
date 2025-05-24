@@ -30,7 +30,7 @@ app.use('/symbols', express.static(symbolsPath, {
 }));
 
 // Create a path to the notebooks directory
-const notebooksPath = path.join(__dirname, '../../..', 'Notebooks');
+const notebooksPath = '/Notebooks';
 
 app.get('/', (req, res) => {
     // Return debug page

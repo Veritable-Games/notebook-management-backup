@@ -1,6 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-07-23T15:00:02-07:00
-
-====== credits.txt ======
-Diego Giacomelli - Unity Scene Hiearchy Group Headers

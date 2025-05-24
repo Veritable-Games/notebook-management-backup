@@ -48,7 +48,8 @@
       "Bash(sudo lsof:*)",
       "Bash(fuser:*)",
       "Bash(echo:*)",
-      "Bash(kill:*)"
+      "Bash(kill:*)",
+      "Bash(git add:*)"
     ],
     "deny": []
   }

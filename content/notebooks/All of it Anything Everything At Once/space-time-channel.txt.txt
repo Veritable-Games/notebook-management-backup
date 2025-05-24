@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-23T15:44:24-07:00
+
+====== space-time-channel.txt ======
+11:12 PM]Glitch: https://www.uu.se/en/
+Top ranked research and education - Uppsala University, Sweden
+Welcome to Uppsala University Sweden! Quality, knowledge and creativity since 1477. World-class research and first-rate education of global use to society, business, and culture. Uppsala University is one of northern Europe's most highly ranked universities.
+[11:14 PM]Glitch: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.261301
+Physical Review Letters
+Emergent de Sitter Cosmology from Decaying Anti--de Sitter Space
+Recent developments in string compactifications demonstrate obstructions to the simplest constructions of low energy cosmologies with positive vacuum energy. The existence of obstacles to creating scale-separated de Sitter solutions indicates a UV/IR puzzle for embedding cosmological vacua in a unitary theory of quantum gravity. Motivated by thi...
+[12:07 AM]Glitch: https://www.sciencealert.com/physicists-simulated-a-black-hole-in-the-lab-and-then-it-started-to-glow
+ScienceAlert
+Physicists Simulated a Black Hole in The Lab, And Then It Started t...
+A synthetic analog of a black hole could tell us a thing or two about an elusive radiation theoretically emitted by the real thing.
+Physicists Simulated a Black Hole in The Lab, And Then It Started t...
+[12:07 AM]Glitch: brought to my attention by @rothus66
+[12:07 AM]Glitch: that's a key thing: this is only getting more curious
+[1:06 AM]Glitch: https://en.m.wikipedia.org/wiki/Loop_quantum_gravity
+Loop quantum gravity
+Loop quantum gravity (LQG) is a theory of quantum gravity, which aims to merge quantum mechanics and general relativity, incorporating matter of the Standard Model into the framework established for the pure quantum gravity case. It is an attempt to develop a quantum theory of gravity based directly on Einstein's geometric formulation rather tha...
+Loop quantum gravity
+[1:18 AM]Glitch: https://en.m.wikipedia.org/wiki/Information_geometry
+Information geometry
+Information geometry is an interdisciplinary field that applies the techniques of differential geometry to study probability theory and statistics. It studies statistical manifolds, which are Riemannian manifolds whose points correspond to probability distributions.
+Information geometry
+[1:19 AM]Glitch: https://en.m.wikipedia.org/wiki/Metric_space
+Metric space
+In mathematics, a metric space is a set together with a notion of distance between its elements, usually called points. The distance is measured by a function called a metric or distance function. Metric spaces are the most general setting for studying many of the concepts of mathematical analysis and geometry.
+The most familiar example of a m...
+Metric space
+[1:24 AM]Glitch: https://en.m.wikipedia.org/wiki/Quantum_information
+Quantum information
+Quantum information is the information of the state of a quantum system. It is the basic entity of study in quantum information theory, and can be manipulated using quantum information processing techniques. Quantum information refers to both the technical definition in terms of Von Neumann entropy and the general computational term.
+It is an i...

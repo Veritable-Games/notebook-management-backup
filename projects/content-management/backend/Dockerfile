@@ -6,7 +6,7 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies for Express server
-RUN npm ci --only=production || (npm init -y && npm install express body-parser cors)
+RUN npm install express body-parser cors
 
 # Copy application code
 COPY . .

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-03-10T17:32:33-07:00
+
+====== docker-key ======
+gpg: key 3B06DD9BCDAEFB06 marked as ultimately trusted
+gpg: directory '/home/user/.gnupg/openpgp-revocs.d' created
+gpg: revocation certificate stored as '/home/user/.gnupg/openpgp-revocs.d/F2FC4972BC55F306F79322043B06DD9BCDAEFB06.rev'
+public and secret key created and signed.
+
+pub   rsa3072 2025-03-11 [SC] [expires: 2027-03-11]
+	  F2FC4972BC55F306F79322043B06DD9BCDAEFB06
+uid                      Christopher W. Corella <christopher@corella.com>
+sub   rsa3072 2025-03-11 [E] [expires: 2027-03-11]
+
+user@remote:~$ 

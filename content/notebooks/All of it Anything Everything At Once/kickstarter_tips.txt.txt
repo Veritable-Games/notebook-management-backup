@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-15T21:57:41-07:00
+
+====== kickstarter tips.txt ======
+	Don't announce that you want to work with fans. too much stress. accept general advice or feedback, but don't let them drive any aspect of the project
+	don't promise any ambitious features or any concrete release dates
+	add a beta tier for backers. limit it to an amount that you can handle. try not to cater to them too much. feature creep is a danger.
+	consider adding cut features or features that don't fit as easter eggs sometime down the road
+	Humble Store, GOG, Steam
+	(Windows, Linux, Mac)
+	If the kickstarter campaign makes more than we anticipated, don't scale the scope to match. that's how developers bite off more than they can chew and the game dies.

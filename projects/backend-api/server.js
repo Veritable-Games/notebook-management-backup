@@ -13,6 +13,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const path = require('path');
+const fs = require('fs');
 const relationships = require('./lib/relationship-api');
 const config = require('./config');
 
@@ -239,6 +240,90 @@ app.delete(`${API_BASE}/relationships/link`, (req, res) => {
 app.get(`${API_BASE}/visualization/graph`, (req, res) => {
   const positionedGraph = relationships.calculateNodePositions();
   res.json(positionedGraph);
+});
+
+// ----------------- Search Endpoints -----------------
+
+// Universal search across all content
+app.get(`${API_BASE}/search`, (req, res) => {
+  const { q, type = 'all' } = req.query;
+  
+  if (!q) {
+    return res.status(400).json({ error: 'Search query is required' });
+  }
+
+  try {
+    const results = [];
+    const notebooksPath = '/home/user/Notebooks';
+    
+    // Search in notebooks
+    if (fs.existsSync(notebooksPath)) {
+      const directories = fs.readdirSync(notebooksPath)
+        .filter(dir => fs.statSync(path.join(notebooksPath, dir)).isDirectory());
+      
+      for (const dir of directories) {
+        const dirPath = path.join(notebooksPath, dir);
+        const files = fs.readdirSync(dirPath).filter(file => file.endsWith('.txt'));
+        
+        for (const file of files) {
+          try {
+            const filePath = path.join(dirPath, file);
+            const content = fs.readFileSync(filePath, 'utf8');
+            const fileName = path.basename(file, '.txt');
+            
+            // Check if query matches content or filename
+            if (
+              content.toLowerCase().includes(q.toLowerCase()) ||
+              fileName.toLowerCase().includes(q.toLowerCase())
+            ) {
+              const stats = fs.statSync(filePath);
+              
+              // Create excerpt with context
+              let excerpt = '';
+              const contentLower = content.toLowerCase();
+              const queryLower = q.toLowerCase();
+              const queryIndex = contentLower.indexOf(queryLower);
+              
+              if (queryIndex !== -1) {
+                const startIndex = Math.max(0, queryIndex - 60);
+                const endIndex = Math.min(content.length, queryIndex + q.length + 60);
+                excerpt = content.substring(startIndex, endIndex);
+                if (startIndex > 0) excerpt = '...' + excerpt;
+                if (endIndex < content.length) excerpt = excerpt + '...';
+              } else {
+                excerpt = content.substring(0, 120) + '...';
+              }
+              
+              results.push({
+                id: fileName.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
+                title: fileName,
+                type: 'notebook',
+                category: dir,
+                excerpt,
+                lastModified: stats.mtime.toISOString(),
+                path: filePath
+              });
+            }
+          } catch (err) {
+            console.error(`Error reading file ${file}:`, err);
+          }
+        }
+      }
+    }
+    
+    // Sort by relevance and recency
+    results.sort((a, b) => new Date(b.lastModified) - new Date(a.lastModified));
+    
+    res.json({
+      query: q,
+      count: results.length,
+      results: results.slice(0, 50) // Limit to 50 results
+    });
+    
+  } catch (err) {
+    console.error('Search error:', err);
+    res.status(500).json({ error: 'Search failed' });
+  }
 });
 
 // ----------------- Content Proxy Endpoints -----------------

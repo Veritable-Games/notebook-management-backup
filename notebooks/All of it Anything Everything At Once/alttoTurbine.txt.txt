@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-07-23T14:53:18-07:00
-
-====== alttoTurbine.txt ======
-Power Pod: Halcium
-Vortex-Induced Vibration Resonant Wind Generator
-(call them wind wigglers)
-Solid-state wind-energy transformer

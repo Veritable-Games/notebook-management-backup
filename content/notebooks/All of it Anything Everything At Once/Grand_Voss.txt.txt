@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-15T21:58:37-07:00
+
+====== Grand Voss.txt ======
+- Summary
+Motivations
+Locations
+- Nordis The city of Northern Light (Mistranslated from Nordlys; north ice, by the humans)
+
+- Language
+Demonym (Vossan)
+
+- Technology
+Agriculture
+The menesk harvesting areas use cloned plants for a food source (potential for widespread infection)
+
+- Culture
+Menesk must pass a test before they get a parenting license. Classes for those who need it and you can always re-apply. If you can't demonstrate the basic ability to raise a child, you just don't get to have one.
+eco burial pods for Evolutis_menesk death
+Bokmål (Norwegian), Homo ludens (binomial nomenclature that means 'playing man'), Cank (derogatory term), Svalbard 'Svalh-barr' (cool/cold edge, referencing the mountains and steep shores)
+
+- Government
+Menesk have Universal basic income.
+Army (Hæren) Motto: For alt vi har. Og alt vi er. (For all we have. And all we are.)
