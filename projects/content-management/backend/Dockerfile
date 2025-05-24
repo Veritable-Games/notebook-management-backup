@@ -2,8 +2,11 @@ FROM node:18-alpine
 
 WORKDIR /app
 
+# Copy package files first for better caching
+COPY package*.json ./
+
 # Install dependencies for Express server
-RUN npm init -y && npm install express body-parser cors
+RUN npm ci --only=production || (npm init -y && npm install express body-parser cors)
 
 # Copy application code
 COPY . .

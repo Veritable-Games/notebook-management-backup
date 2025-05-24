@@ -27,6 +27,29 @@
             font-size: 20px;
         }
         
+        .nav-links {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 10;
+        }
+        
+        .nav-links a {
+            color: #fff;
+            text-decoration: none;
+            background: rgba(44, 90, 160, 0.8);
+            padding: 8px 12px;
+            margin-left: 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-family: 'Anonymous Pro', monospace;
+            transition: background-color 0.2s ease;
+        }
+        
+        .nav-links a:hover {
+            background: rgba(44, 90, 160, 1);
+        }
+        
         #stats {
             position: fixed;
             top: 10px;
@@ -46,7 +69,13 @@
 </head>
 
 <body>
-    <h1>Veritable Games - 3D Visualization</h1>
+    <h1>Repository Hub</h1>
+    
+    <div class="nav-links">
+        <a href="http://localhost:3002" target="_blank">📂 File Browser</a>
+        <a href="http://localhost:8030" target="_blank">📋 Forum</a>
+        <a href="http://localhost:8090">🌐 3D View</a>
+    </div>
 
     <div id="cube"></div>
     

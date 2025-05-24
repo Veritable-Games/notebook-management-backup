@@ -2,10 +2,10 @@
 FROM nginx:alpine
 
 # Copy static files to the default Nginx public directory
-COPY dist/ /usr/share/nginx/html/
+COPY frontend/ /usr/share/nginx/html/
 
-# Copy custom Nginx configuration file
-COPY nginx.conf /etc/nginx/nginx.conf
+# Copy custom Nginx configuration file  
+COPY config/nginx.conf /etc/nginx/nginx.conf
 
 # Expose port 80 to the outside world
 EXPOSE 80

@@ -550,6 +550,7 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
         <p style="margin: 0 0 10px 0; font-size: 11px; color: #8a8a8f;">File browser • Direct editing</p>
         <div class="nav-links" style="margin-bottom: 10px;">
             <a href="http://localhost:8030" target="_blank" style="color: #c9c9c9; text-decoration: none; padding: 8px 12px; background: #323236; border: 1px solid #4a4a4f; border-radius: 3px; font-size: 11px; margin-right: 8px; display: inline-block;">📋 Forum View</a>
+            <a href="http://localhost:8090" target="_blank" style="color: #c9c9c9; text-decoration: none; padding: 8px 12px; background: #323236; border: 1px solid #4a4a4f; border-radius: 3px; font-size: 11px; margin-right: 8px; display: inline-block;">🌐 3D View</a>
             <a href="http://localhost:3002" style="color: #e8e8e8; text-decoration: none; padding: 8px 12px; background: #4a4a4f; border: 1px solid #5a5a5f; border-radius: 3px; font-size: 11px; display: inline-block;">📂 File Browser</a>
         </div>
         <div class="status-info">
@@ -589,7 +590,8 @@ class NotebookHandler(http.server.SimpleHTTPRequestHandler):
         <footer style="margin-top: 30px; padding: 15px 0; border-top: 1px solid #4a4a4f; text-align: center; font-size: 11px; color: #8a8a8f;">
             <strong>Repository Hub</strong> • 
             <a href="http://localhost:3002" style="color: #e8e8e8; text-decoration: none;">File Browser</a> • 
-            <a href="http://localhost:8030" target="_blank" style="color: #c9c9c9; text-decoration: none;">Forum View</a>
+            <a href="http://localhost:8030" target="_blank" style="color: #c9c9c9; text-decoration: none;">Forum View</a> • 
+            <a href="http://localhost:8090" target="_blank" style="color: #c9c9c9; text-decoration: none;">3D View</a>
         </footer>
     </div>
     
