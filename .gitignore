@@ -1,0 +1,50 @@
+# Claude Code settings
+**/.claude/settings.local.json
+
+# Personal dotfiles and system directories
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.gitconfig
+.git-credentials
+.npmrc
+.xsession
+.sudo_as_admin_successful
+.wget-hsts
+
+# Cache and temporary directories
+.cache/
+.npm/
+.npm-global/
+.local/
+.var/
+.ServiceHub/
+
+# Application config directories
+.config/
+.cursor/
+.docker/
+.dotnet/
+.gnupg/
+.minikube/
+.mozilla/
+.nextcloud/
+.nvm/
+.password-store/
+.pki/
+.plastic4/
+.ssh/
+.vscode/
+.wine/
+
+# Desktop environment
+Desktop/
+Documents/
+Games/
+
+# Move ps2-era-forum to Repository instead of tracking here
+ps2-era-forum/
+
+# Only track Repository and its contents
+!/Repository/
